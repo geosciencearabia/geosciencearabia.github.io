@@ -4,8 +4,22 @@
     <title>Integrative Dashboard</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Sun, 26 Jul 2026 21:58:43 GMT</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 22:06:42 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Assessing CO2 mineralization and sequestration potential in Saudi Arabian basaltic rocks</title>
+      <link>https://doi.org/10.1007/s40789-025-00839-5</link>
+      <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7171327959</guid>
+      <dc:creator>Mobeen Murtaza, Nabil A. Saraih, Scott Whattam, Manzar Fawad, Muhammad Shahzad Kamal, Israa S. Abu-Mahfouz, Michael A. Kaminski, Syed Muhammad Shakil Hussain</dc:creator>
+      <dc:publisher>International Journal of Coal Science &amp; Technology</dc:publisher>
+      <category>Geology</category>
+      <category>Geochemistry</category>
+      <category>Basalt</category>
+      <category>Mineralization (soil science)</category>
+      <category>Mineral resource classification</category>
+      <description>Topics: Geology, Geochemistry, Basalt, Mineralization (soil science), Mineral resource classification&#10;Venue: International Journal of Coal Science &amp; Technology&#10;Year: 2026&#10;Citations: 0</description>
+    </item>
     <item>
       <title>Heterogeneous Dual-Path Wide Residual Network for Accurate Land Use and Land Cover Image Classification</title>
       <link>https://doi.org/10.3390/rs18142406</link>
@@ -1370,20 +1384,6 @@
       <category>Generator (circuit theory)</category>
       <category>Computer science</category>
       <description>Abstract: Accurate geological modeling is essential for reservoir characterization, yet traditional methods struggle with complex subsurface heterogeneity and the conditioning of data to observed values. This study introduces Pix2Geomodel, a novel conditional generative adversarial network (cGAN) framework based on the Pix2Pix architecture, designed to predict key reservoir properties (facies, porosity, permeability, and water saturation) from the Rotliegend reservoir of the Groningen gas field. Utilizing a 7.6 million-cell dataset from the Nederlandse Aardolie Maatschappij, accessed via EPOS-NL, the methodology included data preprocessing, augmentation to generate 2,350 images per property, and training with a U-Net generator and PatchGAN discriminator over 19,000 steps. Evaluation metrics include pixel accuracy (PA), mean intersection over union (mIoU), and frequency-weighted intersection over union (FWIoU). Performance was evaluated in two tasks: (i) masked property prediction and (ii) property-to-property translation. Results demonstrated high accuracy for facies (PA 0.88, FWIoU 0.85) and water saturation (PA 0.96, FWIoU 0.95), with moderate success for porosity (PA 0.70, FWIoU 0.55) and permeability (PA 0.74, FWIoU 0.60), and robust transferability performance (e.g., facies-to-Sw PA 0.98, FWIoU 0.97). The framework captured spatial variability and geological realism, as validated by variogram analysis, and calculated the training loss curves for the generator and discriminator for…&#10;Topics: Discriminator, Variogram, Intersection (aeronautics), Generator (circuit theory), Computer science&#10;Venue: Geoenergy Science and Engineering&#10;Year: 2025&#10;Citations: 1</description>
-    </item>
-    <item>
-      <title>Sedimentological and diagenetic controls on burrow fillings in the upper Jurassic Hanifa formation, central Saudi Arabia: Implications for porosity and pore system variations in bioturbated reservoirs</title>
-      <link>https://doi.org/10.1016/j.ijsrc.2025.11.007</link>
-      <pubDate>Wed, 03 Dec 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4416957423</guid>
-      <dc:creator>Ahmed Refaat, Hassan A. Eltom, Ammar El‐Husseiny, John Humphrey, Moaz Salih</dc:creator>
-      <dc:publisher>International Journal of Sediment Research</dc:publisher>
-      <category>Burrow</category>
-      <category>Geology</category>
-      <category>Petrography</category>
-      <category>Diagenesis</category>
-      <category>Bioturbation</category>
-      <description>Abstract: Evaluating the petrophysical properties of carbonate strata with bioturbation necessitates an insight into the heterogeneity in rock texture within burrow fillings. This study examines five separated bioturbated intervals in the upper Hanifa Formation, Saudi Arabia, focusing on burrowing style, depositional texture, diagenetic modifications, porosity, and pore system. The main goal is to understand how the pore system and porosity vary along the vertical profile within the burrow fillings of these bioturbated intervals and how they can be influenced by factors including the burrowing style, the depositional texture, and the diagenetic alterations. Based on the burrowing style, the five bioturbated intervals are categorized into intervals with bio-retextured fabric and intervals with pipe framework burrows, as determined by the results of field studies, petrographic analysis, and medical CT scanning. Data from petrographic investigation revealed that burrow fillings in intervals with a pipe framework burrowing style (intervals 1, 4, and 5) likely deposited in similar environments exhibit minor variations in grain size, with mean grain sizes of 766 ± 752 μm for interval 1, 739 ± 433 μm for interval 4, and 514 ± 341 μm for interval 5. Porosity values from micro-CT scans show 7.15 %, 4 %, and 7.75 %, respectively. In contrast, bio-retextured intervals (intervals 2 and 3) have smaller mean grain sizes of 355 ± 206 and 402 ± 148 μm, with lower total porosity values of 1.64 % and 2.…&#10;Topics: Burrow, Geology, Petrography, Diagenesis, Bioturbation&#10;Venue: International Journal of Sediment Research&#10;Year: 2025&#10;Citations: 1</description>
     </item>
   </channel>
 </rss>

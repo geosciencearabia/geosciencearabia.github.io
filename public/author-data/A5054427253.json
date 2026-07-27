@@ -1030,8 +1030,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -2799,8 +2799,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -3436,11 +3436,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9433,
+      "fwci": 0.9015,
       "has_fulltext": false,
-      "cited_by_count": 70,
+      "cited_by_count": 71,
       "citation_normalized_percentile": {
-        "value": 0.81186152,
+        "value": 0.80353902,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3754,8 +3754,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -4344,6 +4344,10 @@
       },
       "counts_by_year": [
         {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
           "year": 2025,
           "cited_by_count": 3
         },
@@ -4396,7 +4400,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-11T18:08:03.149640",
+      "updated_date": "2026-07-27T08:26:11.824852",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4956,8 +4960,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -5659,8 +5663,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -7703,11 +7707,11 @@
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 7.5919,
+      "fwci": 7.5934,
       "has_fulltext": false,
-      "cited_by_count": 52,
+      "cited_by_count": 53,
       "citation_normalized_percentile": {
-        "value": 0.96742498,
+        "value": 0.96742655,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8010,8 +8014,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -8161,7 +8165,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 2
+          "cited_by_count": 3
         },
         {
           "year": 2025,
@@ -8192,7 +8196,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-27T08:26:11.824852",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8278,15 +8282,17 @@
           "is_corresponding": true,
           "raw_author_name": "Benoît Issautier",
           "raw_affiliation_strings": [
-            "Université de Provence, Laboratoire de Géologie des Systèmes et Réservoirs Carbonatés, Marseille, France",
+            "BRGM, Water Division, Deep Aquifer Unit, Orléans, France",
             "BRGM, Geology Division, Sedimentary Basin Unit, Orléans, France",
-            "BRGM, Water Division, Deep Aquifer Unit, Orléans, France"
+            "Université de Provence, Laboratoire de Géologie des Systèmes et Réservoirs Carbonatés, Marseille, France"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Université de Provence, Laboratoire de Géologie des Systèmes et Réservoirs Carbonatés, Marseille, France",
-              "institution_ids": []
+              "raw_affiliation_string": "BRGM, Water Division, Deep Aquifer Unit, Orléans, France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
             },
             {
               "raw_affiliation_string": "BRGM, Geology Division, Sedimentary Basin Unit, Orléans, France",
@@ -8295,10 +8301,8 @@
               ]
             },
             {
-              "raw_affiliation_string": "BRGM, Water Division, Deep Aquifer Unit, Orléans, France",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
+              "raw_affiliation_string": "Université de Provence, Laboratoire de Géologie des Systèmes et Réservoirs Carbonatés, Marseille, France",
+              "institution_ids": []
             }
           ]
         },
@@ -8414,11 +8418,11 @@
         "value_usd": 3980
       },
       "apc_paid": null,
-      "fwci": 2.5241,
+      "fwci": 2.5244,
       "has_fulltext": false,
       "cited_by_count": 43,
       "citation_normalized_percentile": {
-        "value": 0.87672817,
+        "value": 0.8767704,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8964,7 +8968,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-26T07:53:14.480251",
+      "updated_date": "2026-07-27T08:26:11.824852",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9568,8 +9572,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -12768,8 +12772,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -15413,8 +15417,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7699999809265137,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -17661,8 +17665,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -17995,8 +17999,8 @@
           "raw_affiliation_strings": [
             "Bureau de recherches geologiques et minie`res (BRGM), 45000 Orleans, France",
             "CEREGE -Centre europeen de recherche et d'enseignement de geosciences de l'environnement, 13331 Marseille, France c rue Gustave-Flaubert, 45100 Orleans, France",
-            "Centre européen de recherche et d'enseignement des géosciences de l'environnement",
-            "Bureau de Recherches Géologiques et Minières (BRGM)"
+            "Bureau de Recherches Géologiques et Minières (BRGM)",
+            "Centre européen de recherche et d'enseignement des géosciences de l'environnement"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -18013,15 +18017,15 @@
               ]
             },
             {
-              "raw_affiliation_string": "Centre européen de recherche et d'enseignement des géosciences de l'environnement",
-              "institution_ids": [
-                "https://openalex.org/I4210109690"
-              ]
-            },
-            {
               "raw_affiliation_string": "Bureau de Recherches Géologiques et Minières (BRGM)",
               "institution_ids": [
                 "https://openalex.org/I4210158893"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Centre européen de recherche et d'enseignement des géosciences de l'environnement",
+              "institution_ids": [
+                "https://openalex.org/I4210109690"
               ]
             }
           ]
@@ -18259,7 +18263,7 @@
       "has_fulltext": true,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.63997748,
+        "value": 0.64009181,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18639,8 +18643,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6499999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -19157,7 +19161,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-25T09:21:30.201066",
+      "updated_date": "2026-07-27T08:26:11.824852",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -19625,8 +19629,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -20432,8 +20436,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -22473,8 +22477,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -24125,8 +24129,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -25091,8 +25095,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -25806,21 +25810,21 @@
           "is_corresponding": false,
           "raw_author_name": "Leopold Krystyn",
           "raw_affiliation_strings": [
-            "Department of Palaeontology (Geozentrum Vienna) (Austria)",
-            "University of Vienna [Vienna] (Universitätsring 1,  1010 Wien - Austria)"
+            "University of Vienna [Vienna] (Universitätsring 1,  1010 Wien - Austria)",
+            "Department of Palaeontology (Geozentrum Vienna) (Austria)"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Palaeontology (Geozentrum Vienna) (Austria)",
-              "institution_ids": [
-                "https://openalex.org/I2801780293"
-              ]
-            },
-            {
               "raw_affiliation_string": "University of Vienna [Vienna] (Universitätsring 1,  1010 Wien - Austria)",
               "institution_ids": [
                 "https://openalex.org/I129774422"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Palaeontology (Geozentrum Vienna) (Austria)",
+              "institution_ids": [
+                "https://openalex.org/I2801780293"
               ]
             }
           ]
@@ -25941,11 +25945,11 @@
         "currency": "USD",
         "value_usd": 1300
       },
-      "fwci": 1.8312,
+      "fwci": 1.8306,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.85781692,
+        "value": 0.85772065,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27091,7 +27095,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-26T07:53:14.480251",
+      "updated_date": "2026-07-27T08:26:11.824852",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -27468,8 +27472,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -28535,8 +28539,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.46000000834465027,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -29033,8 +29037,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -29900,8 +29904,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.46000000834465027,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -30258,8 +30262,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -31518,8 +31522,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/17",
-          "display_name": "Partnerships for the goals"
+          "display_name": "Partnerships for the goals",
+          "id": "https://metadata.un.org/sdg/17"
         }
       ],
       "awards": [],
@@ -37427,8 +37431,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -38094,8 +38098,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.699999988079071,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -41394,8 +41398,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6600000262260437,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -44244,8 +44248,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7599999904632568,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
