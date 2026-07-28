@@ -440,6 +440,7 @@
           "raw_affiliation_strings": [
             "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
@@ -476,6 +477,7 @@
           "raw_affiliation_strings": [
             "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
@@ -512,6 +514,7 @@
           "raw_affiliation_strings": [
             "Husky Energy, CalgaryAlberta, Canada"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Husky Energy, CalgaryAlberta, Canada",
@@ -549,6 +552,7 @@
           "raw_affiliation_strings": [
             "Geological Survey of Denmark and Greenland (GEUS), Copenhagen, Denmark"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geological Survey of Denmark and Greenland (GEUS), Copenhagen, Denmark",
@@ -585,6 +589,7 @@
           "raw_affiliation_strings": [
             "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
@@ -621,6 +626,7 @@
           "raw_affiliation_strings": [
             "Department of Earth Sciences, Simon Fraser University, Burnaby, British Columbia, Canada"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth Sciences, Simon Fraser University, Burnaby, British Columbia, Canada",
@@ -657,6 +663,7 @@
           "raw_affiliation_strings": [
             "Talisman Energy Inc., Calgary, Alberta, Canada"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Talisman Energy Inc., Calgary, Alberta, Canada",
@@ -693,6 +700,7 @@
           "raw_affiliation_strings": [
             "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
@@ -729,6 +737,7 @@
           "raw_affiliation_strings": [
             "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
@@ -765,6 +774,7 @@
           "raw_affiliation_strings": [
             "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
@@ -801,6 +811,7 @@
           "raw_affiliation_strings": [
             "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth & Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
@@ -813,7 +824,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 11,
+      "institutions_distinct_count": 5,
       "corresponding_author_ids": [
         "https://openalex.org/A5071875690"
       ],
@@ -822,17 +833,17 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 14.4686,
+      "fwci": 16.061,
       "has_fulltext": false,
       "cited_by_count": 118,
       "citation_normalized_percentile": {
-        "value": 0.99356913,
+        "value": 0.99383667,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
         "min": 89,
-        "max": 100
+        "max": 99
       },
       "biblio": {
         "volume": null,
@@ -1189,8 +1200,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -1335,7 +1346,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-04-09T08:11:56.329763",
+      "updated_date": "2026-07-28T07:46:37.118299",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2006,8 +2017,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -2701,8 +2712,9 @@
         "source": {
           "id": "https://openalex.org/S147293822",
           "display_name": "Journal of Sedimentary Research",
-          "issn_l": "1527-1404",
+          "issn_l": "0022-4472",
           "issn": [
+            "0022-4472",
             "1527-1404",
             "1938-3681"
           ],
@@ -2911,16 +2923,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8231,
+      "fwci": 0.7109,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.68497459,
+        "value": 0.63513321,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 99
       },
       "biblio": {
@@ -3173,8 +3185,9 @@
           "source": {
             "id": "https://openalex.org/S147293822",
             "display_name": "Journal of Sedimentary Research",
-            "issn_l": "1527-1404",
+            "issn_l": "0022-4472",
             "issn": [
+              "0022-4472",
               "1527-1404",
               "1938-3681"
             ],
@@ -3211,8 +3224,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 91,
@@ -4083,7 +4096,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-14T08:27:34.040176",
+      "updated_date": "2026-07-28T07:46:37.118299",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4659,8 +4672,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 175,
@@ -5538,8 +5551,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 117,
@@ -6495,6 +6508,7 @@
           "raw_affiliation_strings": [
             "Saudi Aramco, Reservoir Characterization Department, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Aramco, Reservoir Characterization Department, Dhahran, Saudi Arabia",
@@ -6531,6 +6545,7 @@
           "raw_affiliation_strings": [
             "Saudi Aramco, Reservoir Characterization Department, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Aramco, Reservoir Characterization Department, Dhahran, Saudi Arabia",
@@ -6567,6 +6582,7 @@
           "raw_affiliation_strings": [
             "Saudi Aramco, Exploration Geological Technical Services Department, Dhahran, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Aramco, Exploration Geological Technical Services Department, Dhahran, Saudi Arabia",
@@ -6603,6 +6619,7 @@
           "raw_affiliation_strings": [
             "Ichnology Research Group, Department of Earth and Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Ichnology Research Group, Department of Earth and Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
@@ -6639,6 +6656,7 @@
           "raw_affiliation_strings": [
             "Ichnology Research Group, Department of Earth and Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Ichnology Research Group, Department of Earth and Atmospheric Sciences, University of Alberta, Edmonton, Alberta, Canada",
@@ -6651,7 +6669,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 5,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5030587820"
       ],
@@ -6664,11 +6682,11 @@
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 0.2362,
+      "fwci": 0.1849,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.56625618,
+        "value": 0.48730401,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6966,8 +6984,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 147,
@@ -7143,7 +7161,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-07-28T07:46:37.118299",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7167,8 +7185,9 @@
         "source": {
           "id": "https://openalex.org/S147293822",
           "display_name": "Journal of Sedimentary Research",
-          "issn_l": "1527-1404",
+          "issn_l": "0022-4472",
           "issn": [
+            "0022-4472",
             "1527-1404",
             "1938-3681"
           ],
@@ -7471,16 +7490,16 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 6,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0541,
+      "fwci": 0.8335,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.76339994,
+        "value": 0.70073194,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7685,8 +7704,9 @@
           "source": {
             "id": "https://openalex.org/S147293822",
             "display_name": "Journal of Sedimentary Research",
-            "issn_l": "1527-1404",
+            "issn_l": "0022-4472",
             "issn": [
+              "0022-4472",
               "1527-1404",
               "1938-3681"
             ],
@@ -7723,8 +7743,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 102,
@@ -8862,7 +8882,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-28T07:46:37.118299",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9453,8 +9473,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3005990354.pdf",
@@ -10376,8 +10396,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

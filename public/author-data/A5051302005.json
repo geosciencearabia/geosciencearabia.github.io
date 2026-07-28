@@ -947,9 +947,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -2641,9 +2641,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -4227,9 +4227,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -4414,8 +4414,9 @@
         "source": {
           "id": "https://openalex.org/S147293822",
           "display_name": "Journal of Sedimentary Research",
-          "issn_l": "1527-1404",
+          "issn_l": "0022-4472",
           "issn": [
+            "0022-4472",
             "1527-1404",
             "1938-3681"
           ],
@@ -4841,16 +4842,16 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 8,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.7476,
+      "fwci": 5.1815,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.97191582,
+        "value": 0.95312806,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5100,8 +5101,9 @@
           "source": {
             "id": "https://openalex.org/S147293822",
             "display_name": "Journal of Sedimentary Research",
-            "issn_l": "1527-1404",
+            "issn_l": "0022-4472",
             "issn": [
+              "0022-4472",
               "1527-1404",
               "1938-3681"
             ],
@@ -5998,7 +6000,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-28T07:46:37.118299",
       "created_date": "2025-02-27T00:00:00"
     },
     {
@@ -6560,9 +6562,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.44999998807907104,
           "display_name": "Climate action",
-          "score": 0.44999998807907104
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -7376,9 +7378,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8399999737739563,
           "display_name": "Life below water",
-          "score": 0.8399999737739563
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -8519,9 +8521,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.47999998927116394,
           "display_name": "Life below water",
-          "score": 0.47999998927116394
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -9745,9 +9747,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -11436,6 +11438,7 @@
           "raw_affiliation_strings": [
             "Department of Earth Science and Engineering, Imperial College London, UK"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth Science and Engineering, Imperial College London, UK",
@@ -11472,6 +11475,7 @@
           "raw_affiliation_strings": [
             "Department of Earth Science and Engineering, Imperial College London, UK"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth Science and Engineering, Imperial College London, UK",
@@ -11484,7 +11488,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5051302005"
       ],
@@ -11497,16 +11501,16 @@
         "value_usd": 3690
       },
       "apc_paid": null,
-      "fwci": 0.6039,
+      "fwci": 0.4615,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.64790551,
+        "value": 0.54453456,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 96
       },
       "biblio": {
@@ -11897,7 +11901,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-07-28T07:46:37.118299",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12354,9 +12358,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
+          "score": 0.4699999988079071,
           "display_name": "Responsible consumption and production",
-          "score": 0.4699999988079071
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -13845,9 +13849,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -13981,8 +13985,9 @@
         "source": {
           "id": "https://openalex.org/S125636905",
           "display_name": "Journal of African Earth Sciences",
-          "issn_l": "1464-343X",
+          "issn_l": "0899-5362",
           "issn": [
+            "0899-5362",
             "1464-343X",
             "1879-1956"
           ],
@@ -14183,7 +14188,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5059881838"
       ],
@@ -14196,11 +14201,11 @@
         "value_usd": 2650
       },
       "apc_paid": null,
-      "fwci": 0.2609,
+      "fwci": 0.1874,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.54691638,
+        "value": 0.41662693,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14431,8 +14436,9 @@
           "source": {
             "id": "https://openalex.org/S125636905",
             "display_name": "Journal of African Earth Sciences",
-            "issn_l": "1464-343X",
+            "issn_l": "0899-5362",
             "issn": [
+              "0899-5362",
               "1464-343X",
               "1879-1956"
             ],
@@ -14461,9 +14467,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -14588,7 +14594,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-14T06:11:07.267592",
+      "updated_date": "2026-07-28T07:46:37.118299",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15525,9 +15531,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -16024,9 +16030,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.49000000953674316,
           "display_name": "Life below water",
-          "score": 0.49000000953674316
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -16724,9 +16730,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5600000023841858,
           "display_name": "Life below water",
-          "score": 0.5600000023841858
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -18129,9 +18135,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6600000262260437,
           "display_name": "Life below water",
-          "score": 0.6600000262260437
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -19414,9 +19420,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
+          "score": 0.4399999976158142,
           "display_name": "Sustainable cities and communities",
-          "score": 0.4399999976158142
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -19961,9 +19967,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -21187,9 +21193,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -24546,9 +24552,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -31554,9 +31560,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.581807553768158,
           "display_name": "Life below water",
-          "score": 0.581807553768158
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],

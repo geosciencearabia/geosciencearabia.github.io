@@ -15,7 +15,7 @@
     ],
     "full_name": "ZÜHLKE, RAINER",
     "works_count": 49,
-    "cited_by_count": 993,
+    "cited_by_count": 994,
     "summary_stats": {
       "2yr_mean_citedness": 2.1666666666666665,
       "h_index": 16,
@@ -225,7 +225,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000481,
+        "value": 0.000048,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -383,7 +383,7 @@
         "year": 2017,
         "works_count": 5,
         "oa_works_count": 0,
-        "cited_by_count": 31
+        "cited_by_count": 32
       },
       {
         "year": 2018,
@@ -440,7 +440,7 @@
     ],
     "block_key": "r zuhlke",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5086485606",
-    "updated_date": "2026-07-25T12:16:36",
+    "updated_date": "2026-07-27T12:17:47",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -1054,9 +1054,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -1592,8 +1592,8 @@
             "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum &amp; Minerals  Dhahran 31261 Saudi Arabia",
             "Department of Earth Sciences, Faculty of Science Vrije Universiteit Amsterdam  De Boelelaan 1085 Amsterdam 1081 HV The Netherlands",
             "Department of Geosciences – Geology University of Fribourg  Chemin du Musée 6 Fribourg CH‐1700 Switzerland",
-            "Department of Earth Sciences, Faculty of Science, Vrije Universiteit Amsterdam, De Boelelaan 1085, Amsterdam, 1081 HV The Netherlands",
-            "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum &amp; Minerals Dhahran 31261 Saudi Arabia"
+            "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum &amp; Minerals Dhahran 31261 Saudi Arabia",
+            "Department of Earth Sciences, Faculty of Science, Vrije Universiteit Amsterdam, De Boelelaan 1085, Amsterdam, 1081 HV The Netherlands"
           ],
           "raw_orcid": "https://orcid.org/0000-0001-5807-1256",
           "affiliations": [
@@ -1616,15 +1616,15 @@
               ]
             },
             {
-              "raw_affiliation_string": "Department of Earth Sciences, Faculty of Science, Vrije Universiteit Amsterdam, De Boelelaan 1085, Amsterdam, 1081 HV The Netherlands",
-              "institution_ids": [
-                "https://openalex.org/I865915315"
-              ]
-            },
-            {
               "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum &amp; Minerals Dhahran 31261 Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, Faculty of Science, Vrije Universiteit Amsterdam, De Boelelaan 1085, Amsterdam, 1081 HV The Netherlands",
+              "institution_ids": [
+                "https://openalex.org/I865915315"
               ]
             }
           ]
@@ -1645,11 +1645,11 @@
         "value_usd": 4050
       },
       "apc_paid": null,
-      "fwci": 5.4604,
+      "fwci": 5.453,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.97388839,
+        "value": 0.97389229,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3043,7 +3043,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-27T08:26:11.824852",
+      "updated_date": "2026-07-28T07:46:37.118299",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4292,9 +4292,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -4549,16 +4549,16 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 5,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 23.1034,
+      "fwci": 30.7173,
       "has_fulltext": false,
-      "cited_by_count": 97,
+      "cited_by_count": 99,
       "citation_normalized_percentile": {
-        "value": 0.99900398,
+        "value": 0.99882491,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4826,9 +4826,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.800000011920929,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -5505,11 +5505,11 @@
         },
         {
           "year": 2020,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2019,
-          "cited_by_count": 9
+          "cited_by_count": 10
         },
         {
           "year": 2018,
@@ -5540,7 +5540,7 @@
           "cited_by_count": 11
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-28T07:46:37.118299",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6082,9 +6082,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -7953,11 +7953,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 0.8739,
+      "fwci": 0.7659,
       "has_fulltext": false,
       "cited_by_count": 74,
       "citation_normalized_percentile": {
-        "value": 0.735353,
+        "value": 0.70053277,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8293,9 +8293,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -8571,7 +8571,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-07-08T08:33:18.762332",
+      "updated_date": "2026-07-28T07:46:37.118299",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9346,9 +9346,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7799999713897705,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7799999713897705
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -10823,9 +10823,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8199999928474426,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -13410,9 +13410,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -14125,9 +14125,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -15082,9 +15082,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8199999928474426,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -16402,9 +16402,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.75,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.75
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -17651,9 +17651,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -18393,9 +18393,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.5600000023841858,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5600000023841858
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -19110,9 +19110,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -19678,9 +19678,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -21079,9 +21079,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -21844,20 +21844,26 @@
         "landing_page_url": "https://doi.org/10.1127/zdgg/2017/0141",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S207059644",
-          "display_name": "Zeitschrift der Deutschen Gesellschaft für Geowissenschaften",
-          "issn_l": "1860-1804",
+          "id": "https://openalex.org/S4210208525",
+          "display_name": "Zeitschrift der Deutschen Geologischen Gesellschaft",
+          "issn_l": "0012-0189",
           "issn": [
+            "0012-0189",
             "1860-1804",
-            "1861-4094"
+            "1861-4094",
+            "2700-3035"
           ],
           "is_oa": false,
           "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310313926",
+          "host_organization_name": "Deutsche Geologische Gesellschaft – Geologische Vereinigung",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310313926"
+          ],
+          "host_organization_lineage_names": [
+            "Deutsche Geologische Gesellschaft – Geologische Vereinigung"
+          ],
           "type": "journal"
         },
         "license": null,
@@ -21942,16 +21948,16 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4219,
+      "fwci": 0.3781,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.80071727,
+        "value": 0.78196839,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22223,20 +22229,26 @@
           "landing_page_url": "https://doi.org/10.1127/zdgg/2017/0141",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S207059644",
-            "display_name": "Zeitschrift der Deutschen Gesellschaft für Geowissenschaften",
-            "issn_l": "1860-1804",
+            "id": "https://openalex.org/S4210208525",
+            "display_name": "Zeitschrift der Deutschen Geologischen Gesellschaft",
+            "issn_l": "0012-0189",
             "issn": [
+              "0012-0189",
               "1860-1804",
-              "1861-4094"
+              "1861-4094",
+              "2700-3035"
             ],
             "is_oa": false,
             "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
+            "is_core": false,
+            "host_organization": "https://openalex.org/P4310313926",
+            "host_organization_name": "Deutsche Geologische Gesellschaft – Geologische Vereinigung",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310313926"
+            ],
+            "host_organization_lineage_names": [
+              "Deutsche Geologische Gesellschaft – Geologische Vereinigung"
+            ],
             "type": "journal"
           },
           "license": null,
@@ -22282,7 +22294,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-28T07:46:37.118299",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22360,8 +22372,8 @@
           "raw_affiliation_strings": [
             "Geologisch-Paläontologisches Institut, Universität Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany",
             "RWE Dea AG, Überseering 40, 22297 Hamburg, Germany",
-            "RWE Dea AG, Überseering 40, 22297 Hamburg, Germany",
-            "Geologisch-Paläontologisches Institut, Universität Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany"
+            "Geologisch-Paläontologisches Institut, Universität Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany",
+            "RWE Dea AG, Überseering 40, 22297 Hamburg, Germany"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -22378,15 +22390,15 @@
               ]
             },
             {
-              "raw_affiliation_string": "RWE Dea AG, Überseering 40, 22297 Hamburg, Germany",
-              "institution_ids": [
-                "https://openalex.org/I901980530"
-              ]
-            },
-            {
               "raw_affiliation_string": "Geologisch-Paläontologisches Institut, Universität Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany",
               "institution_ids": [
                 "https://openalex.org/I223822909"
+              ]
+            },
+            {
+              "raw_affiliation_string": "RWE Dea AG, Überseering 40, 22297 Hamburg, Germany",
+              "institution_ids": [
+                "https://openalex.org/I901980530"
               ]
             }
           ]
@@ -23005,7 +23017,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-26T07:53:14.480251",
+      "updated_date": "2026-07-28T07:46:37.118299",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24927,9 +24939,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5899999737739563,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5899999737739563
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -25487,9 +25499,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6499999761581421,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6499999761581421
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -26289,9 +26301,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -27132,9 +27144,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7900000214576721,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7900000214576721
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -27732,9 +27744,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7699999809265137,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7699999809265137
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -28156,9 +28168,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.49000000953674316,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.49000000953674316
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -28668,9 +28680,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7400000095367432,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7400000095367432
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -29591,9 +29603,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -31355,9 +31367,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -32434,9 +32446,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -33698,9 +33710,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.47999998927116394,
           "display_name": "Zero hunger",
-          "id": "https://metadata.un.org/sdg/2",
-          "score": 0.47999998927116394
+          "id": "https://metadata.un.org/sdg/2"
         }
       ],
       "awards": [],
@@ -34883,9 +34895,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -39304,9 +39316,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8669640421867371,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8669640421867371
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -39808,9 +39820,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8427148461341858,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8427148461341858
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],

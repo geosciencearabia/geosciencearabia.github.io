@@ -11,7 +11,7 @@
     ],
     "full_name": "Moujahed I. Al-Husseini",
     "works_count": 63,
-    "cited_by_count": 2040,
+    "cited_by_count": 2046,
     "summary_stats": {
       "2yr_mean_citedness": 3.4,
       "h_index": 23,
@@ -403,7 +403,7 @@
         "year": 1997,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 201
+        "cited_by_count": 202
       },
       {
         "year": 1998,
@@ -415,7 +415,7 @@
         "year": 2000,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 350
+        "cited_by_count": 351
       },
       {
         "year": 2001,
@@ -451,7 +451,7 @@
         "year": 2006,
         "works_count": 6,
         "oa_works_count": 6,
-        "cited_by_count": 84
+        "cited_by_count": 86
       },
       {
         "year": 2007,
@@ -463,7 +463,7 @@
         "year": 2008,
         "works_count": 2,
         "oa_works_count": 2,
-        "cited_by_count": 55
+        "cited_by_count": 56
       },
       {
         "year": 2009,
@@ -505,7 +505,7 @@
         "year": 2015,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 15
+        "cited_by_count": 16
       },
       {
         "year": 2018,
@@ -552,7 +552,7 @@
     ],
     "block_key": "m al-husseini",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5081811780",
-    "updated_date": "2026-07-24T12:17:36",
+    "updated_date": "2026-07-27T12:17:47",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -641,11 +641,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.4057,
+      "fwci": 4.4067,
       "has_fulltext": false,
-      "cited_by_count": 351,
+      "cited_by_count": 352,
       "citation_normalized_percentile": {
-        "value": 0.94181185,
+        "value": 0.94182401,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -959,8 +959,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -1630,7 +1630,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 13
+          "cited_by_count": 14
         },
         {
           "year": 2025,
@@ -1689,7 +1689,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-07-27T08:26:11.824852",
+      "updated_date": "2026-07-28T07:46:37.118299",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1770,16 +1770,16 @@
           "is_corresponding": false,
           "raw_author_name": "Dmitry A. Ruban",
           "raw_affiliation_strings": [
-            "KAZAKHSTAN KUWAIT SAUDI ARABIA YEMEN OMAN QATAR BAHRAIN UAE",
-            "AFGHANISTAN PAKISTAN INDIA UZBEKISTAN ROMANIA BULGARIA GREECE CYPRUS LIBYA EGYPT Black Sea TURKEY SYRIA",
             "000 Km N SUDAN",
+            "AFGHANISTAN PAKISTAN INDIA UZBEKISTAN ROMANIA BULGARIA GREECE CYPRUS LIBYA EGYPT Black Sea TURKEY SYRIA",
             "JORDAN LEBANON",
+            "KAZAKHSTAN KUWAIT SAUDI ARABIA YEMEN OMAN QATAR BAHRAIN UAE",
             "Sea Lake Victoria Arabian Gulf Red Sea"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "KAZAKHSTAN KUWAIT SAUDI ARABIA YEMEN OMAN QATAR BAHRAIN UAE",
+              "raw_affiliation_string": "000 Km N SUDAN",
               "institution_ids": []
             },
             {
@@ -1787,11 +1787,11 @@
               "institution_ids": []
             },
             {
-              "raw_affiliation_string": "000 Km N SUDAN",
+              "raw_affiliation_string": "JORDAN LEBANON",
               "institution_ids": []
             },
             {
-              "raw_affiliation_string": "JORDAN LEBANON",
+              "raw_affiliation_string": "KAZAKHSTAN KUWAIT SAUDI ARABIA YEMEN OMAN QATAR BAHRAIN UAE",
               "institution_ids": []
             },
             {
@@ -1827,14 +1827,26 @@
           "is_corresponding": false,
           "raw_author_name": "Moujahed I. Al-Husseini",
           "raw_affiliation_strings": [
-            "KAZAKHSTAN KUWAIT SAUDI ARABIA YEMEN OMAN QATAR BAHRAIN UAE",
-            "Sea Lake Victoria Arabian Gulf Red Sea",
-            "AFGHANISTAN PAKISTAN INDIA UZBEKISTAN ROMANIA BULGARIA GREECE CYPRUS LIBYA EGYPT Black Sea TURKEY SYRIA",
             "000 Km N SUDAN",
-            "JORDAN LEBANON"
+            "AFGHANISTAN PAKISTAN INDIA UZBEKISTAN ROMANIA BULGARIA GREECE CYPRUS LIBYA EGYPT Black Sea TURKEY SYRIA",
+            "JORDAN LEBANON",
+            "KAZAKHSTAN KUWAIT SAUDI ARABIA YEMEN OMAN QATAR BAHRAIN UAE",
+            "Sea Lake Victoria Arabian Gulf Red Sea"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "000 Km N SUDAN",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "AFGHANISTAN PAKISTAN INDIA UZBEKISTAN ROMANIA BULGARIA GREECE CYPRUS LIBYA EGYPT Black Sea TURKEY SYRIA",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "JORDAN LEBANON",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "KAZAKHSTAN KUWAIT SAUDI ARABIA YEMEN OMAN QATAR BAHRAIN UAE",
               "institution_ids": []
@@ -1844,18 +1856,6 @@
               "institution_ids": [
                 "https://openalex.org/I90097577"
               ]
-            },
-            {
-              "raw_affiliation_string": "AFGHANISTAN PAKISTAN INDIA UZBEKISTAN ROMANIA BULGARIA GREECE CYPRUS LIBYA EGYPT Black Sea TURKEY SYRIA",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "000 Km N SUDAN",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "JORDAN LEBANON",
-              "institution_ids": []
             }
           ]
         },
@@ -1884,26 +1884,24 @@
           "is_corresponding": false,
           "raw_author_name": "Yumiko Iwasaki",
           "raw_affiliation_strings": [
-            "JORDAN LEBANON",
-            "Sea Lake Victoria Arabian Gulf Red Sea",
+            "000 Km N SUDAN",
             "AFGHANISTAN PAKISTAN INDIA UZBEKISTAN ROMANIA BULGARIA GREECE CYPRUS LIBYA EGYPT Black Sea TURKEY SYRIA",
+            "JORDAN LEBANON",
             "KAZAKHSTAN KUWAIT SAUDI ARABIA YEMEN OMAN QATAR BAHRAIN UAE",
-            "000 Km N SUDAN"
+            "Sea Lake Victoria Arabian Gulf Red Sea"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "JORDAN LEBANON",
+              "raw_affiliation_string": "000 Km N SUDAN",
               "institution_ids": []
             },
             {
-              "raw_affiliation_string": "Sea Lake Victoria Arabian Gulf Red Sea",
-              "institution_ids": [
-                "https://openalex.org/I90097577"
-              ]
+              "raw_affiliation_string": "AFGHANISTAN PAKISTAN INDIA UZBEKISTAN ROMANIA BULGARIA GREECE CYPRUS LIBYA EGYPT Black Sea TURKEY SYRIA",
+              "institution_ids": []
             },
             {
-              "raw_affiliation_string": "AFGHANISTAN PAKISTAN INDIA UZBEKISTAN ROMANIA BULGARIA GREECE CYPRUS LIBYA EGYPT Black Sea TURKEY SYRIA",
+              "raw_affiliation_string": "JORDAN LEBANON",
               "institution_ids": []
             },
             {
@@ -1911,8 +1909,10 @@
               "institution_ids": []
             },
             {
-              "raw_affiliation_string": "000 Km N SUDAN",
-              "institution_ids": []
+              "raw_affiliation_string": "Sea Lake Victoria Arabian Gulf Red Sea",
+              "institution_ids": [
+                "https://openalex.org/I90097577"
+              ]
             }
           ]
         }
@@ -1926,11 +1926,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.4292,
+      "fwci": 7.4257,
       "has_fulltext": true,
       "cited_by_count": 204,
       "citation_normalized_percentile": {
-        "value": 0.98026099,
+        "value": 0.98025883,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2242,8 +2242,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -3170,7 +3170,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-07-27T08:26:11.824852",
+      "updated_date": "2026-07-28T07:46:37.118299",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3260,7 +3260,7 @@
       "apc_paid": null,
       "fwci": 2.479,
       "has_fulltext": false,
-      "cited_by_count": 202,
+      "cited_by_count": 203,
       "citation_normalized_percentile": {
         "value": 0.89631966,
         "is_in_top_1_percent": false,
@@ -3595,8 +3595,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -4242,7 +4242,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 10
+          "cited_by_count": 11
         },
         {
           "year": 2025,
@@ -4301,7 +4301,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-07-27T08:26:11.824852",
+      "updated_date": "2026-07-28T07:46:37.118299",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4441,7 +4441,7 @@
         "currency": "USD",
         "value_usd": 3700
       },
-      "fwci": 15.782,
+      "fwci": 15.7815,
       "has_fulltext": false,
       "cited_by_count": 74,
       "citation_normalized_percentile": {
@@ -4900,8 +4900,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -5717,7 +5717,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-28T07:46:37.118299",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7636,8 +7636,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -8733,8 +8733,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -13497,8 +13497,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.41999998688697815
+          "score": 0.41999998688697815,
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -15015,8 +15015,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6399999856948853
+          "score": 0.6399999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -15562,8 +15562,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.7599999904632568
+          "score": 0.7599999904632568,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -16197,8 +16197,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.6100000143051147
+          "score": 0.6100000143051147,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -17390,8 +17390,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -20560,8 +20560,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -21769,8 +21769,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -22598,8 +22598,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5699999928474426
+          "score": 0.5699999928474426,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -23817,8 +23817,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -25477,8 +25477,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -26842,8 +26842,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -28166,8 +28166,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -29503,8 +29503,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.7200000286102295
+          "score": 0.7200000286102295,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -30891,8 +30891,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6700000166893005
+          "score": 0.6700000166893005,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -32179,8 +32179,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6700000166893005
+          "score": 0.6700000166893005,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -32661,8 +32661,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -33772,8 +33772,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -36352,8 +36352,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5799999833106995
+          "score": 0.5799999833106995,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -37784,8 +37784,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -38436,8 +38436,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.5600000023841858
+          "score": 0.5600000023841858,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -40017,8 +40017,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.699999988079071
+          "score": 0.699999988079071,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -41726,8 +41726,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -42309,8 +42309,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure",
-          "score": 0.5099999904632568
+          "score": 0.5099999904632568,
+          "display_name": "Industry, innovation and infrastructure"
         }
       ],
       "awards": [],
@@ -44190,19 +44190,15 @@
           "is_corresponding": false,
           "raw_author_name": "Moujahed I. Al-Husseini",
           "raw_affiliation_strings": [
-            "SUDAN ETHIOPIA DJIBOUTI SYRIA IRAQ IRAN LEBANON PALESTINE",
-            "SAUDI ARABIA YEMEN OMAN UAE",
+            "EGYPT CYPRUS",
             "Gulf of Oman Med. Sea ERITREA Arabian Shield SOCOTRA QATAR BAHRAIN KUWAIT",
-            "EGYPT CYPRUS"
+            "SAUDI ARABIA YEMEN OMAN UAE",
+            "SUDAN ETHIOPIA DJIBOUTI SYRIA IRAQ IRAN LEBANON PALESTINE"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "SUDAN ETHIOPIA DJIBOUTI SYRIA IRAQ IRAN LEBANON PALESTINE",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "SAUDI ARABIA YEMEN OMAN UAE",
+              "raw_affiliation_string": "EGYPT CYPRUS",
               "institution_ids": []
             },
             {
@@ -44210,7 +44206,11 @@
               "institution_ids": []
             },
             {
-              "raw_affiliation_string": "EGYPT CYPRUS",
+              "raw_affiliation_string": "SAUDI ARABIA YEMEN OMAN UAE",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "SUDAN ETHIOPIA DJIBOUTI SYRIA IRAQ IRAN LEBANON PALESTINE",
               "institution_ids": []
             }
           ]
@@ -44227,19 +44227,15 @@
           "is_corresponding": false,
           "raw_author_name": "M. Dia Mahmoud",
           "raw_affiliation_strings": [
-            "SUDAN ETHIOPIA DJIBOUTI SYRIA IRAQ IRAN LEBANON PALESTINE",
-            "SAUDI ARABIA YEMEN OMAN UAE",
+            "EGYPT CYPRUS",
             "Gulf of Oman Med. Sea ERITREA Arabian Shield SOCOTRA QATAR BAHRAIN KUWAIT",
-            "EGYPT CYPRUS"
+            "SAUDI ARABIA YEMEN OMAN UAE",
+            "SUDAN ETHIOPIA DJIBOUTI SYRIA IRAQ IRAN LEBANON PALESTINE"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "SUDAN ETHIOPIA DJIBOUTI SYRIA IRAQ IRAN LEBANON PALESTINE",
-              "institution_ids": []
-            },
-            {
-              "raw_affiliation_string": "SAUDI ARABIA YEMEN OMAN UAE",
+              "raw_affiliation_string": "EGYPT CYPRUS",
               "institution_ids": []
             },
             {
@@ -44247,7 +44243,11 @@
               "institution_ids": []
             },
             {
-              "raw_affiliation_string": "EGYPT CYPRUS",
+              "raw_affiliation_string": "SAUDI ARABIA YEMEN OMAN UAE",
+              "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "SUDAN ETHIOPIA DJIBOUTI SYRIA IRAQ IRAN LEBANON PALESTINE",
               "institution_ids": []
             }
           ]
@@ -44264,15 +44264,15 @@
           "is_corresponding": false,
           "raw_author_name": "Robley K. Matthews",
           "raw_affiliation_strings": [
-            "SAUDI ARABIA YEMEN OMAN UAE",
+            "EGYPT CYPRUS",
             "Gulf of Oman Med. Sea ERITREA Arabian Shield SOCOTRA QATAR BAHRAIN KUWAIT",
-            "SUDAN ETHIOPIA DJIBOUTI SYRIA IRAQ IRAN LEBANON PALESTINE",
-            "EGYPT CYPRUS"
+            "SAUDI ARABIA YEMEN OMAN UAE",
+            "SUDAN ETHIOPIA DJIBOUTI SYRIA IRAQ IRAN LEBANON PALESTINE"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "SAUDI ARABIA YEMEN OMAN UAE",
+              "raw_affiliation_string": "EGYPT CYPRUS",
               "institution_ids": []
             },
             {
@@ -44280,11 +44280,11 @@
               "institution_ids": []
             },
             {
-              "raw_affiliation_string": "SUDAN ETHIOPIA DJIBOUTI SYRIA IRAQ IRAN LEBANON PALESTINE",
+              "raw_affiliation_string": "SAUDI ARABIA YEMEN OMAN UAE",
               "institution_ids": []
             },
             {
-              "raw_affiliation_string": "EGYPT CYPRUS",
+              "raw_affiliation_string": "SUDAN ETHIOPIA DJIBOUTI SYRIA IRAQ IRAN LEBANON PALESTINE",
               "institution_ids": []
             }
           ]
@@ -44615,8 +44615,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -46089,7 +46089,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-27T08:26:11.824852",
+      "updated_date": "2026-07-28T07:46:37.118299",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -46564,8 +46564,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -46840,6 +46840,7 @@
           "raw_affiliation_strings": [
             "Gulf PetroLink-GeoArabia, Manama, Bahrain"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Gulf PetroLink-GeoArabia, Manama, Bahrain",
@@ -46850,18 +46851,18 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 1,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5081811780"
       ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.6917,
+      "fwci": 3.8948,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.93137797,
+        "value": 0.93485169,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -47128,8 +47129,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -47273,7 +47274,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2025-11-25T21:42:39.735039",
+      "updated_date": "2026-07-28T07:46:37.118299",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -48030,8 +48031,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.7300000190734863
+          "score": 0.7300000190734863,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -48981,8 +48982,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -53707,8 +53708,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -56654,8 +56655,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -57988,8 +57989,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -59211,8 +59212,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -59573,8 +59574,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.8299999833106995
+          "score": 0.8299999833106995,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -60011,8 +60012,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.6499999761581421
+          "score": 0.6499999761581421,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -60447,8 +60448,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6700000166893005
+          "score": 0.6700000166893005,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -60806,8 +60807,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -61282,8 +61283,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -62216,8 +62217,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8761091828346252
+          "score": 0.8761091828346252,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -63547,8 +63548,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -64299,8 +64300,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],

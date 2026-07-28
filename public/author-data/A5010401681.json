@@ -17,7 +17,7 @@
     ],
     "full_name": "Abdulrahman S. Alsharhan",
     "works_count": 166,
-    "cited_by_count": 3759,
+    "cited_by_count": 3762,
     "summary_stats": {
       "2yr_mean_citedness": 1,
       "h_index": 34,
@@ -221,7 +221,7 @@
       {
         "id": "https://openalex.org/T12543",
         "display_name": "Groundwater and Watershed Analysis",
-        "value": 0.0002183,
+        "value": 0.0002182,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -389,7 +389,7 @@
         "year": 1994,
         "works_count": 7,
         "oa_works_count": 0,
-        "cited_by_count": 328
+        "cited_by_count": 329
       },
       {
         "year": 1995,
@@ -491,7 +491,7 @@
         "year": 2014,
         "works_count": 6,
         "oa_works_count": 0,
-        "cited_by_count": 103
+        "cited_by_count": 105
       },
       {
         "year": 2016,
@@ -538,7 +538,7 @@
     ],
     "block_key": "a alsharhan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5010401681",
-    "updated_date": "2026-07-26T12:17:46",
+    "updated_date": "2026-07-27T12:17:47",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -697,11 +697,11 @@
         "value_usd": 4540
       },
       "apc_paid": null,
-      "fwci": 3.9646,
+      "fwci": 3.9645,
       "has_fulltext": false,
       "cited_by_count": 294,
       "citation_normalized_percentile": {
-        "value": 0.92077812,
+        "value": 0.92078371,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1254,7 +1254,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-07-15T18:14:33.161393",
+      "updated_date": "2026-07-28T07:46:37.118299",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4401,16 +4401,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.2522,
+      "fwci": 2.633,
       "has_fulltext": false,
       "cited_by_count": 92,
       "citation_normalized_percentile": {
-        "value": 0.90213433,
+        "value": 0.90766602,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 100
       },
       "biblio": {
@@ -4880,7 +4880,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-04T09:04:59.091469",
+      "updated_date": "2026-07-28T07:46:37.118299",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -61103,15 +61103,17 @@
         "landing_page_url": "https://doi.org/10.1016/0899-5362(91)90018-t",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4210189576",
-          "display_name": "Journal of African Earth Sciences (and the Middle East)",
+          "id": "https://openalex.org/S125636905",
+          "display_name": "Journal of African Earth Sciences",
           "issn_l": "0899-5362",
           "issn": [
-            "0899-5362"
+            "0899-5362",
+            "1464-343X",
+            "1879-1956"
           ],
           "is_oa": false,
           "is_in_doaj": false,
-          "is_core": false,
+          "is_core": true,
           "host_organization": "https://openalex.org/P4310320990",
           "host_organization_name": "Elsevier BV",
           "host_organization_lineage": [
@@ -61223,13 +61225,17 @@
       "corresponding_institution_ids": [
         "https://openalex.org/I201726411"
       ],
-      "apc_list": null,
+      "apc_list": {
+        "value": 2650,
+        "currency": "USD",
+        "value_usd": 2650
+      },
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.13686265,
+        "value": 0.13002114,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -61413,15 +61419,17 @@
           "landing_page_url": "https://doi.org/10.1016/0899-5362(91)90018-t",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4210189576",
-            "display_name": "Journal of African Earth Sciences (and the Middle East)",
+            "id": "https://openalex.org/S125636905",
+            "display_name": "Journal of African Earth Sciences",
             "issn_l": "0899-5362",
             "issn": [
-              "0899-5362"
+              "0899-5362",
+              "1464-343X",
+              "1879-1956"
             ],
             "is_oa": false,
             "is_in_doaj": false,
-            "is_core": false,
+            "is_core": true,
             "host_organization": "https://openalex.org/P4310320990",
             "host_organization_name": "Elsevier BV",
             "host_organization_lineage": [
@@ -61508,7 +61516,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-26T08:34:08.712188",
+      "updated_date": "2026-07-28T07:46:37.118299",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -76412,11 +76420,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8489,
+      "fwci": 0.7945,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.72990844,
+        "value": 0.71299435,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -76802,7 +76810,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-22T06:23:43.705686",
+      "updated_date": "2026-07-28T07:46:37.118299",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -103652,18 +103660,20 @@
         "landing_page_url": "http://www.osti.gov/scitech/biblio/6192709",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4306511331",
-          "display_name": "Geol. Soc. Am., Abstr. Programs; (United States)",
+          "id": "https://openalex.org/S4306402487",
+          "display_name": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
+          "host_organization": "https://openalex.org/I139351228",
+          "host_organization_name": "Office of Scientific and Technical Information",
+          "host_organization_lineage": [
+            "https://openalex.org/I139351228"
+          ],
           "host_organization_lineage_names": [],
-          "type": "journal"
+          "type": "repository"
         },
         "license": null,
         "license_id": null,
@@ -103715,7 +103725,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -103724,7 +103734,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.17224287,
+        "value": 0.17108276,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -103986,18 +103996,20 @@
           "landing_page_url": "http://www.osti.gov/scitech/biblio/6192709",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306511331",
-            "display_name": "Geol. Soc. Am., Abstr. Programs; (United States)",
+            "id": "https://openalex.org/S4306402487",
+            "display_name": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
+            "host_organization": "https://openalex.org/I139351228",
+            "host_organization_name": "Office of Scientific and Technical Information",
+            "host_organization_lineage": [
+              "https://openalex.org/I139351228"
+            ],
             "host_organization_lineage_names": [],
-            "type": "journal"
+            "type": "repository"
           },
           "license": null,
           "license_id": null,
@@ -104553,7 +104565,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-28T07:46:37.118299",
       "created_date": "2025-10-10T00:00:00"
     },
     {

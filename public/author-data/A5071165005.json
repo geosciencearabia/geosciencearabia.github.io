@@ -852,9 +852,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/10",
           "score": 0.5600000023841858,
-          "display_name": "Reduced inequalities"
+          "display_name": "Reduced inequalities",
+          "id": "https://metadata.un.org/sdg/10"
         }
       ],
       "awards": [],
@@ -2507,9 +2507,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/8",
           "score": 0.4399999976158142,
-          "display_name": "Decent work and economic growth"
+          "display_name": "Decent work and economic growth",
+          "id": "https://metadata.un.org/sdg/8"
         }
       ],
       "awards": [],
@@ -4727,8 +4727,10 @@
           "source": {
             "id": "https://openalex.org/S4306400194",
             "display_name": "arXiv (Cornell University)",
-            "issn_l": null,
-            "issn": null,
+            "issn_l": "2331-8422",
+            "issn": [
+              "2331-8422"
+            ],
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
@@ -4757,8 +4759,10 @@
         "source": {
           "id": "https://openalex.org/S4306400194",
           "display_name": "arXiv (Cornell University)",
-          "issn_l": null,
-          "issn": null,
+          "issn_l": "2331-8422",
+          "issn": [
+            "2331-8422"
+          ],
           "is_oa": true,
           "is_in_doaj": false,
           "is_core": false,
@@ -4780,9 +4784,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7099999785423279,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -5413,7 +5417,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-07-14T23:27:15.235271",
+      "updated_date": "2026-07-28T07:46:37.118299",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5436,8 +5440,10 @@
         "source": {
           "id": "https://openalex.org/S4306400194",
           "display_name": "arXiv (Cornell University)",
-          "issn_l": null,
-          "issn": null,
+          "issn_l": "2331-8422",
+          "issn": [
+            "2331-8422"
+          ],
           "is_oa": true,
           "is_in_doaj": false,
           "is_core": false,
@@ -5817,8 +5823,10 @@
           "source": {
             "id": "https://openalex.org/S4306400194",
             "display_name": "arXiv (Cornell University)",
-            "issn_l": null,
-            "issn": null,
+            "issn_l": "2331-8422",
+            "issn": [
+              "2331-8422"
+            ],
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
@@ -5846,8 +5854,10 @@
           "source": {
             "id": "https://openalex.org/S4306400194",
             "display_name": "arXiv (Cornell University)",
-            "issn_l": null,
-            "issn": null,
+            "issn_l": "2331-8422",
+            "issn": [
+              "2331-8422"
+            ],
             "is_oa": true,
             "is_in_doaj": false,
             "is_core": false,
@@ -5876,8 +5886,10 @@
         "source": {
           "id": "https://openalex.org/S4306400194",
           "display_name": "arXiv (Cornell University)",
-          "issn_l": null,
-          "issn": null,
+          "issn_l": "2331-8422",
+          "issn": [
+            "2331-8422"
+          ],
           "is_oa": true,
           "is_in_doaj": false,
           "is_core": false,
@@ -5899,9 +5911,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/10",
           "score": 0.4300000071525574,
-          "display_name": "Reduced inequalities"
+          "display_name": "Reduced inequalities",
+          "id": "https://metadata.un.org/sdg/10"
         }
       ],
       "awards": [],
@@ -6366,7 +6378,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-07-01T06:00:48.157686",
+      "updated_date": "2026-07-28T07:46:37.118299",
       "created_date": "2025-10-10T00:00:00"
     },
     {
