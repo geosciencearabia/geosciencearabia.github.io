@@ -11,10 +11,10 @@
       "Mohammed Benaafi"
     ],
     "full_name": "Benaafi, Mohammed",
-    "works_count": 79,
-    "cited_by_count": 1073,
+    "works_count": 80,
+    "cited_by_count": 1076,
     "summary_stats": {
-      "2yr_mean_citedness": 4.9393939393939394,
+      "2yr_mean_citedness": 4.823529411764706,
       "h_index": 21,
       "i10_index": 32
     },
@@ -84,7 +84,7 @@
       {
         "id": "https://openalex.org/T12543",
         "display_name": "Groundwater and Watershed Analysis",
-        "count": 17,
+        "count": 18,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -154,7 +154,7 @@
       {
         "id": "https://openalex.org/T12543",
         "display_name": "Groundwater and Watershed Analysis",
-        "value": 0.0002065,
+        "value": 0.0002181,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -171,7 +171,7 @@
       {
         "id": "https://openalex.org/T10398",
         "display_name": "Groundwater and Isotope Geochemistry",
-        "value": 0.0001684,
+        "value": 0.0001682,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -188,7 +188,7 @@
       {
         "id": "https://openalex.org/T11490",
         "display_name": "Hydrological Forecasting Using AI",
-        "value": 0.0001467,
+        "value": 0.0001464,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -205,7 +205,7 @@
       {
         "id": "https://openalex.org/T11869",
         "display_name": "Per- and polyfluoroalkyl substances research",
-        "value": 0.0000535,
+        "value": 0.0000534,
         "subfield": {
           "id": "https://openalex.org/subfields/2304",
           "display_name": "Environmental Chemistry"
@@ -239,6 +239,12 @@
     ],
     "x_concepts": [
       {
+        "id": "75622301",
+        "wikidata": "https://www.wikidata.org/wiki/Q208791",
+        "display_name": "Aquifer",
+        "score": 0.9200007915496826
+      },
+      {
         "id": "127313418",
         "wikidata": "https://www.wikidata.org/wiki/Q1069",
         "display_name": "Geology",
@@ -261,12 +267,6 @@
         "wikidata": "https://www.wikidata.org/wiki/Q1349130",
         "display_name": "Geotechnical engineering",
         "score": 0.441601037979126
-      },
-      {
-        "id": "185592680",
-        "wikidata": "https://www.wikidata.org/wiki/Q2329",
-        "display_name": "Chemistry",
-        "score": 0.4174203872680664
       }
     ],
     "counts_by_year": [
@@ -322,13 +322,13 @@
         "year": 2022,
         "works_count": 11,
         "oa_works_count": 9,
-        "cited_by_count": 361
+        "cited_by_count": 362
       },
       {
         "year": 2023,
         "works_count": 14,
         "oa_works_count": 8,
-        "cited_by_count": 369
+        "cited_by_count": 370
       },
       {
         "year": 2024,
@@ -340,12 +340,12 @@
         "year": 2025,
         "works_count": 12,
         "oa_works_count": 5,
-        "cited_by_count": 23
+        "cited_by_count": 24
       },
       {
         "year": 2026,
-        "works_count": 6,
-        "oa_works_count": 5,
+        "works_count": 7,
+        "oa_works_count": 6,
         "cited_by_count": 0
       }
     ],
@@ -358,7 +358,7 @@
     ],
     "block_key": "m benaafi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5034568196",
-    "updated_date": "2026-07-23T12:17:21",
+    "updated_date": "2026-07-28T12:17:01",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -2240,8 +2240,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6100000143051147,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6100000143051147
         }
       ],
       "awards": [],
@@ -3312,11 +3312,11 @@
         "value_usd": 2510
       },
       "apc_paid": null,
-      "fwci": 4.1708,
+      "fwci": 4.171,
       "has_fulltext": false,
       "cited_by_count": 59,
       "citation_normalized_percentile": {
-        "value": 0.95771043,
+        "value": 0.95771513,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3650,8 +3650,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.4000000059604645,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.4000000059604645
         }
       ],
       "awards": [],
@@ -3775,7 +3775,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-07-27T08:26:11.824852",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4944,11 +4944,11 @@
         "value_usd": 3610
       },
       "apc_paid": null,
-      "fwci": 4.126,
+      "fwci": 4.1231,
       "has_fulltext": false,
       "cited_by_count": 47,
       "citation_normalized_percentile": {
-        "value": 0.95051924,
+        "value": 0.95048158,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5453,8 +5453,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8700000047683716,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -5945,11 +5945,11 @@
         "currency": "CHF",
         "value_usd": 2561
       },
-      "fwci": 4.5291,
+      "fwci": 4.532,
       "has_fulltext": false,
       "cited_by_count": 43,
       "citation_normalized_percentile": {
-        "value": 0.95340338,
+        "value": 0.95341048,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6651,8 +6651,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6299999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6299999952316284
         }
       ],
       "awards": [],
@@ -8517,7 +8517,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5034568196"
       ],
@@ -8534,11 +8534,11 @@
         "currency": "USD",
         "value_usd": 860
       },
-      "fwci": 3.3762,
+      "fwci": 2.9048,
       "has_fulltext": false,
       "cited_by_count": 42,
       "citation_normalized_percentile": {
-        "value": 0.92914215,
+        "value": 0.91680267,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9745,7 +9745,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-06T08:25:59.206177",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12028,8 +12028,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5899999737739563,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.5899999737739563
         }
       ],
       "awards": [
@@ -13014,6 +13014,7 @@
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
@@ -13050,6 +13051,7 @@
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
@@ -13087,6 +13089,7 @@
             "Department of Analytical Chemistry, Faculty of Pharmacy, Near East University, TRNC, Mersin 10, Nicosia 99138, Turkey",
             "Operational Research Centre in Healthcare, Near East University, Nicosia, Turkish Republic of Northern Cyprus"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Analytical Chemistry, Faculty of Pharmacy, Near East University, TRNC, Mersin 10, Nicosia 99138, Turkey",
@@ -13130,6 +13133,7 @@
             "Department of Chemical Engineering, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
             "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Chemical Engineering, King Fahd University of Petroleum & Minerals, Dhahran 31261, Saudi Arabia",
@@ -13148,7 +13152,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5034568196"
       ],
@@ -13165,11 +13169,11 @@
         "currency": "USD",
         "value_usd": 1350
       },
-      "fwci": 2.4095,
+      "fwci": 2.0855,
       "has_fulltext": false,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.88273494,
+        "value": 0.8625,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13493,8 +13497,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.41999998688697815,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -14189,7 +14193,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-03-09T08:58:05.943551",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14702,8 +14706,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -18220,8 +18224,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8500000238418579
         }
       ],
       "awards": [
@@ -19605,8 +19609,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.550000011920929,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.550000011920929
         }
       ],
       "awards": [
@@ -20266,8 +20270,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7300000190734863,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7300000190734863
         }
       ],
       "awards": [],
@@ -22226,8 +22230,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -22653,11 +22657,11 @@
         "currency": "USD",
         "value_usd": 2000
       },
-      "fwci": 3.1738,
+      "fwci": 3.1673,
       "has_fulltext": true,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.90590196,
+        "value": 0.90570417,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -23120,8 +23124,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.6200000047683716,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.6200000047683716
         }
       ],
       "awards": [],
@@ -23837,7 +23841,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24328,8 +24332,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.7599999904632568,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.7599999904632568
         }
       ],
       "awards": [],
@@ -26952,11 +26956,11 @@
         "value_usd": 3500
       },
       "apc_paid": null,
-      "fwci": 1.5802,
+      "fwci": 1.5791,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.8076026,
+        "value": 0.8073667,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -27341,8 +27345,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.5
         }
       ],
       "awards": [],
@@ -28252,8 +28256,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8600000143051147,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -29476,8 +29480,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7599999904632568,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7599999904632568
         }
       ],
       "awards": [],
@@ -30894,8 +30898,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7400000095367432,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7400000095367432
         }
       ],
       "awards": [
@@ -32280,8 +32284,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6200000047683716,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.6200000047683716
         }
       ],
       "awards": [],
@@ -33575,8 +33579,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.8100000023841858,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.8100000023841858
         }
       ],
       "awards": [],
@@ -34363,8 +34367,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.699999988079071,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.699999988079071
         }
       ],
       "awards": [],
@@ -37802,11 +37806,11 @@
         "value_usd": 2600
       },
       "apc_paid": null,
-      "fwci": 1.5623,
+      "fwci": 1.5551,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.8245839,
+        "value": 0.82371069,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38871,8 +38875,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.4699999988079071,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.4699999988079071
         }
       ],
       "awards": [
@@ -39103,7 +39107,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
@@ -39165,7 +39169,7 @@
             "KR",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
@@ -39472,7 +39476,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Md Masudur Rahman",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
@@ -39523,7 +39527,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Md Masudur Rahman",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
@@ -39692,7 +39696,8 @@
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I120158604",
-        "https://openalex.org/I134085113"
+        "https://openalex.org/I134085113",
+        "https://openalex.org/I4210132231"
       ],
       "apc_list": {
         "value": 3265,
@@ -39704,11 +39709,11 @@
         "currency": "AUD",
         "value_usd": 2390
       },
-      "fwci": 1.1717,
+      "fwci": 1.1663,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.7774352,
+        "value": 0.77647476,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40662,7 +40667,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-11-23T00:00:00"
     },
     {
@@ -41212,8 +41217,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.5
         }
       ],
       "awards": [],
@@ -42364,8 +42369,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.49000000953674316,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.49000000953674316
         }
       ],
       "awards": [
@@ -43336,11 +43341,11 @@
         "value_usd": 2650
       },
       "apc_paid": null,
-      "fwci": 0.4895,
+      "fwci": 0.4894,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.54697236,
+        "value": 0.54686585,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -43632,8 +43637,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [
@@ -44120,8 +44125,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.4699999988079071,
-          "display_name": "Zero hunger"
+          "display_name": "Zero hunger",
+          "score": 0.4699999988079071
         }
       ],
       "awards": [
@@ -44944,11 +44949,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 0.6426,
+      "fwci": 0.6432,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.65128989,
+        "value": 0.65157407,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -45167,8 +45172,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.41999998688697815,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -45276,7 +45281,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -45893,8 +45898,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -46753,8 +46758,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7300000190734863,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7300000190734863
         }
       ],
       "awards": [
@@ -48150,8 +48155,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4099999964237213,
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "score": 0.4099999964237213
         }
       ],
       "awards": [],
@@ -48877,8 +48882,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.4300000071525574,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.4300000071525574
         }
       ],
       "awards": [
@@ -49333,11 +49338,11 @@
         "value_usd": 3390
       },
       "apc_paid": null,
-      "fwci": 0.6794,
+      "fwci": 0.6732,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.68497554,
+        "value": 0.68236445,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -49628,8 +49633,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6700000166893005,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6700000166893005
         }
       ],
       "awards": [],
@@ -49730,7 +49735,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -51848,13 +51853,21 @@
           "raw_author_name": "Naseem Akhtar",
           "raw_affiliation_strings": [
             "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia",
+            "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, Gelugor, Malaysia",
             "Libyan Centre for Research and Studies of Water, Soil and Combatting Desertification, Sabratha, Libya",
-            "Nuclear Science Program, Faculty of Science and Technology, Universiti Kebangsaan Malaysia, 43000, Bangi, Selangor, Malaysia"
+            "Nuclear Science Program, Faculty of Science and Technology, Universiti Kebangsaan Malaysia, 43000, Bangi, Selangor, Malaysia",
+            "Nuclear Science Program, Faculty of Science and Technology, Universiti Kebangsaan Malaysia, Bangi, Malaysia"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-0211-6854",
           "affiliations": [
             {
               "raw_affiliation_string": "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I139322472"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, Gelugor, Malaysia",
               "institution_ids": [
                 "https://openalex.org/I139322472"
               ]
@@ -51867,6 +51880,12 @@
             },
             {
               "raw_affiliation_string": "Nuclear Science Program, Faculty of Science and Technology, Universiti Kebangsaan Malaysia, 43000, Bangi, Selangor, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I885383172"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Nuclear Science Program, Faculty of Science and Technology, Universiti Kebangsaan Malaysia, Bangi, Malaysia",
               "institution_ids": [
                 "https://openalex.org/I885383172"
               ]
@@ -51899,7 +51918,9 @@
           "raw_author_name": "Muhammad Izzuddin Syakir",
           "raw_affiliation_strings": [
             "Centre for Global Sustainability Studies, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia",
-            "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia"
+            "Centre for Global Sustainability Studies, Universiti Sains Malaysia, Gelugor, Malaysia",
+            "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia",
+            "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, Gelugor, Malaysia"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -51910,7 +51931,19 @@
               ]
             },
             {
+              "raw_affiliation_string": "Centre for Global Sustainability Studies, Universiti Sains Malaysia, Gelugor, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I139322472"
+              ]
+            },
+            {
               "raw_affiliation_string": "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I139322472"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, Gelugor, Malaysia",
               "institution_ids": [
                 "https://openalex.org/I139322472"
               ]
@@ -51942,12 +51975,19 @@
           "is_corresponding": true,
           "raw_author_name": "Syahidah Akmal Muhammad",
           "raw_affiliation_strings": [
-            "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia"
+            "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia",
+            "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, Gelugor, Malaysia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I139322472"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, Gelugor, Malaysia",
               "institution_ids": [
                 "https://openalex.org/I139322472"
               ]
@@ -51979,12 +52019,19 @@
           "is_corresponding": false,
           "raw_author_name": "Aznan Fazli Ismail",
           "raw_affiliation_strings": [
-            "Nuclear Science Program, Faculty of Science and Technology, Universiti Kebangsaan Malaysia, 43000, Bangi, Selangor, Malaysia"
+            "Nuclear Science Program, Faculty of Science and Technology, Universiti Kebangsaan Malaysia, 43000, Bangi, Selangor, Malaysia",
+            "Nuclear Science Program, Faculty of Science and Technology, Universiti Kebangsaan Malaysia, Bangi, Malaysia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Nuclear Science Program, Faculty of Science and Technology, Universiti Kebangsaan Malaysia, 43000, Bangi, Selangor, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I885383172"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Nuclear Science Program, Faculty of Science and Technology, Universiti Kebangsaan Malaysia, Bangi, Malaysia",
               "institution_ids": [
                 "https://openalex.org/I885383172"
               ]
@@ -52016,12 +52063,19 @@
           "is_corresponding": false,
           "raw_author_name": "Mohamad Shaiful Md. Yusuff",
           "raw_affiliation_strings": [
-            "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia"
+            "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia",
+            "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, Gelugor, Malaysia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I139322472"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, Gelugor, Malaysia",
               "institution_ids": [
                 "https://openalex.org/I139322472"
               ]
@@ -52053,12 +52107,19 @@
           "is_corresponding": false,
           "raw_author_name": "Leila Bouida",
           "raw_affiliation_strings": [
-            "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia"
+            "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia",
+            "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, Gelugor, Malaysia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, 11800, Gelugor, Pulau Pinang, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I139322472"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Division of Environmental Technology, School of Industrial Technology, Universiti Sains Malaysia, Gelugor, Malaysia",
               "institution_ids": [
                 "https://openalex.org/I139322472"
               ]
@@ -52132,12 +52193,19 @@
           "is_corresponding": false,
           "raw_author_name": "Pahmi Husain",
           "raw_affiliation_strings": [
-            "Study Program of Biology, Faculty of Mathematics and Natural Science, Universitas Nahdlatul Wathan Mataram, Kota Mataram, 83115, West Nusa Tenggara, Indonesia"
+            "Study Program of Biology, Faculty of Mathematics and Natural Science, Universitas Nahdlatul Wathan Mataram, Kota Mataram, 83115, West Nusa Tenggara, Indonesia",
+            "Study Program of Biology, Faculty of Mathematics and Natural Science, Universitas Nahdlatul Wathan Mataram, West Nusa Tenggara, Indonesia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Study Program of Biology, Faculty of Mathematics and Natural Science, Universitas Nahdlatul Wathan Mataram, Kota Mataram, 83115, West Nusa Tenggara, Indonesia",
+              "institution_ids": [
+                "https://openalex.org/I4210135673"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Study Program of Biology, Faculty of Mathematics and Natural Science, Universitas Nahdlatul Wathan Mataram, West Nusa Tenggara, Indonesia",
               "institution_ids": [
                 "https://openalex.org/I4210135673"
               ]
@@ -52170,7 +52238,9 @@
           "raw_author_name": "Mohammed Benaafi",
           "raw_affiliation_strings": [
             "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -52181,7 +52251,19 @@
               ]
             },
             {
+              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
               "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -52213,10 +52295,17 @@
           "is_corresponding": false,
           "raw_author_name": "Taskin Ahmed",
           "raw_affiliation_strings": [
+            "Department of Geology, Aligarh Muslim University, Aligarh, India",
             "Department of Geology, Aligarh Muslim University, Aligarh, Uttar Pradesh, 202002, India"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Aligarh Muslim University, Aligarh, India",
+              "institution_ids": [
+                "https://openalex.org/I171210897"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Geology, Aligarh Muslim University, Aligarh, Uttar Pradesh, 202002, India",
               "institution_ids": [
@@ -52250,12 +52339,19 @@
           "is_corresponding": false,
           "raw_author_name": "Mohammad Muqtada Ali Khan",
           "raw_affiliation_strings": [
-            "Department of Geoscience, Faculty of Earth Science, Universiti Malaysia Kelantan, 17600, Jeli, Kelantan, Malaysia"
+            "Department of Geoscience, Faculty of Earth Science, Universiti Malaysia Kelantan, 17600, Jeli, Kelantan, Malaysia",
+            "Department of Geoscience, Faculty of Earth Science, Universiti Malaysia Kelantan, Jeli, Malaysia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Geoscience, Faculty of Earth Science, Universiti Malaysia Kelantan, 17600, Jeli, Kelantan, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I226432"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Geoscience, Faculty of Earth Science, Universiti Malaysia Kelantan, Jeli, Malaysia",
               "institution_ids": [
                 "https://openalex.org/I226432"
               ]
@@ -52281,11 +52377,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 0.3966,
+      "fwci": 0.3888,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.63142225,
+        "value": 0.6266943,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -52735,7 +52831,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-12-29T00:00:00"
     },
     {
@@ -53332,8 +53428,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4699999988079071,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.4699999988079071
         }
       ],
       "awards": [],
@@ -54533,8 +54629,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.5899999737739563,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.5899999737739563
         }
       ],
       "awards": [],
@@ -56843,8 +56939,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -58124,8 +58220,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5099999904632568,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.5099999904632568
         }
       ],
       "awards": [],
@@ -59475,8 +59571,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.41999998688697815,
-          "display_name": "Zero hunger"
+          "display_name": "Zero hunger",
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -60007,8 +60103,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6499999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6499999761581421
         }
       ],
       "awards": [],
@@ -61086,8 +61182,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6700000166893005,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6700000166893005
         }
       ],
       "awards": [],
@@ -62147,8 +62243,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -66696,8 +66792,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.6700000166893005,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.6700000166893005
         }
       ],
       "awards": [],
@@ -67253,8 +67349,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.7400000095367432,
-          "display_name": "Zero hunger"
+          "display_name": "Zero hunger",
+          "score": 0.7400000095367432
         }
       ],
       "awards": [],
@@ -68289,8 +68385,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7699999809265137,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7699999809265137
         }
       ],
       "awards": [],
@@ -68729,8 +68825,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
@@ -69847,8 +69943,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8299999833106995,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
@@ -72247,8 +72343,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6299999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6299999952316284
         }
       ],
       "awards": [],
@@ -76925,8 +77021,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5572254657745361,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.5572254657745361
         }
       ],
       "awards": [
@@ -80798,7 +80894,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89742389,
+        "value": 0.89107343,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -81179,8 +81275,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5348670482635498,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.5348670482635498
         }
       ],
       "awards": [],

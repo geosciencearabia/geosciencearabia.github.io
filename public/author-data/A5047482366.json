@@ -155,7 +155,7 @@
       {
         "id": "https://openalex.org/T12543",
         "display_name": "Groundwater and Watershed Analysis",
-        "value": 0.0000244,
+        "value": 0.0000242,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -172,7 +172,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000236,
+        "value": 0.0000235,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -189,7 +189,7 @@
       {
         "id": "https://openalex.org/T12083",
         "display_name": "Karst Systems and Hydrogeology",
-        "value": 0.0000196,
+        "value": 0.0000195,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -223,7 +223,7 @@
       {
         "id": "https://openalex.org/T10894",
         "display_name": "Groundwater flow and contamination studies",
-        "value": 0.0000153,
+        "value": 0.0000152,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -327,7 +327,7 @@
     ],
     "block_key": "h al ajmi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5047482366",
-    "updated_date": "2026-07-16T12:16:06",
+    "updated_date": "2026-07-28T12:17:01",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -437,7 +437,7 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Hussain Al Ajmi",
           "raw_affiliation_strings": [
             "Ministry of Water & Electricity, Riyadh, Saudi Arabia"
@@ -487,7 +487,7 @@
           "countries": [
             "DE"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Randolf Rausch",
           "raw_affiliation_strings": [
             "TU Darmstadt, Darmstadt, Germany"
@@ -507,10 +507,13 @@
       "countries_distinct_count": 2,
       "institutions_distinct_count": 2,
       "corresponding_author_ids": [
-        "https://openalex.org/A5008853309"
+        "https://openalex.org/A5008853309",
+        "https://openalex.org/A5047482366",
+        "https://openalex.org/A5070429780"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I2801277386"
+        "https://openalex.org/I2801277386",
+        "https://openalex.org/I31512782"
       ],
       "apc_list": {
         "value": 2990,
@@ -518,11 +521,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 0.625,
+      "fwci": 0.6253,
       "has_fulltext": false,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.63418001,
+        "value": 0.63409248,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -860,9 +863,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -936,7 +939,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2934,9 +2937,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5199999809265137
+          "score": 0.5199999809265137,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -4360,9 +4363,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.5799999833106995
+          "score": 0.5799999833106995,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -8518,9 +8521,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.6299999952316284
+          "score": 0.6299999952316284,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -10428,9 +10431,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6000000238418579
+          "score": 0.6000000238418579,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -11675,9 +11678,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.6469302177429199
+          "score": 0.6469302177429199,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],

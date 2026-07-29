@@ -12,10 +12,10 @@
       "Mohamed Omar Abouelresh"
     ],
     "full_name": "Mohamed Omar Abouelresh",
-    "works_count": 50,
-    "cited_by_count": 1008,
+    "works_count": 51,
+    "cited_by_count": 1014,
     "summary_stats": {
-      "2yr_mean_citedness": 4,
+      "2yr_mean_citedness": 3.9,
       "h_index": 15,
       "i10_index": 20
     },
@@ -186,7 +186,7 @@
       {
         "id": "https://openalex.org/T12456",
         "display_name": "Geotourism and Geoheritage Conservation",
-        "count": 9,
+        "count": 10,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -222,7 +222,7 @@
       {
         "id": "https://openalex.org/T12456",
         "display_name": "Geotourism and Geoheritage Conservation",
-        "value": 0.000255,
+        "value": 0.000281,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -239,7 +239,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000651,
+        "value": 0.000065,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -254,9 +254,26 @@
         }
       },
       {
+        "id": "https://openalex.org/T12083",
+        "display_name": "Karst Systems and Hydrogeology",
+        "value": 0.0000584,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      {
         "id": "https://openalex.org/T12603",
         "display_name": "NMR spectroscopy and applications",
-        "value": 0.0000566,
+        "value": 0.0000565,
         "subfield": {
           "id": "https://openalex.org/subfields/3106",
           "display_name": "Nuclear and High Energy Physics"
@@ -273,7 +290,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.0000529,
+        "value": 0.0000528,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -281,23 +298,6 @@
         "field": {
           "id": "https://openalex.org/fields/22",
           "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      {
-        "id": "https://openalex.org/T12083",
-        "display_name": "Karst Systems and Hydrogeology",
-        "value": 0.0000392,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -414,13 +414,13 @@
         "year": 2023,
         "works_count": 3,
         "oa_works_count": 1,
-        "cited_by_count": 42
+        "cited_by_count": 45
       },
       {
         "year": 2024,
         "works_count": 5,
         "oa_works_count": 2,
-        "cited_by_count": 35
+        "cited_by_count": 38
       },
       {
         "year": 2025,
@@ -430,7 +430,7 @@
       },
       {
         "year": 2026,
-        "works_count": 1,
+        "works_count": 2,
         "oa_works_count": 0,
         "cited_by_count": 0
       }
@@ -445,7 +445,7 @@
     ],
     "block_key": "m abouelresh",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5039010638",
-    "updated_date": "2026-07-21T12:17:50",
+    "updated_date": "2026-07-28T12:17:01",
     "created_date": "2019-08-13T00:00:00"
   },
   "works": [
@@ -861,8 +861,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7900000214576721,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7900000214576721,
           "display_name": "Life below water"
         }
       ],
@@ -2251,11 +2251,11 @@
         "value_usd": 4270
       },
       "apc_paid": null,
-      "fwci": 10.708,
+      "fwci": 10.7071,
       "has_fulltext": false,
       "cited_by_count": 186,
       "citation_normalized_percentile": {
-        "value": 0.99322652,
+        "value": 0.99322689,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2638,8 +2638,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4000000059604645,
           "id": "https://metadata.un.org/sdg/12",
+          "score": 0.4000000059604645,
           "display_name": "Responsible consumption and production"
         }
       ],
@@ -3477,8 +3477,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/12",
+          "score": 0.4399999976158142,
           "display_name": "Responsible consumption and production"
         }
       ],
@@ -4421,11 +4421,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 4.8311,
+      "fwci": 4.8294,
       "has_fulltext": false,
       "cited_by_count": 50,
       "citation_normalized_percentile": {
-        "value": 0.96790835,
+        "value": 0.96790429,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4944,7 +4944,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-07-27T08:26:11.824852",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8739,11 +8739,11 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 2.5341,
+      "fwci": 2.5349,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.89626761,
+        "value": 0.8962247,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10152,7 +10152,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-21T08:15:58.654021",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10239,10 +10239,17 @@
           "is_corresponding": false,
           "raw_author_name": "Subhajit Sen",
           "raw_affiliation_strings": [
+            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
             "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-8729-355X",
           "affiliations": [
+            {
+              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
               "institution_ids": [
@@ -10268,18 +10275,37 @@
               "lineage": [
                 "https://openalex.org/I219388962"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4210158283",
+              "display_name": "Institute of Geography of the Slovak Academy of Sciences",
+              "ror": "https://ror.org/04wzc7f86",
+              "country_code": "SK",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I207624831",
+                "https://openalex.org/I4210158283"
+              ]
             }
           ],
           "countries": [
-            "PL"
+            "PL",
+            "SK"
           ],
           "is_corresponding": true,
           "raw_author_name": "Piotr Migoń",
           "raw_affiliation_strings": [
+            "Institute of Geography and Regional Development, University of Wrocław, pl. Uniwersytecki 1, Wrocław, Poland",
             "Institute of Geography and Regional Development, University of Wrocław, pl. Uniwersytecki 1, 50-137, Wrocław, Poland"
           ],
           "raw_orcid": "https://orcid.org/0000-0001-5232-7476",
           "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Geography and Regional Development, University of Wrocław, pl. Uniwersytecki 1, Wrocław, Poland",
+              "institution_ids": [
+                "https://openalex.org/I4210158283"
+              ]
+            },
             {
               "raw_affiliation_string": "Institute of Geography and Regional Development, University of Wrocław, pl. Uniwersytecki 1, 50-137, Wrocław, Poland",
               "institution_ids": [
@@ -10313,10 +10339,17 @@
           "is_corresponding": false,
           "raw_author_name": "Ali Almusabeh",
           "raw_affiliation_strings": [
+            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
             "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
               "institution_ids": [
@@ -10350,10 +10383,17 @@
           "is_corresponding": false,
           "raw_author_name": "Mohamed Omar Abouelresh",
           "raw_affiliation_strings": [
+            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
             "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
               "institution_ids": [
@@ -10364,13 +10404,14 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5033539952"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I219388962"
+        "https://openalex.org/I219388962",
+        "https://openalex.org/I4210158283"
       ],
       "apc_list": {
         "value": 3490,
@@ -10382,11 +10423,11 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 4.6931,
+      "fwci": 4.6787,
       "has_fulltext": true,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.94831408,
+        "value": 0.94806862,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10749,8 +10790,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.75,
           "id": "https://metadata.un.org/sdg/11",
+          "score": 0.75,
           "display_name": "Sustainable cities and communities"
         }
       ],
@@ -11277,7 +11318,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11364,12 +11405,19 @@
           "is_corresponding": true,
           "raw_author_name": "Subhajit Sen",
           "raw_affiliation_strings": [
-            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia"
+            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
+            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-8729-355X",
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -11401,12 +11449,19 @@
           "is_corresponding": false,
           "raw_author_name": "Mohamed Omar Abouelresh",
           "raw_affiliation_strings": [
-            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia"
+            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
+            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -11438,12 +11493,19 @@
           "is_corresponding": false,
           "raw_author_name": "Abhijit Santra",
           "raw_affiliation_strings": [
-            "K.L University, Vaddeswaram, Vijayawada, Andhra Pradesh, 522302, India"
+            "K.L University, Vaddeswaram, Vijayawada, Andhra Pradesh, 522302, India",
+            "K.L University, Vaddeswaram, Vijayawada, India"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "K.L University, Vaddeswaram, Vijayawada, Andhra Pradesh, 522302, India",
+              "institution_ids": [
+                "https://openalex.org/I875944469"
+              ]
+            },
+            {
+              "raw_affiliation_string": "K.L University, Vaddeswaram, Vijayawada, India",
               "institution_ids": [
                 "https://openalex.org/I875944469"
               ]
@@ -11475,12 +11537,19 @@
           "is_corresponding": false,
           "raw_author_name": "Ali Hassan Al-Musabeh",
           "raw_affiliation_strings": [
-            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia"
+            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
+            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -11512,12 +11581,19 @@
           "is_corresponding": false,
           "raw_author_name": "Fahad Saleh Al-Ismail",
           "raw_affiliation_strings": [
-            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia"
+            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
+            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, 31261, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -11540,11 +11616,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 4.3998,
+      "fwci": 4.3863,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.94493058,
+        "value": 0.94480103,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11836,8 +11912,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6399999856948853,
           "id": "https://metadata.un.org/sdg/8",
+          "score": 0.6399999856948853,
           "display_name": "Decent work and economic growth"
         }
       ],
@@ -11936,7 +12012,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12125,11 +12201,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 4.1065,
+      "fwci": 4.0939,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.93711352,
+        "value": 0.93698214,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -12426,8 +12502,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6600000262260437,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6600000262260437,
           "display_name": "Life below water"
         }
       ],
@@ -12739,7 +12815,7 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.6579,
+      "fwci": 5.6519,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
@@ -13986,7 +14062,7 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 5.6579,
+      "fwci": 5.6519,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
@@ -14251,8 +14327,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7799999713897705,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7799999713897705,
           "display_name": "Life below water"
         }
       ],
@@ -14370,7 +14446,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15374,11 +15450,11 @@
         "currency": "EUR",
         "value_usd": 1078
       },
-      "fwci": 0.7376,
+      "fwci": 0.7399,
       "has_fulltext": true,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.74068299,
+        "value": 0.7407292,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15780,8 +15856,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
@@ -16886,7 +16962,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 6,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5039010638"
       ],
@@ -16900,13 +16976,13 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 2.9288,
+      "fwci": 2.397,
       "has_fulltext": false,
       "cited_by_count": 29,
       "citation_normalized_percentile": {
-        "value": 0.90160003,
+        "value": 0.87668065,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
+        "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 90,
@@ -17426,7 +17502,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17799,11 +17875,11 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 2.0778,
+      "fwci": 2.078,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.84841766,
+        "value": 0.84842455,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18333,7 +18409,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18503,11 +18579,11 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 0.9891,
+      "fwci": 0.9893,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.72710392,
+        "value": 0.7271659,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18816,8 +18892,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/6",
+          "score": 0.4099999964237213,
           "display_name": "Clean water and sanitation"
         }
       ],
@@ -19650,8 +19726,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8299999833106995,
           "display_name": "Life below water"
         }
       ],
@@ -19907,12 +19983,19 @@
           "is_corresponding": true,
           "raw_author_name": "Subhajit Sen",
           "raw_affiliation_strings": [
-            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
+            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
+            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-8729-355X",
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -19944,12 +20027,19 @@
           "is_corresponding": false,
           "raw_author_name": "Mohamed O. Abouelresh",
           "raw_affiliation_strings": [
-            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
+            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
+            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -19981,12 +20071,19 @@
           "is_corresponding": false,
           "raw_author_name": "Ali Almusabeh",
           "raw_affiliation_strings": [
-            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
+            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
+            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -20018,12 +20115,19 @@
           "is_corresponding": false,
           "raw_author_name": "Fahad S. Al-Ismail",
           "raw_affiliation_strings": [
-            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
+            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
+            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -20074,15 +20178,22 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Thadickal V. Joydas",
           "raw_affiliation_strings": [
-            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
+            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
+            "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Applied Research Center for Environment and Marine Studies, King Fahd University of Petroleum & Minerals, Dhahran, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -20094,7 +20205,8 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 1,
       "corresponding_author_ids": [
-        "https://openalex.org/A5026735444"
+        "https://openalex.org/A5026735444",
+        "https://openalex.org/A5061144117"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I134085113"
@@ -20105,11 +20217,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 1.7508,
+      "fwci": 1.739,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.8385992,
+        "value": 0.83771542,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20497,7 +20609,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20727,11 +20839,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 0.6356,
+      "fwci": 0.6354,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.56978861,
+        "value": 0.5696798,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22098,11 +22210,11 @@
         "value_usd": 2650
       },
       "apc_paid": null,
-      "fwci": 0.9099,
+      "fwci": 0.9098,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.73972055,
+        "value": 0.7397676,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22913,8 +23025,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5099999904632568,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5099999904632568,
           "display_name": "Life below water"
         }
       ],
@@ -23424,8 +23536,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water"
         }
       ],
@@ -24417,8 +24529,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water"
         }
       ],
@@ -25424,8 +25536,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716,
           "display_name": "Life below water"
         }
       ],
@@ -26201,7 +26313,7 @@
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.7634168,
+        "value": 0.76336458,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26466,8 +26578,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.49000000953674316,
           "display_name": "Life below water"
         }
       ],
@@ -28618,8 +28730,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/12",
+          "score": 0.4699999988079071,
           "display_name": "Responsible consumption and production"
         }
       ],
@@ -29867,8 +29979,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4000000059604645,
           "id": "https://metadata.un.org/sdg/12",
+          "score": 0.4000000059604645,
           "display_name": "Responsible consumption and production"
         }
       ],
@@ -33730,8 +33842,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/13",
+          "score": 0.46000000834465027,
           "display_name": "Climate action"
         }
       ],
@@ -40419,8 +40531,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/8",
+          "score": 0.4399999976158142,
           "display_name": "Decent work and economic growth"
         }
       ],
@@ -42085,8 +42197,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/14",
+          "score": 0.47999998927116394,
           "display_name": "Life below water"
         }
       ],
@@ -48577,7 +48689,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.93713972,
+        "value": 0.92966194,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },

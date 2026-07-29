@@ -15,7 +15,7 @@
     ],
     "full_name": "ZÜHLKE, RAINER",
     "works_count": 49,
-    "cited_by_count": 994,
+    "cited_by_count": 996,
     "summary_stats": {
       "2yr_mean_citedness": 2.1666666666666665,
       "h_index": 16,
@@ -389,7 +389,7 @@
         "year": 2018,
         "works_count": 2,
         "oa_works_count": 0,
-        "cited_by_count": 97
+        "cited_by_count": 99
       },
       {
         "year": 2021,
@@ -440,7 +440,7 @@
     ],
     "block_key": "r zuhlke",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5086485606",
-    "updated_date": "2026-07-27T12:17:47",
+    "updated_date": "2026-07-28T12:17:01",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -1054,9 +1054,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -1645,11 +1645,11 @@
         "value_usd": 4050
       },
       "apc_paid": null,
-      "fwci": 5.453,
+      "fwci": 5.4504,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.97389229,
+        "value": 0.97388839,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3890,10 +3890,17 @@
           "is_corresponding": false,
           "raw_author_name": "Baba Senowbari-Daryan",
           "raw_affiliation_strings": [
+            "Institut für Paläontologie, Universität Erlangen-Nürnberg, Erlangen",
             "Institut für Paläontologie, Universität Erlangen-Nürnberg, Erlangen,"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Institut für Paläontologie, Universität Erlangen-Nürnberg, Erlangen",
+              "institution_ids": [
+                "https://openalex.org/I181369854"
+              ]
+            },
             {
               "raw_affiliation_string": "Institut für Paläontologie, Universität Erlangen-Nürnberg, Erlangen,",
               "institution_ids": [
@@ -4046,11 +4053,11 @@
         "value_usd": 3590
       },
       "apc_paid": null,
-      "fwci": 3.8812,
+      "fwci": 3.8896,
       "has_fulltext": false,
       "cited_by_count": 126,
       "citation_normalized_percentile": {
-        "value": 0.92937988,
+        "value": 0.92966507,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4292,9 +4299,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -4430,7 +4437,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4826,9 +4833,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
@@ -5627,13 +5634,13 @@
           "is_corresponding": true,
           "raw_author_name": "Sven O. Egenhoff",
           "raw_affiliation_strings": [
-            "1\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany, \n\t\t\t\t\t\n\n            \n              2\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: \n\t\t\t\t\t\n[email protected]), \n3Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: \n\t\t\t\t\t[email protected]), \n4Shell Research and Technical Services, Volmerlaan 8, 2288 GD Rijswijk, The Netherlands",
+            "1\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany, \n\t\t\t\t\t\n\n            \n              2\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: [email protected] ), \n3Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: [email protected] ), \n4Shell Research and Technical Services, Volmerlaan 8, 2288 GD Rijswijk, The Netherlands",
             "1 Geologisch–Paläontologisches Institut der Universität, INF 234, D‐69120 Heidelberg, Germany,      2 Geologisch–Paläontologisches Institut der Universität, INF 234, D‐69120 Heidelberg, Germany ("
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "1\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany, \n\t\t\t\t\t\n\n            \n              2\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: \n\t\t\t\t\t\n[email protected]), \n3Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: \n\t\t\t\t\t[email protected]), \n4Shell Research and Technical Services, Volmerlaan 8, 2288 GD Rijswijk, The Netherlands",
+              "raw_affiliation_string": "1\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany, \n\t\t\t\t\t\n\n            \n              2\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: [email protected] ), \n3Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: [email protected] ), \n4Shell Research and Technical Services, Volmerlaan 8, 2288 GD Rijswijk, The Netherlands",
               "institution_ids": [
                 "https://openalex.org/I223822909"
               ]
@@ -5671,13 +5678,13 @@
           "is_corresponding": true,
           "raw_author_name": "Arndt Peterhänsel",
           "raw_affiliation_strings": [
-            "1\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany, \n\t\t\t\t\t\n\n            \n              2\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: \n\t\t\t\t\t\n[email protected]), \n3Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: \n\t\t\t\t\t[email protected]), \n4Shell Research and Technical Services, Volmerlaan 8, 2288 GD Rijswijk, The Netherlands",
+            "1\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany, \n\t\t\t\t\t\n\n            \n              2\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: [email protected] ), \n3Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: [email protected] ), \n4Shell Research and Technical Services, Volmerlaan 8, 2288 GD Rijswijk, The Netherlands",
             "1 Geologisch–Paläontologisches Institut der Universität, INF 234, D‐69120 Heidelberg, Germany,      2 Geologisch–Paläontologisches Institut der Universität, INF 234, D‐69120 Heidelberg, Germany ("
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "1\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany, \n\t\t\t\t\t\n\n            \n              2\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: \n\t\t\t\t\t\n[email protected]), \n3Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: \n\t\t\t\t\t[email protected]), \n4Shell Research and Technical Services, Volmerlaan 8, 2288 GD Rijswijk, The Netherlands",
+              "raw_affiliation_string": "1\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany, \n\t\t\t\t\t\n\n            \n              2\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: [email protected] ), \n3Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: [email protected] ), \n4Shell Research and Technical Services, Volmerlaan 8, 2288 GD Rijswijk, The Netherlands",
               "institution_ids": [
                 "https://openalex.org/I223822909"
               ]
@@ -5715,13 +5722,13 @@
           "is_corresponding": true,
           "raw_author_name": "Thilo Bechstädt",
           "raw_affiliation_strings": [
-            "1\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany, \n\t\t\t\t\t\n\n            \n              2\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: \n\t\t\t\t\t\n[email protected]), \n3Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: \n\t\t\t\t\t[email protected]), \n4Shell Research and Technical Services, Volmerlaan 8, 2288 GD Rijswijk, The Netherlands",
+            "1\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany, \n\t\t\t\t\t\n\n            \n              2\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: [email protected] ), \n3Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: [email protected] ), \n4Shell Research and Technical Services, Volmerlaan 8, 2288 GD Rijswijk, The Netherlands",
             "1 Geologisch–Paläontologisches Institut der Universität, INF 234, D‐69120 Heidelberg, Germany,      2 Geologisch–Paläontologisches Institut der Universität, INF 234, D‐69120 Heidelberg, Germany ("
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "1\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany, \n\t\t\t\t\t\n\n            \n              2\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: \n\t\t\t\t\t\n[email protected]), \n3Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: \n\t\t\t\t\t[email protected]), \n4Shell Research and Technical Services, Volmerlaan 8, 2288 GD Rijswijk, The Netherlands",
+              "raw_affiliation_string": "1\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany, \n\t\t\t\t\t\n\n            \n              2\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: [email protected] ), \n3Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: [email protected] ), \n4Shell Research and Technical Services, Volmerlaan 8, 2288 GD Rijswijk, The Netherlands",
               "institution_ids": [
                 "https://openalex.org/I223822909"
               ]
@@ -5759,13 +5766,13 @@
           "is_corresponding": true,
           "raw_author_name": "Rainer Zühlke",
           "raw_affiliation_strings": [
-            "1\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany, \n\t\t\t\t\t\n\n            \n              2\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: \n\t\t\t\t\t\n[email protected]), \n3Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: \n\t\t\t\t\t[email protected]), \n4Shell Research and Technical Services, Volmerlaan 8, 2288 GD Rijswijk, The Netherlands",
+            "1\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany, \n\t\t\t\t\t\n\n            \n              2\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: [email protected] ), \n3Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: [email protected] ), \n4Shell Research and Technical Services, Volmerlaan 8, 2288 GD Rijswijk, The Netherlands",
             "1 Geologisch–Paläontologisches Institut der Universität, INF 234, D‐69120 Heidelberg, Germany,      2 Geologisch–Paläontologisches Institut der Universität, INF 234, D‐69120 Heidelberg, Germany ("
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "1\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany, \n\t\t\t\t\t\n\n            \n              2\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: \n\t\t\t\t\t\n[email protected]), \n3Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: \n\t\t\t\t\t[email protected]), \n4Shell Research and Technical Services, Volmerlaan 8, 2288 GD Rijswijk, The Netherlands",
+              "raw_affiliation_string": "1\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany, \n\t\t\t\t\t\n\n            \n              2\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: [email protected] ), \n3Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: [email protected] ), \n4Shell Research and Technical Services, Volmerlaan 8, 2288 GD Rijswijk, The Netherlands",
               "institution_ids": [
                 "https://openalex.org/I223822909"
               ]
@@ -5803,13 +5810,13 @@
           "is_corresponding": true,
           "raw_author_name": "Jürgen Grötsch",
           "raw_affiliation_strings": [
-            "1\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany, \n\t\t\t\t\t\n\n            \n              2\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: \n\t\t\t\t\t\n[email protected]), \n3Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: \n\t\t\t\t\t[email protected]), \n4Shell Research and Technical Services, Volmerlaan 8, 2288 GD Rijswijk, The Netherlands",
+            "1\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany, \n\t\t\t\t\t\n\n            \n              2\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: [email protected] ), \n3Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: [email protected] ), \n4Shell Research and Technical Services, Volmerlaan 8, 2288 GD Rijswijk, The Netherlands",
             "1 Geologisch–Paläontologisches Institut der Universität, INF 234, D‐69120 Heidelberg, Germany,      2 Geologisch–Paläontologisches Institut der Universität, INF 234, D‐69120 Heidelberg, Germany ("
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "1\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany, \n\t\t\t\t\t\n\n            \n              2\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: \n\t\t\t\t\t\n[email protected]), \n3Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: \n\t\t\t\t\t[email protected]), \n4Shell Research and Technical Services, Volmerlaan 8, 2288 GD Rijswijk, The Netherlands",
+              "raw_affiliation_string": "1\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany, \n\t\t\t\t\t\n\n            \n              2\n            Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: [email protected] ), \n3Geologisch–Paläontologisches Institut der Universität, INF 234, D-69120 Heidelberg, Germany (E-mail: [email protected] ), \n4Shell Research and Technical Services, Volmerlaan 8, 2288 GD Rijswijk, The Netherlands",
               "institution_ids": [
                 "https://openalex.org/I223822909"
               ]
@@ -5842,16 +5849,16 @@
         "value_usd": 4050
       },
       "apc_paid": null,
-      "fwci": 3.451,
+      "fwci": 3.454,
       "has_fulltext": false,
       "cited_by_count": 88,
       "citation_normalized_percentile": {
-        "value": 0.92147894,
+        "value": 0.92153875,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 99
       },
       "biblio": {
@@ -6082,9 +6089,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -6718,7 +6725,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8293,9 +8300,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -9346,9 +9353,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7799999713897705,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7799999713897705
         }
       ],
       "awards": [],
@@ -10823,9 +10830,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8199999928474426,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],
@@ -13410,9 +13417,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -14125,9 +14132,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -15082,9 +15089,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8199999928474426,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8199999928474426
         }
       ],
       "awards": [],
@@ -16402,9 +16409,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.75,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.75
         }
       ],
       "awards": [],
@@ -17651,9 +17658,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -18393,9 +18400,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5600000023841858,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5600000023841858
         }
       ],
       "awards": [],
@@ -19110,9 +19117,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -19678,9 +19685,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -21079,9 +21086,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -21957,7 +21964,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.78196839,
+        "value": 0.78201329,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23017,7 +23024,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -23580,6 +23587,7 @@
           "raw_affiliation_strings": [
             "Eriksfiord AS, ipark, Postboks 8034, 4068, Stavanger, Norway"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Eriksfiord AS, ipark, Postboks 8034, 4068, Stavanger, Norway",
@@ -23614,6 +23622,7 @@
           "raw_affiliation_strings": [
             "Department of Earth Sciences, University of Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth Sciences, University of Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany",
@@ -23650,6 +23659,7 @@
           "raw_affiliation_strings": [
             "Department of Earth Sciences, University of Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Department of Earth Sciences, University of Heidelberg, Im Neuenheimer Feld 234, 69120 Heidelberg, Germany",
@@ -23662,7 +23672,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 3,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5025692814",
         "https://openalex.org/A5086485606"
@@ -23930,7 +23940,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24939,9 +24949,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5899999737739563,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5899999737739563
         }
       ],
       "awards": [],
@@ -25499,9 +25509,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6499999761581421,
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.6499999761581421
         }
       ],
       "awards": [],
@@ -26301,9 +26311,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -27144,9 +27154,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7900000214576721,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7900000214576721
         }
       ],
       "awards": [],
@@ -27744,9 +27754,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7699999809265137,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7699999809265137
         }
       ],
       "awards": [],
@@ -28168,9 +28178,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.49000000953674316,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
@@ -28680,9 +28690,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7400000095367432,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7400000095367432
         }
       ],
       "awards": [],
@@ -29603,9 +29613,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -31367,9 +31377,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],
@@ -32446,9 +32456,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -33710,9 +33720,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.47999998927116394,
           "display_name": "Zero hunger",
-          "id": "https://metadata.un.org/sdg/2"
+          "id": "https://metadata.un.org/sdg/2",
+          "score": 0.47999998927116394
         }
       ],
       "awards": [],
@@ -34895,9 +34905,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
@@ -39316,9 +39326,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8669640421867371,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8669640421867371
         }
       ],
       "awards": [],
@@ -39820,9 +39830,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8427148461341858,
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8427148461341858
         }
       ],
       "awards": [],

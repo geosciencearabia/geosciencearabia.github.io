@@ -21,7 +21,7 @@
     ],
     "full_name": "Michael  Henry Stephenson",
     "works_count": 162,
-    "cited_by_count": 3012,
+    "cited_by_count": 3013,
     "summary_stats": {
       "2yr_mean_citedness": 1.8333333333333333,
       "h_index": 31,
@@ -353,7 +353,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0002932,
+        "value": 0.0002931,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -370,7 +370,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0001178,
+        "value": 0.0001177,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -387,7 +387,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000961,
+        "value": 0.000096,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -599,7 +599,7 @@
         "year": 2016,
         "works_count": 6,
         "oa_works_count": 4,
-        "cited_by_count": 154
+        "cited_by_count": 155
       },
       {
         "year": 2017,
@@ -680,7 +680,7 @@
     ],
     "block_key": "m stephenson",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5040147688",
-    "updated_date": "2026-07-27T12:17:47",
+    "updated_date": "2026-07-28T12:17:01",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -912,11 +912,11 @@
         "currency": "USD",
         "value_usd": 4540
       },
-      "fwci": 15.2817,
+      "fwci": 15.2809,
       "has_fulltext": true,
       "cited_by_count": 312,
       "citation_normalized_percentile": {
-        "value": 0.99839858,
+        "value": 0.99839878,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -5094,7 +5094,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 5,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [
         "https://openalex.org/A5007005557"
       ],
@@ -5111,11 +5111,11 @@
         "currency": "USD",
         "value_usd": 4270
       },
-      "fwci": 10.263,
+      "fwci": 8.4824,
       "has_fulltext": true,
       "cited_by_count": 121,
       "citation_normalized_percentile": {
-        "value": 0.99216538,
+        "value": 0.99022741,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -5728,10 +5728,10 @@
       ],
       "abstract_inverted_index": {
         "1100": [
-          174
+          178
         ],
         "1700": [
-          176
+          180
         ],
         "Laser": [
           0
@@ -5744,8 +5744,8 @@
           78,
           130,
           149,
-          192,
-          202
+          198,
+          208
         ],
         "spectroscopy": [
           2
@@ -5753,11 +5753,11 @@
         "is": [
           3,
           134,
-          187
+          193
         ],
         "used": [
           4,
-          201
+          207
         ],
         "to": [
           5,
@@ -5777,8 +5777,8 @@
           122,
           137,
           155,
-          198,
-          205
+          204,
+          211
         ],
         "thermal": [
           8,
@@ -5788,7 +5788,7 @@
           9,
           28,
           48,
-          181
+          187
         ],
         "of": [
           10,
@@ -5801,8 +5801,8 @@
           124,
           139,
           160,
-          170,
-          197
+          174,
+          203
         ],
         "organic": [
           11,
@@ -5844,7 +5844,7 @@
         ],
         "between": [
           22,
-          173
+          177
         ],
         "quantified": [
           23
@@ -5863,9 +5863,9 @@
           126,
           132,
           141,
-          164,
-          175,
-          194
+          168,
+          179,
+          200
         ],
         "values": [
           29
@@ -5940,7 +5940,7 @@
         "spectra": [
           64,
           153,
-          193
+          199
         ],
         "from": [
           66
@@ -5954,7 +5954,7 @@
         "potential": [
           70,
           127,
-          180
+          186
         ],
         "shale": [
           71
@@ -5993,8 +5993,8 @@
         ],
         "that": [
           87,
-          178,
-          189
+          184,
+          195
         ],
         "critically": [
           89
@@ -6017,7 +6017,7 @@
         ],
         "including": [
           95,
-          204
+          210
         ],
         "experiment": [
           96
@@ -6108,11 +6108,11 @@
         ],
         "two": [
           147,
-          206
+          212
         ],
         "new": [
           148,
-          207
+          213
         ],
         "un-deconvolved": [
           152
@@ -6133,78 +6133,88 @@
         "1100–1400": [
           161
         ],
-        "cm−1/1550–1650": [
-          162
+        "cm": [
+          162,
+          165,
+          181
         ],
-        "cm−1)": [
+        "−1": [
           163,
-          177
-        ],
-        "SSA": [
-          165
-        ],
-        "(scaled": [
-          166
-        ],
-        "spectrum": [
-          167
-        ],
-        "area:": [
-          168
-        ],
-        "sum": [
-          169
-        ],
-        "total": [
-          171
-        ],
-        "area": [
-          172
-        ],
-        "offer": [
-          179
-        ],
-        "proxies.": [
+          166,
           182
         ],
-        "An": [
+        "/1550–1650": [
+          164
+        ],
+        ")": [
+          167,
           183
         ],
-        "automated": [
-          184
+        "SSA": [
+          169
         ],
-        "spreadsheet": [
+        "(scaled": [
+          170
+        ],
+        "spectrum": [
+          171
+        ],
+        "area:": [
+          172
+        ],
+        "sum": [
+          173
+        ],
+        "total": [
+          175
+        ],
+        "area": [
+          176
+        ],
+        "offer": [
           185
         ],
-        "procedure": [
-          186
-        ],
-        "presented": [
+        "proxies.": [
           188
         ],
-        "processes": [
+        "An": [
+          189
+        ],
+        "automated": [
           190
         ],
-        "raw": [
+        "spreadsheet": [
           191
         ],
-        "calculates": [
-          195
+        "procedure": [
+          192
         ],
-        "several": [
+        "presented": [
+          194
+        ],
+        "processes": [
           196
         ],
+        "raw": [
+          197
+        ],
+        "calculates": [
+          201
+        ],
+        "several": [
+          202
+        ],
         "most": [
-          199
+          205
         ],
         "commonly": [
-          200
+          206
         ],
         "parameters,": [
-          203
+          209
         ],
         "variables.": [
-          208
+          214
         ]
       },
       "counts_by_year": [
@@ -6245,7 +6255,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-04-26T08:31:28.666265",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6731,11 +6741,11 @@
         "currency": "USD",
         "value_usd": 4000
       },
-      "fwci": 3.3612,
+      "fwci": 3.3615,
       "has_fulltext": true,
       "cited_by_count": 104,
       "citation_normalized_percentile": {
-        "value": 0.91794049,
+        "value": 0.91794586,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9276,11 +9286,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 8.421,
+      "fwci": 8.4223,
       "has_fulltext": false,
       "cited_by_count": 53,
       "citation_normalized_percentile": {
-        "value": 0.96777503,
+        "value": 0.96777959,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -11493,11 +11503,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 42.1459,
+      "fwci": 42.5602,
       "has_fulltext": false,
       "cited_by_count": 131,
       "citation_normalized_percentile": {
-        "value": 0.99567362,
+        "value": 0.99573381,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -12227,7 +12237,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12494,11 +12504,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 8.6804,
+      "fwci": 8.6812,
       "has_fulltext": false,
       "cited_by_count": 105,
       "citation_normalized_percentile": {
-        "value": 0.98359482,
+        "value": 0.98359665,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15871,11 +15881,11 @@
         "value_usd": 6290
       },
       "apc_paid": null,
-      "fwci": 6.0326,
+      "fwci": 6.0354,
       "has_fulltext": true,
       "cited_by_count": 85,
       "citation_normalized_percentile": {
-        "value": 0.96389728,
+        "value": 0.96394582,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -17205,11 +17215,11 @@
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 3.7458,
+      "fwci": 3.7449,
       "has_fulltext": false,
       "cited_by_count": 65,
       "citation_normalized_percentile": {
-        "value": 0.92945585,
+        "value": 0.92942326,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -18483,11 +18493,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 0.8188,
+      "fwci": 0.8186,
       "has_fulltext": false,
       "cited_by_count": 62,
       "citation_normalized_percentile": {
-        "value": 0.73371014,
+        "value": 0.7336887,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20034,11 +20044,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.195,
+      "fwci": 3.1926,
       "has_fulltext": false,
       "cited_by_count": 55,
       "citation_normalized_percentile": {
-        "value": 0.93219837,
+        "value": 0.93215897,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -23032,11 +23042,11 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 2.6748,
+      "fwci": 2.6768,
       "has_fulltext": false,
       "cited_by_count": 43,
       "citation_normalized_percentile": {
-        "value": 0.89143868,
+        "value": 0.89157577,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24570,7 +24580,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25314,11 +25324,11 @@
         "currency": "USD",
         "value_usd": 4050
       },
-      "fwci": 2.8466,
+      "fwci": 2.8464,
       "has_fulltext": false,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.90482969,
+        "value": 0.90484178,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -26705,7 +26715,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2019-07-12T00:00:00"
     },
     {
@@ -32253,11 +32263,11 @@
         "currency": "USD",
         "value_usd": 3080
       },
-      "fwci": 2.547,
+      "fwci": 2.5468,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.88347738,
+        "value": 0.88341594,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33926,7 +33936,7 @@
           "countries": [
             "IT"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Gaia Crippa",
           "raw_affiliation_strings": [
             "Dipartimento di Scienze della Terra ‘A. Desio’ Via Mangiagalli 34 20133 Milano Italy",
@@ -33970,7 +33980,7 @@
           "countries": [
             "CA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Karem Azmy",
           "raw_affiliation_strings": [
             "Department of Earth Sciences Memorial University of Newfoundland St. John's NL A1B 3X5 Canada",
@@ -34014,7 +34024,7 @@
           "countries": [
             "IT"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Giancarlo Capitani",
           "raw_affiliation_strings": [
             "Dipartimento di Scienze dell'Ambiente e della Terra Piazza della Scienza 4, 20126 Milano Italy",
@@ -34058,7 +34068,7 @@
           "countries": [
             "IT"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Giorgia Confalonieri",
           "raw_affiliation_strings": [
             "Dipartimento di Scienze della Terra Università degli Studi di Torino Torino Italy"
@@ -34095,7 +34105,7 @@
           "countries": [
             "IT"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Giovanna Della Porta",
           "raw_affiliation_strings": [
             "Dipartimento di Scienze della Terra ‘A. Desio’ Via Mangiagalli 34 20133 Milano Italy",
@@ -34139,7 +34149,7 @@
           "countries": [
             "DE"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Erika Griesshaber",
           "raw_affiliation_strings": [
             "Department für Geo‐ und Umweltwissenschaften Ludwig‐Maximilians Universität München Munich Germany"
@@ -34176,7 +34186,7 @@
           "countries": [
             "GB"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "David A. T. Harper",
           "raw_affiliation_strings": [
             "Department of Earth Sciences Durham University Durham DH1 3LE UK",
@@ -34222,7 +34232,7 @@
           "countries": [
             "GB"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Melanie J. Leng",
           "raw_affiliation_strings": [
             "British Geological Survey Keyworth Nottingham NG12 5GG UK",
@@ -34324,7 +34334,7 @@
           "countries": [
             "IT"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Marco Orlandi",
           "raw_affiliation_strings": [
             "Dipartimento di Scienze dell'Ambiente e della Terra Piazza della Scienza 4, 20126 Milano Italy",
@@ -34368,7 +34378,7 @@
           "countries": [
             "IT"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Renato Posenato",
           "raw_affiliation_strings": [
             "Dipartimento di Fisica e Scienze della Terra Via Saragat, 1 44121 Ferrara Italy",
@@ -34410,7 +34420,7 @@
           "countries": [
             "DE"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Wolfgang W. Schmahl",
           "raw_affiliation_strings": [
             "Department für Geo‐ und Umweltwissenschaften Ludwig‐Maximilians Universität München Munich Germany"
@@ -34449,7 +34459,7 @@
           "countries": [
             "GB"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Vanessa J. Banks",
           "raw_affiliation_strings": [
             "British Geological Survey Keyworth Nottingham NG12 5GG UK",
@@ -34495,7 +34505,7 @@
           "countries": [
             "GB"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Michael H. Stephenson",
           "raw_affiliation_strings": [
             "British Geological Survey Keyworth Nottingham NG12 5GG UK",
@@ -34522,30 +34532,10 @@
       "countries_distinct_count": 4,
       "institutions_distinct_count": 9,
       "corresponding_author_ids": [
-        "https://openalex.org/A5004366843",
-        "https://openalex.org/A5006230501",
-        "https://openalex.org/A5012863155",
-        "https://openalex.org/A5020524306",
-        "https://openalex.org/A5024000448",
-        "https://openalex.org/A5031795745",
-        "https://openalex.org/A5032975996",
-        "https://openalex.org/A5040147688",
-        "https://openalex.org/A5040957818",
-        "https://openalex.org/A5047083721",
-        "https://openalex.org/A5057413819",
-        "https://openalex.org/A5069313466",
-        "https://openalex.org/A5083519773",
-        "https://openalex.org/A5084413371"
+        "https://openalex.org/A5020524306"
       ],
       "corresponding_institution_ids": [
-        "https://openalex.org/I130438778",
-        "https://openalex.org/I139290333",
-        "https://openalex.org/I189158943",
-        "https://openalex.org/I190082696",
-        "https://openalex.org/I201324441",
-        "https://openalex.org/I4210109505",
-        "https://openalex.org/I55143463",
-        "https://openalex.org/I8204097"
+        "https://openalex.org/I189158943"
       ],
       "apc_list": {
         "value": 4530,
@@ -34557,7 +34547,7 @@
       "has_fulltext": false,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.93939089,
+        "value": 0.93939699,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -35785,7 +35775,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2019-06-27T00:00:00"
     },
     {
@@ -35882,14 +35872,14 @@
           "is_corresponding": true,
           "raw_author_name": "Irfan U. Jan",
           "raw_affiliation_strings": [
-            "\n Department of Geology, University of Leicester, University Road, Leicester, LE1 7RH, United Kingdom;\n National Centre of Excellence in Geology, University of Peshawar, Pakistan",
+            "Department of Geology, University of Leicester, University Road, Leicester, LE1 7RH, United Kingdom; National Centre of Excellence in Geology, University of Peshawar, Pakistan",
             "Department of Geology, University of Leicester, University Road, Leicester, LE1 7RH, United Kingdom",
             "National Centre of Excellence in Geology, University of Peshawar, Pakistan"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "\n Department of Geology, University of Leicester, University Road, Leicester, LE1 7RH, United Kingdom;\n National Centre of Excellence in Geology, University of Peshawar, Pakistan",
+              "raw_affiliation_string": "Department of Geology, University of Leicester, University Road, Leicester, LE1 7RH, United Kingdom; National Centre of Excellence in Geology, University of Peshawar, Pakistan",
               "institution_ids": [
                 "https://openalex.org/I153648349",
                 "https://openalex.org/I36001604"
@@ -35936,17 +35926,10 @@
           "is_corresponding": false,
           "raw_author_name": "Michael H. Stephenson",
           "raw_affiliation_strings": [
-            "\n British Geological Survey, Kingsley Dunham Centre, Keyworth, Nottingham, NG12 5GG, United Kingdom",
             "British Geological Survey, Kingsley Dunham Centre, Keyworth, Nottingham, NG12 5GG, United Kingdom"
           ],
           "raw_orcid": null,
           "affiliations": [
-            {
-              "raw_affiliation_string": "\n British Geological Survey, Kingsley Dunham Centre, Keyworth, Nottingham, NG12 5GG, United Kingdom",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
             {
               "raw_affiliation_string": "British Geological Survey, Kingsley Dunham Centre, Keyworth, Nottingham, NG12 5GG, United Kingdom",
               "institution_ids": [
@@ -35968,11 +35951,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.6701,
+      "fwci": 1.6703,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.84581698,
+        "value": 0.84586866,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36404,8 +36387,8 @@
       ],
       "abstract_inverted_index": {
         "2": [
-          117,
-          129
+          125,
+          138
         ],
         "84": [
           4
@@ -36418,22 +36401,25 @@
         ],
         "from": [
           1,
-          127
+          136
         ],
         "the": [
           2,
           13,
-          26,
-          61,
-          69,
-          78,
-          81,
-          110,
-          131,
-          187,
-          193,
-          196,
-          200
+          27,
+          65,
+          74,
+          83,
+          87,
+          114,
+          118,
+          140,
+          148,
+          171,
+          200,
+          207,
+          210,
+          214
         ],
         "upper": [
           3
@@ -36445,11 +36431,12 @@
         "of": [
           6,
           12,
-          85,
-          109,
-          140,
-          174,
-          183
+          86,
+          91,
+          117,
+          150,
+          186,
+          196
         ],
         "a": [
           7
@@ -36462,26 +36449,26 @@
         ],
         "Tobra": [
           14,
-          70,
-          120,
-          154,
-          197
+          75,
+          128,
+          165,
+          211
         ],
         "Formation": [
           15,
-          71,
-          84,
-          121,
-          155,
-          198
+          76,
+          90,
+          129,
+          166,
+          212
         ],
         "at": [
           16
         ],
         "Zaluch": [
           17,
-          73,
-          157
+          78,
+          168
         ],
         "Nala,": [
           18
@@ -36492,384 +36479,396 @@
         "Salt": [
           20
         ],
-        "Range,&#13;\\nPakistan": [
+        "Range,": [
           21
         ],
-        "yielded": [
+        "Pakistan": [
           22
         ],
-        "palynomorph": [
+        "yielded": [
           23
         ],
-        "taxa": [
+        "palynomorph": [
           24
         ],
+        "taxa": [
+          25
+        ],
         "including": [
-          25,
-          35
-        ],
-        "spores": [
-          27
-        ],
-        "Horriditriletes": [
-          28,
-          55,
-          101,
-          147
-        ],
-        "sp.": [
-          29
-        ],
-        "and": [
-          30,
-          41,
-          46,
-          57,
-          103,
-          112,
-          130,
-          150,
-          176,
-          199
-        ],
-        "Microbaculispora": [
-          31,
-          58,
-          104,
-          134,
-          151
-        ],
-        "tentula,": [
-          32
-        ],
-        "abundant&#13;\\nmonosaccate": [
-          33
-        ],
-        "pollen": [
-          34
-        ],
-        "Barakarites": [
-          36
-        ],
-        "cf.": [
+          26,
           37
         ],
-        "rotatus,": [
-          38
+        "spores": [
+          28
         ],
-        "Cannanoropollis": [
-          39
-        ],
-        "janakii": [
-          40
-        ],
-        "Plicatipollenites": [
-          42
-        ],
-        "malabarensis,": [
-          43
-        ],
-        "and&#13;\\nrare": [
-          44
-        ],
-        "taeniate": [
-          45
-        ],
-        "non-taeniate": [
-          47
-        ],
-        "bisaccate": [
-          48
-        ],
-        "pollen.": [
-          49
-        ],
-        "Converrucosisporites": [
-          50
-        ],
-        "grandegranulatus,": [
-          51
-        ],
-        "Cycadopites": [
-          52,
-          145
-        ],
-        "cymbatus,&#13;\\nHorriditriletes": [
-          53
-        ],
-        "ramosus,": [
-          54
-        ],
-        "tereteangulatus": [
-          56,
-          149
-        ],
-        "tentula": [
+        "Horriditriletes": [
+          29,
+          57,
           59,
-          105,
-          135
-        ],
-        "indicate": [
-          60
-        ],
-        "South": [
-          62,
-          86
-        ],
-        "Oman": [
-          63,
-          87,
-          90,
-          111
-        ],
-        "2165B&#13;\\nBiozone": [
-          64
-        ],
-        "(Late": [
-          65
-        ],
-        "Pennsylvanian),": [
-          66
-        ],
-        "suggesting": [
-          67
-        ],
-        "that": [
-          68,
-          162
-        ],
-        "in": [
-          72,
-          156,
-          165
-        ],
-        "Nala": [
-          74,
-          158
-        ],
-        "is": [
-          75,
-          163,
-          180
-        ],
-        "equivalent": [
-          76
-        ],
-        "to": [
-          77
-        ],
-        "middle": [
-          79
-        ],
-        "part&#13;\\nof": [
-          80
-        ],
-        "Al": [
-          82,
-          92
-        ],
-        "Khlata": [
-          83,
-          93
-        ],
-        "(Petroleum": [
-          88
-        ],
-        "Development": [
-          89
-        ],
-        "(PDO)": [
-          91
-        ],
-        "production": [
-          94
-        ],
-        "unit": [
-          95
-        ],
-        "AK&#13;\\nP5).": [
-          96
-        ],
-        "Brevitriletes": [
-          97,
-          99,
-          141,
-          143
-        ],
-        "leptoacaina,": [
-          98
-        ],
-        "parmatus,": [
-          100,
-          144
-        ],
-        "ramosus": [
-          102
-        ],
-        "indicate&#13;\\nthe": [
-          106
-        ],
-        "lower": [
-          107
-        ],
-        "part": [
-          108
-        ],
-        "Saudi": [
-          113
-        ],
-        "Arabia": [
-          114
-        ],
-        "Palynological": [
-          115
-        ],
-        "Zone": [
-          116
-        ],
-        "(OSPZ2).": [
-          118
-        ],
-        "The": [
-          119,
-          153
-        ],
-        "assemblages": [
-          122
-        ],
-        "are&#13;\\nalso": [
-          123
-        ],
-        "correlated": [
-          124
-        ],
-        "with": [
-          125,
-          192
-        ],
-        "those": [
-          126,
-          173
-        ],
-        "Stage": [
-          128
-        ],
-        "eastern": [
-          132
-        ],
-        "Australian": [
-          133
-        ],
-        "Oppel-zone,": [
-          136
-        ],
-        "based": [
-          137
-        ],
-        "on&#13;\\nthe": [
-          138
-        ],
-        "occurrence": [
-          139
-        ],
-        "cornutus,": [
-          142
-        ],
-        "cymbatus,": [
-          146
-        ],
-        "ramosus,&#13;\\nHorriditriletes": [
-          148
-        ],
-        "tentula.": [
-          152
-        ],
-        "lacks": [
+          108,
+          157,
           159
         ],
-        "the&#13;\\ndeglaciation": [
+        "sp.": [
+          30
+        ],
+        "and": [
+          31,
+          43,
+          46,
+          49,
+          61,
+          110,
+          120,
+          139,
+          161,
+          189,
+          213
+        ],
+        "Microbaculispora": [
+          32,
+          62,
+          111,
+          143,
+          162
+        ],
+        "tentula,": [
+          33
+        ],
+        "abundant": [
+          34
+        ],
+        "monosaccate": [
+          35
+        ],
+        "pollen": [
+          36
+        ],
+        "Barakarites": [
+          38
+        ],
+        "cf.": [
+          39
+        ],
+        "rotatus,": [
+          40
+        ],
+        "Cannanoropollis": [
+          41
+        ],
+        "janakii": [
+          42
+        ],
+        "Plicatipollenites": [
+          44
+        ],
+        "malabarensis,": [
+          45
+        ],
+        "rare": [
+          47
+        ],
+        "taeniate": [
+          48
+        ],
+        "non-taeniate": [
+          50
+        ],
+        "bisaccate": [
+          51
+        ],
+        "pollen.": [
+          52
+        ],
+        "Converrucosisporites": [
+          53
+        ],
+        "grandegranulatus,": [
+          54
+        ],
+        "Cycadopites": [
+          55,
+          155
+        ],
+        "cymbatus,": [
+          56,
+          156
+        ],
+        "ramosus,": [
+          58,
+          158
+        ],
+        "tereteangulatus": [
+          60,
           160
         ],
-        "sequence": [
-          161
+        "tentula": [
+          63,
+          112,
+          144
         ],
-        "present": [
-          164
+        "indicate": [
+          64,
+          113
         ],
-        "several": [
-          166
+        "South": [
+          66,
+          92
         ],
-        "other": [
-          167
+        "Oman": [
+          67,
+          93,
+          96,
+          119
         ],
-        "palaeogeographically": [
-          168
+        "2165B": [
+          68
         ],
-        "nearby": [
-          169
+        "Biozone": [
+          69
         ],
-        "basins": [
-          170
+        "(Late": [
+          70
         ],
-        "such": [
-          171
+        "Pennsylvanian),": [
+          71
         ],
-        "as": [
-          172
+        "suggesting": [
+          72
         ],
-        "south&#13;\\nArabia": [
-          175
+        "that": [
+          73,
+          174
         ],
-        "Western": [
+        "in": [
+          77,
+          167,
           177
         ],
-        "Australia.": [
-          178
+        "Nala": [
+          79,
+          169
         ],
-        "This": [
-          179
+        "is": [
+          80,
+          175,
+          193
         ],
-        "an": [
-          181
+        "equivalent": [
+          81
         ],
-        "indication": [
-          182
+        "to": [
+          82
         ],
-        "either": [
-          184
+        "middle": [
+          84
         ],
-        "non-deposition": [
-          185
+        "part": [
+          85,
+          116
         ],
-        "during": [
-          186
+        "Al": [
+          88,
+          98
         ],
-        "deglaciation": [
+        "Khlata": [
+          89,
+          99
+        ],
+        "(Petroleum": [
+          94
+        ],
+        "Development": [
+          95
+        ],
+        "(PDO)": [
+          97
+        ],
+        "production": [
+          100
+        ],
+        "unit": [
+          101
+        ],
+        "AK": [
+          102
+        ],
+        "P5).": [
+          103
+        ],
+        "Brevitriletes": [
+          104,
+          106,
+          151,
+          153
+        ],
+        "leptoacaina,": [
+          105
+        ],
+        "parmatus,": [
+          107,
+          154
+        ],
+        "ramosus": [
+          109
+        ],
+        "lower": [
+          115
+        ],
+        "Saudi": [
+          121
+        ],
+        "Arabia": [
+          122,
           188
         ],
-        "period": [
-          189
+        "Palynological": [
+          123
         ],
-        "or&#13;\\nerosion": [
-          190
+        "Zone": [
+          124
         ],
-        "associated": [
-          191
+        "(OSPZ2).": [
+          126
         ],
-        "unconformity": [
-          194
+        "The": [
+          127,
+          164
         ],
-        "between": [
-          195
+        "assemblages": [
+          130
         ],
-        "overlying": [
+        "are": [
+          131
+        ],
+        "also": [
+          132
+        ],
+        "correlated": [
+          133
+        ],
+        "with": [
+          134,
+          206
+        ],
+        "those": [
+          135,
+          185
+        ],
+        "Stage": [
+          137
+        ],
+        "eastern": [
+          141
+        ],
+        "Australian": [
+          142
+        ],
+        "Oppel-zone,": [
+          145
+        ],
+        "based": [
+          146
+        ],
+        "on": [
+          147
+        ],
+        "occurrence": [
+          149
+        ],
+        "cornutus,": [
+          152
+        ],
+        "tentula.": [
+          163
+        ],
+        "lacks": [
+          170
+        ],
+        "deglaciation": [
+          172,
           201
         ],
-        "Warchha": [
+        "sequence": [
+          173
+        ],
+        "present": [
+          176
+        ],
+        "several": [
+          178
+        ],
+        "other": [
+          179
+        ],
+        "palaeogeographically": [
+          180
+        ],
+        "nearby": [
+          181
+        ],
+        "basins": [
+          182
+        ],
+        "such": [
+          183
+        ],
+        "as": [
+          184
+        ],
+        "south": [
+          187
+        ],
+        "Western": [
+          190
+        ],
+        "Australia.": [
+          191
+        ],
+        "This": [
+          192
+        ],
+        "an": [
+          194
+        ],
+        "indication": [
+          195
+        ],
+        "either": [
+          197
+        ],
+        "non-deposition": [
+          198
+        ],
+        "during": [
+          199
+        ],
+        "period": [
           202
         ],
-        "Formation.": [
+        "or": [
           203
+        ],
+        "erosion": [
+          204
+        ],
+        "associated": [
+          205
+        ],
+        "unconformity": [
+          208
+        ],
+        "between": [
+          209
+        ],
+        "overlying": [
+          215
+        ],
+        "Warchha": [
+          216
+        ],
+        "Formation.": [
+          217
         ]
       },
       "counts_by_year": [
@@ -36922,7 +36921,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -37383,11 +37382,11 @@
         "currency": "USD",
         "value_usd": 3080
       },
-      "fwci": 1.6477,
+      "fwci": 1.6479,
       "has_fulltext": true,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.81097638,
+        "value": 0.81103063,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -38886,7 +38885,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -39251,11 +39250,11 @@
         "currency": "USD",
         "value_usd": 3140
       },
-      "fwci": 1.1473,
+      "fwci": 1.1472,
       "has_fulltext": true,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.74524632,
+        "value": 0.74520578,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -45007,11 +45006,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.6279,
+      "fwci": 2.969,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.92742216,
+        "value": 0.90918149,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -45520,13 +45519,13 @@
       ],
       "abstract_inverted_index": {
         "124": [
-          91
+          92
         ],
         "The": [
           0,
-          29,
-          166,
-          209
+          30,
+          169,
+          211
         ],
         "Permian": [
           1
@@ -45536,15 +45535,15 @@
         ],
         "Umm": [
           3,
-          103
+          104
         ],
         "Irna": [
           4,
-          104
+          105
         ],
         "Formation": [
           5,
-          105
+          106
         ],
         "(Jordan)": [
           6
@@ -45555,647 +45554,653 @@
         "important": [
           8
         ],
-        "plant-fossils": [
-          9
+        "plant": [
+          9,
+          150
+        ],
+        "fossils": [
+          10
         ],
         "that": [
-          10,
-          21,
-          94,
-          153,
-          275
-        ],
-        "have": [
           11,
-          235
-        ],
-        "influenced": [
-          12,
-          161
-        ],
-        "our": [
-          13
-        ],
-        "understanding": [
-          14,
-          251
-        ],
-        "of": [
-          15,
-          19,
-          26,
-          41,
-          47,
-          63,
-          78,
-          180,
-          192,
-          197,
-          214,
-          231,
-          241,
-          244,
-          265
-        ],
-        "the": [
-          16,
-          24,
-          27,
-          39,
-          85,
-          102,
-          137,
-          150,
+          22,
+          95,
           156,
-          171,
-          174,
-          184,
-          198,
-          205,
-          212,
-          219,
-          232,
-          238,
-          245,
-          252
-        ],
-        "early": [
-          17
-        ],
-        "evolution": [
-          18
-        ],
-        "plants": [
-          20
-        ],
-        "later": [
-          22
-        ],
-        "dominated": [
-          23
-        ],
-        "vegetation": [
-          25,
-          216
-        ],
-        "Mesozoic.": [
-          28
-        ],
-        "formation": [
-          30
-        ],
-        "was": [
-          31
-        ],
-        "deposited": [
-          32
-        ],
-        "in": [
-          33,
-          90,
-          101,
-          136,
-          155,
-          227,
-          273,
-          293
-        ],
-        "a": [
-          34,
-          59,
-          107,
-          112,
-          178,
-          189
-        ],
-        "fluvial": [
-          35
-        ],
-        "regime": [
-          36
-        ],
-        "characterized": [
-          37
-        ],
-        "by": [
-          38,
-          163
-        ],
-        "co-occurrence": [
-          40
-        ],
-        "stacked": [
-          42,
-          68
-        ],
-        "small-scale": [
-          43
-        ],
-        "braided": [
-          44
-        ],
-        "channels": [
-          45,
-          50
-        ],
-        "and": [
-          46,
-          73,
-          76,
-          120,
-          201,
-          207,
-          247,
-          249,
-          281,
-          288,
-          290
-        ],
-        "larger,": [
-          48
-        ],
-        "higher-sinuosity": [
-          49
-        ],
-        "with": [
-          51,
-          146
-        ],
-        "deposition": [
-          52
-        ],
-        "on": [
-          53,
-          218
-        ],
-        "point": [
-          54
-        ],
-        "bars,": [
-          55
-        ],
-        "all": [
-          56
-        ],
-        "intercalated": [
-          57
-        ],
-        "into": [
-          58
-        ],
-        "heterogenous": [
-          60
-        ],
-        "background": [
-          61
-        ],
-        "sedimentation": [
-          62
-        ],
-        "finer-grained": [
-          64
-        ],
-        "floodplain": [
-          65,
-          185,
-          220
-        ],
-        "deposits,": [
-          66,
-          70
-        ],
-        "including": [
-          67
-        ],
-        "crevasse-splay": [
-          69
-        ],
-        "interspersed": [
-          71
-        ],
-        "abandoned-channel": [
-          72
-        ],
-        "oxbow-lake": [
-          74
-        ],
-        "fills,": [
-          75
-        ],
-        "lenses": [
-          77
-        ],
-        "peaty": [
-          79
-        ],
-        "back-swamp": [
-          80
-        ],
-        "deposits.": [
-          81
-        ],
-        "Here,": [
-          82
-        ],
-        "we": [
-          83
-        ],
-        "document": [
-          84
-        ],
-        "remarkable": [
-          86
-        ],
-        "compositional": [
-          87
-        ],
-        "variability": [
-          88,
-          154
-        ],
-        "expressed": [
-          89
-        ],
-        "palynomorph": [
-          92
-        ],
-        "assemblages": [
-          93
-        ],
-        "were": [
-          95
-        ],
-        "recovered": [
-          96
-        ],
-        "from": [
-          97,
-          182,
-          188
-        ],
-        "different": [
-          98,
-          133
-        ],
-        "argillaceous": [
-          99,
-          125,
-          134
-        ],
-        "deposits": [
-          100
-        ],
-        "within": [
-          106,
-          123
-        ],
-        "∼2-km2": [
-          108
-        ],
-        "outcrop": [
-          109
-        ],
-        "area": [
-          110
-        ],
-        "around": [
-          111
-        ],
-        "major": [
-          113,
-          172
-        ],
-        "meandering": [
-          114
-        ],
-        "channel.": [
-          115
-        ],
-        "Our": [
-          116
-        ],
-        "results": [
-          117,
-          151
-        ],
-        "reveal": [
-          118
-        ],
-        "lateral": [
-          119,
-          130
-        ],
-        "vertical": [
-          121
-        ],
-        "variation": [
-          122,
-          131
-        ],
-        "individual": [
-          124,
-          262
-        ],
-        "units,": [
-          126
-        ],
-        "as": [
-          127,
-          129,
-          268
-        ],
-        "well": [
-          128
-        ],
-        "between": [
-          132
-        ],
-        "units": [
-          135,
-          257,
-          263
-        ],
-        "same": [
-          138
-        ],
-        "sedimentary": [
-          139
-        ],
-        "complex": [
-          140
-        ],
-        "at": [
-          141
-        ],
-        "similar": [
-          142
-        ],
-        "stratigraphic": [
-          143
-        ],
-        "levels.When": [
-          144
-        ],
-        "combined": [
-          145
-        ],
-        "plant": [
-          147
-        ],
-        "macrofossil": [
-          148
-        ],
-        "data,": [
-          149
-        ],
-        "show": [
-          152
-        ],
-        "palynological": [
-          157,
-          239,
-          259
-        ],
-        "content": [
-          158
-        ],
-        "may": [
-          159
-        ],
-        "be": [
-          160,
-          224,
-          277
-        ],
-        "mainly": [
-          162
-        ],
-        "two": [
-          164
-        ],
-        "factors.": [
-          165
-        ],
-        "first": [
-          167
-        ],
-        "is": [
-          168,
-          211
-        ],
-        "connectedness": [
-          169
-        ],
-        "to": [
-          170,
-          204,
-          254,
-          270
-        ],
-        "channel;": [
-          173
-        ],
-        "drainage": [
-          175
-        ],
-        "system": [
-          176
-        ],
-        "carried": [
-          177
-        ],
-        "mixture": [
-          179
-        ],
-        "palynomorphs": [
-          181
-        ],
-        "across": [
-          183
-        ],
-        "but": [
-          186
-        ],
-        "also": [
-          187
-        ],
-        "large": [
-          190
-        ],
-        "hinterland": [
-          191
-        ],
-        "tributaries": [
-          193
-        ],
-        "draining": [
-          194
-        ],
-        "higher": [
-          195
-        ],
-        "parts": [
-          196,
-          230
-        ],
-        "flood": [
-          199
-        ],
-        "plain": [
-          200
-        ],
-        "uplands": [
-          202
-        ],
-        "beyond": [
-          203
-        ],
-        "south": [
-          206
-        ],
-        "east.": [
-          208
-        ],
-        "second": [
-          210
-        ],
-        "influence": [
-          213
-        ],
-        "local": [
-          215
-        ],
-        "communities": [
-          217
-        ],
-        "which": [
-          221
-        ],
-        "would": [
-          222
-        ],
-        "likely": [
-          223
-        ],
-        "more": [
-          225
-        ],
-        "marked": [
-          226
-        ],
-        "less": [
-          228
-        ],
-        "connected": [
-          229
-        ],
-        "floodplain.These": [
-          233
-        ],
-        "findings": [
-          234
-        ],
-        "implications": [
-          236
-        ],
-        "for": [
-          237,
-          250,
-          279
-        ],
-        "study": [
-          240
-        ],
-        "alluvial": [
-          242,
-          294
-        ],
-        "sequences": [
-          243
-        ],
-        "Mesozoic": [
-          246
-        ],
-        "Paleozoic,": [
-          248
-        ],
-        "ability": [
-          253
-        ],
-        "identify": [
-          255
-        ],
-        "mudstone": [
-          256
-        ],
-        "via": [
-          258
-        ],
-        "fingerprinting.": [
-          260
-        ],
-        "Such": [
-          261
-        ],
-        "are": [
-          264
-        ],
-        "great": [
-          266
-        ],
-        "importance": [
-          267
-        ],
-        "baffles": [
-          269
-        ],
-        "fluid": [
-          271
-        ],
-        "flow": [
-          272
-        ],
-        "reservoirs": [
-          274
-        ],
-        "might": [
-          276
-        ],
-        "used": [
           278
         ],
-        "oil": [
+        "have": [
+          12,
+          238
+        ],
+        "influenced": [
+          13,
+          164
+        ],
+        "our": [
+          14
+        ],
+        "understanding": [
+          15,
+          254
+        ],
+        "of": [
+          16,
+          20,
+          27,
+          42,
+          48,
+          64,
+          79,
+          183,
+          195,
+          200,
+          216,
+          233,
+          244,
+          247,
+          268
+        ],
+        "the": [
+          17,
+          25,
+          28,
+          40,
+          86,
+          103,
+          139,
+          153,
+          159,
+          174,
+          177,
+          187,
+          201,
+          207,
+          214,
+          221,
+          234,
+          241,
+          248,
+          255
+        ],
+        "early": [
+          18
+        ],
+        "evolution": [
+          19
+        ],
+        "plants": [
+          21
+        ],
+        "later": [
+          23
+        ],
+        "dominated": [
+          24
+        ],
+        "vegetation": [
+          26,
+          218
+        ],
+        "Mesozoic.": [
+          29
+        ],
+        "formation": [
+          31
+        ],
+        "was": [
+          32
+        ],
+        "deposited": [
+          33
+        ],
+        "in": [
+          34,
+          91,
+          102,
+          138,
+          158,
+          229,
+          276,
+          297
+        ],
+        "a": [
+          35,
+          60,
+          108,
+          114,
+          181,
+          192
+        ],
+        "fluvial": [
+          36
+        ],
+        "regime": [
+          37
+        ],
+        "characterised": [
+          38
+        ],
+        "by": [
+          39,
+          166
+        ],
+        "co-occurrence": [
+          41
+        ],
+        "stacked": [
+          43,
+          69
+        ],
+        "small-scale": [
+          44
+        ],
+        "braided": [
+          45
+        ],
+        "channels": [
+          46,
+          51
+        ],
+        "and": [
+          47,
+          74,
+          77,
+          122,
+          203,
+          209,
+          250,
+          252,
+          284,
+          292,
+          294
+        ],
+        "larger,": [
+          49
+        ],
+        "higher-sinuosity": [
+          50
+        ],
+        "with": [
+          52,
+          149
+        ],
+        "deposition": [
+          53
+        ],
+        "on": [
+          54,
+          220
+        ],
+        "point": [
+          55
+        ],
+        "bars,": [
+          56
+        ],
+        "all": [
+          57
+        ],
+        "intercalated": [
+          58
+        ],
+        "into": [
+          59
+        ],
+        "heterogeneous": [
+          61
+        ],
+        "background": [
+          62
+        ],
+        "sedimentation": [
+          63
+        ],
+        "finer-grained": [
+          65
+        ],
+        "floodplain": [
+          66,
+          188,
+          202,
+          222
+        ],
+        "deposits,": [
+          67,
+          71
+        ],
+        "including": [
+          68
+        ],
+        "crevasse-splay": [
+          70
+        ],
+        "interspersed": [
+          72
+        ],
+        "abandoned-channel": [
+          73
+        ],
+        "oxbow-lake": [
+          75
+        ],
+        "fills,": [
+          76
+        ],
+        "lenses": [
+          78
+        ],
+        "peaty": [
+          80
+        ],
+        "back-swamp": [
+          81
+        ],
+        "deposits.": [
+          82
+        ],
+        "Here,": [
+          83
+        ],
+        "we": [
+          84
+        ],
+        "document": [
+          85
+        ],
+        "remarkable": [
+          87
+        ],
+        "compositional": [
+          88
+        ],
+        "variability": [
+          89,
+          157
+        ],
+        "expressed": [
+          90
+        ],
+        "palynomorph": [
+          93
+        ],
+        "assemblages": [
+          94
+        ],
+        "were": [
+          96
+        ],
+        "recovered": [
+          97
+        ],
+        "from": [
+          98,
+          185,
+          191
+        ],
+        "different": [
+          99,
+          135
+        ],
+        "argillaceous": [
+          100,
+          127,
+          136
+        ],
+        "deposits": [
+          101
+        ],
+        "within": [
+          107,
+          125
+        ],
+        "∼2": [
+          109
+        ],
+        "km2": [
+          110
+        ],
+        "outcrop": [
+          111
+        ],
+        "area": [
+          112
+        ],
+        "around": [
+          113
+        ],
+        "major": [
+          115,
+          175
+        ],
+        "meandering": [
+          116
+        ],
+        "channel.": [
+          117
+        ],
+        "Our": [
+          118
+        ],
+        "results": [
+          119,
+          154
+        ],
+        "reveal": [
+          120
+        ],
+        "lateral": [
+          121,
+          132
+        ],
+        "vertical": [
+          123
+        ],
+        "variation": [
+          124,
+          133
+        ],
+        "individual": [
+          126,
+          265
+        ],
+        "units,": [
+          128
+        ],
+        "as": [
+          129,
+          131,
+          271
+        ],
+        "well": [
+          130
+        ],
+        "between": [
+          134
+        ],
+        "units": [
+          137,
+          260,
+          266
+        ],
+        "same": [
+          140
+        ],
+        "sedimentary": [
+          141
+        ],
+        "complex": [
+          142
+        ],
+        "at": [
+          143
+        ],
+        "similar": [
+          144
+        ],
+        "stratigraphic": [
+          145
+        ],
+        "levels.": [
+          146
+        ],
+        "When": [
+          147
+        ],
+        "combined": [
+          148
+        ],
+        "macrofossil": [
+          151
+        ],
+        "data,": [
+          152
+        ],
+        "show": [
+          155
+        ],
+        "palynological": [
+          160,
+          242,
+          262
+        ],
+        "content": [
+          161
+        ],
+        "may": [
+          162
+        ],
+        "be": [
+          163,
+          226,
           280
         ],
-        "gas,": [
+        "mainly": [
+          165
+        ],
+        "two": [
+          167
+        ],
+        "factors.": [
+          168
+        ],
+        "first": [
+          170
+        ],
+        "is": [
+          171,
+          213
+        ],
+        "connectedness": [
+          172
+        ],
+        "to": [
+          173,
+          206,
+          257,
+          273
+        ],
+        "channel;": [
+          176
+        ],
+        "drainage": [
+          178
+        ],
+        "system": [
+          179
+        ],
+        "carried": [
+          180
+        ],
+        "mixture": [
+          182
+        ],
+        "palynomorphs": [
+          184
+        ],
+        "across": [
+          186
+        ],
+        "but": [
+          189
+        ],
+        "also": [
+          190
+        ],
+        "large": [
+          193
+        ],
+        "hinterland": [
+          194
+        ],
+        "tributaries": [
+          196
+        ],
+        "draining": [
+          197
+        ],
+        "higher": [
+          198
+        ],
+        "parts": [
+          199,
+          232
+        ],
+        "uplands": [
+          204
+        ],
+        "beyond": [
+          205
+        ],
+        "south": [
+          208
+        ],
+        "east.": [
+          210
+        ],
+        "second": [
+          212
+        ],
+        "influence": [
+          215
+        ],
+        "local": [
+          217
+        ],
+        "communities": [
+          219
+        ],
+        "which": [
+          223
+        ],
+        "would": [
+          224
+        ],
+        "likely": [
+          225
+        ],
+        "more": [
+          227
+        ],
+        "marked": [
+          228
+        ],
+        "less": [
+          230
+        ],
+        "connected": [
+          231
+        ],
+        "floodplain.": [
+          235
+        ],
+        "These": [
+          236
+        ],
+        "findings": [
+          237
+        ],
+        "implications": [
+          239
+        ],
+        "for": [
+          240,
+          253,
           282
         ],
-        "low": [
+        "study": [
+          243
+        ],
+        "alluvial": [
+          245,
+          298
+        ],
+        "sequences": [
+          246
+        ],
+        "Palaeozoic": [
+          249
+        ],
+        "Mesozoic,": [
+          251
+        ],
+        "ability": [
+          256
+        ],
+        "identify": [
+          258
+        ],
+        "mudstone": [
+          259
+        ],
+        "via": [
+          261
+        ],
+        "fingerprinting.": [
+          263
+        ],
+        "Such": [
+          264
+        ],
+        "are": [
+          267
+        ],
+        "great": [
+          269
+        ],
+        "importance": [
+          270
+        ],
+        "baffles": [
+          272
+        ],
+        "fluid": [
+          274
+        ],
+        "flow": [
+          275
+        ],
+        "reservoirs": [
+          277
+        ],
+        "might": [
+          279
+        ],
+        "used": [
+          281
+        ],
+        "oil": [
           283
         ],
-        "temperature": [
-          284
-        ],
-        "geothermal,": [
+        "gas,": [
           285
         ],
-        "carbon": [
+        "low-temperature": [
           286
         ],
-        "capture": [
+        "geothermal": [
           287
         ],
-        "storage,": [
-          289
+        "energy": [
+          288
         ],
-        "hydrogen": [
+        "storage,": [
+          289,
+          293
+        ],
+        "carbon": [
+          290
+        ],
+        "capture": [
           291
         ],
+        "hydrogen": [
+          295
+        ],
         "storage": [
-          292
+          296
         ],
         "successions.": [
-          295
+          299
         ]
       },
       "counts_by_year": [
@@ -46208,7 +46213,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-07-14T08:27:34.040176",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -47078,1386 +47083,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4241953878",
-      "doi": "https://doi.org/10.1080/01916122.2009.9989672",
-      "title": "The age of the carboniferous‐Permian<i>Converrucosisporites confluens</i>Oppel biozone: New data from the Ganigobis shale member (DWYKA group) of Namibia",
-      "display_name": "The age of the carboniferous‐Permian<i>Converrucosisporites confluens</i>Oppel biozone: New data from the Ganigobis shale member (DWYKA group) of Namibia",
-      "publication_year": 2009,
-      "publication_date": "2009-12-01",
-      "ids": {
-        "openalex": "https://openalex.org/W4241953878",
-        "doi": "https://doi.org/10.1080/01916122.2009.9989672"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1080/01916122.2009.9989672",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1080/01916122.2009.9989672",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S80110507",
-          "display_name": "Palynology",
-          "issn_l": "0191-6122",
-          "issn": [
-            "0191-6122",
-            "1558-9188"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320547",
-          "host_organization_name": "Taylor & Francis",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320547"
-          ],
-          "host_organization_lineage_names": [
-            "Taylor & Francis"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Palynology",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5040147688",
-            "display_name": "Michael H. Stephenson",
-            "orcid": "https://orcid.org/0000-0002-9881-1578"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I139290333",
-              "display_name": "British Geological Survey",
-              "ror": "https://ror.org/04a7gbp98",
-              "country_code": "GB",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I139290333",
-                "https://openalex.org/I141816643",
-                "https://openalex.org/I4210087105"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Michael H. Stephenson",
-          "raw_affiliation_strings": [
-            "Kingsley Dunham Centre , British Geological Survey , Keyworth , Nottingham , NG12 5GG , United Kingdom E-mail: mhste@bgs.ac.uk",
-            "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK"
-          ],
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Kingsley Dunham Centre , British Geological Survey , Keyworth , Nottingham , NG12 5GG , United Kingdom E-mail: mhste@bgs.ac.uk",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
-            {
-              "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5040147688"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I139290333"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.4999,
-      "has_fulltext": false,
-      "cited_by_count": 6,
-      "citation_normalized_percentile": {
-        "value": 0.79705223,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "33",
-        "issue": "1",
-        "first_page": "167",
-        "last_page": "177"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.9997000098228455,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9997000098228455,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10001",
-          "display_name": "Geological and Geochemical Analysis",
-          "score": 0.9983000159263611,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12157",
-          "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.9976999759674072,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/gondwana",
-          "display_name": "Gondwana",
-          "score": 0.9237513542175293
-        },
-        {
-          "id": "https://openalex.org/keywords/carboniferous",
-          "display_name": "Carboniferous",
-          "score": 0.7999102473258972
-        },
-        {
-          "id": "https://openalex.org/keywords/permian",
-          "display_name": "Permian",
-          "score": 0.7694644927978516
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.7554970979690552
-        },
-        {
-          "id": "https://openalex.org/keywords/biozone",
-          "display_name": "Biozone",
-          "score": 0.7085620164871216
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.674188494682312
-        },
-        {
-          "id": "https://openalex.org/keywords/fauna",
-          "display_name": "Fauna",
-          "score": 0.525995135307312
-        },
-        {
-          "id": "https://openalex.org/keywords/oil-shale",
-          "display_name": "Oil shale",
-          "score": 0.5200130939483643
-        },
-        {
-          "id": "https://openalex.org/keywords/pennsylvanian",
-          "display_name": "Pennsylvanian",
-          "score": 0.5180792808532715
-        },
-        {
-          "id": "https://openalex.org/keywords/laurasia",
-          "display_name": "Laurasia",
-          "score": 0.496131032705307
-        },
-        {
-          "id": "https://openalex.org/keywords/biostratigraphy",
-          "display_name": "Biostratigraphy",
-          "score": 0.32575133442878723
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.30263274908065796
-        },
-        {
-          "id": "https://openalex.org/keywords/ecology",
-          "display_name": "Ecology",
-          "score": 0.07116255164146423
-        },
-        {
-          "id": "https://openalex.org/keywords/biology",
-          "display_name": "Biology",
-          "score": 0.06704902648925781
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2781148125",
-          "wikidata": "https://www.wikidata.org/wiki/Q80583",
-          "display_name": "Gondwana",
-          "level": 3,
-          "score": 0.9237513542175293
-        },
-        {
-          "id": "https://openalex.org/C149918038",
-          "wikidata": "https://www.wikidata.org/wiki/Q133738",
-          "display_name": "Carboniferous",
-          "level": 3,
-          "score": 0.7999102473258972
-        },
-        {
-          "id": "https://openalex.org/C83365034",
-          "wikidata": "https://www.wikidata.org/wiki/Q76402",
-          "display_name": "Permian",
-          "level": 3,
-          "score": 0.7694644927978516
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.7554970979690552
-        },
-        {
-          "id": "https://openalex.org/C164375970",
-          "wikidata": "https://www.wikidata.org/wiki/Q2110260",
-          "display_name": "Biozone",
-          "level": 3,
-          "score": 0.7085620164871216
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.674188494682312
-        },
-        {
-          "id": "https://openalex.org/C125471540",
-          "wikidata": "https://www.wikidata.org/wiki/Q104021",
-          "display_name": "Fauna",
-          "level": 2,
-          "score": 0.525995135307312
-        },
-        {
-          "id": "https://openalex.org/C153127940",
-          "wikidata": "https://www.wikidata.org/wiki/Q221378",
-          "display_name": "Oil shale",
-          "level": 2,
-          "score": 0.5200130939483643
-        },
-        {
-          "id": "https://openalex.org/C2779650180",
-          "wikidata": "https://www.wikidata.org/wiki/Q373772",
-          "display_name": "Pennsylvanian",
-          "level": 3,
-          "score": 0.5180792808532715
-        },
-        {
-          "id": "https://openalex.org/C2776322157",
-          "wikidata": "https://www.wikidata.org/wiki/Q132033",
-          "display_name": "Laurasia",
-          "level": 4,
-          "score": 0.496131032705307
-        },
-        {
-          "id": "https://openalex.org/C61721801",
-          "wikidata": "https://www.wikidata.org/wiki/Q864826",
-          "display_name": "Biostratigraphy",
-          "level": 2,
-          "score": 0.32575133442878723
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.30263274908065796
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0.07116255164146423
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0.06704902648925781
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1080/01916122.2009.9989672",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1080/01916122.2009.9989672",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S80110507",
-            "display_name": "Palynology",
-            "issn_l": "0191-6122",
-            "issn": [
-              "0191-6122",
-              "1558-9188"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320547",
-            "host_organization_name": "Taylor & Francis",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320547"
-            ],
-            "host_organization_lineage_names": [
-              "Taylor & Francis"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Palynology",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [
-        {
-          "id": "https://openalex.org/G2694040777",
-          "display_name": null,
-          "funder_award_id": "bgs05004",
-          "funder_id": "https://openalex.org/F4320320022",
-          "funder_display_name": "Sight Research UK"
-        },
-        {
-          "id": "https://openalex.org/G5419055303",
-          "display_name": null,
-          "funder_award_id": "bgs05004",
-          "funder_id": "https://openalex.org/F4320334631",
-          "funder_display_name": "Natural Environment Research Council"
-        }
-      ],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320320022",
-          "display_name": "Sight Research UK",
-          "ror": "https://ror.org/03z2py885"
-        },
-        {
-          "id": "https://openalex.org/F4320334631",
-          "display_name": "Natural Environment Research Council",
-          "ror": "https://ror.org/02b5d8509"
-        }
-      ],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 18,
-      "referenced_works": [
-        "https://openalex.org/W252477280",
-        "https://openalex.org/W1485158149",
-        "https://openalex.org/W1531840431",
-        "https://openalex.org/W1571958385",
-        "https://openalex.org/W1836774004",
-        "https://openalex.org/W1895201370",
-        "https://openalex.org/W1981181170",
-        "https://openalex.org/W1989916338",
-        "https://openalex.org/W1990323529",
-        "https://openalex.org/W2005416144",
-        "https://openalex.org/W2009852113",
-        "https://openalex.org/W2018598691",
-        "https://openalex.org/W2053154125",
-        "https://openalex.org/W2062573951",
-        "https://openalex.org/W2064245639",
-        "https://openalex.org/W2090016958",
-        "https://openalex.org/W2986225371",
-        "https://openalex.org/W4232328127"
-      ],
-      "related_works": [
-        "https://openalex.org/W4248027011",
-        "https://openalex.org/W1588612331",
-        "https://openalex.org/W2028178701",
-        "https://openalex.org/W4388246337",
-        "https://openalex.org/W2235353169",
-        "https://openalex.org/W2058252807",
-        "https://openalex.org/W2967749261",
-        "https://openalex.org/W2089253931",
-        "https://openalex.org/W4388253249",
-        "https://openalex.org/W2081242734"
-      ],
-      "abstract_inverted_index": {
-        "1": [
-          22
-        ],
-        "Abstract": [
-          0
-        ],
-        "The": [
-          1,
-          79
-        ],
-        "establishment": [
-          2
-        ],
-        "of": [
-          3,
-          13,
-          111,
-          121,
-          136,
-          167,
-          171
-        ],
-        "the": [
-          4,
-          10,
-          19,
-          37,
-          50,
-          57,
-          107,
-          122,
-          128,
-          137,
-          154,
-          168,
-          189,
-          192
-        ],
-        "Converrucosisporites": [
-          5,
-          101,
-          129,
-          155,
-          172,
-          193
-        ],
-        "confluens": [
-          6,
-          102,
-          130,
-          156,
-          173,
-          194
-        ],
-        "Oppel": [
-          7,
-          131,
-          157,
-          195
-        ],
-        "Zone": [
-          8,
-          158,
-          196
-        ],
-        "in": [
-          9,
-          15,
-          30,
-          64,
-          88,
-          113,
-          174,
-          185
-        ],
-        "Canning": [
-          11
-        ],
-        "Basin": [
-          12
-        ],
-        "Australia": [
-          14,
-          187
-        ],
-        "cored": [
-          16
-        ],
-        "intervals": [
-          17
-        ],
-        "from": [
-          18,
-          106
-        ],
-        "Calytrix": [
-          20
-        ],
-        "No.": [
-          21
-        ],
-        "Borehole": [
-          23
-        ],
-        "was": [
-          24,
-          35,
-          81,
-          92
-        ],
-        "considered": [
-          25,
-          83
-        ],
-        "to": [
-          26,
-          85,
-          95,
-          98
-        ],
-        "be": [
-          27,
-          199
-        ],
-        "an": [
-          28
-        ],
-        "advance": [
-          29
-        ],
-        "Gondwana": [
-          31,
-          65
-        ],
-        "Carboniferous‐Permian": [
-          32
-        ],
-        "palynostratigraphy.": [
-          33
-        ],
-        "This": [
-          34
-        ],
-        "because": [
-          36
-        ],
-        "zone": [
-          38,
-          80
-        ],
-        "is": [
-          39,
-          103,
-          141
-        ],
-        "associated": [
-          40
-        ],
-        "with": [
-          41,
-          49,
-          188
-        ],
-        "a": [
-          42,
-          47,
-          61,
-          114
-        ],
-        "marine": [
-          43
-        ],
-        "fauna": [
-          44
-        ],
-        "that": [
-          45,
-          179,
-          191
-        ],
-        "suggests": [
-          46,
-          178
-        ],
-        "correlation": [
-          48
-        ],
-        "standard": [
-          51
-        ],
-        "Russian": [
-          52
-        ],
-        "Early": [
-          53,
-          99
-        ],
-        "Permian": [
-          54
-        ],
-        "stages.": [
-          55
-        ],
-        "Moreover": [
-          56
-        ],
-        "index": [
-          58
-        ],
-        "species": [
-          59
-        ],
-        "has": [
-          60
-        ],
-        "wide": [
-          62
-        ],
-        "occurrence": [
-          63
-        ],
-        "outside": [
-          66
-        ],
-        "Australia,": [
-          67
-        ],
-        "for": [
-          68,
-          127
-        ],
-        "example": [
-          69
-        ],
-        "Antarctica,": [
-          70
-        ],
-        "Argentina,": [
-          71
-        ],
-        "Brazil,": [
-          72
-        ],
-        "India,": [
-          73
-        ],
-        "Oman,": [
-          74
-        ],
-        "Saudi": [
-          75
-        ],
-        "Arabia,": [
-          76
-        ],
-        "and": [
-          77,
-          116,
-          176
-        ],
-        "Uruguay.": [
-          78
-        ],
-        "originally": [
-          82
-        ],
-        "middle": [
-          84
-        ],
-        "late": [
-          86
-        ],
-        "Asselian": [
-          87,
-          97
-        ],
-        "age,": [
-          89
-        ],
-        "but": [
-          90
-        ],
-        "this": [
-          91
-        ],
-        "later": [
-          93
-        ],
-        "revised": [
-          94
-        ],
-        "latest": [
-          96
-        ],
-        "Sakmarian.": [
-          100
-        ],
-        "reported": [
-          104
-        ],
-        "here": [
-          105
-        ],
-        "Ganigobis": [
-          108,
-          138
-        ],
-        "Shale": [
-          109,
-          139
-        ],
-        "Member": [
-          110,
-          140
-        ],
-        "Namibia": [
-          112
-        ],
-        "well‐preserved": [
-          115
-        ],
-        "diverse": [
-          117
-        ],
-        "assemblage": [
-          118
-        ],
-        "including": [
-          119
-        ],
-        "four": [
-          120
-        ],
-        "fourteen": [
-          123
-        ],
-        "specified": [
-          124
-        ],
-        "accessory": [
-          125
-        ],
-        "taxa": [
-          126
-        ],
-        "Zone.": [
-          132
-        ],
-        "Ash": [
-          133
-        ],
-        "layer": [
-          134
-        ],
-        "IIb": [
-          135
-        ],
-        "radiometrically": [
-          142
-        ],
-        "dated": [
-          143
-        ],
-        "as": [
-          144
-        ],
-        "302.0": [
-          145
-        ],
-        "±3.0": [
-          146
-        ],
-        "Ma": [
-          147
-        ],
-        "(i.e.": [
-          148
-        ],
-        "Pennsylvanian;": [
-          149
-        ],
-        "Gzhelian": [
-          150
-        ],
-        "or": [
-          151
-        ],
-        "Kasimovian)": [
-          152
-        ],
-        "thus": [
-          153
-        ],
-        "may": [
-          159,
-          197
-        ],
-        "range": [
-          160,
-          169
-        ],
-        "earlier": [
-          161
-        ],
-        "than": [
-          162,
-          184,
-          201
-        ],
-        "previously": [
-          163,
-          202
-        ],
-        "thought.": [
-          164,
-          203
-        ],
-        "Preliminary": [
-          165
-        ],
-        "study": [
-          166
-        ],
-        "top": [
-          170
-        ],
-        "Argentina": [
-          175
-        ],
-        "Uruguay": [
-          177
-        ],
-        "it": [
-          180
-        ],
-        "ranges": [
-          181
-        ],
-        "younger": [
-          182,
-          200
-        ],
-        "there": [
-          183
-        ],
-        "Western": [
-          186
-        ],
-        "possibility": [
-          190
-        ],
-        "also": [
-          198
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W62875221",
-      "doi": "https://doi.org/10.1016/b978-0-12-801606-0.00009-1",
-      "title": "The Science behind the Controversy",
-      "display_name": "The Science behind the Controversy",
-      "publication_year": 2015,
-      "publication_date": "2015-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W62875221",
-        "doi": "https://doi.org/10.1016/b978-0-12-801606-0.00009-1",
-        "mag": "62875221"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/b978-0-12-801606-0.00009-1",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/b978-0-12-801606-0.00009-1",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306463230",
-          "display_name": "Elsevier eBooks",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "ebook platform"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Shale Gas and Fracking",
-        "raw_type": "book-chapter"
-      },
-      "type": "book-chapter",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5040147688",
-            "display_name": "Michael H. Stephenson",
-            "orcid": "https://orcid.org/0000-0002-9881-1578"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "Michael Stephenson",
-          "raw_affiliation_strings": [],
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5040147688"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.707,
-      "has_fulltext": false,
-      "cited_by_count": 6,
-      "citation_normalized_percentile": {
-        "value": 0.69074861,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 99
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "141",
-        "last_page": "145"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11588",
-        "display_name": "Atmospheric and Environmental Gas Dynamics",
-        "score": 0.8766000270843506,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2306",
-          "display_name": "Global and Planetary Change"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11588",
-          "display_name": "Atmospheric and Environmental Gas Dynamics",
-          "score": 0.8766000270843506,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2306",
-            "display_name": "Global and Planetary Change"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/livelihood",
-          "display_name": "Livelihood",
-          "score": 0.561479926109314
-        },
-        {
-          "id": "https://openalex.org/keywords/value",
-          "display_name": "Value (mathematics)",
-          "score": 0.5010900497436523
-        },
-        {
-          "id": "https://openalex.org/keywords/work",
-          "display_name": "Work (physics)",
-          "score": 0.47654396295547485
-        },
-        {
-          "id": "https://openalex.org/keywords/shale-gas",
-          "display_name": "Shale gas",
-          "score": 0.4545357823371887
-        },
-        {
-          "id": "https://openalex.org/keywords/energy",
-          "display_name": "Energy (signal processing)",
-          "score": 0.44023025035858154
-        },
-        {
-          "id": "https://openalex.org/keywords/epistemology",
-          "display_name": "Epistemology",
-          "score": 0.36185306310653687
-        },
-        {
-          "id": "https://openalex.org/keywords/oil-shale",
-          "display_name": "Oil shale",
-          "score": 0.33047816157341003
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.2630468010902405
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.1947895586490631
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.15530866384506226
-        },
-        {
-          "id": "https://openalex.org/keywords/philosophy",
-          "display_name": "Philosophy",
-          "score": 0.14432987570762634
-        },
-        {
-          "id": "https://openalex.org/keywords/physics",
-          "display_name": "Physics",
-          "score": 0.13087666034698486
-        },
-        {
-          "id": "https://openalex.org/keywords/mechanical-engineering",
-          "display_name": "Mechanical engineering",
-          "score": 0.07984524965286255
-        },
-        {
-          "id": "https://openalex.org/keywords/archaeology",
-          "display_name": "Archaeology",
-          "score": 0.05892312526702881
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C3987366",
-          "wikidata": "https://www.wikidata.org/wiki/Q6658164",
-          "display_name": "Livelihood",
-          "level": 3,
-          "score": 0.561479926109314
-        },
-        {
-          "id": "https://openalex.org/C2776291640",
-          "wikidata": "https://www.wikidata.org/wiki/Q2912517",
-          "display_name": "Value (mathematics)",
-          "level": 2,
-          "score": 0.5010900497436523
-        },
-        {
-          "id": "https://openalex.org/C18762648",
-          "wikidata": "https://www.wikidata.org/wiki/Q42213",
-          "display_name": "Work (physics)",
-          "level": 2,
-          "score": 0.47654396295547485
-        },
-        {
-          "id": "https://openalex.org/C2993020645",
-          "wikidata": "https://www.wikidata.org/wiki/Q564726",
-          "display_name": "Shale gas",
-          "level": 3,
-          "score": 0.4545357823371887
-        },
-        {
-          "id": "https://openalex.org/C186370098",
-          "wikidata": "https://www.wikidata.org/wiki/Q442787",
-          "display_name": "Energy (signal processing)",
-          "level": 2,
-          "score": 0.44023025035858154
-        },
-        {
-          "id": "https://openalex.org/C111472728",
-          "wikidata": "https://www.wikidata.org/wiki/Q9471",
-          "display_name": "Epistemology",
-          "level": 1,
-          "score": 0.36185306310653687
-        },
-        {
-          "id": "https://openalex.org/C153127940",
-          "wikidata": "https://www.wikidata.org/wiki/Q221378",
-          "display_name": "Oil shale",
-          "level": 2,
-          "score": 0.33047816157341003
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.2630468010902405
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.1947895586490631
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.15530866384506226
-        },
-        {
-          "id": "https://openalex.org/C138885662",
-          "wikidata": "https://www.wikidata.org/wiki/Q5891",
-          "display_name": "Philosophy",
-          "level": 0,
-          "score": 0.14432987570762634
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0.13087666034698486
-        },
-        {
-          "id": "https://openalex.org/C78519656",
-          "wikidata": "https://www.wikidata.org/wiki/Q101333",
-          "display_name": "Mechanical engineering",
-          "level": 1,
-          "score": 0.07984524965286255
-        },
-        {
-          "id": "https://openalex.org/C166957645",
-          "wikidata": "https://www.wikidata.org/wiki/Q23498",
-          "display_name": "Archaeology",
-          "level": 1,
-          "score": 0.05892312526702881
-        },
-        {
-          "id": "https://openalex.org/C548081761",
-          "wikidata": "https://www.wikidata.org/wiki/Q180388",
-          "display_name": "Waste management",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C62520636",
-          "wikidata": "https://www.wikidata.org/wiki/Q944",
-          "display_name": "Quantum mechanics",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C119857082",
-          "wikidata": "https://www.wikidata.org/wiki/Q2539",
-          "display_name": "Machine learning",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C118518473",
-          "wikidata": "https://www.wikidata.org/wiki/Q11451",
-          "display_name": "Agriculture",
-          "level": 2,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/b978-0-12-801606-0.00009-1",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/b978-0-12-801606-0.00009-1",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306463230",
-            "display_name": "Elsevier eBooks",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "ebook platform"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Shale Gas and Fracking",
-          "raw_type": "book-chapter"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2382919129",
-        "https://openalex.org/W2377896067",
-        "https://openalex.org/W4210454931",
-        "https://openalex.org/W2389517370",
-        "https://openalex.org/W2379818482",
-        "https://openalex.org/W4312334307",
-        "https://openalex.org/W4381570820",
-        "https://openalex.org/W1973284405",
-        "https://openalex.org/W122204069",
-        "https://openalex.org/W3157693340"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4366992704",
       "doi": "https://doi.org/10.1007/s10347-023-00663-w",
       "title": "Revisiting the upper Visean mud mounds from Derbyshire (UK): the role of brachiopods in their growth",
@@ -48541,10 +47166,17 @@
           "is_corresponding": true,
           "raw_author_name": "Alessandro P. Carniti",
           "raw_affiliation_strings": [
+            "Dipartimento Di Scienze Della Terra “A. Desio”, Università Degli Studi Di Milano, Milan, Italy",
             "Dipartimento Di Scienze Della Terra “A. Desio”, Università Degli Studi Di Milano, Via Mangiagalli 34, 20133, Milan, Italy"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-9590-1615",
           "affiliations": [
+            {
+              "raw_affiliation_string": "Dipartimento Di Scienze Della Terra “A. Desio”, Università Degli Studi Di Milano, Milan, Italy",
+              "institution_ids": [
+                "https://openalex.org/I189158943"
+              ]
+            },
             {
               "raw_affiliation_string": "Dipartimento Di Scienze Della Terra “A. Desio”, Università Degli Studi Di Milano, Via Mangiagalli 34, 20133, Milan, Italy",
               "institution_ids": [
@@ -48578,10 +47210,17 @@
           "is_corresponding": false,
           "raw_author_name": "Giovanna Della Porta",
           "raw_affiliation_strings": [
+            "Dipartimento Di Scienze Della Terra “A. Desio”, Università Degli Studi Di Milano, Milan, Italy",
             "Dipartimento Di Scienze Della Terra “A. Desio”, Università Degli Studi Di Milano, Via Mangiagalli 34, 20133, Milan, Italy"
           ],
           "raw_orcid": "https://orcid.org/0000-0003-3479-0592",
           "affiliations": [
+            {
+              "raw_affiliation_string": "Dipartimento Di Scienze Della Terra “A. Desio”, Università Degli Studi Di Milano, Milan, Italy",
+              "institution_ids": [
+                "https://openalex.org/I189158943"
+              ]
+            },
             {
               "raw_affiliation_string": "Dipartimento Di Scienze Della Terra “A. Desio”, Università Degli Studi Di Milano, Via Mangiagalli 34, 20133, Milan, Italy",
               "institution_ids": [
@@ -48617,10 +47256,17 @@
           "is_corresponding": false,
           "raw_author_name": "Vanessa J. Banks",
           "raw_affiliation_strings": [
+            "British Geological Survey, Keyworth, UK",
             "British Geological Survey, Nicker Hill, Keyworth, NG12 5GG, Nottinghamshire, UK"
           ],
           "raw_orcid": "https://orcid.org/0000-0001-6335-7080",
           "affiliations": [
+            {
+              "raw_affiliation_string": "British Geological Survey, Keyworth, UK",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            },
             {
               "raw_affiliation_string": "British Geological Survey, Nicker Hill, Keyworth, NG12 5GG, Nottinghamshire, UK",
               "institution_ids": [
@@ -48656,20 +47302,27 @@
           "is_corresponding": false,
           "raw_author_name": "Michael H. Stephenson",
           "raw_affiliation_strings": [
-            "British Geological Survey, Nicker Hill, Keyworth, NG12 5GG, Nottinghamshire, UK",
-            "Stephenson Geoscience Consulting Ltd, Keyworth, Nottingham, UK"
+            "British Geological Survey, Keyworth, UK",
+            "Stephenson Geoscience Consulting Ltd, Keyworth, UK",
+            "British Geological Survey, Nicker Hill, Keyworth, NG12 5GG, Nottinghamshire, UK"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-9881-1578",
           "affiliations": [
             {
-              "raw_affiliation_string": "British Geological Survey, Nicker Hill, Keyworth, NG12 5GG, Nottinghamshire, UK",
+              "raw_affiliation_string": "British Geological Survey, Keyworth, UK",
               "institution_ids": [
                 "https://openalex.org/I139290333"
               ]
             },
             {
-              "raw_affiliation_string": "Stephenson Geoscience Consulting Ltd, Keyworth, Nottingham, UK",
+              "raw_affiliation_string": "Stephenson Geoscience Consulting Ltd, Keyworth, UK",
               "institution_ids": []
+            },
+            {
+              "raw_affiliation_string": "British Geological Survey, Nicker Hill, Keyworth, NG12 5GG, Nottinghamshire, UK",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
             }
           ]
         },
@@ -48698,10 +47351,17 @@
           "is_corresponding": false,
           "raw_author_name": "Lucia Angiolini",
           "raw_affiliation_strings": [
+            "Dipartimento Di Scienze Della Terra “A. Desio”, Università Degli Studi Di Milano, Milan, Italy",
             "Dipartimento Di Scienze Della Terra “A. Desio”, Università Degli Studi Di Milano, Via Mangiagalli 34, 20133, Milan, Italy"
           ],
           "raw_orcid": "https://orcid.org/0000-0003-0778-5771",
           "affiliations": [
+            {
+              "raw_affiliation_string": "Dipartimento Di Scienze Della Terra “A. Desio”, Università Degli Studi Di Milano, Milan, Italy",
+              "institution_ids": [
+                "https://openalex.org/I189158943"
+              ]
+            },
             {
               "raw_affiliation_string": "Dipartimento Di Scienze Della Terra “A. Desio”, Università Degli Studi Di Milano, Via Mangiagalli 34, 20133, Milan, Italy",
               "institution_ids": [
@@ -48730,11 +47390,11 @@
         "currency": "USD",
         "value_usd": 3590
       },
-      "fwci": 0.6898,
+      "fwci": 0.6862,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.60299946,
+        "value": 0.60190328,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -49992,7 +48652,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -50201,11 +48861,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5496,
+      "fwci": 0.549,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.581595,
+        "value": 0.58143329,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -53439,11 +52099,11 @@
         "value_usd": 3760
       },
       "apc_paid": null,
-      "fwci": 3.5339,
+      "fwci": 3.5337,
       "has_fulltext": false,
       "cited_by_count": 50,
       "citation_normalized_percentile": {
-        "value": 0.92207388,
+        "value": 0.92206206,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -60286,11 +58946,11 @@
         "value_usd": 3980
       },
       "apc_paid": null,
-      "fwci": 2.8475,
+      "fwci": 2.8521,
       "has_fulltext": false,
       "cited_by_count": 36,
       "citation_normalized_percentile": {
-        "value": 0.91698044,
+        "value": 0.91701552,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -64882,11 +63542,11 @@
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 1.8198,
+      "fwci": 1.8196,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.83277663,
+        "value": 0.83275311,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -66965,11 +65625,11 @@
         "value_usd": 2750
       },
       "apc_paid": null,
-      "fwci": 0.8293,
+      "fwci": 0.8294,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.73616537,
+        "value": 0.73624227,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -69480,11 +68140,11 @@
         "value_usd": 3430
       },
       "apc_paid": null,
-      "fwci": 2.4018,
+      "fwci": 2.4013,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.90845417,
+        "value": 0.90856581,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -73253,10 +71913,17 @@
           "is_corresponding": true,
           "raw_author_name": "Michael H. Stephenson",
           "raw_affiliation_strings": [
+            "British Geological Survey, Keyworth, Nottingham NG12 5GG, UK",
             "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK#TAB#"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham NG12 5GG, UK",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            },
             {
               "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK#TAB#",
               "institution_ids": [
@@ -73281,11 +71948,11 @@
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 1.0229,
+      "fwci": 0.996,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.83374139,
+        "value": 0.82924272,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -73703,7 +72370,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-14T08:27:34.040176",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -73897,7 +72564,7 @@
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.0690755,
+        "value": 0.06911324,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -79500,11 +78167,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3154,
+      "fwci": 1.3158,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.8380363,
+        "value": 0.83802062,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -82202,7 +80869,7 @@
       "has_fulltext": false,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.8768664,
+        "value": 0.87689027,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -85965,11 +84632,11 @@
         "value_usd": 2800
       },
       "apc_paid": null,
-      "fwci": 1.6696,
+      "fwci": 1.6908,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.83189964,
+        "value": 0.83309558,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -88631,6 +87298,1385 @@
         }
       ],
       "updated_date": "2026-07-22T07:51:19.307946",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4241953878",
+      "doi": "https://doi.org/10.1080/01916122.2009.9989672",
+      "title": "The age of the carboniferous‐Permian<i>Converrucosisporites confluens</i>Oppel biozone: New data from the Ganigobis shale member (DWYKA group) of Namibia",
+      "display_name": "The age of the carboniferous‐Permian<i>Converrucosisporites confluens</i>Oppel biozone: New data from the Ganigobis shale member (DWYKA group) of Namibia",
+      "publication_year": 2009,
+      "publication_date": "2009-12-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4241953878",
+        "doi": "https://doi.org/10.1080/01916122.2009.9989672"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1080/01916122.2009.9989672",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1080/01916122.2009.9989672",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S80110507",
+          "display_name": "Palynology",
+          "issn_l": "0191-6122",
+          "issn": [
+            "0191-6122",
+            "1558-9188"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320547",
+          "host_organization_name": "Taylor & Francis",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320547"
+          ],
+          "host_organization_lineage_names": [
+            "Taylor & Francis"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Palynology",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5040147688",
+            "display_name": "Michael H. Stephenson",
+            "orcid": "https://orcid.org/0000-0002-9881-1578"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139290333",
+              "display_name": "British Geological Survey",
+              "ror": "https://ror.org/04a7gbp98",
+              "country_code": "GB",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I139290333",
+                "https://openalex.org/I141816643",
+                "https://openalex.org/I4210087105"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Michael H. Stephenson",
+          "raw_affiliation_strings": [
+            "Kingsley Dunham Centre, British Geological Survey, Keyworth, Nottingham, NG12 5GG, United Kingdom E-mail: mhste@bgs.ac.uk",
+            "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Kingsley Dunham Centre, British Geological Survey, Keyworth, Nottingham, NG12 5GG, United Kingdom E-mail: mhste@bgs.ac.uk",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            },
+            {
+              "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG, UK",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5040147688"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I139290333"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.4575,
+      "has_fulltext": false,
+      "cited_by_count": 6,
+      "citation_normalized_percentile": {
+        "value": 0.78293722,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "33",
+        "issue": "1",
+        "first_page": "167",
+        "last_page": "177"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.9997000098228455,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9997000098228455,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10001",
+          "display_name": "Geological and Geochemical Analysis",
+          "score": 0.9983000159263611,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12157",
+          "display_name": "Geochemistry and Geologic Mapping",
+          "score": 0.9976999759674072,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/gondwana",
+          "display_name": "Gondwana",
+          "score": 0.9237513542175293
+        },
+        {
+          "id": "https://openalex.org/keywords/carboniferous",
+          "display_name": "Carboniferous",
+          "score": 0.7999102473258972
+        },
+        {
+          "id": "https://openalex.org/keywords/permian",
+          "display_name": "Permian",
+          "score": 0.7694644927978516
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.7554970979690552
+        },
+        {
+          "id": "https://openalex.org/keywords/biozone",
+          "display_name": "Biozone",
+          "score": 0.7085620164871216
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.674188494682312
+        },
+        {
+          "id": "https://openalex.org/keywords/fauna",
+          "display_name": "Fauna",
+          "score": 0.525995135307312
+        },
+        {
+          "id": "https://openalex.org/keywords/oil-shale",
+          "display_name": "Oil shale",
+          "score": 0.5200130939483643
+        },
+        {
+          "id": "https://openalex.org/keywords/pennsylvanian",
+          "display_name": "Pennsylvanian",
+          "score": 0.5180792808532715
+        },
+        {
+          "id": "https://openalex.org/keywords/laurasia",
+          "display_name": "Laurasia",
+          "score": 0.496131032705307
+        },
+        {
+          "id": "https://openalex.org/keywords/biostratigraphy",
+          "display_name": "Biostratigraphy",
+          "score": 0.32575133442878723
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.30263274908065796
+        },
+        {
+          "id": "https://openalex.org/keywords/ecology",
+          "display_name": "Ecology",
+          "score": 0.07116255164146423
+        },
+        {
+          "id": "https://openalex.org/keywords/biology",
+          "display_name": "Biology",
+          "score": 0.06704902648925781
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2781148125",
+          "wikidata": "https://www.wikidata.org/wiki/Q80583",
+          "display_name": "Gondwana",
+          "level": 3,
+          "score": 0.9237513542175293
+        },
+        {
+          "id": "https://openalex.org/C149918038",
+          "wikidata": "https://www.wikidata.org/wiki/Q133738",
+          "display_name": "Carboniferous",
+          "level": 3,
+          "score": 0.7999102473258972
+        },
+        {
+          "id": "https://openalex.org/C83365034",
+          "wikidata": "https://www.wikidata.org/wiki/Q76402",
+          "display_name": "Permian",
+          "level": 3,
+          "score": 0.7694644927978516
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.7554970979690552
+        },
+        {
+          "id": "https://openalex.org/C164375970",
+          "wikidata": "https://www.wikidata.org/wiki/Q2110260",
+          "display_name": "Biozone",
+          "level": 3,
+          "score": 0.7085620164871216
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.674188494682312
+        },
+        {
+          "id": "https://openalex.org/C125471540",
+          "wikidata": "https://www.wikidata.org/wiki/Q104021",
+          "display_name": "Fauna",
+          "level": 2,
+          "score": 0.525995135307312
+        },
+        {
+          "id": "https://openalex.org/C153127940",
+          "wikidata": "https://www.wikidata.org/wiki/Q221378",
+          "display_name": "Oil shale",
+          "level": 2,
+          "score": 0.5200130939483643
+        },
+        {
+          "id": "https://openalex.org/C2779650180",
+          "wikidata": "https://www.wikidata.org/wiki/Q373772",
+          "display_name": "Pennsylvanian",
+          "level": 3,
+          "score": 0.5180792808532715
+        },
+        {
+          "id": "https://openalex.org/C2776322157",
+          "wikidata": "https://www.wikidata.org/wiki/Q132033",
+          "display_name": "Laurasia",
+          "level": 4,
+          "score": 0.496131032705307
+        },
+        {
+          "id": "https://openalex.org/C61721801",
+          "wikidata": "https://www.wikidata.org/wiki/Q864826",
+          "display_name": "Biostratigraphy",
+          "level": 2,
+          "score": 0.32575133442878723
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.30263274908065796
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.07116255164146423
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.06704902648925781
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1080/01916122.2009.9989672",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1080/01916122.2009.9989672",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S80110507",
+            "display_name": "Palynology",
+            "issn_l": "0191-6122",
+            "issn": [
+              "0191-6122",
+              "1558-9188"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320547",
+            "host_organization_name": "Taylor & Francis",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320547"
+            ],
+            "host_organization_lineage_names": [
+              "Taylor & Francis"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Palynology",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G2694040777",
+          "display_name": null,
+          "funder_award_id": "bgs05004",
+          "funder_id": "https://openalex.org/F4320320022",
+          "funder_display_name": "Sight Research UK"
+        },
+        {
+          "id": "https://openalex.org/G5419055303",
+          "display_name": null,
+          "funder_award_id": "bgs05004",
+          "funder_id": "https://openalex.org/F4320334631",
+          "funder_display_name": "Natural Environment Research Council"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320320022",
+          "display_name": "Sight Research UK",
+          "ror": "https://ror.org/03z2py885"
+        },
+        {
+          "id": "https://openalex.org/F4320334631",
+          "display_name": "Natural Environment Research Council",
+          "ror": "https://ror.org/02b5d8509"
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 18,
+      "referenced_works": [
+        "https://openalex.org/W252477280",
+        "https://openalex.org/W1485158149",
+        "https://openalex.org/W1531840431",
+        "https://openalex.org/W1571958385",
+        "https://openalex.org/W1836774004",
+        "https://openalex.org/W1895201370",
+        "https://openalex.org/W1981181170",
+        "https://openalex.org/W1989916338",
+        "https://openalex.org/W1990323529",
+        "https://openalex.org/W2005416144",
+        "https://openalex.org/W2009852113",
+        "https://openalex.org/W2018598691",
+        "https://openalex.org/W2053154125",
+        "https://openalex.org/W2062573951",
+        "https://openalex.org/W2064245639",
+        "https://openalex.org/W2090016958",
+        "https://openalex.org/W2986225371",
+        "https://openalex.org/W4232328127"
+      ],
+      "related_works": [
+        "https://openalex.org/W4248027011",
+        "https://openalex.org/W1588612331",
+        "https://openalex.org/W2028178701",
+        "https://openalex.org/W4388246337",
+        "https://openalex.org/W2235353169",
+        "https://openalex.org/W2058252807",
+        "https://openalex.org/W2967749261",
+        "https://openalex.org/W2089253931",
+        "https://openalex.org/W4388253249",
+        "https://openalex.org/W2081242734"
+      ],
+      "abstract_inverted_index": {
+        "1": [
+          21
+        ],
+        "The": [
+          0,
+          78
+        ],
+        "establishment": [
+          1
+        ],
+        "of": [
+          2,
+          12,
+          110,
+          120,
+          135,
+          166,
+          170
+        ],
+        "the": [
+          3,
+          9,
+          18,
+          36,
+          49,
+          56,
+          106,
+          121,
+          127,
+          136,
+          153,
+          167,
+          188,
+          191
+        ],
+        "Converrucosisporites": [
+          4,
+          100,
+          128,
+          154,
+          171,
+          192
+        ],
+        "confluens": [
+          5,
+          101,
+          129,
+          155,
+          172,
+          193
+        ],
+        "Oppel": [
+          6,
+          130,
+          156,
+          194
+        ],
+        "Zone": [
+          7,
+          157,
+          195
+        ],
+        "in": [
+          8,
+          14,
+          29,
+          63,
+          87,
+          112,
+          173,
+          184
+        ],
+        "Canning": [
+          10
+        ],
+        "Basin": [
+          11
+        ],
+        "Australia": [
+          13,
+          186
+        ],
+        "cored": [
+          15
+        ],
+        "intervals": [
+          16
+        ],
+        "from": [
+          17,
+          105
+        ],
+        "Calytrix": [
+          19
+        ],
+        "No.": [
+          20
+        ],
+        "Borehole": [
+          22
+        ],
+        "was": [
+          23,
+          34,
+          80,
+          91
+        ],
+        "considered": [
+          24,
+          82
+        ],
+        "to": [
+          25,
+          84,
+          94,
+          97
+        ],
+        "be": [
+          26,
+          198
+        ],
+        "an": [
+          27
+        ],
+        "advance": [
+          28
+        ],
+        "Gondwana": [
+          30,
+          64
+        ],
+        "Carboniferous‐Permian": [
+          31
+        ],
+        "palynostratigraphy.": [
+          32
+        ],
+        "This": [
+          33
+        ],
+        "because": [
+          35
+        ],
+        "zone": [
+          37,
+          79
+        ],
+        "is": [
+          38,
+          102,
+          140
+        ],
+        "associated": [
+          39
+        ],
+        "with": [
+          40,
+          48,
+          187
+        ],
+        "a": [
+          41,
+          46,
+          60,
+          113
+        ],
+        "marine": [
+          42
+        ],
+        "fauna": [
+          43
+        ],
+        "that": [
+          44,
+          178,
+          190
+        ],
+        "suggests": [
+          45,
+          177
+        ],
+        "correlation": [
+          47
+        ],
+        "standard": [
+          50
+        ],
+        "Russian": [
+          51
+        ],
+        "Early": [
+          52,
+          98
+        ],
+        "Permian": [
+          53
+        ],
+        "stages.": [
+          54
+        ],
+        "Moreover": [
+          55
+        ],
+        "index": [
+          57
+        ],
+        "species": [
+          58
+        ],
+        "has": [
+          59
+        ],
+        "wide": [
+          61
+        ],
+        "occurrence": [
+          62
+        ],
+        "outside": [
+          65
+        ],
+        "Australia,": [
+          66
+        ],
+        "for": [
+          67,
+          126
+        ],
+        "example": [
+          68
+        ],
+        "Antarctica,": [
+          69
+        ],
+        "Argentina,": [
+          70
+        ],
+        "Brazil,": [
+          71
+        ],
+        "India,": [
+          72
+        ],
+        "Oman,": [
+          73
+        ],
+        "Saudi": [
+          74
+        ],
+        "Arabia,": [
+          75
+        ],
+        "and": [
+          76,
+          115,
+          175
+        ],
+        "Uruguay.": [
+          77
+        ],
+        "originally": [
+          81
+        ],
+        "middle": [
+          83
+        ],
+        "late": [
+          85
+        ],
+        "Asselian": [
+          86,
+          96
+        ],
+        "age,": [
+          88
+        ],
+        "but": [
+          89
+        ],
+        "this": [
+          90
+        ],
+        "later": [
+          92
+        ],
+        "revised": [
+          93
+        ],
+        "latest": [
+          95
+        ],
+        "Sakmarian.": [
+          99
+        ],
+        "reported": [
+          103
+        ],
+        "here": [
+          104
+        ],
+        "Ganigobis": [
+          107,
+          137
+        ],
+        "Shale": [
+          108,
+          138
+        ],
+        "Member": [
+          109,
+          139
+        ],
+        "Namibia": [
+          111
+        ],
+        "well‐preserved": [
+          114
+        ],
+        "diverse": [
+          116
+        ],
+        "assemblage": [
+          117
+        ],
+        "including": [
+          118
+        ],
+        "four": [
+          119
+        ],
+        "fourteen": [
+          122
+        ],
+        "specified": [
+          123
+        ],
+        "accessory": [
+          124
+        ],
+        "taxa": [
+          125
+        ],
+        "Zone.": [
+          131
+        ],
+        "Ash": [
+          132
+        ],
+        "layer": [
+          133
+        ],
+        "IIb": [
+          134
+        ],
+        "radiometrically": [
+          141
+        ],
+        "dated": [
+          142
+        ],
+        "as": [
+          143
+        ],
+        "302.0": [
+          144
+        ],
+        "±3.0": [
+          145
+        ],
+        "Ma": [
+          146
+        ],
+        "(i.e.": [
+          147
+        ],
+        "Pennsylvanian;": [
+          148
+        ],
+        "Gzhelian": [
+          149
+        ],
+        "or": [
+          150
+        ],
+        "Kasimovian)": [
+          151
+        ],
+        "thus": [
+          152
+        ],
+        "may": [
+          158,
+          196
+        ],
+        "range": [
+          159,
+          168
+        ],
+        "earlier": [
+          160
+        ],
+        "than": [
+          161,
+          183,
+          200
+        ],
+        "previously": [
+          162,
+          201
+        ],
+        "thought.": [
+          163,
+          202
+        ],
+        "Preliminary": [
+          164
+        ],
+        "study": [
+          165
+        ],
+        "top": [
+          169
+        ],
+        "Argentina": [
+          174
+        ],
+        "Uruguay": [
+          176
+        ],
+        "it": [
+          179
+        ],
+        "ranges": [
+          180
+        ],
+        "younger": [
+          181,
+          199
+        ],
+        "there": [
+          182
+        ],
+        "Western": [
+          185
+        ],
+        "possibility": [
+          189
+        ],
+        "also": [
+          197
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-07-29T09:40:50.615796",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W62875221",
+      "doi": "https://doi.org/10.1016/b978-0-12-801606-0.00009-1",
+      "title": "The Science behind the Controversy",
+      "display_name": "The Science behind the Controversy",
+      "publication_year": 2015,
+      "publication_date": "2015-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W62875221",
+        "doi": "https://doi.org/10.1016/b978-0-12-801606-0.00009-1",
+        "mag": "62875221"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/b978-0-12-801606-0.00009-1",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/b978-0-12-801606-0.00009-1",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306463230",
+          "display_name": "Elsevier eBooks",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "ebook platform"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Shale Gas and Fracking",
+        "raw_type": "book-chapter"
+      },
+      "type": "book-chapter",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5040147688",
+            "display_name": "Michael H. Stephenson",
+            "orcid": "https://orcid.org/0000-0002-9881-1578"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Michael Stephenson",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5040147688"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.7486,
+      "has_fulltext": false,
+      "cited_by_count": 6,
+      "citation_normalized_percentile": {
+        "value": 0.71000637,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 97
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "141",
+        "last_page": "145"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11588",
+        "display_name": "Atmospheric and Environmental Gas Dynamics",
+        "score": 0.8766000270843506,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2306",
+          "display_name": "Global and Planetary Change"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11588",
+          "display_name": "Atmospheric and Environmental Gas Dynamics",
+          "score": 0.8766000270843506,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2306",
+            "display_name": "Global and Planetary Change"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/livelihood",
+          "display_name": "Livelihood",
+          "score": 0.561479926109314
+        },
+        {
+          "id": "https://openalex.org/keywords/value",
+          "display_name": "Value (mathematics)",
+          "score": 0.5010900497436523
+        },
+        {
+          "id": "https://openalex.org/keywords/work",
+          "display_name": "Work (physics)",
+          "score": 0.47654396295547485
+        },
+        {
+          "id": "https://openalex.org/keywords/shale-gas",
+          "display_name": "Shale gas",
+          "score": 0.4545357823371887
+        },
+        {
+          "id": "https://openalex.org/keywords/energy",
+          "display_name": "Energy (signal processing)",
+          "score": 0.44023025035858154
+        },
+        {
+          "id": "https://openalex.org/keywords/epistemology",
+          "display_name": "Epistemology",
+          "score": 0.36185306310653687
+        },
+        {
+          "id": "https://openalex.org/keywords/oil-shale",
+          "display_name": "Oil shale",
+          "score": 0.33047816157341003
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.2630468010902405
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.1947895586490631
+        },
+        {
+          "id": "https://openalex.org/keywords/geography",
+          "display_name": "Geography",
+          "score": 0.15530866384506226
+        },
+        {
+          "id": "https://openalex.org/keywords/philosophy",
+          "display_name": "Philosophy",
+          "score": 0.14432987570762634
+        },
+        {
+          "id": "https://openalex.org/keywords/physics",
+          "display_name": "Physics",
+          "score": 0.13087666034698486
+        },
+        {
+          "id": "https://openalex.org/keywords/mechanical-engineering",
+          "display_name": "Mechanical engineering",
+          "score": 0.07984524965286255
+        },
+        {
+          "id": "https://openalex.org/keywords/archaeology",
+          "display_name": "Archaeology",
+          "score": 0.05892312526702881
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C3987366",
+          "wikidata": "https://www.wikidata.org/wiki/Q6658164",
+          "display_name": "Livelihood",
+          "level": 3,
+          "score": 0.561479926109314
+        },
+        {
+          "id": "https://openalex.org/C2776291640",
+          "wikidata": "https://www.wikidata.org/wiki/Q2912517",
+          "display_name": "Value (mathematics)",
+          "level": 2,
+          "score": 0.5010900497436523
+        },
+        {
+          "id": "https://openalex.org/C18762648",
+          "wikidata": "https://www.wikidata.org/wiki/Q42213",
+          "display_name": "Work (physics)",
+          "level": 2,
+          "score": 0.47654396295547485
+        },
+        {
+          "id": "https://openalex.org/C2993020645",
+          "wikidata": "https://www.wikidata.org/wiki/Q564726",
+          "display_name": "Shale gas",
+          "level": 3,
+          "score": 0.4545357823371887
+        },
+        {
+          "id": "https://openalex.org/C186370098",
+          "wikidata": "https://www.wikidata.org/wiki/Q442787",
+          "display_name": "Energy (signal processing)",
+          "level": 2,
+          "score": 0.44023025035858154
+        },
+        {
+          "id": "https://openalex.org/C111472728",
+          "wikidata": "https://www.wikidata.org/wiki/Q9471",
+          "display_name": "Epistemology",
+          "level": 1,
+          "score": 0.36185306310653687
+        },
+        {
+          "id": "https://openalex.org/C153127940",
+          "wikidata": "https://www.wikidata.org/wiki/Q221378",
+          "display_name": "Oil shale",
+          "level": 2,
+          "score": 0.33047816157341003
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.2630468010902405
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.1947895586490631
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.15530866384506226
+        },
+        {
+          "id": "https://openalex.org/C138885662",
+          "wikidata": "https://www.wikidata.org/wiki/Q5891",
+          "display_name": "Philosophy",
+          "level": 0,
+          "score": 0.14432987570762634
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.13087666034698486
+        },
+        {
+          "id": "https://openalex.org/C78519656",
+          "wikidata": "https://www.wikidata.org/wiki/Q101333",
+          "display_name": "Mechanical engineering",
+          "level": 1,
+          "score": 0.07984524965286255
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.05892312526702881
+        },
+        {
+          "id": "https://openalex.org/C548081761",
+          "wikidata": "https://www.wikidata.org/wiki/Q180388",
+          "display_name": "Waste management",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C62520636",
+          "wikidata": "https://www.wikidata.org/wiki/Q944",
+          "display_name": "Quantum mechanics",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C119857082",
+          "wikidata": "https://www.wikidata.org/wiki/Q2539",
+          "display_name": "Machine learning",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C118518473",
+          "wikidata": "https://www.wikidata.org/wiki/Q11451",
+          "display_name": "Agriculture",
+          "level": 2,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/b978-0-12-801606-0.00009-1",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/b978-0-12-801606-0.00009-1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306463230",
+            "display_name": "Elsevier eBooks",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "ebook platform"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Shale Gas and Fracking",
+          "raw_type": "book-chapter"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2382919129",
+        "https://openalex.org/W2377896067",
+        "https://openalex.org/W4210454931",
+        "https://openalex.org/W2389517370",
+        "https://openalex.org/W2379818482",
+        "https://openalex.org/W4312334307",
+        "https://openalex.org/W4381570820",
+        "https://openalex.org/W1973284405",
+        "https://openalex.org/W122204069",
+        "https://openalex.org/W3157693340"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -94488,7 +94534,7 @@
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.76416097,
+        "value": 0.76409841,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -96318,7 +96364,7 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.04193548,
+        "value": 0.04172611,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -96960,12 +97006,12 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.02963923,
+        "value": 0.0296769,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 96
       },
       "biblio": {
@@ -97800,7 +97846,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2018-05-17T00:00:00"
     },
     {
@@ -98285,12 +98331,13 @@
           "is_corresponding": true,
           "raw_author_name": "Michael Stephenson",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 1,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5040147688"
       ],
@@ -98301,11 +98348,11 @@
         "value_usd": 2800
       },
       "apc_paid": null,
-      "fwci": 0.6252,
+      "fwci": 0.7382,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.6509551,
+        "value": 0.70899471,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -98703,7 +98750,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -101919,12 +101966,13 @@
           "is_corresponding": true,
           "raw_author_name": "Michael Stephenson",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 1,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5040147688"
       ],
@@ -101935,7 +101983,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.0888192,
+        "value": 0.11757075,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -102318,7 +102366,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -106319,23 +106367,24 @@
           "is_corresponding": true,
           "raw_author_name": "Michael Stephenson",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 1,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5040147688"
       ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.5484,
+      "fwci": 2.2262,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.8853784,
+        "value": 0.87076367,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -106582,7 +106631,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -108512,7 +108561,7 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.03942652,
+        "value": 0.03922967,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -108929,23 +108978,24 @@
           "is_corresponding": true,
           "raw_author_name": "Michael Stephenson",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 1,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5040147688"
       ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3484,
+      "fwci": 1.3193,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.73043834,
+        "value": 0.73389605,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -109191,7 +109241,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -109278,7 +109328,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.19519231,
+        "value": 0.19502868,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -109953,12 +110003,13 @@
           "is_corresponding": true,
           "raw_author_name": "Michael Stephenson",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 1,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5040147688"
       ],
@@ -109969,7 +110020,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.19988429,
+        "value": 0.21165381,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -110326,7 +110377,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -110415,11 +110466,11 @@
         "value_usd": 2800
       },
       "apc_paid": null,
-      "fwci": 0.4627,
+      "fwci": 0.4712,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.57223796,
+        "value": 0.57488739,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -111069,11 +111120,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.1792,
+      "fwci": 0.1789,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.31553945,
+        "value": 0.31524428,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -114674,12 +114725,13 @@
           "is_corresponding": true,
           "raw_author_name": "Michael Stephenson",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 1,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5040147688"
       ],
@@ -114690,7 +114742,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.00653808,
+        "value": 0.00605481,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -115022,7 +115074,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -118098,7 +118150,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.09952879,
+        "value": 0.09954231,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -121612,12 +121664,13 @@
           "is_corresponding": true,
           "raw_author_name": "Michael Stephenson",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 1,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5040147688"
       ],
@@ -121628,7 +121681,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.22850492,
+        "value": 0.23301572,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -121897,7 +121950,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -121984,7 +122037,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.12173913,
+        "value": 0.12121212,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -122298,12 +122351,13 @@
           "is_corresponding": true,
           "raw_author_name": "Michael Stephenson",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 1,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5040147688"
       ],
@@ -122314,7 +122368,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.23831317,
+        "value": 0.22625876,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -122622,7 +122676,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -122709,7 +122763,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.25307557,
+        "value": 0.25350877,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -126025,12 +126079,13 @@
           "is_corresponding": true,
           "raw_author_name": "Michael Stephenson",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 1,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5040147688"
       ],
@@ -126045,7 +126100,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.0209513,
+        "value": 0.02093301,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -126386,7 +126441,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -126479,7 +126534,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03938324,
+        "value": 0.03900285,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -126884,7 +126939,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.04086022,
+        "value": 0.04065621,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -127236,7 +127291,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03349282,
+        "value": 0.03330162,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -130397,7 +130452,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.32820513,
+        "value": 0.32727852,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -132208,12 +132263,13 @@
           "is_corresponding": true,
           "raw_author_name": "Michael Stephenson",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 1,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5040147688"
       ],
@@ -132224,7 +132280,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.00294214,
+        "value": 0.00286807,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -132581,7 +132637,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2016-06-24T00:00:00"
     },
     {
