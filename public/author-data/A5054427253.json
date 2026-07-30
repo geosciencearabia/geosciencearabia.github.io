@@ -156,7 +156,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0001018,
+        "value": 0.0001017,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -173,7 +173,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000864,
+        "value": 0.0000863,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -224,7 +224,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000347,
+        "value": 0.0000346,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -401,6 +401,1330 @@
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
+    {
+      "id": "https://openalex.org/W2101795741",
+      "doi": "https://doi.org/10.1016/j.egypro.2009.02.034",
+      "title": "Assessing European capacity for geological storage of carbon dioxide–the EU GeoCapacity project",
+      "display_name": "Assessing European capacity for geological storage of carbon dioxide–the EU GeoCapacity project",
+      "publication_year": 2009,
+      "publication_date": "2009-02-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2101795741",
+        "doi": "https://doi.org/10.1016/j.egypro.2009.02.034",
+        "mag": "2101795741"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.egypro.2009.02.034",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.egypro.2009.02.034",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S75069817",
+          "display_name": "Energy Procedia",
+          "issn_l": "1876-6102",
+          "issn": [
+            "1876-6102"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Energy Procedia",
+        "raw_type": "journal-article"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.1016/j.egypro.2009.02.034",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5024336947",
+            "display_name": "Thomas Vangkilde‐Pedersen",
+            "orcid": "https://orcid.org/0000-0002-6561-1406"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2801979204",
+              "display_name": "Geological Survey of Denmark and Greenland",
+              "ror": "https://ror.org/01b40r146",
+              "country_code": "DK",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I2801979204",
+                "https://openalex.org/I4210102581"
+              ]
+            }
+          ],
+          "countries": [
+            "DK"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Thomas Vangkilde-Pedersen",
+          "raw_affiliation_strings": [
+            "Geological Survey of Denmark and Greenland (GEUS), Oester Voldgade 10, DK-1350 Copenhagen K, Denmark"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geological Survey of Denmark and Greenland (GEUS), Oester Voldgade 10, DK-1350 Copenhagen K, Denmark",
+              "institution_ids": [
+                "https://openalex.org/I2801979204"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5001494362",
+            "display_name": "K.L. Anthonsen",
+            "orcid": "https://orcid.org/0000-0002-0155-8386"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2801979204",
+              "display_name": "Geological Survey of Denmark and Greenland",
+              "ror": "https://ror.org/01b40r146",
+              "country_code": "DK",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I2801979204",
+                "https://openalex.org/I4210102581"
+              ]
+            }
+          ],
+          "countries": [
+            "DK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Karen Lyng Anthonsen",
+          "raw_affiliation_strings": [
+            "Geological Survey of Denmark and Greenland (GEUS), Oester Voldgade 10, DK-1350 Copenhagen K, Denmark"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geological Survey of Denmark and Greenland (GEUS), Oester Voldgade 10, DK-1350 Copenhagen K, Denmark",
+              "institution_ids": [
+                "https://openalex.org/I2801979204"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5044415887",
+            "display_name": "Darren Smith",
+            "orcid": "https://orcid.org/0000-0003-4925-467X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139290333",
+              "display_name": "British Geological Survey",
+              "ror": "https://ror.org/04a7gbp98",
+              "country_code": "GB",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I139290333",
+                "https://openalex.org/I141816643",
+                "https://openalex.org/I4210087105"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Nikki Smith",
+          "raw_affiliation_strings": [
+            "British Geological Survey (BGS), Keyworth, Nottingham NG12 5GG, UK",
+            "British Geological Survey, (BGS), Keyworth Nottingham, NG12 5GG – UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "British Geological Survey (BGS), Keyworth, Nottingham NG12 5GG, UK",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            },
+            {
+              "raw_affiliation_string": "British Geological Survey, (BGS), Keyworth Nottingham, NG12 5GG – UK",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5003652374",
+            "display_name": "Karen Kirk",
+            "orcid": "https://orcid.org/0000-0003-1091-1150"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139290333",
+              "display_name": "British Geological Survey",
+              "ror": "https://ror.org/04a7gbp98",
+              "country_code": "GB",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I139290333",
+                "https://openalex.org/I141816643",
+                "https://openalex.org/I4210087105"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Karen Kirk",
+          "raw_affiliation_strings": [
+            "British Geological Survey (BGS), Keyworth, Nottingham NG12 5GG, UK",
+            "British Geological Survey, (BGS), Keyworth Nottingham, NG12 5GG – UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "British Geological Survey (BGS), Keyworth, Nottingham NG12 5GG, UK",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            },
+            {
+              "raw_affiliation_string": "British Geological Survey, (BGS), Keyworth Nottingham, NG12 5GG – UK",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5031539136",
+            "display_name": "Filip Neele",
+            "orcid": "https://orcid.org/0000-0001-8279-8252"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I148297040",
+              "display_name": "Netherlands Organisation for Applied Scientific Research",
+              "ror": "https://ror.org/01bnjb948",
+              "country_code": "NL",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I148297040"
+              ]
+            }
+          ],
+          "countries": [
+            "NL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Filip neele",
+          "raw_affiliation_strings": [
+            "TNO Built Environment and Geosciences, P.O. Box 80015, 3508 TA Utrecht, Netherlands"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "TNO Built Environment and Geosciences, P.O. Box 80015, 3508 TA Utrecht, Netherlands",
+              "institution_ids": [
+                "https://openalex.org/I148297040"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5025041614",
+            "display_name": "Bert van der Meer",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I148297040",
+              "display_name": "Netherlands Organisation for Applied Scientific Research",
+              "ror": "https://ror.org/01bnjb948",
+              "country_code": "NL",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I148297040"
+              ]
+            }
+          ],
+          "countries": [
+            "NL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Bert van der Meer",
+          "raw_affiliation_strings": [
+            "TNO Built Environment and Geosciences, P.O. Box 80015, 3508 TA Utrecht, Netherlands"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "TNO Built Environment and Geosciences, P.O. Box 80015, 3508 TA Utrecht, Netherlands",
+              "institution_ids": [
+                "https://openalex.org/I148297040"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5084361375",
+            "display_name": "Y. Le Gallo",
+            "orcid": "https://orcid.org/0000-0002-5586-9008"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2540865",
+              "display_name": "Institut Français",
+              "ror": "https://ror.org/047hdnt12",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I2540865"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yann Le Gallo",
+          "raw_affiliation_strings": [
+            "Institut Franc˘ais du Pétrole (IFP), 1 & 4 avenue de Bois-Préau, 2852 Rueil-Malmaison Cedex, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institut Franc˘ais du Pétrole (IFP), 1 & 4 avenue de Bois-Préau, 2852 Rueil-Malmaison Cedex, France",
+              "institution_ids": [
+                "https://openalex.org/I2540865"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5109122656",
+            "display_name": "D. Bossie-Codreanu",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2540865",
+              "display_name": "Institut Français",
+              "ror": "https://ror.org/047hdnt12",
+              "country_code": "FR",
+              "type": "funder",
+              "lineage": [
+                "https://openalex.org/I2540865"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Dan Bossie-Codreanu",
+          "raw_affiliation_strings": [
+            "Institut Franc˘ais du Pétrole (IFP), 1 & 4 avenue de Bois-Préau, 2852 Rueil-Malmaison Cedex, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institut Franc˘ais du Pétrole (IFP), 1 & 4 avenue de Bois-Préau, 2852 Rueil-Malmaison Cedex, France",
+              "institution_ids": [
+                "https://openalex.org/I2540865"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5006218080",
+            "display_name": "Adam Wójcicki",
+            "orcid": "https://orcid.org/0000-0003-0969-9666"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210136445",
+              "display_name": "Przedsiębiorstwo Badań Geofizycznych",
+              "ror": "https://ror.org/03s7c3y50",
+              "country_code": "PL",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210136445"
+              ]
+            }
+          ],
+          "countries": [
+            "PL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Adam Wojcicki",
+          "raw_affiliation_strings": [
+            "PBG Geophysical Exploration Company Limited, 76 Jagiellonska, 03-301 Warszawa, Poland"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "PBG Geophysical Exploration Company Limited, 76 Jagiellonska, 03-301 Warszawa, Poland",
+              "institution_ids": [
+                "https://openalex.org/I4210136445"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5054427253",
+            "display_name": "Yves-Michel Le Nindre",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210158893",
+              "display_name": "Bureau de Recherches Géologiques et Minières",
+              "ror": "https://ror.org/05hnb7x64",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yves-Michel Le Nindre",
+          "raw_affiliation_strings": [
+            "Bureau de Recherches Géologiques et Minières (BRGM), 3 avenue Claude-Guillemin, BP 36009 - 45060 Orléans Cedex 2, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Bureau de Recherches Géologiques et Minières (BRGM), 3 avenue Claude-Guillemin, BP 36009 - 45060 Orléans Cedex 2, France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5067235968",
+            "display_name": "Chris Hendriks",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210109366",
+              "display_name": "Ecofys (Netherlands)",
+              "ror": "https://ror.org/01ypwfg63",
+              "country_code": "NL",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210109366"
+              ]
+            }
+          ],
+          "countries": [
+            "NL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Chris Hendriks",
+          "raw_affiliation_strings": [
+            "Ecofys, P.O. Box 8408, NL-3503 RK Utrecht, The Netherlands"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ecofys, P.O. Box 8408, NL-3503 RK Utrecht, The Netherlands",
+              "institution_ids": [
+                "https://openalex.org/I4210109366"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5043740867",
+            "display_name": "Finn Dalhoff",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210152215",
+              "display_name": "Vattenfall (Denmark)",
+              "ror": "https://ror.org/04xgpdk57",
+              "country_code": "DK",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I27826396",
+                "https://openalex.org/I4210152215"
+              ]
+            }
+          ],
+          "countries": [
+            "DK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Finn Dalhoff",
+          "raw_affiliation_strings": [
+            "Vattenfall A/S, Generation Nordic–Thermal Power, Stoeberigade 14, DK-2450 Copenhagen SV, Denmark"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Vattenfall A/S, Generation Nordic–Thermal Power, Stoeberigade 14, DK-2450 Copenhagen SV, Denmark",
+              "institution_ids": [
+                "https://openalex.org/I4210152215"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5103420102",
+            "display_name": "Niels Peter Christensen",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210152215",
+              "display_name": "Vattenfall (Denmark)",
+              "ror": "https://ror.org/04xgpdk57",
+              "country_code": "DK",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I27826396",
+                "https://openalex.org/I4210152215"
+              ]
+            }
+          ],
+          "countries": [
+            "DK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Niels Peter Christensen",
+          "raw_affiliation_strings": [
+            "Vattenfall A/S, Generation Nordic–Thermal Power, Stoeberigade 14, DK-2450 Copenhagen SV, Denmark"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Vattenfall A/S, Generation Nordic–Thermal Power, Stoeberigade 14, DK-2450 Copenhagen SV, Denmark",
+              "institution_ids": [
+                "https://openalex.org/I4210152215"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 5,
+      "institutions_distinct_count": 8,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5024336947"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I2801979204"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 22.5309,
+      "has_fulltext": false,
+      "cited_by_count": 170,
+      "citation_normalized_percentile": {
+        "value": 0.99863481,
+        "is_in_top_1_percent": true,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "1",
+        "issue": "1",
+        "first_page": "2663",
+        "last_page": "2670"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11302",
+        "display_name": "CO2 Sequestration and Geologic Interactions",
+        "score": 0.9994000196456909,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2305",
+          "display_name": "Environmental Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11302",
+          "display_name": "CO2 Sequestration and Geologic Interactions",
+          "score": 0.9994000196456909,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13067",
+          "display_name": "Geological Modeling and Analysis",
+          "score": 0.9925000071525574,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10995",
+          "display_name": "Methane Hydrates and Related Phenomena",
+          "score": 0.9860000014305115,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2304",
+            "display_name": "Environmental Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/environmental-science",
+          "display_name": "Environmental science",
+          "score": 0.5209304690361023
+        },
+        {
+          "id": "https://openalex.org/keywords/coal",
+          "display_name": "Coal",
+          "score": 0.463610976934433
+        },
+        {
+          "id": "https://openalex.org/keywords/site-selection",
+          "display_name": "Site selection",
+          "score": 0.4445101320743561
+        },
+        {
+          "id": "https://openalex.org/keywords/fossil-fuel",
+          "display_name": "Fossil fuel",
+          "score": 0.44243818521499634
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-rock",
+          "display_name": "Sedimentary rock",
+          "score": 0.4231565594673157
+        },
+        {
+          "id": "https://openalex.org/keywords/carbon-capture-and-storage",
+          "display_name": "Carbon capture and storage (timeline)",
+          "score": 0.4199050962924957
+        },
+        {
+          "id": "https://openalex.org/keywords/china",
+          "display_name": "China",
+          "score": 0.41920024156570435
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-protection",
+          "display_name": "Environmental protection",
+          "score": 0.3892021179199219
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-resource-management",
+          "display_name": "Environmental resource management",
+          "score": 0.3564300537109375
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-planning",
+          "display_name": "Environmental planning",
+          "score": 0.3422425389289856
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.2647913098335266
+        },
+        {
+          "id": "https://openalex.org/keywords/climate-change",
+          "display_name": "Climate change",
+          "score": 0.2495347559452057
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.23256400227546692
+        },
+        {
+          "id": "https://openalex.org/keywords/waste-management",
+          "display_name": "Waste management",
+          "score": 0.207609623670578
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemistry",
+          "display_name": "Geochemistry",
+          "score": 0.1670984923839569
+        },
+        {
+          "id": "https://openalex.org/keywords/geography",
+          "display_name": "Geography",
+          "score": 0.161035418510437
+        },
+        {
+          "id": "https://openalex.org/keywords/political-science",
+          "display_name": "Political science",
+          "score": 0.07930248975753784
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.5209304690361023
+        },
+        {
+          "id": "https://openalex.org/C518851703",
+          "wikidata": "https://www.wikidata.org/wiki/Q24489",
+          "display_name": "Coal",
+          "level": 2,
+          "score": 0.463610976934433
+        },
+        {
+          "id": "https://openalex.org/C2780561860",
+          "wikidata": "https://www.wikidata.org/wiki/Q7531796",
+          "display_name": "Site selection",
+          "level": 2,
+          "score": 0.4445101320743561
+        },
+        {
+          "id": "https://openalex.org/C68189081",
+          "wikidata": "https://www.wikidata.org/wiki/Q12748",
+          "display_name": "Fossil fuel",
+          "level": 2,
+          "score": 0.44243818521499634
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.4231565594673157
+        },
+        {
+          "id": "https://openalex.org/C2778379663",
+          "wikidata": "https://www.wikidata.org/wiki/Q5037942",
+          "display_name": "Carbon capture and storage (timeline)",
+          "level": 3,
+          "score": 0.4199050962924957
+        },
+        {
+          "id": "https://openalex.org/C191935318",
+          "wikidata": "https://www.wikidata.org/wiki/Q148",
+          "display_name": "China",
+          "level": 2,
+          "score": 0.41920024156570435
+        },
+        {
+          "id": "https://openalex.org/C526734887",
+          "wikidata": "https://www.wikidata.org/wiki/Q832237",
+          "display_name": "Environmental protection",
+          "level": 1,
+          "score": 0.3892021179199219
+        },
+        {
+          "id": "https://openalex.org/C107826830",
+          "wikidata": "https://www.wikidata.org/wiki/Q929380",
+          "display_name": "Environmental resource management",
+          "level": 1,
+          "score": 0.3564300537109375
+        },
+        {
+          "id": "https://openalex.org/C91375879",
+          "wikidata": "https://www.wikidata.org/wiki/Q15473274",
+          "display_name": "Environmental planning",
+          "level": 1,
+          "score": 0.3422425389289856
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.2647913098335266
+        },
+        {
+          "id": "https://openalex.org/C132651083",
+          "wikidata": "https://www.wikidata.org/wiki/Q7942",
+          "display_name": "Climate change",
+          "level": 2,
+          "score": 0.2495347559452057
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.23256400227546692
+        },
+        {
+          "id": "https://openalex.org/C548081761",
+          "wikidata": "https://www.wikidata.org/wiki/Q180388",
+          "display_name": "Waste management",
+          "level": 1,
+          "score": 0.207609623670578
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.1670984923839569
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.161035418510437
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.07930248975753784
+        },
+        {
+          "id": "https://openalex.org/C199539241",
+          "wikidata": "https://www.wikidata.org/wiki/Q7748",
+          "display_name": "Law",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 3,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.egypro.2009.02.034",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1016/j.egypro.2009.02.034",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S75069817",
+            "display_name": "Energy Procedia",
+            "issn_l": "1876-6102",
+            "issn": [
+              "1876-6102"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Energy Procedia",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:oai-pmh.tno.nl:28401",
+          "is_oa": false,
+          "landing_page_url": "https://resolver.tno.nl/uuid:cc7ebee1-de78-414c-b687-dbbb6a312e53",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S7407055233",
+            "display_name": "TNO Repository",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Energy Procedia, 1(1), pp. 2663-2670.",
+          "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
+          "id": "pmh:oai:tudelft.nl:uuid:cc7ebee1-de78-414c-b687-dbbb6a312e53",
+          "is_oa": false,
+          "landing_page_url": "http://resolver.tudelft.nl/uuid:cc7ebee1-de78-414c-b687-dbbb6a312e53",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402238",
+            "display_name": "Repository hosted by TU Delft Library (TU Delft)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I98358874",
+            "host_organization_name": "Delft University of Technology",
+            "host_organization_lineage": [
+              "https://openalex.org/I98358874"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Energy Procedia, 1, 1, 2663-2670",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1016/j.egypro.2009.02.034",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.egypro.2009.02.034",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S75069817",
+          "display_name": "Energy Procedia",
+          "issn_l": "1876-6102",
+          "issn": [
+            "1876-6102"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Energy Procedia",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "display_name": "Partnerships for the goals",
+          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/17"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2360002651",
+        "https://openalex.org/W3191763517",
+        "https://openalex.org/W2536695084",
+        "https://openalex.org/W2363693341",
+        "https://openalex.org/W2015939524",
+        "https://openalex.org/W1595951894",
+        "https://openalex.org/W2375517450",
+        "https://openalex.org/W2748270136",
+        "https://openalex.org/W3020867555",
+        "https://openalex.org/W2051294624"
+      ],
+      "abstract_inverted_index": {
+        "25": [
+          73
+        ],
+        "The": [
+          0,
+          19,
+          67
+        ],
+        "focus": [
+          1
+        ],
+        "of": [
+          2,
+          9,
+          31,
+          49,
+          69,
+          85
+        ],
+        "the": [
+          3,
+          25
+        ],
+        "GeoCapacity": [
+          4,
+          70
+        ],
+        "project": [
+          5
+        ],
+        "is": [
+          6,
+          22
+        ],
+        "GIS": [
+          7
+        ],
+        "mapping": [
+          8
+        ],
+        "CO2": [
+          10,
+          32
+        ],
+        "point": [
+          11
+        ],
+        "sources,": [
+          12
+        ],
+        "infrastructure": [
+          13
+        ],
+        "and": [
+          14,
+          38,
+          41,
+          56,
+          75
+        ],
+        "geological": [
+          15,
+          29,
+          83
+        ],
+        "storage": [
+          16,
+          30,
+          84
+        ],
+        "in": [
+          17,
+          33
+        ],
+        "Europe.": [
+          18
+        ],
+        "main": [
+          20
+        ],
+        "objective": [
+          21
+        ],
+        "to": [
+          23
+        ],
+        "assess": [
+          24
+        ],
+        "European": [
+          26,
+          78
+        ],
+        "capacity": [
+          27,
+          52
+        ],
+        "for": [
+          28,
+          51,
+          82
+        ],
+        "deep": [
+          34
+        ],
+        "saline": [
+          35
+        ],
+        "aquifers,": [
+          36
+        ],
+        "oil": [
+          37
+        ],
+        "gas": [
+          39
+        ],
+        "structures": [
+          40
+        ],
+        "coal": [
+          42
+        ],
+        "beds.": [
+          43
+        ],
+        "Other": [
+          44
+        ],
+        "priorities": [
+          45
+        ],
+        "are": [
+          46
+        ],
+        "further": [
+          47
+        ],
+        "development": [
+          48
+        ],
+        "methods": [
+          50
+        ],
+        "assessment,": [
+          53
+        ],
+        "economic": [
+          54
+        ],
+        "modelling": [
+          55
+        ],
+        "site": [
+          57
+        ],
+        "selection": [
+          58
+        ],
+        "as": [
+          59,
+          61
+        ],
+        "well": [
+          60
+        ],
+        "international": [
+          62
+        ],
+        "cooperation,": [
+          63
+        ],
+        "especially": [
+          64
+        ],
+        "with": [
+          65
+        ],
+        "China.": [
+          66
+        ],
+        "results": [
+          68
+        ],
+        "will": [
+          71
+        ],
+        "include": [
+          72
+        ],
+        "countries": [
+          74
+        ],
+        "comprises": [
+          76
+        ],
+        "most": [
+          77
+        ],
+        "sedimentary": [
+          79
+        ],
+        "basins": [
+          80
+        ],
+        "suitable": [
+          81
+        ],
+        "CO2.": [
+          86
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 16
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 15
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 12
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 17
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 19
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 12
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 8
+        }
+      ],
+      "updated_date": "2026-07-29T14:22:42.915294",
+      "created_date": "2025-10-10T00:00:00"
+    },
     {
       "id": "https://openalex.org/W2287111010",
       "doi": "https://doi.org/10.2113/geoarabia100477",
@@ -1029,16 +2353,16 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 66,
@@ -2798,16 +4122,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -3436,11 +4760,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9015,
+      "fwci": 0.902,
       "has_fulltext": false,
       "cited_by_count": 72,
       "citation_normalized_percentile": {
-        "value": 0.80359843,
+        "value": 0.80371714,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3753,16 +5077,16 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -4959,9 +6283,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -4973,8 +6297,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -5662,16 +6986,16 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1542845244.pdf"
@@ -8013,9 +9337,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -8027,8 +9351,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 115,
@@ -8418,11 +9742,11 @@
         "value_usd": 3980
       },
       "apc_paid": null,
-      "fwci": 2.5247,
+      "fwci": 2.5253,
       "has_fulltext": false,
       "cited_by_count": 43,
       "citation_normalized_percentile": {
-        "value": 0.87681264,
+        "value": 0.87685346,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8822,8 +10146,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -9571,16 +10895,16 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life in Land",
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -11276,8 +12600,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -12771,16 +14095,16 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -13485,6 +14809,1598 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2006757505",
+      "doi": "https://doi.org/10.1016/j.egypro.2011.02.526",
+      "title": "Storing CO2 underneath the Siberian Permafrost: A win-win solution for long-term trapping of CO2 and heavy oil upgrading",
+      "display_name": "Storing CO2 underneath the Siberian Permafrost: A win-win solution for long-term trapping of CO2 and heavy oil upgrading",
+      "publication_year": 2011,
+      "publication_date": "2011-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2006757505",
+        "doi": "https://doi.org/10.1016/j.egypro.2011.02.526",
+        "mag": "2006757505"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.egypro.2011.02.526",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.egypro.2011.02.526",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S75069817",
+          "display_name": "Energy Procedia",
+          "issn_l": "1876-6102",
+          "issn": [
+            "1876-6102"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Energy Procedia",
+        "raw_type": "journal-article"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://doi.org/10.1016/j.egypro.2011.02.526",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5054427253",
+            "display_name": "Yves-Michel Le Nindre",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210158893",
+              "display_name": "Bureau de Recherches Géologiques et Minières",
+              "ror": "https://ror.org/05hnb7x64",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Yves-Michel Le Nindre",
+          "raw_affiliation_strings": [
+            "BRGM, Orléans, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "BRGM, Orléans, France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5047435631",
+            "display_name": "Delphine Allier",
+            "orcid": "https://orcid.org/0000-0002-6869-3451"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210158893",
+              "display_name": "Bureau de Recherches Géologiques et Minières",
+              "ror": "https://ror.org/05hnb7x64",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Delphine Allier",
+          "raw_affiliation_strings": [
+            "BRGM, Orléans, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "BRGM, Orléans, France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5110006235",
+            "display_name": "Albert Duchkov",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210106118",
+              "display_name": "Institute of Petroleum Geology and Geophysics",
+              "ror": "https://ror.org/00y1dzm96",
+              "country_code": "RU",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1313323035",
+                "https://openalex.org/I4210106118",
+                "https://openalex.org/I4210163714"
+              ]
+            }
+          ],
+          "countries": [
+            "RU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Albert Duchkov",
+          "raw_affiliation_strings": [
+            "IPGG, Trofimuk Institute of Petroleum Geology and Geophysics, Tomsk and Novosibirsk branches, Russia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "IPGG, Trofimuk Institute of Petroleum Geology and Geophysics, Tomsk and Novosibirsk branches, Russia",
+              "institution_ids": [
+                "https://openalex.org/I4210106118"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5013239518",
+            "display_name": "Л. К. Алтунина",
+            "orcid": "https://orcid.org/0000-0001-9502-1864"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210112221",
+              "display_name": "Institute of Petroleum Chemistry",
+              "ror": "https://ror.org/01zavqc64",
+              "country_code": "RU",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1313323035",
+                "https://openalex.org/I4210112221",
+                "https://openalex.org/I4210145551"
+              ]
+            }
+          ],
+          "countries": [
+            "RU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Liubov K. Altunina",
+          "raw_affiliation_strings": [
+            "IPC, Institute of Pertoleum Chemistry, Tomsk, Russia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "IPC, Institute of Pertoleum Chemistry, Tomsk, Russia",
+              "institution_ids": [
+                "https://openalex.org/I4210112221"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5003556624",
+            "display_name": "С. Л. Шварцев",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210106118",
+              "display_name": "Institute of Petroleum Geology and Geophysics",
+              "ror": "https://ror.org/00y1dzm96",
+              "country_code": "RU",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1313323035",
+                "https://openalex.org/I4210106118",
+                "https://openalex.org/I4210163714"
+              ]
+            }
+          ],
+          "countries": [
+            "RU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Stepan Shvartsev",
+          "raw_affiliation_strings": [
+            "IPGG, Trofimuk Institute of Petroleum Geology and Geophysics, Tomsk and Novosibirsk branches, Russia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "IPGG, Trofimuk Institute of Petroleum Geology and Geophysics, Tomsk and Novosibirsk branches, Russia",
+              "institution_ids": [
+                "https://openalex.org/I4210106118"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5112404860",
+            "display_name": "Mikhail Zhelezniak",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210111564",
+              "display_name": "Melnikov Permafrost Institute of the Siberian Branch of the Russian Academy of Science",
+              "ror": "https://ror.org/01rwqqv19",
+              "country_code": "RU",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I1313323035",
+                "https://openalex.org/I4210111564",
+                "https://openalex.org/I4210127387"
+              ]
+            }
+          ],
+          "countries": [
+            "RU"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mikhail Zhelezniak",
+          "raw_affiliation_strings": [
+            "Melkinov Permafrost Institute, Yakutsk, Russia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Melkinov Permafrost Institute, Yakutsk, Russia",
+              "institution_ids": [
+                "https://openalex.org/I4210111564"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5110101345",
+            "display_name": "J. Klerkx",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210157936",
+              "display_name": "International Bureau for Environmental Studies",
+              "ror": "https://ror.org/047k18g44",
+              "country_code": "BE",
+              "type": "nonprofit",
+              "lineage": [
+                "https://openalex.org/I4210157936"
+              ]
+            }
+          ],
+          "countries": [
+            "BE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jean Klerkx",
+          "raw_affiliation_strings": [
+            "IBES, International Bureau for Environmental Studies, Brussels, Belgium"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "IBES, International Bureau for Environmental Studies, Brussels, Belgium",
+              "institution_ids": [
+                "https://openalex.org/I4210157936"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 5,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5054427253"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I4210158893"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 2.4956,
+      "has_fulltext": false,
+      "cited_by_count": 8,
+      "citation_normalized_percentile": {
+        "value": 0.83657244,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "4",
+        "issue": null,
+        "first_page": "5414",
+        "last_page": "5421"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10995",
+        "display_name": "Methane Hydrates and Related Phenomena",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2304",
+          "display_name": "Environmental Chemistry"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10995",
+          "display_name": "Methane Hydrates and Related Phenomena",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2304",
+            "display_name": "Environmental Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9998000264167786,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11302",
+          "display_name": "CO2 Sequestration and Geologic Interactions",
+          "score": 0.9995999932289124,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/permafrost",
+          "display_name": "Permafrost",
+          "score": 0.8375130891799927
+        },
+        {
+          "id": "https://openalex.org/keywords/aquifer",
+          "display_name": "Aquifer",
+          "score": 0.6148073673248291
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-science",
+          "display_name": "Environmental science",
+          "score": 0.5885931253433228
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-engineering",
+          "display_name": "Petroleum engineering",
+          "score": 0.538318932056427
+        },
+        {
+          "id": "https://openalex.org/keywords/enhanced-oil-recovery",
+          "display_name": "Enhanced oil recovery",
+          "score": 0.5304276943206787
+        },
+        {
+          "id": "https://openalex.org/keywords/geothermal-gradient",
+          "display_name": "Geothermal gradient",
+          "score": 0.5103752017021179
+        },
+        {
+          "id": "https://openalex.org/keywords/fossil-fuel",
+          "display_name": "Fossil fuel",
+          "score": 0.4863489270210266
+        },
+        {
+          "id": "https://openalex.org/keywords/carbon-capture-and-storage",
+          "display_name": "Carbon capture and storage (timeline)",
+          "score": 0.462999165058136
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.45959386229515076
+        },
+        {
+          "id": "https://openalex.org/keywords/hydrology",
+          "display_name": "Hydrology (agriculture)",
+          "score": 0.37024208903312683
+        },
+        {
+          "id": "https://openalex.org/keywords/earth-science",
+          "display_name": "Earth science",
+          "score": 0.34769588708877563
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemistry",
+          "display_name": "Geochemistry",
+          "score": 0.3449563682079315
+        },
+        {
+          "id": "https://openalex.org/keywords/climate-change",
+          "display_name": "Climate change",
+          "score": 0.33323532342910767
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.31905654072761536
+        },
+        {
+          "id": "https://openalex.org/keywords/groundwater",
+          "display_name": "Groundwater",
+          "score": 0.30027568340301514
+        },
+        {
+          "id": "https://openalex.org/keywords/waste-management",
+          "display_name": "Waste management",
+          "score": 0.26722943782806396
+        },
+        {
+          "id": "https://openalex.org/keywords/geotechnical-engineering",
+          "display_name": "Geotechnical engineering",
+          "score": 0.1796104907989502
+        },
+        {
+          "id": "https://openalex.org/keywords/geomorphology",
+          "display_name": "Geomorphology",
+          "score": 0.16194093227386475
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.16131442785263062
+        },
+        {
+          "id": "https://openalex.org/keywords/oceanography",
+          "display_name": "Oceanography",
+          "score": 0.1466372311115265
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.10944098234176636
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C15098985",
+          "wikidata": "https://www.wikidata.org/wiki/Q179918",
+          "display_name": "Permafrost",
+          "level": 2,
+          "score": 0.8375130891799927
+        },
+        {
+          "id": "https://openalex.org/C75622301",
+          "wikidata": "https://www.wikidata.org/wiki/Q208791",
+          "display_name": "Aquifer",
+          "level": 3,
+          "score": 0.6148073673248291
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.5885931253433228
+        },
+        {
+          "id": "https://openalex.org/C78762247",
+          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+          "display_name": "Petroleum engineering",
+          "level": 1,
+          "score": 0.538318932056427
+        },
+        {
+          "id": "https://openalex.org/C2779681308",
+          "wikidata": "https://www.wikidata.org/wiki/Q1049254",
+          "display_name": "Enhanced oil recovery",
+          "level": 2,
+          "score": 0.5304276943206787
+        },
+        {
+          "id": "https://openalex.org/C111766609",
+          "wikidata": "https://www.wikidata.org/wiki/Q636340",
+          "display_name": "Geothermal gradient",
+          "level": 2,
+          "score": 0.5103752017021179
+        },
+        {
+          "id": "https://openalex.org/C68189081",
+          "wikidata": "https://www.wikidata.org/wiki/Q12748",
+          "display_name": "Fossil fuel",
+          "level": 2,
+          "score": 0.4863489270210266
+        },
+        {
+          "id": "https://openalex.org/C2778379663",
+          "wikidata": "https://www.wikidata.org/wiki/Q5037942",
+          "display_name": "Carbon capture and storage (timeline)",
+          "level": 3,
+          "score": 0.462999165058136
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.45959386229515076
+        },
+        {
+          "id": "https://openalex.org/C76886044",
+          "wikidata": "https://www.wikidata.org/wiki/Q2883300",
+          "display_name": "Hydrology (agriculture)",
+          "level": 2,
+          "score": 0.37024208903312683
+        },
+        {
+          "id": "https://openalex.org/C1965285",
+          "wikidata": "https://www.wikidata.org/wiki/Q8008",
+          "display_name": "Earth science",
+          "level": 1,
+          "score": 0.34769588708877563
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.3449563682079315
+        },
+        {
+          "id": "https://openalex.org/C132651083",
+          "wikidata": "https://www.wikidata.org/wiki/Q7942",
+          "display_name": "Climate change",
+          "level": 2,
+          "score": 0.33323532342910767
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.31905654072761536
+        },
+        {
+          "id": "https://openalex.org/C76177295",
+          "wikidata": "https://www.wikidata.org/wiki/Q161598",
+          "display_name": "Groundwater",
+          "level": 2,
+          "score": 0.30027568340301514
+        },
+        {
+          "id": "https://openalex.org/C548081761",
+          "wikidata": "https://www.wikidata.org/wiki/Q180388",
+          "display_name": "Waste management",
+          "level": 1,
+          "score": 0.26722943782806396
+        },
+        {
+          "id": "https://openalex.org/C187320778",
+          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
+          "display_name": "Geotechnical engineering",
+          "level": 1,
+          "score": 0.1796104907989502
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.16194093227386475
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.16131442785263062
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.1466372311115265
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.10944098234176636
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.egypro.2011.02.526",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1016/j.egypro.2011.02.526",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S75069817",
+            "display_name": "Energy Procedia",
+            "issn_l": "1876-6102",
+            "issn": [
+              "1876-6102"
+            ],
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Energy Procedia",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:HAL:hal-03652201v1",
+          "is_oa": false,
+          "landing_page_url": "https://brgm.hal.science/hal-03652201",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402512",
+            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1294671590",
+            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization_lineage": [
+              "https://openalex.org/I1294671590"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Energy Procedia, 2011, 4, pp.5414-5421. &#x27E8;10.1016/j.egypro.2011.02.526&#x27E9;",
+          "raw_type": "info:eu-repo/semantics/article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1016/j.egypro.2011.02.526",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.egypro.2011.02.526",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S75069817",
+          "display_name": "Energy Procedia",
+          "issn_l": "1876-6102",
+          "issn": [
+            "1876-6102"
+          ],
+          "is_oa": true,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Energy Procedia",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 2,
+      "referenced_works": [
+        "https://openalex.org/W2196512707",
+        "https://openalex.org/W2950514387"
+      ],
+      "related_works": [
+        "https://openalex.org/W1824336683",
+        "https://openalex.org/W1982366144",
+        "https://openalex.org/W2900526884",
+        "https://openalex.org/W1975043628",
+        "https://openalex.org/W2349454828",
+        "https://openalex.org/W4252886933",
+        "https://openalex.org/W3000746129",
+        "https://openalex.org/W2466359547",
+        "https://openalex.org/W2990546033",
+        "https://openalex.org/W3207311200"
+      ],
+      "abstract_inverted_index": {
+        "A": [
+          0,
+          103
+        ],
+        "two-year": [
+          1
+        ],
+        "project": [
+          2,
+          33,
+          66
+        ],
+        "entitled": [
+          3
+        ],
+        "“Assessment": [
+          4
+        ],
+        "of": [
+          5,
+          8,
+          26,
+          30,
+          41,
+          47,
+          52,
+          60,
+          64,
+          71,
+          99,
+          110,
+          121,
+          128,
+          133,
+          166,
+          213,
+          248,
+          259,
+          279,
+          302,
+          325
+        ],
+        "the": [
+          6,
+          12,
+          23,
+          27,
+          38,
+          42,
+          61,
+          65,
+          68,
+          76,
+          80,
+          84,
+          89,
+          97,
+          108,
+          114,
+          126,
+          131,
+          164,
+          167,
+          189,
+          223,
+          228,
+          233,
+          249,
+          255,
+          260,
+          276,
+          280,
+          284,
+          288,
+          298,
+          303,
+          310,
+          319,
+          338,
+          348,
+          353
+        ],
+        "Feasibility": [
+          7
+        ],
+        "CO2": [
+          9,
+          78,
+          100,
+          111,
+          129,
+          134,
+          149,
+          215,
+          225,
+          244,
+          261,
+          291,
+          311,
+          349
+        ],
+        "Storage": [
+          10,
+          286
+        ],
+        "in": [
+          11,
+          18,
+          20,
+          49,
+          56,
+          113,
+          135,
+          150,
+          163,
+          171,
+          183,
+          209,
+          217,
+          227,
+          238,
+          318
+        ],
+        "Russian": [
+          13,
+          28
+        ],
+        "Permafrost”": [
+          14
+        ],
+        "was": [
+          15,
+          67,
+          107
+        ],
+        "carried": [
+          16
+        ],
+        "out": [
+          17
+        ],
+        "Russia": [
+          19
+        ],
+        "collaboration": [
+          21
+        ],
+        "with": [
+          22,
+          116,
+          322
+        ],
+        "Siberian": [
+          24,
+          169
+        ],
+        "branch": [
+          25
+        ],
+        "Academy": [
+          29
+        ],
+        "Sciences.": [
+          31
+        ],
+        "This": [
+          32
+        ],
+        "delivers": [
+          34
+        ],
+        "new": [
+          35
+        ],
+        "conclusions": [
+          36
+        ],
+        "about": [
+          37
+        ],
+        "safety": [
+          39
+        ],
+        "role": [
+          40
+        ],
+        "permafrost": [
+          43,
+          115,
+          250,
+          289,
+          339
+        ],
+        "and": [
+          44,
+          79,
+          88,
+          240,
+          252,
+          254,
+          275,
+          329
+        ],
+        "specific": [
+          45,
+          62,
+          105
+        ],
+        "conditions": [
+          46
+        ],
+        "storage": [
+          48,
+          112,
+          182,
+          196
+        ],
+        "an": [
+          50
+        ],
+        "area": [
+          51
+        ],
+        "abnormal": [
+          53
+        ],
+        "geothermal": [
+          54
+        ],
+        "gradient": [
+          55
+        ],
+        "Western": [
+          57,
+          168,
+          218
+        ],
+        "Siberia.": [
+          58
+        ],
+        "One": [
+          59
+        ],
+        "issues": [
+          63
+        ],
+        "potential": [
+          69,
+          200
+        ],
+        "formation": [
+          70,
+          191
+        ],
+        "carbon": [
+          72
+        ],
+        "dioxide": [
+          73
+        ],
+        "hydrates": [
+          74,
+          87,
+          351
+        ],
+        "from": [
+          75,
+          232
+        ],
+        "injected": [
+          77,
+          90
+        ],
+        "possible": [
+          81
+        ],
+        "reaction": [
+          82
+        ],
+        "between": [
+          83,
+          271
+        ],
+        "existing": [
+          85
+        ],
+        "methane": [
+          86
+        ],
+        "CO2.": [
+          91
+        ],
+        "Maps": [
+          92
+        ],
+        "have": [
+          93,
+          205
+        ],
+        "been": [
+          94,
+          207
+        ],
+        "constructed": [
+          95
+        ],
+        "showing": [
+          96
+        ],
+        "areas": [
+          98,
+          274
+        ],
+        "hydrate": [
+          101,
+          292
+        ],
+        "stability.": [
+          102
+        ],
+        "second": [
+          104
+        ],
+        "issue": [
+          106
+        ],
+        "compatibility": [
+          109
+        ],
+        "oil": [
+          117,
+          142,
+          155,
+          158,
+          327
+        ],
+        "production.": [
+          118
+        ],
+        "Pilot": [
+          119
+        ],
+        "tests": [
+          120
+        ],
+        "EOR": [
+          122
+        ],
+        "technologies,": [
+          123
+        ],
+        "involving": [
+          124
+        ],
+        "either": [
+          125
+        ],
+        "injection": [
+          127
+        ],
+        "or": [
+          130,
+          178
+        ],
+        "generation": [
+          132
+        ],
+        "situ,": [
+          136
+        ],
+        "proved": [
+          137
+        ],
+        "very": [
+          138
+        ],
+        "efficiency": [
+          139
+        ],
+        "for": [
+          140
+        ],
+        "high-viscosity": [
+          141,
+          154
+        ],
+        "pools.": [
+          143
+        ],
+        "Therefore,": [
+          144
+        ],
+        "we": [
+          145
+        ],
+        "propose": [
+          146
+        ],
+        "to": [
+          147,
+          297
+        ],
+        "inject": [
+          148
+        ],
+        "West": [
+          151
+        ],
+        "Siberia": [
+          152,
+          219
+        ],
+        "into": [
+          153
+        ],
+        "fields.": [
+          156
+        ],
+        "High-viscosity": [
+          157
+        ],
+        "fields": [
+          159
+        ],
+        "are": [
+          160,
+          242
+        ],
+        "mainly": [
+          161
+        ],
+        "located": [
+          162
+        ],
+        "centre": [
+          165
+        ],
+        "Basin": [
+          170
+        ],
+        "Khanty-Mansijsk": [
+          172
+        ],
+        "autonomous": [
+          173
+        ],
+        "okrug": [
+          174
+        ],
+        "(KMAO).": [
+          175
+        ],
+        "An": [
+          176
+        ],
+        "alternative": [
+          177
+        ],
+        "complementary": [
+          179
+        ],
+        "solution": [
+          180
+        ],
+        "is": [
+          181,
+          201,
+          293
+        ],
+        "aquifers.": [
+          184
+        ],
+        "Deep": [
+          185
+        ],
+        "aquifers,": [
+          186
+        ],
+        "such": [
+          187
+        ],
+        "as": [
+          188,
+          290,
+          342,
+          350
+        ],
+        "Pokur": [
+          190
+        ],
+        "overlain": [
+          192
+        ],
+        "could": [
+          193,
+          269
+        ],
+        "also": [
+          194
+        ],
+        "be": [
+          195,
+          313
+        ],
+        "targets,": [
+          197
+        ],
+        "but": [
+          198
+        ],
+        "their": [
+          199
+        ],
+        "unknown": [
+          202
+        ],
+        "because": [
+          203
+        ],
+        "they": [
+          204
+        ],
+        "not": [
+          206,
+          294
+        ],
+        "explored": [
+          208
+        ],
+        "detail.": [
+          210
+        ],
+        "The": [
+          211
+        ],
+        "inventory": [
+          212
+        ],
+        "major": [
+          214,
+          224
+        ],
+        "sources": [
+          216
+        ],
+        "has": [
+          220,
+          263
+        ],
+        "shown": [
+          221,
+          264
+        ],
+        "that": [
+          222,
+          265
+        ],
+        "emission": [
+          226
+        ],
+        "power": [
+          229,
+          236
+        ],
+        "sector": [
+          230
+        ],
+        "comes": [
+          231
+        ],
+        "KMAO,": [
+          234
+        ],
+        "where": [
+          235
+        ],
+        "stations": [
+          237
+        ],
+        "Surgut": [
+          239
+        ],
+        "Nizhnevartovsk": [
+          241
+        ],
+        "large": [
+          243
+        ],
+        "sources.": [
+          245
+        ],
+        "GIS": [
+          246
+        ],
+        "mapping": [
+          247
+        ],
+        "depth": [
+          251
+        ],
+        "thickness,": [
+          253
+        ],
+        "associated": [
+          256
+        ],
+        "stability": [
+          257,
+          277
+        ],
+        "domain": [
+          258,
+          278
+        ],
+        "hydrates,": [
+          262,
+          282
+        ],
+        "a": [
+          266,
+          332,
+          343
+        ],
+        "good": [
+          267
+        ],
+        "overlap": [
+          268
+        ],
+        "exist": [
+          270
+        ],
+        "these": [
+          272
+        ],
+        "industrial": [
+          273
+        ],
+        "gas": [
+          281,
+          307
+        ],
+        "underneath": [
+          283,
+          331
+        ],
+        "permafrost.": [
+          285
+        ],
+        "beneath": [
+          287
+        ],
+        "suitable": [
+          295
+        ],
+        "due": [
+          296
+        ],
+        "probable": [
+          299
+        ],
+        "rapid": [
+          300
+        ],
+        "plugging": [
+          301
+        ],
+        "porosity": [
+          304
+        ],
+        "by": [
+          305,
+          346
+        ],
+        "solid": [
+          306
+        ],
+        "hydrates.": [
+          308
+        ],
+        "But,": [
+          309
+        ],
+        "should": [
+          312,
+          356
+        ],
+        "stored": [
+          314
+        ],
+        "at": [
+          315
+        ],
+        "supercritical": [
+          316
+        ],
+        "state": [
+          317
+        ],
+        "hydrocarbon": [
+          320
+        ],
+        "fields,": [
+          321
+        ],
+        "added": [
+          323
+        ],
+        "value": [
+          324
+        ],
+        "heavy": [
+          326
+        ],
+        "upgrading,": [
+          328
+        ],
+        "trapped": [
+          330
+        ],
+        "classical": [
+          333
+        ],
+        "cap": [
+          334
+        ],
+        "rock.": [
+          335
+        ],
+        "In": [
+          336
+        ],
+        "addition,": [
+          337
+        ],
+        "would": [
+          340
+        ],
+        "act": [
+          341
+        ],
+        "secondary": [
+          344
+        ],
+        "cap-rock": [
+          345
+        ],
+        "trapping": [
+          347
+        ],
+        "if": [
+          352
+        ],
+        "primary": [
+          354
+        ],
+        "caprock": [
+          355
+        ],
+        "fail.": [
+          357
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-07-29T14:22:42.915294",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4381681826",
       "doi": "https://doi.org/10.5802/crgeos.217",
       "title": "The Middle to Late Triassic of Central Saudi Arabia with emphasis on the Jilh Formation. Part I: lithostratigraphy, facies and paleoenvironments, palaeontology and biostratigraphic age calibration from outcrop studies",
@@ -14080,8 +16996,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -15038,8 +17954,8 @@
           "host_organization_lineage_names": [],
           "type": "journal"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -15052,7 +17968,7 @@
       ],
       "open_access": {
         "is_oa": true,
-        "oa_status": "bronze",
+        "oa_status": "hybrid",
         "oa_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/10/4/137/5442503/vachard.pdf",
         "any_repository_has_fulltext": false
       },
@@ -15125,11 +18041,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.0836,
+      "fwci": 5.9562,
       "has_fulltext": false,
       "cited_by_count": 57,
       "citation_normalized_percentile": {
-        "value": 0.95960054,
+        "value": 0.95844875,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15376,8 +18292,8 @@
             "host_organization_lineage_names": [],
             "type": "journal"
           },
-          "license": null,
-          "license_id": null,
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -15406,8 +18322,8 @@
           "host_organization_lineage_names": [],
           "type": "journal"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -15416,16 +18332,16 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.7699999809265137,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2954113145.pdf"
@@ -15911,7 +18827,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-07-11T18:08:03.149640",
+      "updated_date": "2026-07-30T17:31:21.811387",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16887,8 +19803,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 12,
@@ -17266,11 +20182,11 @@
         "value_usd": 2650
       },
       "apc_paid": null,
-      "fwci": 1.8497,
+      "fwci": 1.8495,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.81775312,
+        "value": 0.81772784,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17666,9 +20582,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -17680,8 +20596,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 128,
@@ -18644,9 +21560,9 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.6499999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -18663,8 +21579,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1056795926.pdf",
@@ -19630,16 +22546,16 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2968599283.pdf"
@@ -20437,16 +23353,16 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2188233270.pdf"
@@ -21333,8 +24249,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3127056474.pdf"
@@ -22478,16 +25394,16 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -24130,16 +27046,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -25096,16 +28012,16 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2979942938.pdf"
@@ -25947,11 +28863,11 @@
         "currency": "USD",
         "value_usd": 1300
       },
-      "fwci": 1.8258,
+      "fwci": 1.823,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.85752797,
+        "value": 0.8574317,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26425,8 +29341,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385358246.pdf"
@@ -27473,16 +30389,16 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2972134149.pdf"
@@ -28540,16 +31456,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.46000000834465027,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -29038,16 +31954,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -29905,16 +32821,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.46000000834465027,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -30020,12 +32936,13 @@
           "is_corresponding": true,
           "raw_author_name": "LE NINDRE, YVES-MICHEL, and JACQUES",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 1,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5054427253"
       ],
@@ -30036,7 +32953,7 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.22395833,
+        "value": 0.20747951,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30263,16 +33180,16 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -30507,1324 +33424,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2101795741",
-      "doi": "https://doi.org/10.1016/j.egypro.2009.02.034",
-      "title": "Assessing European capacity for geological storage of carbon dioxide–the EU GeoCapacity project",
-      "display_name": "Assessing European capacity for geological storage of carbon dioxide–the EU GeoCapacity project",
-      "publication_year": 2009,
-      "publication_date": "2009-02-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2101795741",
-        "doi": "https://doi.org/10.1016/j.egypro.2009.02.034",
-        "mag": "2101795741"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.egypro.2009.02.034",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.egypro.2009.02.034",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S75069817",
-          "display_name": "Energy Procedia",
-          "issn_l": "1876-6102",
-          "issn": [
-            "1876-6102"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Energy Procedia",
-        "raw_type": "journal-article"
-      },
-      "type": "conference-paper",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "diamond",
-        "oa_url": "https://doi.org/10.1016/j.egypro.2009.02.034",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5024336947",
-            "display_name": "Thomas Vangkilde‐Pedersen",
-            "orcid": "https://orcid.org/0000-0002-6561-1406"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2801979204",
-              "display_name": "Geological Survey of Denmark and Greenland",
-              "ror": "https://ror.org/01b40r146",
-              "country_code": "DK",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I2801979204",
-                "https://openalex.org/I4210102581"
-              ]
-            }
-          ],
-          "countries": [
-            "DK"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Thomas Vangkilde-Pedersen",
-          "raw_affiliation_strings": [
-            "Geological Survey of Denmark and Greenland (GEUS), Oester Voldgade 10, DK-1350 Copenhagen K, Denmark"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geological Survey of Denmark and Greenland (GEUS), Oester Voldgade 10, DK-1350 Copenhagen K, Denmark",
-              "institution_ids": [
-                "https://openalex.org/I2801979204"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5001494362",
-            "display_name": "K.L. Anthonsen",
-            "orcid": "https://orcid.org/0000-0002-0155-8386"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2801979204",
-              "display_name": "Geological Survey of Denmark and Greenland",
-              "ror": "https://ror.org/01b40r146",
-              "country_code": "DK",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I2801979204",
-                "https://openalex.org/I4210102581"
-              ]
-            }
-          ],
-          "countries": [
-            "DK"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Karen Lyng Anthonsen",
-          "raw_affiliation_strings": [
-            "Geological Survey of Denmark and Greenland (GEUS), Oester Voldgade 10, DK-1350 Copenhagen K, Denmark"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Geological Survey of Denmark and Greenland (GEUS), Oester Voldgade 10, DK-1350 Copenhagen K, Denmark",
-              "institution_ids": [
-                "https://openalex.org/I2801979204"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5044415887",
-            "display_name": "Darren Smith",
-            "orcid": "https://orcid.org/0000-0003-4925-467X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I139290333",
-              "display_name": "British Geological Survey",
-              "ror": "https://ror.org/04a7gbp98",
-              "country_code": "GB",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I139290333",
-                "https://openalex.org/I141816643",
-                "https://openalex.org/I4210087105"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Nikki Smith",
-          "raw_affiliation_strings": [
-            "British Geological Survey (BGS), Keyworth, Nottingham NG12 5GG, UK",
-            "British Geological Survey, (BGS), Keyworth Nottingham, NG12 5GG – UK"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey (BGS), Keyworth, Nottingham NG12 5GG, UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
-            {
-              "raw_affiliation_string": "British Geological Survey, (BGS), Keyworth Nottingham, NG12 5GG – UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5003652374",
-            "display_name": "Karen Kirk",
-            "orcid": "https://orcid.org/0000-0003-1091-1150"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I139290333",
-              "display_name": "British Geological Survey",
-              "ror": "https://ror.org/04a7gbp98",
-              "country_code": "GB",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I139290333",
-                "https://openalex.org/I141816643",
-                "https://openalex.org/I4210087105"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Karen Kirk",
-          "raw_affiliation_strings": [
-            "British Geological Survey (BGS), Keyworth, Nottingham NG12 5GG, UK",
-            "British Geological Survey, (BGS), Keyworth Nottingham, NG12 5GG – UK"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey (BGS), Keyworth, Nottingham NG12 5GG, UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
-            {
-              "raw_affiliation_string": "British Geological Survey, (BGS), Keyworth Nottingham, NG12 5GG – UK",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5031539136",
-            "display_name": "Filip Neele",
-            "orcid": "https://orcid.org/0000-0001-8279-8252"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I148297040",
-              "display_name": "Netherlands Organisation for Applied Scientific Research",
-              "ror": "https://ror.org/01bnjb948",
-              "country_code": "NL",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I148297040"
-              ]
-            }
-          ],
-          "countries": [
-            "NL"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Filip neele",
-          "raw_affiliation_strings": [
-            "TNO Built Environment and Geosciences, P.O. Box 80015, 3508 TA Utrecht, Netherlands"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "TNO Built Environment and Geosciences, P.O. Box 80015, 3508 TA Utrecht, Netherlands",
-              "institution_ids": [
-                "https://openalex.org/I148297040"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5025041614",
-            "display_name": "Bert van der Meer",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I148297040",
-              "display_name": "Netherlands Organisation for Applied Scientific Research",
-              "ror": "https://ror.org/01bnjb948",
-              "country_code": "NL",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I148297040"
-              ]
-            }
-          ],
-          "countries": [
-            "NL"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Bert van der Meer",
-          "raw_affiliation_strings": [
-            "TNO Built Environment and Geosciences, P.O. Box 80015, 3508 TA Utrecht, Netherlands"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "TNO Built Environment and Geosciences, P.O. Box 80015, 3508 TA Utrecht, Netherlands",
-              "institution_ids": [
-                "https://openalex.org/I148297040"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5084361375",
-            "display_name": "Y. Le Gallo",
-            "orcid": "https://orcid.org/0000-0002-5586-9008"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2540865",
-              "display_name": "Institut Français",
-              "ror": "https://ror.org/047hdnt12",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I2540865"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Yann Le Gallo",
-          "raw_affiliation_strings": [
-            "Institut Franc˘ais du Pétrole (IFP), 1 & 4 avenue de Bois-Préau, 2852 Rueil-Malmaison Cedex, France"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Institut Franc˘ais du Pétrole (IFP), 1 & 4 avenue de Bois-Préau, 2852 Rueil-Malmaison Cedex, France",
-              "institution_ids": [
-                "https://openalex.org/I2540865"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5109122656",
-            "display_name": "D. Bossie-Codreanu",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2540865",
-              "display_name": "Institut Français",
-              "ror": "https://ror.org/047hdnt12",
-              "country_code": "FR",
-              "type": "funder",
-              "lineage": [
-                "https://openalex.org/I2540865"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Dan Bossie-Codreanu",
-          "raw_affiliation_strings": [
-            "Institut Franc˘ais du Pétrole (IFP), 1 & 4 avenue de Bois-Préau, 2852 Rueil-Malmaison Cedex, France"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Institut Franc˘ais du Pétrole (IFP), 1 & 4 avenue de Bois-Préau, 2852 Rueil-Malmaison Cedex, France",
-              "institution_ids": [
-                "https://openalex.org/I2540865"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5006218080",
-            "display_name": "Adam Wójcicki",
-            "orcid": "https://orcid.org/0000-0003-0969-9666"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210136445",
-              "display_name": "Przedsiębiorstwo Badań Geofizycznych",
-              "ror": "https://ror.org/03s7c3y50",
-              "country_code": "PL",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210136445"
-              ]
-            }
-          ],
-          "countries": [
-            "PL"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Adam Wojcicki",
-          "raw_affiliation_strings": [
-            "PBG Geophysical Exploration Company Limited, 76 Jagiellonska, 03-301 Warszawa, Poland"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "PBG Geophysical Exploration Company Limited, 76 Jagiellonska, 03-301 Warszawa, Poland",
-              "institution_ids": [
-                "https://openalex.org/I4210136445"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5054427253",
-            "display_name": "Yves-Michel Le Nindre",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210158893",
-              "display_name": "Bureau de Recherches Géologiques et Minières",
-              "ror": "https://ror.org/05hnb7x64",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Yves-Michel Le Nindre",
-          "raw_affiliation_strings": [
-            "Bureau de Recherches Géologiques et Minières (BRGM), 3 avenue Claude-Guillemin, BP 36009 - 45060 Orléans Cedex 2, France"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Bureau de Recherches Géologiques et Minières (BRGM), 3 avenue Claude-Guillemin, BP 36009 - 45060 Orléans Cedex 2, France",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5067235968",
-            "display_name": "Chris Hendriks",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210109366",
-              "display_name": "Ecofys (Netherlands)",
-              "ror": "https://ror.org/01ypwfg63",
-              "country_code": "NL",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210109366"
-              ]
-            }
-          ],
-          "countries": [
-            "NL"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Chris Hendriks",
-          "raw_affiliation_strings": [
-            "Ecofys, P.O. Box 8408, NL-3503 RK Utrecht, The Netherlands"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Ecofys, P.O. Box 8408, NL-3503 RK Utrecht, The Netherlands",
-              "institution_ids": [
-                "https://openalex.org/I4210109366"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5043740867",
-            "display_name": "Finn Dalhoff",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210152215",
-              "display_name": "Vattenfall (Denmark)",
-              "ror": "https://ror.org/04xgpdk57",
-              "country_code": "DK",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I27826396",
-                "https://openalex.org/I4210152215"
-              ]
-            }
-          ],
-          "countries": [
-            "DK"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Finn Dalhoff",
-          "raw_affiliation_strings": [
-            "Vattenfall A/S, Generation Nordic–Thermal Power, Stoeberigade 14, DK-2450 Copenhagen SV, Denmark"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Vattenfall A/S, Generation Nordic–Thermal Power, Stoeberigade 14, DK-2450 Copenhagen SV, Denmark",
-              "institution_ids": [
-                "https://openalex.org/I4210152215"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5103420102",
-            "display_name": "Niels Peter Christensen",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210152215",
-              "display_name": "Vattenfall (Denmark)",
-              "ror": "https://ror.org/04xgpdk57",
-              "country_code": "DK",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I27826396",
-                "https://openalex.org/I4210152215"
-              ]
-            }
-          ],
-          "countries": [
-            "DK"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Niels Peter Christensen",
-          "raw_affiliation_strings": [
-            "Vattenfall A/S, Generation Nordic–Thermal Power, Stoeberigade 14, DK-2450 Copenhagen SV, Denmark"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Vattenfall A/S, Generation Nordic–Thermal Power, Stoeberigade 14, DK-2450 Copenhagen SV, Denmark",
-              "institution_ids": [
-                "https://openalex.org/I4210152215"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 5,
-      "institutions_distinct_count": 8,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5024336947"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I2801979204"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": null,
-      "has_fulltext": false,
-      "cited_by_count": 170,
-      "citation_normalized_percentile": null,
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": "1",
-        "issue": "1",
-        "first_page": "2663",
-        "last_page": "2670"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11302",
-        "display_name": "CO2 Sequestration and Geologic Interactions",
-        "score": 0.9994000196456909,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2305",
-          "display_name": "Environmental Engineering"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11302",
-          "display_name": "CO2 Sequestration and Geologic Interactions",
-          "score": 0.9994000196456909,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13067",
-          "display_name": "Geological Modeling and Analysis",
-          "score": 0.9925000071525574,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10995",
-          "display_name": "Methane Hydrates and Related Phenomena",
-          "score": 0.9860000014305115,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2304",
-            "display_name": "Environmental Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/environmental-science",
-          "display_name": "Environmental science",
-          "score": 0.5209304690361023
-        },
-        {
-          "id": "https://openalex.org/keywords/coal",
-          "display_name": "Coal",
-          "score": 0.463610976934433
-        },
-        {
-          "id": "https://openalex.org/keywords/site-selection",
-          "display_name": "Site selection",
-          "score": 0.4445101320743561
-        },
-        {
-          "id": "https://openalex.org/keywords/fossil-fuel",
-          "display_name": "Fossil fuel",
-          "score": 0.44243818521499634
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.4231565594673157
-        },
-        {
-          "id": "https://openalex.org/keywords/carbon-capture-and-storage",
-          "display_name": "Carbon capture and storage (timeline)",
-          "score": 0.4199050962924957
-        },
-        {
-          "id": "https://openalex.org/keywords/china",
-          "display_name": "China",
-          "score": 0.41920024156570435
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-protection",
-          "display_name": "Environmental protection",
-          "score": 0.3892021179199219
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-resource-management",
-          "display_name": "Environmental resource management",
-          "score": 0.3564300537109375
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-planning",
-          "display_name": "Environmental planning",
-          "score": 0.3422425389289856
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.2647913098335266
-        },
-        {
-          "id": "https://openalex.org/keywords/climate-change",
-          "display_name": "Climate change",
-          "score": 0.2495347559452057
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.23256400227546692
-        },
-        {
-          "id": "https://openalex.org/keywords/waste-management",
-          "display_name": "Waste management",
-          "score": 0.207609623670578
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.1670984923839569
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.161035418510437
-        },
-        {
-          "id": "https://openalex.org/keywords/political-science",
-          "display_name": "Political science",
-          "score": 0.07930248975753784
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.5209304690361023
-        },
-        {
-          "id": "https://openalex.org/C518851703",
-          "wikidata": "https://www.wikidata.org/wiki/Q24489",
-          "display_name": "Coal",
-          "level": 2,
-          "score": 0.463610976934433
-        },
-        {
-          "id": "https://openalex.org/C2780561860",
-          "wikidata": "https://www.wikidata.org/wiki/Q7531796",
-          "display_name": "Site selection",
-          "level": 2,
-          "score": 0.4445101320743561
-        },
-        {
-          "id": "https://openalex.org/C68189081",
-          "wikidata": "https://www.wikidata.org/wiki/Q12748",
-          "display_name": "Fossil fuel",
-          "level": 2,
-          "score": 0.44243818521499634
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
-          "level": 2,
-          "score": 0.4231565594673157
-        },
-        {
-          "id": "https://openalex.org/C2778379663",
-          "wikidata": "https://www.wikidata.org/wiki/Q5037942",
-          "display_name": "Carbon capture and storage (timeline)",
-          "level": 3,
-          "score": 0.4199050962924957
-        },
-        {
-          "id": "https://openalex.org/C191935318",
-          "wikidata": "https://www.wikidata.org/wiki/Q148",
-          "display_name": "China",
-          "level": 2,
-          "score": 0.41920024156570435
-        },
-        {
-          "id": "https://openalex.org/C526734887",
-          "wikidata": "https://www.wikidata.org/wiki/Q832237",
-          "display_name": "Environmental protection",
-          "level": 1,
-          "score": 0.3892021179199219
-        },
-        {
-          "id": "https://openalex.org/C107826830",
-          "wikidata": "https://www.wikidata.org/wiki/Q929380",
-          "display_name": "Environmental resource management",
-          "level": 1,
-          "score": 0.3564300537109375
-        },
-        {
-          "id": "https://openalex.org/C91375879",
-          "wikidata": "https://www.wikidata.org/wiki/Q15473274",
-          "display_name": "Environmental planning",
-          "level": 1,
-          "score": 0.3422425389289856
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.2647913098335266
-        },
-        {
-          "id": "https://openalex.org/C132651083",
-          "wikidata": "https://www.wikidata.org/wiki/Q7942",
-          "display_name": "Climate change",
-          "level": 2,
-          "score": 0.2495347559452057
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.23256400227546692
-        },
-        {
-          "id": "https://openalex.org/C548081761",
-          "wikidata": "https://www.wikidata.org/wiki/Q180388",
-          "display_name": "Waste management",
-          "level": 1,
-          "score": 0.207609623670578
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.1670984923839569
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.161035418510437
-        },
-        {
-          "id": "https://openalex.org/C17744445",
-          "wikidata": "https://www.wikidata.org/wiki/Q36442",
-          "display_name": "Political science",
-          "level": 0,
-          "score": 0.07930248975753784
-        },
-        {
-          "id": "https://openalex.org/C199539241",
-          "wikidata": "https://www.wikidata.org/wiki/Q7748",
-          "display_name": "Law",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C166957645",
-          "wikidata": "https://www.wikidata.org/wiki/Q23498",
-          "display_name": "Archaeology",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 3,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.egypro.2009.02.034",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1016/j.egypro.2009.02.034",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S75069817",
-            "display_name": "Energy Procedia",
-            "issn_l": "1876-6102",
-            "issn": [
-              "1876-6102"
-            ],
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Energy Procedia",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:oai-pmh.tno.nl:28401",
-          "is_oa": false,
-          "landing_page_url": "https://resolver.tno.nl/uuid:cc7ebee1-de78-414c-b687-dbbb6a312e53",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S7407055233",
-            "display_name": "TNO Repository",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Energy Procedia, 1(1), pp. 2663-2670.",
-          "raw_type": "info:eu-repo/semantics/article"
-        },
-        {
-          "id": "pmh:oai:tudelft.nl:uuid:cc7ebee1-de78-414c-b687-dbbb6a312e53",
-          "is_oa": false,
-          "landing_page_url": "http://resolver.tudelft.nl/uuid:cc7ebee1-de78-414c-b687-dbbb6a312e53",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306402238",
-            "display_name": "Repository hosted by TU Delft Library (TU Delft)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I98358874",
-            "host_organization_name": "Delft University of Technology",
-            "host_organization_lineage": [
-              "https://openalex.org/I98358874"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Energy Procedia, 1, 1, 2663-2670",
-          "raw_type": "article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1016/j.egypro.2009.02.034",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.egypro.2009.02.034",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S75069817",
-          "display_name": "Energy Procedia",
-          "issn_l": "1876-6102",
-          "issn": [
-            "1876-6102"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Energy Procedia",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/17",
-          "display_name": "Partnerships for the goals"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2360002651",
-        "https://openalex.org/W3191763517",
-        "https://openalex.org/W2536695084",
-        "https://openalex.org/W2363693341",
-        "https://openalex.org/W2015939524",
-        "https://openalex.org/W1595951894",
-        "https://openalex.org/W2375517450",
-        "https://openalex.org/W2748270136",
-        "https://openalex.org/W3020867555",
-        "https://openalex.org/W2051294624"
-      ],
-      "abstract_inverted_index": {
-        "25": [
-          73
-        ],
-        "The": [
-          0,
-          19,
-          67
-        ],
-        "focus": [
-          1
-        ],
-        "of": [
-          2,
-          9,
-          31,
-          49,
-          69,
-          85
-        ],
-        "the": [
-          3,
-          25
-        ],
-        "GeoCapacity": [
-          4,
-          70
-        ],
-        "project": [
-          5
-        ],
-        "is": [
-          6,
-          22
-        ],
-        "GIS": [
-          7
-        ],
-        "mapping": [
-          8
-        ],
-        "CO2": [
-          10,
-          32
-        ],
-        "point": [
-          11
-        ],
-        "sources,": [
-          12
-        ],
-        "infrastructure": [
-          13
-        ],
-        "and": [
-          14,
-          38,
-          41,
-          56,
-          75
-        ],
-        "geological": [
-          15,
-          29,
-          83
-        ],
-        "storage": [
-          16,
-          30,
-          84
-        ],
-        "in": [
-          17,
-          33
-        ],
-        "Europe.": [
-          18
-        ],
-        "main": [
-          20
-        ],
-        "objective": [
-          21
-        ],
-        "to": [
-          23
-        ],
-        "assess": [
-          24
-        ],
-        "European": [
-          26,
-          78
-        ],
-        "capacity": [
-          27,
-          52
-        ],
-        "for": [
-          28,
-          51,
-          82
-        ],
-        "deep": [
-          34
-        ],
-        "saline": [
-          35
-        ],
-        "aquifers,": [
-          36
-        ],
-        "oil": [
-          37
-        ],
-        "gas": [
-          39
-        ],
-        "structures": [
-          40
-        ],
-        "coal": [
-          42
-        ],
-        "beds.": [
-          43
-        ],
-        "Other": [
-          44
-        ],
-        "priorities": [
-          45
-        ],
-        "are": [
-          46
-        ],
-        "further": [
-          47
-        ],
-        "development": [
-          48
-        ],
-        "methods": [
-          50
-        ],
-        "assessment,": [
-          53
-        ],
-        "economic": [
-          54
-        ],
-        "modelling": [
-          55
-        ],
-        "site": [
-          57
-        ],
-        "selection": [
-          58
-        ],
-        "as": [
-          59,
-          61
-        ],
-        "well": [
-          60
-        ],
-        "international": [
-          62
-        ],
-        "cooperation,": [
-          63
-        ],
-        "especially": [
-          64
-        ],
-        "with": [
-          65
-        ],
-        "China.": [
-          66
-        ],
-        "results": [
-          68
-        ],
-        "will": [
-          71
-        ],
-        "include": [
-          72
-        ],
-        "countries": [
-          74
-        ],
-        "comprises": [
-          76
-        ],
-        "most": [
-          77
-        ],
-        "sedimentary": [
-          79
-        ],
-        "basins": [
-          80
-        ],
-        "suitable": [
-          81
-        ],
-        "CO2.": [
-          86
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 16
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 15
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 12
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 17
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 19
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 8
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 8
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 12
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 8
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 8
-        }
-      ],
-      "updated_date": "2026-07-14T23:27:15.235271",
+      "updated_date": "2026-07-30T17:31:21.811387",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -32062,8 +33662,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32491,1591 +34091,6 @@
         }
       ],
       "updated_date": "2026-06-11T09:08:48.828518",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2006757505",
-      "doi": "https://doi.org/10.1016/j.egypro.2011.02.526",
-      "title": "Storing CO2 underneath the Siberian Permafrost: A win-win solution for long-term trapping of CO2 and heavy oil upgrading",
-      "display_name": "Storing CO2 underneath the Siberian Permafrost: A win-win solution for long-term trapping of CO2 and heavy oil upgrading",
-      "publication_year": 2011,
-      "publication_date": "2011-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2006757505",
-        "doi": "https://doi.org/10.1016/j.egypro.2011.02.526",
-        "mag": "2006757505"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.egypro.2011.02.526",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.egypro.2011.02.526",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S75069817",
-          "display_name": "Energy Procedia",
-          "issn_l": "1876-6102",
-          "issn": [
-            "1876-6102"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Energy Procedia",
-        "raw_type": "journal-article"
-      },
-      "type": "conference-paper",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "diamond",
-        "oa_url": "https://doi.org/10.1016/j.egypro.2011.02.526",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5054427253",
-            "display_name": "Yves-Michel Le Nindre",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210158893",
-              "display_name": "Bureau de Recherches Géologiques et Minières",
-              "ror": "https://ror.org/05hnb7x64",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Yves-Michel Le Nindre",
-          "raw_affiliation_strings": [
-            "BRGM, Orléans, France"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "BRGM, Orléans, France",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5047435631",
-            "display_name": "Delphine Allier",
-            "orcid": "https://orcid.org/0000-0002-6869-3451"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210158893",
-              "display_name": "Bureau de Recherches Géologiques et Minières",
-              "ror": "https://ror.org/05hnb7x64",
-              "country_code": "FR",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Delphine Allier",
-          "raw_affiliation_strings": [
-            "BRGM, Orléans, France"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "BRGM, Orléans, France",
-              "institution_ids": [
-                "https://openalex.org/I4210158893"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5110006235",
-            "display_name": "Albert Duchkov",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210106118",
-              "display_name": "Institute of Petroleum Geology and Geophysics",
-              "ror": "https://ror.org/00y1dzm96",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I4210106118",
-                "https://openalex.org/I4210163714"
-              ]
-            }
-          ],
-          "countries": [
-            "RU"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Albert Duchkov",
-          "raw_affiliation_strings": [
-            "IPGG, Trofimuk Institute of Petroleum Geology and Geophysics, Tomsk and Novosibirsk branches, Russia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "IPGG, Trofimuk Institute of Petroleum Geology and Geophysics, Tomsk and Novosibirsk branches, Russia",
-              "institution_ids": [
-                "https://openalex.org/I4210106118"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5013239518",
-            "display_name": "Л. К. Алтунина",
-            "orcid": "https://orcid.org/0000-0001-9502-1864"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210112221",
-              "display_name": "Institute of Petroleum Chemistry",
-              "ror": "https://ror.org/01zavqc64",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I4210112221",
-                "https://openalex.org/I4210145551"
-              ]
-            }
-          ],
-          "countries": [
-            "RU"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Liubov K. Altunina",
-          "raw_affiliation_strings": [
-            "IPC, Institute of Pertoleum Chemistry, Tomsk, Russia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "IPC, Institute of Pertoleum Chemistry, Tomsk, Russia",
-              "institution_ids": [
-                "https://openalex.org/I4210112221"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5003556624",
-            "display_name": "С. Л. Шварцев",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210106118",
-              "display_name": "Institute of Petroleum Geology and Geophysics",
-              "ror": "https://ror.org/00y1dzm96",
-              "country_code": "RU",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I4210106118",
-                "https://openalex.org/I4210163714"
-              ]
-            }
-          ],
-          "countries": [
-            "RU"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Stepan Shvartsev",
-          "raw_affiliation_strings": [
-            "IPGG, Trofimuk Institute of Petroleum Geology and Geophysics, Tomsk and Novosibirsk branches, Russia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "IPGG, Trofimuk Institute of Petroleum Geology and Geophysics, Tomsk and Novosibirsk branches, Russia",
-              "institution_ids": [
-                "https://openalex.org/I4210106118"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5112404860",
-            "display_name": "Mikhail Zhelezniak",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210111564",
-              "display_name": "Melnikov Permafrost Institute of the Siberian Branch of the Russian Academy of Science",
-              "ror": "https://ror.org/01rwqqv19",
-              "country_code": "RU",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I1313323035",
-                "https://openalex.org/I4210111564",
-                "https://openalex.org/I4210127387"
-              ]
-            }
-          ],
-          "countries": [
-            "RU"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mikhail Zhelezniak",
-          "raw_affiliation_strings": [
-            "Melkinov Permafrost Institute, Yakutsk, Russia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Melkinov Permafrost Institute, Yakutsk, Russia",
-              "institution_ids": [
-                "https://openalex.org/I4210111564"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5110101345",
-            "display_name": "J. Klerkx",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210157936",
-              "display_name": "International Bureau for Environmental Studies",
-              "ror": "https://ror.org/047k18g44",
-              "country_code": "BE",
-              "type": "nonprofit",
-              "lineage": [
-                "https://openalex.org/I4210157936"
-              ]
-            }
-          ],
-          "countries": [
-            "BE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Jean Klerkx",
-          "raw_affiliation_strings": [
-            "IBES, International Bureau for Environmental Studies, Brussels, Belgium"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "IBES, International Bureau for Environmental Studies, Brussels, Belgium",
-              "institution_ids": [
-                "https://openalex.org/I4210157936"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 5,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5054427253"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I4210158893"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": null,
-      "has_fulltext": false,
-      "cited_by_count": 8,
-      "citation_normalized_percentile": null,
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": "4",
-        "issue": null,
-        "first_page": "5414",
-        "last_page": "5421"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10995",
-        "display_name": "Methane Hydrates and Related Phenomena",
-        "score": 0.9998999834060669,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2304",
-          "display_name": "Environmental Chemistry"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10995",
-          "display_name": "Methane Hydrates and Related Phenomena",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2304",
-            "display_name": "Environmental Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9998000264167786,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11302",
-          "display_name": "CO2 Sequestration and Geologic Interactions",
-          "score": 0.9995999932289124,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/permafrost",
-          "display_name": "Permafrost",
-          "score": 0.8375130891799927
-        },
-        {
-          "id": "https://openalex.org/keywords/aquifer",
-          "display_name": "Aquifer",
-          "score": 0.6148073673248291
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-science",
-          "display_name": "Environmental science",
-          "score": 0.5885931253433228
-        },
-        {
-          "id": "https://openalex.org/keywords/petroleum-engineering",
-          "display_name": "Petroleum engineering",
-          "score": 0.538318932056427
-        },
-        {
-          "id": "https://openalex.org/keywords/enhanced-oil-recovery",
-          "display_name": "Enhanced oil recovery",
-          "score": 0.5304276943206787
-        },
-        {
-          "id": "https://openalex.org/keywords/geothermal-gradient",
-          "display_name": "Geothermal gradient",
-          "score": 0.5103752017021179
-        },
-        {
-          "id": "https://openalex.org/keywords/fossil-fuel",
-          "display_name": "Fossil fuel",
-          "score": 0.4863489270210266
-        },
-        {
-          "id": "https://openalex.org/keywords/carbon-capture-and-storage",
-          "display_name": "Carbon capture and storage (timeline)",
-          "score": 0.462999165058136
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.45959386229515076
-        },
-        {
-          "id": "https://openalex.org/keywords/hydrology",
-          "display_name": "Hydrology (agriculture)",
-          "score": 0.37024208903312683
-        },
-        {
-          "id": "https://openalex.org/keywords/earth-science",
-          "display_name": "Earth science",
-          "score": 0.34769588708877563
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.3449563682079315
-        },
-        {
-          "id": "https://openalex.org/keywords/climate-change",
-          "display_name": "Climate change",
-          "score": 0.33323532342910767
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.31905654072761536
-        },
-        {
-          "id": "https://openalex.org/keywords/groundwater",
-          "display_name": "Groundwater",
-          "score": 0.30027568340301514
-        },
-        {
-          "id": "https://openalex.org/keywords/waste-management",
-          "display_name": "Waste management",
-          "score": 0.26722943782806396
-        },
-        {
-          "id": "https://openalex.org/keywords/geotechnical-engineering",
-          "display_name": "Geotechnical engineering",
-          "score": 0.1796104907989502
-        },
-        {
-          "id": "https://openalex.org/keywords/geomorphology",
-          "display_name": "Geomorphology",
-          "score": 0.16194093227386475
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.16131442785263062
-        },
-        {
-          "id": "https://openalex.org/keywords/oceanography",
-          "display_name": "Oceanography",
-          "score": 0.1466372311115265
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.10944098234176636
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C15098985",
-          "wikidata": "https://www.wikidata.org/wiki/Q179918",
-          "display_name": "Permafrost",
-          "level": 2,
-          "score": 0.8375130891799927
-        },
-        {
-          "id": "https://openalex.org/C75622301",
-          "wikidata": "https://www.wikidata.org/wiki/Q208791",
-          "display_name": "Aquifer",
-          "level": 3,
-          "score": 0.6148073673248291
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.5885931253433228
-        },
-        {
-          "id": "https://openalex.org/C78762247",
-          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
-          "display_name": "Petroleum engineering",
-          "level": 1,
-          "score": 0.538318932056427
-        },
-        {
-          "id": "https://openalex.org/C2779681308",
-          "wikidata": "https://www.wikidata.org/wiki/Q1049254",
-          "display_name": "Enhanced oil recovery",
-          "level": 2,
-          "score": 0.5304276943206787
-        },
-        {
-          "id": "https://openalex.org/C111766609",
-          "wikidata": "https://www.wikidata.org/wiki/Q636340",
-          "display_name": "Geothermal gradient",
-          "level": 2,
-          "score": 0.5103752017021179
-        },
-        {
-          "id": "https://openalex.org/C68189081",
-          "wikidata": "https://www.wikidata.org/wiki/Q12748",
-          "display_name": "Fossil fuel",
-          "level": 2,
-          "score": 0.4863489270210266
-        },
-        {
-          "id": "https://openalex.org/C2778379663",
-          "wikidata": "https://www.wikidata.org/wiki/Q5037942",
-          "display_name": "Carbon capture and storage (timeline)",
-          "level": 3,
-          "score": 0.462999165058136
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.45959386229515076
-        },
-        {
-          "id": "https://openalex.org/C76886044",
-          "wikidata": "https://www.wikidata.org/wiki/Q2883300",
-          "display_name": "Hydrology (agriculture)",
-          "level": 2,
-          "score": 0.37024208903312683
-        },
-        {
-          "id": "https://openalex.org/C1965285",
-          "wikidata": "https://www.wikidata.org/wiki/Q8008",
-          "display_name": "Earth science",
-          "level": 1,
-          "score": 0.34769588708877563
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.3449563682079315
-        },
-        {
-          "id": "https://openalex.org/C132651083",
-          "wikidata": "https://www.wikidata.org/wiki/Q7942",
-          "display_name": "Climate change",
-          "level": 2,
-          "score": 0.33323532342910767
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.31905654072761536
-        },
-        {
-          "id": "https://openalex.org/C76177295",
-          "wikidata": "https://www.wikidata.org/wiki/Q161598",
-          "display_name": "Groundwater",
-          "level": 2,
-          "score": 0.30027568340301514
-        },
-        {
-          "id": "https://openalex.org/C548081761",
-          "wikidata": "https://www.wikidata.org/wiki/Q180388",
-          "display_name": "Waste management",
-          "level": 1,
-          "score": 0.26722943782806396
-        },
-        {
-          "id": "https://openalex.org/C187320778",
-          "wikidata": "https://www.wikidata.org/wiki/Q1349130",
-          "display_name": "Geotechnical engineering",
-          "level": 1,
-          "score": 0.1796104907989502
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.16194093227386475
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.16131442785263062
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.1466372311115265
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.10944098234176636
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.egypro.2011.02.526",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1016/j.egypro.2011.02.526",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S75069817",
-            "display_name": "Energy Procedia",
-            "issn_l": "1876-6102",
-            "issn": [
-              "1876-6102"
-            ],
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Energy Procedia",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:HAL:hal-03652201v1",
-          "is_oa": false,
-          "landing_page_url": "https://brgm.hal.science/hal-03652201",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
-            "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Energy Procedia, 2011, 4, pp.5414-5421. &#x27E8;10.1016/j.egypro.2011.02.526&#x27E9;",
-          "raw_type": "info:eu-repo/semantics/article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1016/j.egypro.2011.02.526",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.egypro.2011.02.526",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S75069817",
-          "display_name": "Energy Procedia",
-          "issn_l": "1876-6102",
-          "issn": [
-            "1876-6102"
-          ],
-          "is_oa": true,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Energy Procedia",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 2,
-      "referenced_works": [
-        "https://openalex.org/W2196512707",
-        "https://openalex.org/W2950514387"
-      ],
-      "related_works": [
-        "https://openalex.org/W1824336683",
-        "https://openalex.org/W1982366144",
-        "https://openalex.org/W2900526884",
-        "https://openalex.org/W1975043628",
-        "https://openalex.org/W2349454828",
-        "https://openalex.org/W4252886933",
-        "https://openalex.org/W3000746129",
-        "https://openalex.org/W2466359547",
-        "https://openalex.org/W2990546033",
-        "https://openalex.org/W3207311200"
-      ],
-      "abstract_inverted_index": {
-        "A": [
-          0,
-          103
-        ],
-        "two-year": [
-          1
-        ],
-        "project": [
-          2,
-          33,
-          66
-        ],
-        "entitled": [
-          3
-        ],
-        "“Assessment": [
-          4
-        ],
-        "of": [
-          5,
-          8,
-          26,
-          30,
-          41,
-          47,
-          52,
-          60,
-          64,
-          71,
-          99,
-          110,
-          121,
-          128,
-          133,
-          166,
-          213,
-          248,
-          259,
-          279,
-          302,
-          325
-        ],
-        "the": [
-          6,
-          12,
-          23,
-          27,
-          38,
-          42,
-          61,
-          65,
-          68,
-          76,
-          80,
-          84,
-          89,
-          97,
-          108,
-          114,
-          126,
-          131,
-          164,
-          167,
-          189,
-          223,
-          228,
-          233,
-          249,
-          255,
-          260,
-          276,
-          280,
-          284,
-          288,
-          298,
-          303,
-          310,
-          319,
-          338,
-          348,
-          353
-        ],
-        "Feasibility": [
-          7
-        ],
-        "CO2": [
-          9,
-          78,
-          100,
-          111,
-          129,
-          134,
-          149,
-          215,
-          225,
-          244,
-          261,
-          291,
-          311,
-          349
-        ],
-        "Storage": [
-          10,
-          286
-        ],
-        "in": [
-          11,
-          18,
-          20,
-          49,
-          56,
-          113,
-          135,
-          150,
-          163,
-          171,
-          183,
-          209,
-          217,
-          227,
-          238,
-          318
-        ],
-        "Russian": [
-          13,
-          28
-        ],
-        "Permafrost”": [
-          14
-        ],
-        "was": [
-          15,
-          67,
-          107
-        ],
-        "carried": [
-          16
-        ],
-        "out": [
-          17
-        ],
-        "Russia": [
-          19
-        ],
-        "collaboration": [
-          21
-        ],
-        "with": [
-          22,
-          116,
-          322
-        ],
-        "Siberian": [
-          24,
-          169
-        ],
-        "branch": [
-          25
-        ],
-        "Academy": [
-          29
-        ],
-        "Sciences.": [
-          31
-        ],
-        "This": [
-          32
-        ],
-        "delivers": [
-          34
-        ],
-        "new": [
-          35
-        ],
-        "conclusions": [
-          36
-        ],
-        "about": [
-          37
-        ],
-        "safety": [
-          39
-        ],
-        "role": [
-          40
-        ],
-        "permafrost": [
-          43,
-          115,
-          250,
-          289,
-          339
-        ],
-        "and": [
-          44,
-          79,
-          88,
-          240,
-          252,
-          254,
-          275,
-          329
-        ],
-        "specific": [
-          45,
-          62,
-          105
-        ],
-        "conditions": [
-          46
-        ],
-        "storage": [
-          48,
-          112,
-          182,
-          196
-        ],
-        "an": [
-          50
-        ],
-        "area": [
-          51
-        ],
-        "abnormal": [
-          53
-        ],
-        "geothermal": [
-          54
-        ],
-        "gradient": [
-          55
-        ],
-        "Western": [
-          57,
-          168,
-          218
-        ],
-        "Siberia.": [
-          58
-        ],
-        "One": [
-          59
-        ],
-        "issues": [
-          63
-        ],
-        "potential": [
-          69,
-          200
-        ],
-        "formation": [
-          70,
-          191
-        ],
-        "carbon": [
-          72
-        ],
-        "dioxide": [
-          73
-        ],
-        "hydrates": [
-          74,
-          87,
-          351
-        ],
-        "from": [
-          75,
-          232
-        ],
-        "injected": [
-          77,
-          90
-        ],
-        "possible": [
-          81
-        ],
-        "reaction": [
-          82
-        ],
-        "between": [
-          83,
-          271
-        ],
-        "existing": [
-          85
-        ],
-        "methane": [
-          86
-        ],
-        "CO2.": [
-          91
-        ],
-        "Maps": [
-          92
-        ],
-        "have": [
-          93,
-          205
-        ],
-        "been": [
-          94,
-          207
-        ],
-        "constructed": [
-          95
-        ],
-        "showing": [
-          96
-        ],
-        "areas": [
-          98,
-          274
-        ],
-        "hydrate": [
-          101,
-          292
-        ],
-        "stability.": [
-          102
-        ],
-        "second": [
-          104
-        ],
-        "issue": [
-          106
-        ],
-        "compatibility": [
-          109
-        ],
-        "oil": [
-          117,
-          142,
-          155,
-          158,
-          327
-        ],
-        "production.": [
-          118
-        ],
-        "Pilot": [
-          119
-        ],
-        "tests": [
-          120
-        ],
-        "EOR": [
-          122
-        ],
-        "technologies,": [
-          123
-        ],
-        "involving": [
-          124
-        ],
-        "either": [
-          125
-        ],
-        "injection": [
-          127
-        ],
-        "or": [
-          130,
-          178
-        ],
-        "generation": [
-          132
-        ],
-        "situ,": [
-          136
-        ],
-        "proved": [
-          137
-        ],
-        "very": [
-          138
-        ],
-        "efficiency": [
-          139
-        ],
-        "for": [
-          140
-        ],
-        "high-viscosity": [
-          141,
-          154
-        ],
-        "pools.": [
-          143
-        ],
-        "Therefore,": [
-          144
-        ],
-        "we": [
-          145
-        ],
-        "propose": [
-          146
-        ],
-        "to": [
-          147,
-          297
-        ],
-        "inject": [
-          148
-        ],
-        "West": [
-          151
-        ],
-        "Siberia": [
-          152,
-          219
-        ],
-        "into": [
-          153
-        ],
-        "fields.": [
-          156
-        ],
-        "High-viscosity": [
-          157
-        ],
-        "fields": [
-          159
-        ],
-        "are": [
-          160,
-          242
-        ],
-        "mainly": [
-          161
-        ],
-        "located": [
-          162
-        ],
-        "centre": [
-          165
-        ],
-        "Basin": [
-          170
-        ],
-        "Khanty-Mansijsk": [
-          172
-        ],
-        "autonomous": [
-          173
-        ],
-        "okrug": [
-          174
-        ],
-        "(KMAO).": [
-          175
-        ],
-        "An": [
-          176
-        ],
-        "alternative": [
-          177
-        ],
-        "complementary": [
-          179
-        ],
-        "solution": [
-          180
-        ],
-        "is": [
-          181,
-          201,
-          293
-        ],
-        "aquifers.": [
-          184
-        ],
-        "Deep": [
-          185
-        ],
-        "aquifers,": [
-          186
-        ],
-        "such": [
-          187
-        ],
-        "as": [
-          188,
-          290,
-          342,
-          350
-        ],
-        "Pokur": [
-          190
-        ],
-        "overlain": [
-          192
-        ],
-        "could": [
-          193,
-          269
-        ],
-        "also": [
-          194
-        ],
-        "be": [
-          195,
-          313
-        ],
-        "targets,": [
-          197
-        ],
-        "but": [
-          198
-        ],
-        "their": [
-          199
-        ],
-        "unknown": [
-          202
-        ],
-        "because": [
-          203
-        ],
-        "they": [
-          204
-        ],
-        "not": [
-          206,
-          294
-        ],
-        "explored": [
-          208
-        ],
-        "detail.": [
-          210
-        ],
-        "The": [
-          211
-        ],
-        "inventory": [
-          212
-        ],
-        "major": [
-          214,
-          224
-        ],
-        "sources": [
-          216
-        ],
-        "has": [
-          220,
-          263
-        ],
-        "shown": [
-          221,
-          264
-        ],
-        "that": [
-          222,
-          265
-        ],
-        "emission": [
-          226
-        ],
-        "power": [
-          229,
-          236
-        ],
-        "sector": [
-          230
-        ],
-        "comes": [
-          231
-        ],
-        "KMAO,": [
-          234
-        ],
-        "where": [
-          235
-        ],
-        "stations": [
-          237
-        ],
-        "Surgut": [
-          239
-        ],
-        "Nizhnevartovsk": [
-          241
-        ],
-        "large": [
-          243
-        ],
-        "sources.": [
-          245
-        ],
-        "GIS": [
-          246
-        ],
-        "mapping": [
-          247
-        ],
-        "depth": [
-          251
-        ],
-        "thickness,": [
-          253
-        ],
-        "associated": [
-          256
-        ],
-        "stability": [
-          257,
-          277
-        ],
-        "domain": [
-          258,
-          278
-        ],
-        "hydrates,": [
-          262,
-          282
-        ],
-        "a": [
-          266,
-          332,
-          343
-        ],
-        "good": [
-          267
-        ],
-        "overlap": [
-          268
-        ],
-        "exist": [
-          270
-        ],
-        "these": [
-          272
-        ],
-        "industrial": [
-          273
-        ],
-        "gas": [
-          281,
-          307
-        ],
-        "underneath": [
-          283,
-          331
-        ],
-        "permafrost.": [
-          285
-        ],
-        "beneath": [
-          287
-        ],
-        "suitable": [
-          295
-        ],
-        "due": [
-          296
-        ],
-        "probable": [
-          299
-        ],
-        "rapid": [
-          300
-        ],
-        "plugging": [
-          301
-        ],
-        "porosity": [
-          304
-        ],
-        "by": [
-          305,
-          346
-        ],
-        "solid": [
-          306
-        ],
-        "hydrates.": [
-          308
-        ],
-        "But,": [
-          309
-        ],
-        "should": [
-          312,
-          356
-        ],
-        "stored": [
-          314
-        ],
-        "at": [
-          315
-        ],
-        "supercritical": [
-          316
-        ],
-        "state": [
-          317
-        ],
-        "hydrocarbon": [
-          320
-        ],
-        "fields,": [
-          321
-        ],
-        "added": [
-          323
-        ],
-        "value": [
-          324
-        ],
-        "heavy": [
-          326
-        ],
-        "upgrading,": [
-          328
-        ],
-        "trapped": [
-          330
-        ],
-        "classical": [
-          333
-        ],
-        "cap": [
-          334
-        ],
-        "rock.": [
-          335
-        ],
-        "In": [
-          336
-        ],
-        "addition,": [
-          337
-        ],
-        "would": [
-          340
-        ],
-        "act": [
-          341
-        ],
-        "secondary": [
-          344
-        ],
-        "cap-rock": [
-          345
-        ],
-        "trapping": [
-          347
-        ],
-        "if": [
-          352
-        ],
-        "primary": [
-          354
-        ],
-        "caprock": [
-          355
-        ],
-        "fail.": [
-          357
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-07-14T23:27:15.235271",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -34662,8 +34677,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35431,8 +35446,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -36242,8 +36257,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -37432,16 +37447,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38099,16 +38114,16 @@
       },
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.699999988079071,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2252368023.pdf"
@@ -39934,10 +39949,14 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": null,
+      "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
-      "citation_normalized_percentile": null,
+      "citation_normalized_percentile": {
+        "value": 0.43551532,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
       "cited_by_percentile_year": null,
       "biblio": {
         "volume": null,
@@ -40096,8 +40115,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -41079,7 +41098,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-07-29T14:22:42.915294",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -41251,10 +41270,14 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": null,
+      "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
-      "citation_normalized_percentile": null,
+      "citation_normalized_percentile": {
+        "value": 0.41017216,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
       "cited_by_percentile_year": null,
       "biblio": {
         "volume": null,
@@ -41399,16 +41422,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.6600000262260437,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -42324,7 +42347,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-15T18:14:33.161393",
+      "updated_date": "2026-07-29T14:22:42.915294",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -42745,8 +42768,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -43209,8 +43232,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -43463,7 +43486,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.59565294,
+        "value": 0.59579357,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -43785,8 +43808,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -44249,16 +44272,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "display_name": "Life below water",
           "score": 0.7599999904632568,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

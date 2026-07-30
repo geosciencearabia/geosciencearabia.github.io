@@ -16,7 +16,7 @@
     ],
     "full_name": "Hamad A. Al Saad Al-Kuwari",
     "works_count": 43,
-    "cited_by_count": 499,
+    "cited_by_count": 500,
     "summary_stats": {
       "2yr_mean_citedness": 1,
       "h_index": 12,
@@ -169,7 +169,7 @@
       {
         "id": "https://openalex.org/T12316",
         "display_name": "Oil Spill Detection and Mitigation",
-        "value": 0.0000721,
+        "value": 0.0000719,
         "subfield": {
           "id": "https://openalex.org/subfields/2310",
           "display_name": "Pollution"
@@ -186,7 +186,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000367,
+        "value": 0.0000366,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -220,7 +220,7 @@
       {
         "id": "https://openalex.org/T12247",
         "display_name": "Microbial Applications in Construction Materials",
-        "value": 0.0000267,
+        "value": 0.0000266,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -237,7 +237,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.0000249,
+        "value": 0.0000248,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -301,7 +301,7 @@
         "year": 2020,
         "works_count": 4,
         "oa_works_count": 2,
-        "cited_by_count": 61
+        "cited_by_count": 62
       },
       {
         "year": 2021,
@@ -347,7 +347,7 @@
     ],
     "block_key": "h al-kuwari",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5079669280",
-    "updated_date": "2026-07-23T12:17:21",
+    "updated_date": "2026-07-29T12:17:14",
     "created_date": "2020-10-01T00:00:00"
   },
   "works": [
@@ -702,11 +702,11 @@
         "currency": "EUR",
         "value_usd": 1693
       },
-      "fwci": 2.9317,
+      "fwci": 2.9328,
       "has_fulltext": true,
       "cited_by_count": 82,
       "citation_normalized_percentile": {
-        "value": 0.92107631,
+        "value": 0.92109567,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1163,9 +1163,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.44999998807907104
+          "display_name": "Climate action"
         }
       ],
       "awards": [
@@ -3743,11 +3743,11 @@
         "value_usd": 3770
       },
       "apc_paid": null,
-      "fwci": 2.3643,
+      "fwci": 2.3652,
       "has_fulltext": false,
       "cited_by_count": 65,
       "citation_normalized_percentile": {
-        "value": 0.88991576,
+        "value": 0.88998365,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4201,9 +4201,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.7099999785423279,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7099999785423279
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -4606,11 +4606,11 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 2.9293,
+      "fwci": 2.93,
       "has_fulltext": false,
       "cited_by_count": 49,
       "citation_normalized_percentile": {
-        "value": 0.90492832,
+        "value": 0.90488095,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5638,9 +5638,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.800000011920929,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -7282,9 +7282,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -9111,11 +9111,11 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 1.9063,
+      "fwci": 1.9071,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.83547473,
+        "value": 0.83555893,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9459,12 +9459,39 @@
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [],
-      "awards": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G585275233",
+          "display_name": null,
+          "funder_award_id": "NPRP12S-0305\\u2013190235",
+          "funder_id": "https://openalex.org/F4320309815",
+          "funder_display_name": "Qatar Foundation"
+        },
+        {
+          "id": "https://openalex.org/G8333452205",
+          "display_name": null,
+          "funder_award_id": "190235",
+          "funder_id": "https://openalex.org/F4320309815",
+          "funder_display_name": "Qatar Foundation"
+        },
+        {
+          "id": "https://openalex.org/G8661154428",
+          "display_name": null,
+          "funder_award_id": "NPRP12S-0305",
+          "funder_id": "https://openalex.org/F4320309815",
+          "funder_display_name": "Qatar Foundation"
+        }
+      ],
       "funders": [
         {
           "id": "https://openalex.org/F4320309815",
           "display_name": "Qatar Foundation",
           "ror": "https://ror.org/01cawbq05"
+        },
+        {
+          "id": "https://openalex.org/F4320332753",
+          "display_name": "Qatar National Research Fund",
+          "ror": "https://ror.org/01svaqq28"
         }
       ],
       "has_content": {
@@ -9551,7 +9578,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-29T09:40:50.615796",
+      "updated_date": "2026-07-30T17:31:21.811387",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9812,11 +9839,11 @@
         "currency": "USD",
         "value_usd": 3790
       },
-      "fwci": 1.4835,
+      "fwci": 1.4819,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.79140874,
+        "value": 0.79112223,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10238,9 +10265,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8299999833106995
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -11506,9 +11533,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "score": 0.5799999833106995,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5799999833106995
+          "display_name": "Life in Land"
         }
       ],
       "awards": [
@@ -12245,9 +12272,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 0.7900000214576721,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.7900000214576721
+          "display_name": "Climate action"
         }
       ],
       "awards": [
@@ -16263,9 +16290,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8299999833106995
+          "display_name": "Climate action"
         }
       ],
       "awards": [
@@ -17893,11 +17920,11 @@
         "value_usd": 3630
       },
       "apc_paid": null,
-      "fwci": 1.3014,
+      "fwci": 1.3033,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.83331843,
+        "value": 0.83334322,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18265,17 +18292,37 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.5,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5
+          "display_name": "Life below water"
         }
       ],
-      "awards": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G4255381413",
+          "display_name": null,
+          "funder_award_id": "QUEX-ESC-QP-TM-18/19",
+          "funder_id": "https://openalex.org/F4320322447",
+          "funder_display_name": "Qatar Petroleum"
+        },
+        {
+          "id": "https://openalex.org/G8008595316",
+          "display_name": null,
+          "funder_award_id": "104001004D7C7D00",
+          "funder_id": "https://openalex.org/F4320322447",
+          "funder_display_name": "Qatar Petroleum"
+        }
+      ],
       "funders": [
         {
           "id": "https://openalex.org/F4320322447",
           "display_name": "Qatar Petroleum",
           "ror": "https://ror.org/02g4n1614"
+        },
+        {
+          "id": "https://openalex.org/F4320322573",
+          "display_name": "Sultan Qaboos University",
+          "ror": "https://ror.org/04wq8zb47"
         }
       ],
       "has_content": {
@@ -18382,7 +18429,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-29T09:40:50.615796",
+      "updated_date": "2026-07-30T17:31:21.811387",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18878,9 +18925,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
+          "score": 0.7300000190734863,
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.7300000190734863
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -19590,11 +19637,11 @@
         "currency": "GBP",
         "value_usd": 1790
       },
-      "fwci": 0.3484,
+      "fwci": 0.3483,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.65004003,
+        "value": 0.65019132,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22689,6 +22736,1339 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W3207158966",
+      "doi": "https://doi.org/10.29117/quarfe.2021.0024",
+      "title": "Lithologic Characterization and Micropore Structures of Gas Shale Strata: An example from the Midra Shale of Western Qatar",
+      "display_name": "Lithologic Characterization and Micropore Structures of Gas Shale Strata: An example from the Midra Shale of Western Qatar",
+      "publication_year": 2021,
+      "publication_date": "2021-10-20",
+      "ids": {
+        "openalex": "https://openalex.org/W3207158966",
+        "doi": "https://doi.org/10.29117/quarfe.2021.0024",
+        "mag": "3207158966"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.29117/quarfe.2021.0024",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.29117/quarfe.2021.0024",
+        "pdf_url": "http://qspace.qu.edu.qa/bitstream/10576/24291/1/272.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306505007",
+          "display_name": "Building Resilience at Universities: Role of Innovation and Entrepreneurship",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Building Resilience at Universities: Role of Innovation and Entrepreneurship",
+        "raw_type": "proceedings-article"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "http://qspace.qu.edu.qa/bitstream/10576/24291/1/272.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5070411489",
+            "display_name": "Fadhil Sadooni",
+            "orcid": "https://orcid.org/0000-0001-5027-0648"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I44461941",
+              "display_name": "University of Houston",
+              "ror": "https://ror.org/048sx0r50",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I44461941"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I60342839",
+              "display_name": "Qatar University",
+              "ror": "https://ror.org/00yhnba62",
+              "country_code": "QA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ],
+          "countries": [
+            "QA",
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Fadhil N. Sadooni",
+          "raw_affiliation_strings": [
+            "Department of Petroleum Engineering, University of Houston, USA",
+            "Environmental Science Center, Qatar University, P. O. Box 2713, Doha, Qatar"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Petroleum Engineering, University of Houston, USA",
+              "institution_ids": [
+                "https://openalex.org/I44461941"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P. O. Box 2713, Doha, Qatar",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5079669280",
+            "display_name": "Hamad Al-Saad Al-Kuwari",
+            "orcid": "https://orcid.org/0000-0001-6787-3533"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I44461941",
+              "display_name": "University of Houston",
+              "ror": "https://ror.org/048sx0r50",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I44461941"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I60342839",
+              "display_name": "Qatar University",
+              "ror": "https://ror.org/00yhnba62",
+              "country_code": "QA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ],
+          "countries": [
+            "QA",
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Hamad Al-Saad Al-Kuwari",
+          "raw_affiliation_strings": [
+            "Department of Petroleum Engineering, University of Houston, USA",
+            "Environmental Science Center, Qatar University, P. O. Box 2713, Doha, Qatar"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Petroleum Engineering, University of Houston, USA",
+              "institution_ids": [
+                "https://openalex.org/I44461941"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P. O. Box 2713, Doha, Qatar",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5009925314",
+            "display_name": "A. Sakhaee-Pour",
+            "orcid": "https://orcid.org/0000-0002-9312-0479"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Ahmad Sakhaee-Pour",
+          "raw_affiliation_strings": [
+            "Faculty and PostDoc Science & Engineering"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Faculty and PostDoc Science & Engineering",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5029885598",
+            "display_name": "Wael S. Matter",
+            "orcid": "https://orcid.org/0000-0002-8626-1281"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I44461941",
+              "display_name": "University of Houston",
+              "ror": "https://ror.org/048sx0r50",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I44461941"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I60342839",
+              "display_name": "Qatar University",
+              "ror": "https://ror.org/00yhnba62",
+              "country_code": "QA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ],
+          "countries": [
+            "QA",
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Wael S. Matter",
+          "raw_affiliation_strings": [
+            "Department of Petroleum Engineering, University of Houston, USA",
+            "Environmental Science Center, Qatar University, P. O. Box 2713, Doha, Qatar"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Petroleum Engineering, University of Houston, USA",
+              "institution_ids": [
+                "https://openalex.org/I44461941"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P. O. Box 2713, Doha, Qatar",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5101723975",
+            "display_name": "Indra Gunawan",
+            "orcid": "https://orcid.org/0000-0002-8549-3830"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I44461941",
+              "display_name": "University of Houston",
+              "ror": "https://ror.org/048sx0r50",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I44461941"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I60342839",
+              "display_name": "Qatar University",
+              "ror": "https://ror.org/00yhnba62",
+              "country_code": "QA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ],
+          "countries": [
+            "QA",
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Indra Gunawan",
+          "raw_affiliation_strings": [
+            "Department of Petroleum Engineering, University of Houston, USA",
+            "Environmental Science Center, Qatar University, P. O. Box 2713, Doha, Qatar"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Petroleum Engineering, University of Houston, USA",
+              "institution_ids": [
+                "https://openalex.org/I44461941"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P. O. Box 2713, Doha, Qatar",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0,
+      "has_fulltext": true,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.30623472,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 91,
+        "max": 95
+      },
+      "biblio": {
+        "volume": null,
+        "issue": null,
+        "first_page": "24",
+        "last_page": "24"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.9991000294685364,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9991000294685364,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10635",
+          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
+          "score": 0.989799976348877,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13193",
+          "display_name": "Geological Studies and Exploration",
+          "score": 0.9896000027656555,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1907",
+            "display_name": "Geology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/palygorskite",
+          "display_name": "Palygorskite",
+          "score": 0.9571780562400818
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.8180252313613892
+        },
+        {
+          "id": "https://openalex.org/keywords/oil-shale",
+          "display_name": "Oil shale",
+          "score": 0.7920742034912109
+        },
+        {
+          "id": "https://openalex.org/keywords/clay-minerals",
+          "display_name": "Clay minerals",
+          "score": 0.6422271728515625
+        },
+        {
+          "id": "https://openalex.org/keywords/mineralogy",
+          "display_name": "Mineralogy",
+          "score": 0.5828375220298767
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemistry",
+          "display_name": "Geochemistry",
+          "score": 0.5277462601661682
+        },
+        {
+          "id": "https://openalex.org/keywords/illite",
+          "display_name": "Illite",
+          "score": 0.4964204430580139
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
+          "display_name": "Sedimentary depositional environment",
+          "score": 0.4591372311115265
+        },
+        {
+          "id": "https://openalex.org/keywords/calcite",
+          "display_name": "Calcite",
+          "score": 0.448560506105423
+        },
+        {
+          "id": "https://openalex.org/keywords/sepiolite",
+          "display_name": "Sepiolite",
+          "score": 0.43869078159332275
+        },
+        {
+          "id": "https://openalex.org/keywords/clastic-rock",
+          "display_name": "Clastic rock",
+          "score": 0.427884578704834
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-rock",
+          "display_name": "Sedimentary rock",
+          "score": 0.4231586456298828
+        },
+        {
+          "id": "https://openalex.org/keywords/chemistry",
+          "display_name": "Chemistry",
+          "score": 0.12494134902954102
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.11761373281478882
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2780873218",
+          "wikidata": "https://www.wikidata.org/wiki/Q414065",
+          "display_name": "Palygorskite",
+          "level": 3,
+          "score": 0.9571780562400818
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8180252313613892
+        },
+        {
+          "id": "https://openalex.org/C153127940",
+          "wikidata": "https://www.wikidata.org/wiki/Q221378",
+          "display_name": "Oil shale",
+          "level": 2,
+          "score": 0.7920742034912109
+        },
+        {
+          "id": "https://openalex.org/C40212044",
+          "wikidata": "https://www.wikidata.org/wiki/Q1799034",
+          "display_name": "Clay minerals",
+          "level": 2,
+          "score": 0.6422271728515625
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.5828375220298767
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.5277462601661682
+        },
+        {
+          "id": "https://openalex.org/C2779429093",
+          "wikidata": "https://www.wikidata.org/wiki/Q1145804",
+          "display_name": "Illite",
+          "level": 3,
+          "score": 0.4964204430580139
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.4591372311115265
+        },
+        {
+          "id": "https://openalex.org/C2780191791",
+          "wikidata": "https://www.wikidata.org/wiki/Q171917",
+          "display_name": "Calcite",
+          "level": 2,
+          "score": 0.448560506105423
+        },
+        {
+          "id": "https://openalex.org/C2781151301",
+          "wikidata": "https://www.wikidata.org/wiki/Q414096",
+          "display_name": "Sepiolite",
+          "level": 3,
+          "score": 0.43869078159332275
+        },
+        {
+          "id": "https://openalex.org/C138170599",
+          "wikidata": "https://www.wikidata.org/wiki/Q612133",
+          "display_name": "Clastic rock",
+          "level": 3,
+          "score": 0.427884578704834
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.4231586456298828
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.12494134902954102
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.11761373281478882
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C206139338",
+          "wikidata": "https://www.wikidata.org/wiki/Q192355",
+          "display_name": "Raw material",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C178790620",
+          "wikidata": "https://www.wikidata.org/wiki/Q11351",
+          "display_name": "Organic chemistry",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.29117/quarfe.2021.0024",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.29117/quarfe.2021.0024",
+          "pdf_url": "http://qspace.qu.edu.qa/bitstream/10576/24291/1/272.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306505007",
+            "display_name": "Building Resilience at Universities: Role of Innovation and Entrepreneurship",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Building Resilience at Universities: Role of Innovation and Entrepreneurship",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.29117/quarfe.2021.0024",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.29117/quarfe.2021.0024",
+        "pdf_url": "http://qspace.qu.edu.qa/bitstream/10576/24291/1/272.pdf",
+        "source": {
+          "id": "https://openalex.org/S4306505007",
+          "display_name": "Building Resilience at Universities: Role of Innovation and Entrepreneurship",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Building Resilience at Universities: Role of Innovation and Entrepreneurship",
+        "raw_type": "proceedings-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
+        }
+      ],
+      "awards": [
+        {
+          "id": "https://openalex.org/G5162379661",
+          "display_name": null,
+          "funder_award_id": "NPRP12S-0305-190235",
+          "funder_id": "https://openalex.org/F4320309815",
+          "funder_display_name": "Qatar Foundation"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320309815",
+          "display_name": "Qatar Foundation",
+          "ror": "https://ror.org/01cawbq05"
+        },
+        {
+          "id": "https://openalex.org/F4320321038",
+          "display_name": "Fonds National de la Recherche Luxembourg",
+          "ror": "https://ror.org/039z13y21"
+        }
+      ],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W3207158966.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W3207158966.grobid-xml"
+      },
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2015228526",
+        "https://openalex.org/W2151619041",
+        "https://openalex.org/W1994683621",
+        "https://openalex.org/W2320108577",
+        "https://openalex.org/W1967988125",
+        "https://openalex.org/W2031618682",
+        "https://openalex.org/W2915339928",
+        "https://openalex.org/W162033718",
+        "https://openalex.org/W2134950261",
+        "https://openalex.org/W2152534407"
+      ],
+      "abstract_inverted_index": {
+        "5": [
+          175
+        ],
+        "20": [
+          177
+        ],
+        "Gas": [
+          0
+        ],
+        "shale": [
+          1,
+          19,
+          230
+        ],
+        "is": [
+          2,
+          121
+        ],
+        "the": [
+          3,
+          25,
+          29,
+          36,
+          47,
+          50,
+          79,
+          85,
+          92,
+          156,
+          167,
+          203,
+          207,
+          225,
+          240,
+          246,
+          254
+        ],
+        "future": [
+          4
+        ],
+        "hydrocarbon": [
+          5
+        ],
+        "reservoir": [
+          6
+        ],
+        "of": [
+          7,
+          17,
+          49,
+          169,
+          173,
+          227,
+          239
+        ],
+        "Qatar.": [
+          8
+        ],
+        "The": [
+          9,
+          123,
+          141,
+          186
+        ],
+        "Qatari": [
+          10
+        ],
+        "geologic": [
+          11,
+          22
+        ],
+        "section": [
+          12
+        ],
+        "has": [
+          13
+        ],
+        "had": [
+          14
+        ],
+        "important": [
+          15
+        ],
+        "successions": [
+          16
+        ],
+        "gas": [
+          18
+        ],
+        "at": [
+          20
+        ],
+        "different": [
+          21
+        ],
+        "times": [
+          23
+        ],
+        "including": [
+          24
+        ],
+        "Eocene": [
+          26
+        ],
+        "Midra": [
+          27,
+          51,
+          187,
+          208
+        ],
+        "shale,": [
+          28
+        ],
+        "Cretaceous": [
+          30
+        ],
+        "Ratawi": [
+          31
+        ],
+        "and": [
+          32,
+          35,
+          39,
+          55,
+          67,
+          75,
+          112,
+          133,
+          139,
+          181,
+          222,
+          265
+        ],
+        "Nahr": [
+          33
+        ],
+        "Umr,": [
+          34
+        ],
+        "Paleozoic": [
+          37
+        ],
+        "Qusaibah": [
+          38
+        ],
+        "Unayzah": [
+          40
+        ],
+        "formations.": [
+          41
+        ],
+        "Shale": [
+          42,
+          52,
+          188
+        ],
+        "samples": [
+          43,
+          70,
+          81
+        ],
+        "were": [
+          44,
+          60,
+          71
+        ],
+        "collected": [
+          45
+        ],
+        "from": [
+          46,
+          107,
+          160,
+          202,
+          253,
+          263
+        ],
+        "outcrops": [
+          48
+        ],
+        "in": [
+          53,
+          89,
+          147,
+          179,
+          184,
+          191
+        ],
+        "Dukhan": [
+          54
+        ],
+        "Umm": [
+          56
+        ],
+        "Bab": [
+          57
+        ],
+        "areas.": [
+          58
+        ],
+        "Samples": [
+          59
+        ],
+        "subjected": [
+          61,
+          198
+        ],
+        "to": [
+          62,
+          115,
+          155,
+          176,
+          199
+        ],
+        "geochemical": [
+          63
+        ],
+        "analyses": [
+          64
+        ],
+        "using": [
+          65
+        ],
+        "XRD": [
+          66
+        ],
+        "RXF.": [
+          68
+        ],
+        "Selected": [
+          69
+        ],
+        "examined": [
+          72
+        ],
+        "under": [
+          73,
+          215
+        ],
+        "SEM": [
+          74
+        ],
+        "TEM": [
+          76,
+          255
+        ],
+        "microscopes.": [
+          77
+        ],
+        "All": [
+          78
+        ],
+        "studied": [
+          80
+        ],
+        "contain": [
+          82
+        ],
+        "palygorskite": [
+          83,
+          105,
+          109,
+          117,
+          142,
+          174,
+          247
+        ],
+        "as": [
+          84,
+          96,
+          219,
+          249
+        ],
+        "main": [
+          86
+        ],
+        "mineral": [
+          87,
+          94
+        ],
+        "and,": [
+          88
+        ],
+        "some": [
+          90,
+          258
+        ],
+        "cases,": [
+          91
+        ],
+        "only": [
+          93
+        ],
+        "present,": [
+          95
+        ],
+        "indicated": [
+          97
+        ],
+        "by": [
+          98,
+          268
+        ],
+        "X-ray": [
+          99
+        ],
+        "diffraction": [
+          100
+        ],
+        "patterns.": [
+          101
+        ],
+        "XRF": [
+          102
+        ],
+        "analysis": [
+          103
+        ],
+        "shows": [
+          104
+        ],
+        "range": [
+          106
+        ],
+        "ideal": [
+          108
+        ],
+        "(equal": [
+          110
+        ],
+        "aluminum": [
+          111
+        ],
+        "magnesium": [
+          113,
+          120
+        ],
+        "content)": [
+          114
+        ],
+        "aluminous": [
+          116
+        ],
+        "where": [
+          118
+        ],
+        "no": [
+          119
+        ],
+        "recorded.": [
+          122
+        ],
+        "most": [
+          124
+        ],
+        "common": [
+          125
+        ],
+        "other": [
+          126,
+          134
+        ],
+        "minor": [
+          127
+        ],
+        "minerals": [
+          128
+        ],
+        "are": [
+          129,
+          242
+        ],
+        "halite,": [
+          130
+        ],
+        "quartz,": [
+          131
+        ],
+        "calcite,": [
+          132
+        ],
+        "clay": [
+          135
+        ],
+        "minerals:": [
+          136
+        ],
+        "illite,": [
+          137
+        ],
+        "smectite": [
+          138
+        ],
+        "sepiolite.": [
+          140
+        ],
+        "chain": [
+          143
+        ],
+        "phyllo": [
+          144
+        ],
+        "silicates": [
+          145
+        ],
+        "results": [
+          146
+        ],
+        "a": [
+          148,
+          192,
+          233
+        ],
+        "fibrous": [
+          149
+        ],
+        "habit": [
+          150
+        ],
+        "with": [
+          151,
+          245
+        ],
+        "channels": [
+          152,
+          243
+        ],
+        "running": [
+          153
+        ],
+        "parallel": [
+          154
+        ],
+        "fiber": [
+          157
+        ],
+        "length.": [
+          158,
+          185
+        ],
+        "Images": [
+          159
+        ],
+        "Transmission": [
+          161
+        ],
+        "Electron": [
+          162
+        ],
+        "Microscopy": [
+          163
+        ],
+        "(TEM)": [
+          164
+        ],
+        "clearly": [
+          165
+        ],
+        "show": [
+          166
+        ],
+        "presence": [
+          168,
+          226
+        ],
+        "bundled": [
+          170
+        ],
+        "lath-like": [
+          171
+        ],
+        "crystals": [
+          172
+        ],
+        "nm": [
+          178
+        ],
+        "width": [
+          180
+        ],
+        "several": [
+          182
+        ],
+        "micrometers": [
+          183
+        ],
+        "was": [
+          189,
+          197
+        ],
+        "deposited": [
+          190
+        ],
+        "shallow": [
+          193
+        ],
+        "marine": [
+          194,
+          216
+        ],
+        "shelf": [
+          195
+        ],
+        "that": [
+          196,
+          212,
+          261
+        ],
+        "clastic": [
+          200
+        ],
+        "influx": [
+          201
+        ],
+        "nearby": [
+          204
+        ],
+        "land.": [
+          205
+        ],
+        "Although,": [
+          206
+        ],
+        "contains": [
+          209
+        ],
+        "many": [
+          210
+        ],
+        "elements": [
+          211
+        ],
+        "support": [
+          213
+        ],
+        "deposition": [
+          214
+        ],
+        "conditions": [
+          217
+        ],
+        "such": [
+          218
+        ],
+        "large": [
+          220
+        ],
+        "foraminifera": [
+          221
+        ],
+        "shark": [
+          223
+        ],
+        "teeth,": [
+          224
+        ],
+        "fully": [
+          228
+        ],
+        "developed": [
+          229
+        ],
+        "horizons": [
+          231
+        ],
+        "indicate": [
+          232
+        ],
+        "mixed": [
+          234
+        ],
+        "marine-continental": [
+          235
+        ],
+        "depositional": [
+          236
+        ],
+        "setting.": [
+          237
+        ],
+        "Most": [
+          238
+        ],
+        "micropores": [
+          241
+        ],
+        "associated": [
+          244
+        ],
+        "laths": [
+          248
+        ],
+        "can": [
+          250
+        ],
+        "be": [
+          251
+        ],
+        "seen": [
+          252
+        ],
+        "images": [
+          256
+        ],
+        "or": [
+          257
+        ],
+        "dissolution": [
+          259,
+          267
+        ],
+        "pores": [
+          260
+        ],
+        "resulted": [
+          262
+        ],
+        "halite": [
+          264
+        ],
+        "gypsum": [
+          266
+        ],
+        "meteoric": [
+          269
+        ],
+        "water.": [
+          270
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-07-29T14:22:42.915294",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4405637401",
       "doi": "https://doi.org/10.2112/jcr-si113-039.1",
       "title": "Sea-Level Rise along the Coast of Qatar, Central Arabian Gulf under Ongoing Global Warming and Climate Change",
@@ -23249,9 +24629,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 0.6499999761581421,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6499999761581421
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -24724,9 +26104,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -25379,1005 +26759,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2538484312",
-      "doi": "https://doi.org/10.1109/icenco.2010.5720432",
-      "title": "An experience to develop a web portal about the historical and archeological sites in Qatar",
-      "display_name": "An experience to develop a web portal about the historical and archeological sites in Qatar",
-      "publication_year": 2010,
-      "publication_date": "2010-12-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2538484312",
-        "doi": "https://doi.org/10.1109/icenco.2010.5720432",
-        "mag": "2538484312"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1109/icenco.2010.5720432",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1109/icenco.2010.5720432",
-        "pdf_url": null,
-        "source": null,
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "2010 International Computer Engineering Conference (ICENCO)",
-        "raw_type": "proceedings-article"
-      },
-      "type": "conference-paper",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5039383179",
-            "display_name": "Jihad Mohamad Alja’am",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I60342839",
-              "display_name": "Qatar University",
-              "ror": "https://ror.org/00yhnba62",
-              "country_code": "QA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ],
-          "countries": [
-            "QA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "J M AlJa'am",
-          "raw_affiliation_strings": [
-            "Department of Computer Science and Engineering, College of Engineering, Qatar University, Doha, Qatar"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Computer Science and Engineering, College of Engineering, Qatar University, Doha, Qatar",
-              "institution_ids": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5082424148",
-            "display_name": "Murtadha L. Al‐Saady",
-            "orcid": "https://orcid.org/0000-0002-8246-8963"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I60342839",
-              "display_name": "Qatar University",
-              "ror": "https://ror.org/00yhnba62",
-              "country_code": "QA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ],
-          "countries": [
-            "QA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "M AlSaady",
-          "raw_affiliation_strings": [
-            "Department of Computer Science and Engineering, College of Engineering, Qatar University, Doha, Qatar"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Computer Science and Engineering, College of Engineering, Qatar University, Doha, Qatar",
-              "institution_ids": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5048728593",
-            "display_name": "Mohamed Al-Marri",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I60342839",
-              "display_name": "Qatar University",
-              "ror": "https://ror.org/00yhnba62",
-              "country_code": "QA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ],
-          "countries": [
-            "QA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "M AlMarri",
-          "raw_affiliation_strings": [
-            "Department of Computer Science and Engineering, College of Engineering, Qatar University, Doha, Qatar"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Computer Science and Engineering, College of Engineering, Qatar University, Doha, Qatar",
-              "institution_ids": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5079669280",
-            "display_name": "Hamad Al-Saad Al-Kuwari",
-            "orcid": "https://orcid.org/0000-0001-6787-3533"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I60342839",
-              "display_name": "Qatar University",
-              "ror": "https://ror.org/00yhnba62",
-              "country_code": "QA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ],
-          "countries": [
-            "QA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "H Al-Kuwari",
-          "raw_affiliation_strings": [
-            "Department of Computer Science and Engineering, College of Engineering, Qatar University, Doha, Qatar"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Computer Science and Engineering, College of Engineering, Qatar University, Doha, Qatar",
-              "institution_ids": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I60342839"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": null,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": null,
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": "9",
-        "issue": null,
-        "first_page": "86",
-        "last_page": "88"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12490",
-        "display_name": "Software Engineering and Design Patterns",
-        "score": 0.680899977684021,
-        "subfield": {
-          "id": "https://openalex.org/subfields/3303",
-          "display_name": "Development"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/33",
-          "display_name": "Social Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/2",
-          "display_name": "Social Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12490",
-          "display_name": "Software Engineering and Design Patterns",
-          "score": 0.680899977684021,
-          "subfield": {
-            "id": "https://openalex.org/subfields/3303",
-            "display_name": "Development"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/33",
-            "display_name": "Social Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13083",
-          "display_name": "Advanced Text Analysis Techniques",
-          "score": 0.6808000206947327,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10215",
-          "display_name": "Semantic Web and Ontologies",
-          "score": 0.6209999918937683,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/fortress",
-          "display_name": "Fortress (chess)",
-          "score": 0.6274878978729248
-        },
-        {
-          "id": "https://openalex.org/keywords/the-internet",
-          "display_name": "The Internet",
-          "score": 0.5781334638595581
-        },
-        {
-          "id": "https://openalex.org/keywords/peninsula",
-          "display_name": "Peninsula",
-          "score": 0.5071215629577637
-        },
-        {
-          "id": "https://openalex.org/keywords/archaeology",
-          "display_name": "Archaeology",
-          "score": 0.5025033950805664
-        },
-        {
-          "id": "https://openalex.org/keywords/islam",
-          "display_name": "Islam",
-          "score": 0.4591599702835083
-        },
-        {
-          "id": "https://openalex.org/keywords/world-wide-web",
-          "display_name": "World Wide Web",
-          "score": 0.44246286153793335
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.4185752868652344
-        },
-        {
-          "id": "https://openalex.org/keywords/history",
-          "display_name": "History",
-          "score": 0.38966765999794006
-        },
-        {
-          "id": "https://openalex.org/keywords/ancient-history",
-          "display_name": "Ancient history",
-          "score": 0.3538864254951477
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.2607865333557129
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C38035415",
-          "wikidata": "https://www.wikidata.org/wiki/Q1408838",
-          "display_name": "Fortress (chess)",
-          "level": 2,
-          "score": 0.6274878978729248
-        },
-        {
-          "id": "https://openalex.org/C110875604",
-          "wikidata": "https://www.wikidata.org/wiki/Q75",
-          "display_name": "The Internet",
-          "level": 2,
-          "score": 0.5781334638595581
-        },
-        {
-          "id": "https://openalex.org/C123588078",
-          "wikidata": "https://www.wikidata.org/wiki/Q34763",
-          "display_name": "Peninsula",
-          "level": 2,
-          "score": 0.5071215629577637
-        },
-        {
-          "id": "https://openalex.org/C166957645",
-          "wikidata": "https://www.wikidata.org/wiki/Q23498",
-          "display_name": "Archaeology",
-          "level": 1,
-          "score": 0.5025033950805664
-        },
-        {
-          "id": "https://openalex.org/C4445939",
-          "wikidata": "https://www.wikidata.org/wiki/Q432",
-          "display_name": "Islam",
-          "level": 2,
-          "score": 0.4591599702835083
-        },
-        {
-          "id": "https://openalex.org/C136764020",
-          "wikidata": "https://www.wikidata.org/wiki/Q466",
-          "display_name": "World Wide Web",
-          "level": 1,
-          "score": 0.44246286153793335
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.4185752868652344
-        },
-        {
-          "id": "https://openalex.org/C95457728",
-          "wikidata": "https://www.wikidata.org/wiki/Q309",
-          "display_name": "History",
-          "level": 0,
-          "score": 0.38966765999794006
-        },
-        {
-          "id": "https://openalex.org/C195244886",
-          "wikidata": "https://www.wikidata.org/wiki/Q41493",
-          "display_name": "Ancient history",
-          "level": 1,
-          "score": 0.3538864254951477
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.2607865333557129
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.1109/icenco.2010.5720432",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1109/icenco.2010.5720432",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "2010 International Computer Engineering Conference (ICENCO)",
-          "raw_type": "proceedings-article"
-        },
-        {
-          "id": "pmh:oai:qspace.qu.edu.qa:10576/39363",
-          "is_oa": false,
-          "landing_page_url": "http://hdl.handle.net/10576/39363",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400014",
-            "display_name": "Qatar University QSpace (Qatar University)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I60342839",
-            "host_organization_name": "Qatar University",
-            "host_organization_lineage": [
-              "https://openalex.org/I60342839"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "",
-          "raw_type": "Conference Paper"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11",
-          "score": 0.6800000071525574
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 4,
-      "referenced_works": [
-        "https://openalex.org/W87260541",
-        "https://openalex.org/W1569046001",
-        "https://openalex.org/W2182617487",
-        "https://openalex.org/W6603523545"
-      ],
-      "related_works": [
-        "https://openalex.org/W4200046715",
-        "https://openalex.org/W3122814651",
-        "https://openalex.org/W3043139147",
-        "https://openalex.org/W2358857680",
-        "https://openalex.org/W2297142206",
-        "https://openalex.org/W1976004044",
-        "https://openalex.org/W4285501477",
-        "https://openalex.org/W4312749085",
-        "https://openalex.org/W1988316353",
-        "https://openalex.org/W1983610085"
-      ],
-      "abstract_inverted_index": {
-        "Qatar": [
-          0,
-          153
-        ],
-        "is": [
-          1,
-          169,
-          183,
-          217
-        ],
-        "located": [
-          2
-        ],
-        "in": [
-          3,
-          48,
-          97,
-          123
-        ],
-        "the": [
-          4,
-          7,
-          21,
-          27,
-          49,
-          81,
-          99,
-          103,
-          139,
-          149,
-          155,
-          173,
-          190,
-          201,
-          207
-        ],
-        "heart": [
-          5
-        ],
-        "of": [
-          6,
-          26,
-          35,
-          56,
-          68,
-          105,
-          141,
-          152
-        ],
-        "Arabian": [
-          8
-        ],
-        "Peninsula.": [
-          9
-        ],
-        "The": [
-          10,
-          146
-        ],
-        "country": [
-          11
-        ],
-        "possesses": [
-          12
-        ],
-        "many": [
-          13,
-          160
-        ],
-        "magnificent": [
-          14
-        ],
-        "historical": [
-          15
-        ],
-        "and": [
-          16,
-          24,
-          29,
-          45,
-          94,
-          143,
-          157,
-          163,
-          175,
-          204,
-          220
-        ],
-        "archaeological": [
-          17
-        ],
-        "sites": [
-          18,
-          37,
-          71,
-          216
-        ],
-        "which": [
-          19
-        ],
-        "are": [
-          20,
-          38,
-          65,
-          136,
-          197
-        ],
-        "common": [
-          22
-        ],
-        "heritage": [
-          23
-        ],
-        "history": [
-          25,
-          151
-        ],
-        "Arab": [
-          28
-        ],
-        "Muslim": [
-          30
-        ],
-        "people.": [
-          31
-        ],
-        "However,": [
-          32
-        ],
-        "a": [
-          33,
-          54,
-          57
-        ],
-        "little": [
-          34
-        ],
-        "these": [
-          36,
-          106,
-          114,
-          215
-        ],
-        "known": [
-          39,
-          137
-        ],
-        "to": [
-          40,
-          117,
-          126,
-          138,
-          154,
-          171,
-          185,
-          206
-        ],
-        "Qatari": [
-          41,
-          134,
-          192
-        ],
-        "new": [
-          42,
-          46,
-          161
-        ],
-        "generations,": [
-          43
-        ],
-        "tourists": [
-          44
-        ],
-        "residents": [
-          47
-        ],
-        "country.": [
-          50
-        ],
-        "Umm": [
-          51
-        ],
-        "Salal": [
-          52
-        ],
-        "Mohammed,": [
-          53
-        ],
-        "ruin": [
-          55
-        ],
-        "19thCentury": [
-          58
-        ],
-        "Fort,": [
-          59
-        ],
-        "Qalit": [
-          60
-        ],
-        "Marir": [
-          61
-        ],
-        "Fortress": [
-          62
-        ],
-        "(Al": [
-          63
-        ],
-        "Zubara)": [
-          64
-        ],
-        "just": [
-          66
-        ],
-        "some": [
-          67,
-          87
-        ],
-        "those": [
-          69
-        ],
-        "important": [
-          70
-        ],
-        "[7].": [
-          72
-        ],
-        "At": [
-          73
-        ],
-        "Al": [
-          74
-        ],
-        "Khor": [
-          75
-        ],
-        "monuments": [
-          76,
-          116
-        ],
-        "archaeologists": [
-          77
-        ],
-        "found": [
-          78
-        ],
-        "artifacts": [
-          79
-        ],
-        "from": [
-          80,
-          91
-        ],
-        "Islamic": [
-          82
-        ],
-        "Period": [
-          83
-        ],
-        "(900-1400).": [
-          84
-        ],
-        "By": [
-          85
-        ],
-        "asking": [
-          86
-        ],
-        "people": [
-          88
-        ],
-        "selected": [
-          89
-        ],
-        "randomly": [
-          90
-        ],
-        "different": [
-          92
-        ],
-        "malls": [
-          93
-        ],
-        "shop": [
-          95
-        ],
-        "centers": [
-          96
-        ],
-        "Qatar,": [
-          98
-        ],
-        "majority": [
-          100,
-          140
-        ],
-        "ignore": [
-          101
-        ],
-        "completely": [
-          102
-        ],
-        "existence": [
-          104
-        ],
-        "archeological": [
-          107
-        ],
-        "sites.": [
-          108,
-          193
-        ],
-        "Therefore,": [
-          109
-        ],
-        "we": [
-          110
-        ],
-        "must": [
-          111
-        ],
-        "not": [
-          112
-        ],
-        "allow": [
-          113
-        ],
-        "extraordinary": [
-          115
-        ],
-        "sink": [
-          118
-        ],
-        "into": [
-          119
-        ],
-        "oblivion.": [
-          120
-        ],
-        "We": [
-          121
-        ],
-        "aim": [
-          122
-        ],
-        "this": [
-          124
-        ],
-        "work": [
-          125
-        ],
-        "build": [
-          127
-        ],
-        "an": [
-          128
-        ],
-        "interactive": [
-          129,
-          195
-        ],
-        "web": [
-          130
-        ],
-        "portal": [
-          131,
-          147,
-          174,
-          203
-        ],
-        "ensuring": [
-          132
-        ],
-        "that": [
-          133
-        ],
-        "antiquities": [
-          135
-        ],
-        "inhabitants": [
-          142
-        ],
-        "international": [
-          144
-        ],
-        "tourists.": [
-          145,
-          164
-        ],
-        "introduces": [
-          148
-        ],
-        "ancient": [
-          150,
-          191
-        ],
-        "world": [
-          156
-        ],
-        "will": [
-          158
-        ],
-        "attract": [
-          159
-        ],
-        "visitors": [
-          162
-        ],
-        "A": [
-          165,
-          179
-        ],
-        "content": [
-          166
-        ],
-        "management": [
-          167
-        ],
-        "system": [
-          168
-        ],
-        "used": [
-          170,
-          184
-        ],
-        "develop": [
-          172,
-          186
-        ],
-        "manage": [
-          176
-        ],
-        "its": [
-          177
-        ],
-        "contents.": [
-          178
-        ],
-        "virtual": [
-          180,
-          187
-        ],
-        "tour": [
-          181
-        ],
-        "software": [
-          182
-        ],
-        "tours": [
-          188,
-          196
-        ],
-        "about": [
-          189,
-          214
-        ],
-        "These": [
-          194
-        ],
-        "deployed": [
-          198,
-          221
-        ],
-        "online": [
-          199
-        ],
-        "through": [
-          200
-        ],
-        "Web": [
-          202
-        ],
-        "available": [
-          205
-        ],
-        "Internet": [
-          208
-        ],
-        "Surfers.": [
-          209
-        ],
-        "An": [
-          210
-        ],
-        "informative": [
-          211
-        ],
-        "question-answer": [
-          212
-        ],
-        "tool": [
-          213
-        ],
-        "also": [
-          218
-        ],
-        "developed": [
-          219
-        ],
-        "online.": [
-          222
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2017,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-07-29T09:40:50.615796",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W3111727931",
       "doi": "https://doi.org/10.29117/quarfe.2020.0026",
       "title": "Characterization of the Extracellular Polymeric Substances (EPS) of Virgibacillus Strains capable of Mediating the Formation of High Mg-Calcite and Protodolomite",
@@ -26526,11 +26907,18 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": null,
+      "fwci": 0.6732,
       "has_fulltext": true,
       "cited_by_count": 1,
-      "citation_normalized_percentile": null,
-      "cited_by_percentile_year": null,
+      "citation_normalized_percentile": {
+        "value": 0.68022054,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 94
+      },
       "biblio": {
         "volume": null,
         "issue": null,
@@ -27296,47 +27684,34 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-14T23:27:15.235271",
+      "updated_date": "2026-07-29T14:22:42.915294",
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W3207158966",
-      "doi": "https://doi.org/10.29117/quarfe.2021.0024",
-      "title": "Lithologic Characterization and Micropore Structures of Gas Shale Strata: An example from the Midra Shale of Western Qatar",
-      "display_name": "Lithologic Characterization and Micropore Structures of Gas Shale Strata: An example from the Midra Shale of Western Qatar",
-      "publication_year": 2021,
-      "publication_date": "2021-10-20",
+      "id": "https://openalex.org/W2538484312",
+      "doi": "https://doi.org/10.1109/icenco.2010.5720432",
+      "title": "An experience to develop a web portal about the historical and archeological sites in Qatar",
+      "display_name": "An experience to develop a web portal about the historical and archeological sites in Qatar",
+      "publication_year": 2010,
+      "publication_date": "2010-12-01",
       "ids": {
-        "openalex": "https://openalex.org/W3207158966",
-        "doi": "https://doi.org/10.29117/quarfe.2021.0024",
-        "mag": "3207158966"
+        "openalex": "https://openalex.org/W2538484312",
+        "doi": "https://doi.org/10.1109/icenco.2010.5720432",
+        "mag": "2538484312"
       },
       "language": "en",
       "primary_location": {
-        "id": "doi:10.29117/quarfe.2021.0024",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.29117/quarfe.2021.0024",
-        "pdf_url": "http://qspace.qu.edu.qa/bitstream/10576/24291/1/272.pdf",
-        "source": {
-          "id": "https://openalex.org/S4306505007",
-          "display_name": "Building Resilience at Universities: Role of Innovation and Entrepreneurship",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
+        "id": "doi:10.1109/icenco.2010.5720432",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1109/icenco.2010.5720432",
+        "pdf_url": null,
+        "source": null,
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
-        "raw_source_name": "Building Resilience at Universities: Role of Innovation and Entrepreneurship",
+        "raw_source_name": "2010 International Computer Engineering Conference (ICENCO)",
         "raw_type": "proceedings-article"
       },
       "type": "conference-paper",
@@ -27344,30 +27719,20 @@
         "crossref"
       ],
       "open_access": {
-        "is_oa": true,
-        "oa_status": "bronze",
-        "oa_url": "http://qspace.qu.edu.qa/bitstream/10576/24291/1/272.pdf",
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
         "any_repository_has_fulltext": false
       },
       "authorships": [
         {
           "author_position": "first",
           "author": {
-            "id": "https://openalex.org/A5070411489",
-            "display_name": "Fadhil Sadooni",
-            "orcid": "https://orcid.org/0000-0001-5027-0648"
+            "id": "https://openalex.org/A5039383179",
+            "display_name": "Jihad Mohamad Alja’am",
+            "orcid": null
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I44461941",
-              "display_name": "University of Houston",
-              "ror": "https://ror.org/048sx0r50",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I44461941"
-              ]
-            },
             {
               "id": "https://openalex.org/I60342839",
               "display_name": "Qatar University",
@@ -27380,25 +27745,17 @@
             }
           ],
           "countries": [
-            "QA",
-            "US"
+            "QA"
           ],
           "is_corresponding": false,
-          "raw_author_name": "Fadhil N. Sadooni",
+          "raw_author_name": "J M AlJa'am",
           "raw_affiliation_strings": [
-            "Department of Petroleum Engineering, University of Houston, USA",
-            "Environmental Science Center, Qatar University, P. O. Box 2713, Doha, Qatar"
+            "Department of Computer Science and Engineering, College of Engineering, Qatar University, Doha, Qatar"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Petroleum Engineering, University of Houston, USA",
-              "institution_ids": [
-                "https://openalex.org/I44461941"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Environmental Science Center, Qatar University, P. O. Box 2713, Doha, Qatar",
+              "raw_affiliation_string": "Department of Computer Science and Engineering, College of Engineering, Qatar University, Doha, Qatar",
               "institution_ids": [
                 "https://openalex.org/I60342839"
               ]
@@ -27408,21 +27765,11 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5079669280",
-            "display_name": "Hamad Al-Saad Al-Kuwari",
-            "orcid": "https://orcid.org/0000-0001-6787-3533"
+            "id": "https://openalex.org/A5082424148",
+            "display_name": "Murtadha L. Al‐Saady",
+            "orcid": "https://orcid.org/0000-0002-8246-8963"
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I44461941",
-              "display_name": "University of Houston",
-              "ror": "https://ror.org/048sx0r50",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I44461941"
-              ]
-            },
             {
               "id": "https://openalex.org/I60342839",
               "display_name": "Qatar University",
@@ -27435,25 +27782,17 @@
             }
           ],
           "countries": [
-            "QA",
-            "US"
+            "QA"
           ],
           "is_corresponding": false,
-          "raw_author_name": "Hamad Al-Saad Al-Kuwari",
+          "raw_author_name": "M AlSaady",
           "raw_affiliation_strings": [
-            "Department of Petroleum Engineering, University of Houston, USA",
-            "Environmental Science Center, Qatar University, P. O. Box 2713, Doha, Qatar"
+            "Department of Computer Science and Engineering, College of Engineering, Qatar University, Doha, Qatar"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Petroleum Engineering, University of Houston, USA",
-              "institution_ids": [
-                "https://openalex.org/I44461941"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Environmental Science Center, Qatar University, P. O. Box 2713, Doha, Qatar",
+              "raw_affiliation_string": "Department of Computer Science and Engineering, College of Engineering, Qatar University, Doha, Qatar",
               "institution_ids": [
                 "https://openalex.org/I60342839"
               ]
@@ -27463,43 +27802,11 @@
         {
           "author_position": "middle",
           "author": {
-            "id": "https://openalex.org/A5009925314",
-            "display_name": "A. Sakhaee-Pour",
-            "orcid": "https://orcid.org/0000-0002-9312-0479"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Ahmad Sakhaee-Pour",
-          "raw_affiliation_strings": [
-            "Faculty and PostDoc Science & Engineering"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Faculty and PostDoc Science & Engineering",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5029885598",
-            "display_name": "Wael S. Matter",
-            "orcid": "https://orcid.org/0000-0002-8626-1281"
+            "id": "https://openalex.org/A5048728593",
+            "display_name": "Mohamed Al-Marri",
+            "orcid": null
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I44461941",
-              "display_name": "University of Houston",
-              "ror": "https://ror.org/048sx0r50",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I44461941"
-              ]
-            },
             {
               "id": "https://openalex.org/I60342839",
               "display_name": "Qatar University",
@@ -27512,25 +27819,17 @@
             }
           ],
           "countries": [
-            "QA",
-            "US"
+            "QA"
           ],
           "is_corresponding": false,
-          "raw_author_name": "Wael S. Matter",
+          "raw_author_name": "M AlMarri",
           "raw_affiliation_strings": [
-            "Department of Petroleum Engineering, University of Houston, USA",
-            "Environmental Science Center, Qatar University, P. O. Box 2713, Doha, Qatar"
+            "Department of Computer Science and Engineering, College of Engineering, Qatar University, Doha, Qatar"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Petroleum Engineering, University of Houston, USA",
-              "institution_ids": [
-                "https://openalex.org/I44461941"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Environmental Science Center, Qatar University, P. O. Box 2713, Doha, Qatar",
+              "raw_affiliation_string": "Department of Computer Science and Engineering, College of Engineering, Qatar University, Doha, Qatar",
               "institution_ids": [
                 "https://openalex.org/I60342839"
               ]
@@ -27540,21 +27839,11 @@
         {
           "author_position": "last",
           "author": {
-            "id": "https://openalex.org/A5101723975",
-            "display_name": "Indra Gunawan",
-            "orcid": "https://orcid.org/0000-0002-8549-3830"
+            "id": "https://openalex.org/A5079669280",
+            "display_name": "Hamad Al-Saad Al-Kuwari",
+            "orcid": "https://orcid.org/0000-0001-6787-3533"
           },
           "institutions": [
-            {
-              "id": "https://openalex.org/I44461941",
-              "display_name": "University of Houston",
-              "ror": "https://ror.org/048sx0r50",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I44461941"
-              ]
-            },
             {
               "id": "https://openalex.org/I60342839",
               "display_name": "Qatar University",
@@ -27567,25 +27856,17 @@
             }
           ],
           "countries": [
-            "QA",
-            "US"
+            "QA"
           ],
           "is_corresponding": false,
-          "raw_author_name": "Indra Gunawan",
+          "raw_author_name": "H Al-Kuwari",
           "raw_affiliation_strings": [
-            "Department of Petroleum Engineering, University of Houston, USA",
-            "Environmental Science Center, Qatar University, P. O. Box 2713, Doha, Qatar"
+            "Department of Computer Science and Engineering, College of Engineering, Qatar University, Doha, Qatar"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Department of Petroleum Engineering, University of Houston, USA",
-              "institution_ids": [
-                "https://openalex.org/I44461941"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Environmental Science Center, Qatar University, P. O. Box 2713, Doha, Qatar",
+              "raw_affiliation_string": "Department of Computer Science and Engineering, College of Engineering, Qatar University, Doha, Qatar",
               "institution_ids": [
                 "https://openalex.org/I60342839"
               ]
@@ -27594,55 +27875,74 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I60342839"
+      ],
       "apc_list": null,
       "apc_paid": null,
       "fwci": null,
-      "has_fulltext": true,
+      "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
-        "volume": null,
+        "volume": "9",
         "issue": null,
-        "first_page": "24",
-        "last_page": "24"
+        "first_page": "86",
+        "last_page": "88"
       },
       "is_retracted": false,
       "is_paratext": false,
       "is_xpac": false,
       "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9991000294685364,
+        "id": "https://openalex.org/T12490",
+        "display_name": "Software Engineering and Design Patterns",
+        "score": 0.680899977684021,
         "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
+          "id": "https://openalex.org/subfields/3303",
+          "display_name": "Development"
         },
         "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
         },
         "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
         }
       },
       "topics": [
         {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9991000294685364,
+          "id": "https://openalex.org/T12490",
+          "display_name": "Software Engineering and Design Patterns",
+          "score": 0.680899977684021,
           "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
+            "id": "https://openalex.org/subfields/3303",
+            "display_name": "Development"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13083",
+          "display_name": "Advanced Text Analysis Techniques",
+          "score": 0.6808000206947327,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -27650,33 +27950,16 @@
           }
         },
         {
-          "id": "https://openalex.org/T10635",
-          "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-          "score": 0.989799976348877,
+          "id": "https://openalex.org/T10215",
+          "display_name": "Semantic Web and Ontologies",
+          "score": 0.6209999918937683,
           "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
           },
           "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13193",
-          "display_name": "Geological Studies and Exploration",
-          "score": 0.9896000027656555,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1907",
-            "display_name": "Geology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
           },
           "domain": {
             "id": "https://openalex.org/domains/3",
@@ -27686,943 +27969,721 @@
       ],
       "keywords": [
         {
-          "id": "https://openalex.org/keywords/palygorskite",
-          "display_name": "Palygorskite",
-          "score": 0.9571780562400818
+          "id": "https://openalex.org/keywords/fortress",
+          "display_name": "Fortress (chess)",
+          "score": 0.6274878978729248
         },
         {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8180252313613892
+          "id": "https://openalex.org/keywords/the-internet",
+          "display_name": "The Internet",
+          "score": 0.5781334638595581
         },
         {
-          "id": "https://openalex.org/keywords/oil-shale",
-          "display_name": "Oil shale",
-          "score": 0.7920742034912109
+          "id": "https://openalex.org/keywords/peninsula",
+          "display_name": "Peninsula",
+          "score": 0.5071215629577637
         },
         {
-          "id": "https://openalex.org/keywords/clay-minerals",
-          "display_name": "Clay minerals",
-          "score": 0.6422271728515625
+          "id": "https://openalex.org/keywords/archaeology",
+          "display_name": "Archaeology",
+          "score": 0.5025033950805664
         },
         {
-          "id": "https://openalex.org/keywords/mineralogy",
-          "display_name": "Mineralogy",
-          "score": 0.5828375220298767
+          "id": "https://openalex.org/keywords/islam",
+          "display_name": "Islam",
+          "score": 0.4591599702835083
         },
         {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.5277462601661682
+          "id": "https://openalex.org/keywords/world-wide-web",
+          "display_name": "World Wide Web",
+          "score": 0.44246286153793335
         },
         {
-          "id": "https://openalex.org/keywords/illite",
-          "display_name": "Illite",
-          "score": 0.4964204430580139
+          "id": "https://openalex.org/keywords/geography",
+          "display_name": "Geography",
+          "score": 0.4185752868652344
         },
         {
-          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
-          "display_name": "Sedimentary depositional environment",
-          "score": 0.4591372311115265
+          "id": "https://openalex.org/keywords/history",
+          "display_name": "History",
+          "score": 0.38966765999794006
         },
         {
-          "id": "https://openalex.org/keywords/calcite",
-          "display_name": "Calcite",
-          "score": 0.448560506105423
+          "id": "https://openalex.org/keywords/ancient-history",
+          "display_name": "Ancient history",
+          "score": 0.3538864254951477
         },
         {
-          "id": "https://openalex.org/keywords/sepiolite",
-          "display_name": "Sepiolite",
-          "score": 0.43869078159332275
-        },
-        {
-          "id": "https://openalex.org/keywords/clastic-rock",
-          "display_name": "Clastic rock",
-          "score": 0.427884578704834
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.4231586456298828
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.12494134902954102
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.11761373281478882
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.2607865333557129
         }
       ],
       "concepts": [
         {
-          "id": "https://openalex.org/C2780873218",
-          "wikidata": "https://www.wikidata.org/wiki/Q414065",
-          "display_name": "Palygorskite",
-          "level": 3,
-          "score": 0.9571780562400818
+          "id": "https://openalex.org/C38035415",
+          "wikidata": "https://www.wikidata.org/wiki/Q1408838",
+          "display_name": "Fortress (chess)",
+          "level": 2,
+          "score": 0.6274878978729248
         },
         {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
+          "id": "https://openalex.org/C110875604",
+          "wikidata": "https://www.wikidata.org/wiki/Q75",
+          "display_name": "The Internet",
+          "level": 2,
+          "score": 0.5781334638595581
+        },
+        {
+          "id": "https://openalex.org/C123588078",
+          "wikidata": "https://www.wikidata.org/wiki/Q34763",
+          "display_name": "Peninsula",
+          "level": 2,
+          "score": 0.5071215629577637
+        },
+        {
+          "id": "https://openalex.org/C166957645",
+          "wikidata": "https://www.wikidata.org/wiki/Q23498",
+          "display_name": "Archaeology",
+          "level": 1,
+          "score": 0.5025033950805664
+        },
+        {
+          "id": "https://openalex.org/C4445939",
+          "wikidata": "https://www.wikidata.org/wiki/Q432",
+          "display_name": "Islam",
+          "level": 2,
+          "score": 0.4591599702835083
+        },
+        {
+          "id": "https://openalex.org/C136764020",
+          "wikidata": "https://www.wikidata.org/wiki/Q466",
+          "display_name": "World Wide Web",
+          "level": 1,
+          "score": 0.44246286153793335
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
           "level": 0,
-          "score": 0.8180252313613892
+          "score": 0.4185752868652344
         },
         {
-          "id": "https://openalex.org/C153127940",
-          "wikidata": "https://www.wikidata.org/wiki/Q221378",
-          "display_name": "Oil shale",
-          "level": 2,
-          "score": 0.7920742034912109
-        },
-        {
-          "id": "https://openalex.org/C40212044",
-          "wikidata": "https://www.wikidata.org/wiki/Q1799034",
-          "display_name": "Clay minerals",
-          "level": 2,
-          "score": 0.6422271728515625
-        },
-        {
-          "id": "https://openalex.org/C199289684",
-          "wikidata": "https://www.wikidata.org/wiki/Q83353",
-          "display_name": "Mineralogy",
-          "level": 1,
-          "score": 0.5828375220298767
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.5277462601661682
-        },
-        {
-          "id": "https://openalex.org/C2779429093",
-          "wikidata": "https://www.wikidata.org/wiki/Q1145804",
-          "display_name": "Illite",
-          "level": 3,
-          "score": 0.4964204430580139
-        },
-        {
-          "id": "https://openalex.org/C126753816",
-          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
-          "display_name": "Sedimentary depositional environment",
-          "level": 3,
-          "score": 0.4591372311115265
-        },
-        {
-          "id": "https://openalex.org/C2780191791",
-          "wikidata": "https://www.wikidata.org/wiki/Q171917",
-          "display_name": "Calcite",
-          "level": 2,
-          "score": 0.448560506105423
-        },
-        {
-          "id": "https://openalex.org/C2781151301",
-          "wikidata": "https://www.wikidata.org/wiki/Q414096",
-          "display_name": "Sepiolite",
-          "level": 3,
-          "score": 0.43869078159332275
-        },
-        {
-          "id": "https://openalex.org/C138170599",
-          "wikidata": "https://www.wikidata.org/wiki/Q612133",
-          "display_name": "Clastic rock",
-          "level": 3,
-          "score": 0.427884578704834
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
-          "level": 2,
-          "score": 0.4231586456298828
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
+          "id": "https://openalex.org/C95457728",
+          "wikidata": "https://www.wikidata.org/wiki/Q309",
+          "display_name": "History",
           "level": 0,
-          "score": 0.12494134902954102
+          "score": 0.38966765999794006
         },
         {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
+          "id": "https://openalex.org/C195244886",
+          "wikidata": "https://www.wikidata.org/wiki/Q41493",
+          "display_name": "Ancient history",
           "level": 1,
-          "score": 0.11761373281478882
+          "score": 0.3538864254951477
         },
         {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C206139338",
-          "wikidata": "https://www.wikidata.org/wiki/Q192355",
-          "display_name": "Raw material",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C178790620",
-          "wikidata": "https://www.wikidata.org/wiki/Q11351",
-          "display_name": "Organic chemistry",
-          "level": 1,
-          "score": 0
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.2607865333557129
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
         {
-          "id": "doi:10.29117/quarfe.2021.0024",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.29117/quarfe.2021.0024",
-          "pdf_url": "http://qspace.qu.edu.qa/bitstream/10576/24291/1/272.pdf",
-          "source": {
-            "id": "https://openalex.org/S4306505007",
-            "display_name": "Building Resilience at Universities: Role of Innovation and Entrepreneurship",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
+          "id": "doi:10.1109/icenco.2010.5720432",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1109/icenco.2010.5720432",
+          "pdf_url": null,
+          "source": null,
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
-          "raw_source_name": "Building Resilience at Universities: Role of Innovation and Entrepreneurship",
+          "raw_source_name": "2010 International Computer Engineering Conference (ICENCO)",
           "raw_type": "proceedings-article"
+        },
+        {
+          "id": "pmh:oai:qspace.qu.edu.qa:10576/39363",
+          "is_oa": false,
+          "landing_page_url": "http://hdl.handle.net/10576/39363",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400014",
+            "display_name": "Qatar University QSpace (Qatar University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I60342839",
+            "host_organization_name": "Qatar University",
+            "host_organization_lineage": [
+              "https://openalex.org/I60342839"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Conference Paper"
         }
       ],
-      "best_oa_location": {
-        "id": "doi:10.29117/quarfe.2021.0024",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.29117/quarfe.2021.0024",
-        "pdf_url": "http://qspace.qu.edu.qa/bitstream/10576/24291/1/272.pdf",
-        "source": {
-          "id": "https://openalex.org/S4306505007",
-          "display_name": "Building Resilience at Universities: Role of Innovation and Entrepreneurship",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Building Resilience at Universities: Role of Innovation and Entrepreneurship",
-        "raw_type": "proceedings-article"
-      },
+      "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.6800000071525574,
+          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities"
         }
       ],
-      "awards": [
-        {
-          "id": "https://openalex.org/G5162379661",
-          "display_name": null,
-          "funder_award_id": "NPRP12S-0305-190235",
-          "funder_id": "https://openalex.org/F4320309815",
-          "funder_display_name": "Qatar Foundation"
-        }
-      ],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320309815",
-          "display_name": "Qatar Foundation",
-          "ror": "https://ror.org/01cawbq05"
-        },
-        {
-          "id": "https://openalex.org/F4320321038",
-          "display_name": "Fonds National de la Recherche Luxembourg",
-          "ror": "https://ror.org/039z13y21"
-        }
-      ],
+      "awards": [],
+      "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "pdf": false,
+        "grobid_xml": false
       },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W3207158966.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W3207158966.grobid-xml"
-      },
-      "referenced_works_count": 0,
-      "referenced_works": [],
+      "content_urls": null,
+      "referenced_works_count": 4,
+      "referenced_works": [
+        "https://openalex.org/W87260541",
+        "https://openalex.org/W1569046001",
+        "https://openalex.org/W2182617487",
+        "https://openalex.org/W6603523545"
+      ],
       "related_works": [
-        "https://openalex.org/W2015228526",
-        "https://openalex.org/W2151619041",
-        "https://openalex.org/W1994683621",
-        "https://openalex.org/W2320108577",
-        "https://openalex.org/W1967988125",
-        "https://openalex.org/W2031618682",
-        "https://openalex.org/W2915339928",
-        "https://openalex.org/W162033718",
-        "https://openalex.org/W2134950261",
-        "https://openalex.org/W2152534407"
+        "https://openalex.org/W4200046715",
+        "https://openalex.org/W3122814651",
+        "https://openalex.org/W3043139147",
+        "https://openalex.org/W2358857680",
+        "https://openalex.org/W2297142206",
+        "https://openalex.org/W1976004044",
+        "https://openalex.org/W4285501477",
+        "https://openalex.org/W4312749085",
+        "https://openalex.org/W1988316353",
+        "https://openalex.org/W1983610085"
       ],
       "abstract_inverted_index": {
-        "5": [
-          175
-        ],
-        "20": [
-          177
-        ],
-        "Gas": [
-          0
-        ],
-        "shale": [
-          1,
-          19,
-          230
-        ],
-        "is": [
-          2,
-          121
-        ],
-        "the": [
-          3,
-          25,
-          29,
-          36,
-          47,
-          50,
-          79,
-          85,
-          92,
-          156,
-          167,
-          203,
-          207,
-          225,
-          240,
-          246,
-          254
-        ],
-        "future": [
-          4
-        ],
-        "hydrocarbon": [
-          5
-        ],
-        "reservoir": [
-          6
-        ],
-        "of": [
-          7,
-          17,
-          49,
-          169,
-          173,
-          227,
-          239
-        ],
-        "Qatar.": [
-          8
-        ],
-        "The": [
-          9,
-          123,
-          141,
-          186
-        ],
-        "Qatari": [
-          10
-        ],
-        "geologic": [
-          11,
-          22
-        ],
-        "section": [
-          12
-        ],
-        "has": [
-          13
-        ],
-        "had": [
-          14
-        ],
-        "important": [
-          15
-        ],
-        "successions": [
-          16
-        ],
-        "gas": [
-          18
-        ],
-        "at": [
-          20
-        ],
-        "different": [
-          21
-        ],
-        "times": [
-          23
-        ],
-        "including": [
-          24
-        ],
-        "Eocene": [
-          26
-        ],
-        "Midra": [
-          27,
-          51,
-          187,
-          208
-        ],
-        "shale,": [
-          28
-        ],
-        "Cretaceous": [
-          30
-        ],
-        "Ratawi": [
-          31
-        ],
-        "and": [
-          32,
-          35,
-          39,
-          55,
-          67,
-          75,
-          112,
-          133,
-          139,
-          181,
-          222,
-          265
-        ],
-        "Nahr": [
-          33
-        ],
-        "Umr,": [
-          34
-        ],
-        "Paleozoic": [
-          37
-        ],
-        "Qusaibah": [
-          38
-        ],
-        "Unayzah": [
-          40
-        ],
-        "formations.": [
-          41
-        ],
-        "Shale": [
-          42,
-          52,
-          188
-        ],
-        "samples": [
-          43,
-          70,
-          81
-        ],
-        "were": [
-          44,
-          60,
-          71
-        ],
-        "collected": [
-          45
-        ],
-        "from": [
-          46,
-          107,
-          160,
-          202,
-          253,
-          263
-        ],
-        "outcrops": [
-          48
-        ],
-        "in": [
-          53,
-          89,
-          147,
-          179,
-          184,
-          191
-        ],
-        "Dukhan": [
-          54
-        ],
-        "Umm": [
-          56
-        ],
-        "Bab": [
-          57
-        ],
-        "areas.": [
-          58
-        ],
-        "Samples": [
-          59
-        ],
-        "subjected": [
-          61,
-          198
-        ],
-        "to": [
-          62,
-          115,
-          155,
-          176,
-          199
-        ],
-        "geochemical": [
-          63
-        ],
-        "analyses": [
-          64
-        ],
-        "using": [
-          65
-        ],
-        "XRD": [
-          66
-        ],
-        "RXF.": [
-          68
-        ],
-        "Selected": [
-          69
-        ],
-        "examined": [
-          72
-        ],
-        "under": [
-          73,
-          215
-        ],
-        "SEM": [
-          74
-        ],
-        "TEM": [
-          76,
-          255
-        ],
-        "microscopes.": [
-          77
-        ],
-        "All": [
-          78
-        ],
-        "studied": [
-          80
-        ],
-        "contain": [
-          82
-        ],
-        "palygorskite": [
-          83,
-          105,
-          109,
-          117,
-          142,
-          174,
-          247
-        ],
-        "as": [
-          84,
-          96,
-          219,
-          249
-        ],
-        "main": [
-          86
-        ],
-        "mineral": [
-          87,
-          94
-        ],
-        "and,": [
-          88
-        ],
-        "some": [
-          90,
-          258
-        ],
-        "cases,": [
-          91
-        ],
-        "only": [
-          93
-        ],
-        "present,": [
-          95
-        ],
-        "indicated": [
-          97
-        ],
-        "by": [
-          98,
-          268
-        ],
-        "X-ray": [
-          99
-        ],
-        "diffraction": [
-          100
-        ],
-        "patterns.": [
-          101
-        ],
-        "XRF": [
-          102
-        ],
-        "analysis": [
-          103
-        ],
-        "shows": [
-          104
-        ],
-        "range": [
-          106
-        ],
-        "ideal": [
-          108
-        ],
-        "(equal": [
-          110
-        ],
-        "aluminum": [
-          111
-        ],
-        "magnesium": [
-          113,
-          120
-        ],
-        "content)": [
-          114
-        ],
-        "aluminous": [
-          116
-        ],
-        "where": [
-          118
-        ],
-        "no": [
-          119
-        ],
-        "recorded.": [
-          122
-        ],
-        "most": [
-          124
-        ],
-        "common": [
-          125
-        ],
-        "other": [
-          126,
-          134
-        ],
-        "minor": [
-          127
-        ],
-        "minerals": [
-          128
-        ],
-        "are": [
-          129,
-          242
-        ],
-        "halite,": [
-          130
-        ],
-        "quartz,": [
-          131
-        ],
-        "calcite,": [
-          132
-        ],
-        "clay": [
-          135
-        ],
-        "minerals:": [
-          136
-        ],
-        "illite,": [
-          137
-        ],
-        "smectite": [
-          138
-        ],
-        "sepiolite.": [
-          140
-        ],
-        "chain": [
-          143
-        ],
-        "phyllo": [
-          144
-        ],
-        "silicates": [
-          145
-        ],
-        "results": [
-          146
-        ],
-        "a": [
-          148,
-          192,
-          233
-        ],
-        "fibrous": [
-          149
-        ],
-        "habit": [
-          150
-        ],
-        "with": [
-          151,
-          245
-        ],
-        "channels": [
-          152,
-          243
-        ],
-        "running": [
+        "Qatar": [
+          0,
           153
         ],
-        "parallel": [
-          154
-        ],
-        "fiber": [
-          157
-        ],
-        "length.": [
-          158,
-          185
-        ],
-        "Images": [
-          159
-        ],
-        "Transmission": [
-          161
-        ],
-        "Electron": [
-          162
-        ],
-        "Microscopy": [
-          163
-        ],
-        "(TEM)": [
-          164
-        ],
-        "clearly": [
-          165
-        ],
-        "show": [
-          166
-        ],
-        "presence": [
-          168,
-          226
-        ],
-        "bundled": [
-          170
-        ],
-        "lath-like": [
-          171
-        ],
-        "crystals": [
-          172
-        ],
-        "nm": [
-          178
-        ],
-        "width": [
-          180
-        ],
-        "several": [
-          182
-        ],
-        "micrometers": [
-          183
-        ],
-        "was": [
-          189,
-          197
-        ],
-        "deposited": [
-          190
-        ],
-        "shallow": [
-          193
-        ],
-        "marine": [
-          194,
-          216
-        ],
-        "shelf": [
-          195
-        ],
-        "that": [
-          196,
-          212,
-          261
-        ],
-        "clastic": [
-          200
-        ],
-        "influx": [
-          201
-        ],
-        "nearby": [
-          204
-        ],
-        "land.": [
-          205
-        ],
-        "Although,": [
-          206
-        ],
-        "contains": [
-          209
-        ],
-        "many": [
-          210
-        ],
-        "elements": [
-          211
-        ],
-        "support": [
-          213
-        ],
-        "deposition": [
-          214
-        ],
-        "conditions": [
+        "is": [
+          1,
+          169,
+          183,
           217
         ],
-        "such": [
-          218
+        "located": [
+          2
         ],
-        "large": [
+        "in": [
+          3,
+          48,
+          97,
+          123
+        ],
+        "the": [
+          4,
+          7,
+          21,
+          27,
+          49,
+          81,
+          99,
+          103,
+          139,
+          149,
+          155,
+          173,
+          190,
+          201,
+          207
+        ],
+        "heart": [
+          5
+        ],
+        "of": [
+          6,
+          26,
+          35,
+          56,
+          68,
+          105,
+          141,
+          152
+        ],
+        "Arabian": [
+          8
+        ],
+        "Peninsula.": [
+          9
+        ],
+        "The": [
+          10,
+          146
+        ],
+        "country": [
+          11
+        ],
+        "possesses": [
+          12
+        ],
+        "many": [
+          13,
+          160
+        ],
+        "magnificent": [
+          14
+        ],
+        "historical": [
+          15
+        ],
+        "and": [
+          16,
+          24,
+          29,
+          45,
+          94,
+          143,
+          157,
+          163,
+          175,
+          204,
           220
         ],
-        "foraminifera": [
+        "archaeological": [
+          17
+        ],
+        "sites": [
+          18,
+          37,
+          71,
+          216
+        ],
+        "which": [
+          19
+        ],
+        "are": [
+          20,
+          38,
+          65,
+          136,
+          197
+        ],
+        "common": [
+          22
+        ],
+        "heritage": [
+          23
+        ],
+        "history": [
+          25,
+          151
+        ],
+        "Arab": [
+          28
+        ],
+        "Muslim": [
+          30
+        ],
+        "people.": [
+          31
+        ],
+        "However,": [
+          32
+        ],
+        "a": [
+          33,
+          54,
+          57
+        ],
+        "little": [
+          34
+        ],
+        "these": [
+          36,
+          106,
+          114,
+          215
+        ],
+        "known": [
+          39,
+          137
+        ],
+        "to": [
+          40,
+          117,
+          126,
+          138,
+          154,
+          171,
+          185,
+          206
+        ],
+        "Qatari": [
+          41,
+          134,
+          192
+        ],
+        "new": [
+          42,
+          46,
+          161
+        ],
+        "generations,": [
+          43
+        ],
+        "tourists": [
+          44
+        ],
+        "residents": [
+          47
+        ],
+        "country.": [
+          50
+        ],
+        "Umm": [
+          51
+        ],
+        "Salal": [
+          52
+        ],
+        "Mohammed,": [
+          53
+        ],
+        "ruin": [
+          55
+        ],
+        "19thCentury": [
+          58
+        ],
+        "Fort,": [
+          59
+        ],
+        "Qalit": [
+          60
+        ],
+        "Marir": [
+          61
+        ],
+        "Fortress": [
+          62
+        ],
+        "(Al": [
+          63
+        ],
+        "Zubara)": [
+          64
+        ],
+        "just": [
+          66
+        ],
+        "some": [
+          67,
+          87
+        ],
+        "those": [
+          69
+        ],
+        "important": [
+          70
+        ],
+        "[7].": [
+          72
+        ],
+        "At": [
+          73
+        ],
+        "Al": [
+          74
+        ],
+        "Khor": [
+          75
+        ],
+        "monuments": [
+          76,
+          116
+        ],
+        "archaeologists": [
+          77
+        ],
+        "found": [
+          78
+        ],
+        "artifacts": [
+          79
+        ],
+        "from": [
+          80,
+          91
+        ],
+        "Islamic": [
+          82
+        ],
+        "Period": [
+          83
+        ],
+        "(900-1400).": [
+          84
+        ],
+        "By": [
+          85
+        ],
+        "asking": [
+          86
+        ],
+        "people": [
+          88
+        ],
+        "selected": [
+          89
+        ],
+        "randomly": [
+          90
+        ],
+        "different": [
+          92
+        ],
+        "malls": [
+          93
+        ],
+        "shop": [
+          95
+        ],
+        "centers": [
+          96
+        ],
+        "Qatar,": [
+          98
+        ],
+        "majority": [
+          100,
+          140
+        ],
+        "ignore": [
+          101
+        ],
+        "completely": [
+          102
+        ],
+        "existence": [
+          104
+        ],
+        "archeological": [
+          107
+        ],
+        "sites.": [
+          108,
+          193
+        ],
+        "Therefore,": [
+          109
+        ],
+        "we": [
+          110
+        ],
+        "must": [
+          111
+        ],
+        "not": [
+          112
+        ],
+        "allow": [
+          113
+        ],
+        "extraordinary": [
+          115
+        ],
+        "sink": [
+          118
+        ],
+        "into": [
+          119
+        ],
+        "oblivion.": [
+          120
+        ],
+        "We": [
+          121
+        ],
+        "aim": [
+          122
+        ],
+        "this": [
+          124
+        ],
+        "work": [
+          125
+        ],
+        "build": [
+          127
+        ],
+        "an": [
+          128
+        ],
+        "interactive": [
+          129,
+          195
+        ],
+        "web": [
+          130
+        ],
+        "portal": [
+          131,
+          147,
+          174,
+          203
+        ],
+        "ensuring": [
+          132
+        ],
+        "that": [
+          133
+        ],
+        "antiquities": [
+          135
+        ],
+        "inhabitants": [
+          142
+        ],
+        "international": [
+          144
+        ],
+        "tourists.": [
+          145,
+          164
+        ],
+        "introduces": [
+          148
+        ],
+        "ancient": [
+          150,
+          191
+        ],
+        "world": [
+          156
+        ],
+        "will": [
+          158
+        ],
+        "attract": [
+          159
+        ],
+        "visitors": [
+          162
+        ],
+        "A": [
+          165,
+          179
+        ],
+        "content": [
+          166
+        ],
+        "management": [
+          167
+        ],
+        "system": [
+          168
+        ],
+        "used": [
+          170,
+          184
+        ],
+        "develop": [
+          172,
+          186
+        ],
+        "manage": [
+          176
+        ],
+        "its": [
+          177
+        ],
+        "contents.": [
+          178
+        ],
+        "virtual": [
+          180,
+          187
+        ],
+        "tour": [
+          181
+        ],
+        "software": [
+          182
+        ],
+        "tours": [
+          188,
+          196
+        ],
+        "about": [
+          189,
+          214
+        ],
+        "These": [
+          194
+        ],
+        "deployed": [
+          198,
           221
         ],
-        "shark": [
-          223
+        "online": [
+          199
         ],
-        "teeth,": [
-          224
+        "through": [
+          200
         ],
-        "fully": [
-          228
+        "Web": [
+          202
+        ],
+        "available": [
+          205
+        ],
+        "Internet": [
+          208
+        ],
+        "Surfers.": [
+          209
+        ],
+        "An": [
+          210
+        ],
+        "informative": [
+          211
+        ],
+        "question-answer": [
+          212
+        ],
+        "tool": [
+          213
+        ],
+        "also": [
+          218
         ],
         "developed": [
-          229
+          219
         ],
-        "horizons": [
-          231
-        ],
-        "indicate": [
-          232
-        ],
-        "mixed": [
-          234
-        ],
-        "marine-continental": [
-          235
-        ],
-        "depositional": [
-          236
-        ],
-        "setting.": [
-          237
-        ],
-        "Most": [
-          238
-        ],
-        "micropores": [
-          241
-        ],
-        "associated": [
-          244
-        ],
-        "laths": [
-          248
-        ],
-        "can": [
-          250
-        ],
-        "be": [
-          251
-        ],
-        "seen": [
-          252
-        ],
-        "images": [
-          256
-        ],
-        "or": [
-          257
-        ],
-        "dissolution": [
-          259,
-          267
-        ],
-        "pores": [
-          260
-        ],
-        "resulted": [
-          262
-        ],
-        "halite": [
-          264
-        ],
-        "gypsum": [
-          266
-        ],
-        "meteoric": [
-          269
-        ],
-        "water.": [
-          270
+        "online.": [
+          222
         ]
       },
       "counts_by_year": [
         {
-          "year": 2025,
+          "year": 2017,
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-07-29T09:40:50.615796",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -28864,10 +28925,14 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": null,
+      "fwci": 0,
       "has_fulltext": true,
       "cited_by_count": 0,
-      "citation_normalized_percentile": null,
+      "citation_normalized_percentile": {
+        "value": 0.37603578,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
       "cited_by_percentile_year": null,
       "biblio": {
         "volume": null,
@@ -29285,9 +29350,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -29897,7 +29962,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-07-29T14:22:42.915294",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30049,10 +30114,14 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": null,
+      "fwci": 0,
       "has_fulltext": true,
       "cited_by_count": 0,
-      "citation_normalized_percentile": null,
+      "citation_normalized_percentile": {
+        "value": 0.21082834,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
       "cited_by_percentile_year": null,
       "biblio": {
         "volume": null,
@@ -31039,7 +31108,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-14T23:27:15.235271",
+      "updated_date": "2026-07-29T14:22:42.915294",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -31634,10 +31703,14 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": null,
+      "fwci": 0,
       "has_fulltext": true,
       "cited_by_count": 0,
-      "citation_normalized_percentile": null,
+      "citation_normalized_percentile": {
+        "value": 0.21257485,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
       "cited_by_percentile_year": null,
       "biblio": {
         "volume": null,
@@ -31868,9 +31941,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
+          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.41999998688697815
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -32390,7 +32463,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-14T23:27:15.235271",
+      "updated_date": "2026-07-29T14:22:42.915294",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -32676,10 +32749,14 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": null,
+      "fwci": 0,
       "has_fulltext": true,
       "cited_by_count": 0,
-      "citation_normalized_percentile": null,
+      "citation_normalized_percentile": {
+        "value": 0.2240519,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
       "cited_by_percentile_year": null,
       "biblio": {
         "volume": null,
@@ -33015,9 +33092,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -33440,7 +33517,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-14T23:27:15.235271",
+      "updated_date": "2026-07-29T14:22:42.915294",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -34057,9 +34134,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -34603,9 +34680,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Zero hunger",
+          "score": 0.699999988079071,
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.699999988079071
+          "display_name": "Zero hunger"
         }
       ],
       "awards": [],
@@ -34817,10 +34894,14 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": null,
+      "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 0,
-      "citation_normalized_percentile": null,
+      "citation_normalized_percentile": {
+        "value": 0.28205969,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
       "cited_by_percentile_year": null,
       "biblio": {
         "volume": null,
@@ -35032,7 +35113,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-07-14T23:27:15.235271",
+      "updated_date": "2026-07-29T14:22:42.915294",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -35185,10 +35266,14 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": null,
+      "fwci": 0,
       "has_fulltext": true,
       "cited_by_count": 0,
-      "citation_normalized_percentile": null,
+      "citation_normalized_percentile": {
+        "value": 0.61873921,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
       "cited_by_percentile_year": null,
       "biblio": {
         "volume": null,
@@ -35523,7 +35608,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-07-14T23:27:15.235271",
+      "updated_date": "2026-07-29T14:22:42.915294",
       "created_date": "2025-10-10T00:00:00"
     },
     {
