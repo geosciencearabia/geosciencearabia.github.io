@@ -4967,11 +4967,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 1.1943,
+      "fwci": 1.1948,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.77565427,
+        "value": 0.77567129,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5583,11 +5583,11 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 1.0388,
+      "fwci": 1.0391,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.69238714,
+        "value": 0.69247431,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5984,9 +5984,9 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.3906/yer-1206-2",
-        "is_oa": true,
+        "is_oa": false,
         "landing_page_url": "https://doi.org/10.3906/yer-1206-2",
-        "pdf_url": "https://doi.org/10.3906/yer-1206-2",
+        "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S163601337",
           "display_name": "TURKISH JOURNAL OF EARTH SCIENCES",
@@ -6018,9 +6018,9 @@
         "doaj"
       ],
       "open_access": {
-        "is_oa": true,
-        "oa_status": "bronze",
-        "oa_url": "https://doi.org/10.3906/yer-1206-2",
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
         "any_repository_has_fulltext": false
       },
       "authorships": [
@@ -6092,11 +6092,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7234,
+      "fwci": 0.7237,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.73721794,
+        "value": 0.73722366,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6443,9 +6443,9 @@
       "locations": [
         {
           "id": "doi:10.3906/yer-1206-2",
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://doi.org/10.3906/yer-1206-2",
-          "pdf_url": "https://doi.org/10.3906/yer-1206-2",
+          "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S163601337",
             "display_name": "TURKISH JOURNAL OF EARTH SCIENCES",
@@ -6530,36 +6530,7 @@
           "raw_type": "info:eu-repo/semantics/article"
         }
       ],
-      "best_oa_location": {
-        "id": "doi:10.3906/yer-1206-2",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.3906/yer-1206-2",
-        "pdf_url": "https://doi.org/10.3906/yer-1206-2",
-        "source": {
-          "id": "https://openalex.org/S163601337",
-          "display_name": "TURKISH JOURNAL OF EARTH SCIENCES",
-          "issn_l": "1300-0985",
-          "issn": [
-            "1300-0985",
-            "1303-619X"
-          ],
-          "is_oa": false,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "TURKISH JOURNAL OF EARTH SCIENCES",
-        "raw_type": "journal-article"
-      },
+      "best_oa_location": null,
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
@@ -7129,7 +7100,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-19T07:52:34.831488",
+      "updated_date": "2026-07-31T08:31:51.225901",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -10500,12 +10471,13 @@
           "is_corresponding": true,
           "raw_author_name": "Abdulaziz A. Al-Laboun",
           "raw_affiliation_strings": [],
+          "raw_orcid": null,
           "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 1,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5061320565"
       ],
@@ -10516,7 +10488,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.20289855,
+        "value": 0.20555303,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11001,7 +10973,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-07-31T08:31:51.225901",
       "created_date": "2025-10-10T00:00:00"
     },
     {
