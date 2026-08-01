@@ -252,7 +252,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.000179,
+        "value": 0.0001789,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -286,7 +286,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0001337,
+        "value": 0.0001336,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -320,7 +320,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.000048,
+        "value": 0.0000479,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -508,7 +508,7 @@
     ],
     "block_key": "m el-ghali",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044806143",
-    "updated_date": "2026-07-28T12:17:01",
+    "updated_date": "2026-07-31T12:17:18",
     "created_date": "2019-12-13T00:00:00"
   },
   "works": [
@@ -1278,16 +1278,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 108,
@@ -2326,9 +2326,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5699999928474426
+          "score": 0.5699999928474426,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -2340,8 +2340,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 104,
@@ -3179,9 +3179,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5199999809265137
+          "score": 0.5199999809265137,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -3230,8 +3230,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -4061,9 +4061,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.800000011920929
+          "score": 0.800000011920929,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -4080,8 +4080,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -4922,9 +4922,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -4941,8 +4941,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 98,
@@ -5523,16 +5523,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -6510,16 +6510,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -7946,16 +7946,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.41999998688697815
+          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -9155,9 +9155,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -9179,8 +9179,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -9855,16 +9855,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -10845,9 +10845,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [
@@ -10879,8 +10879,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 108,
@@ -11677,16 +11677,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5
+          "score": 0.5,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -13280,16 +13280,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 69,
@@ -14264,16 +14264,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -14958,11 +14958,11 @@
         "value_usd": 4430
       },
       "apc_paid": null,
-      "fwci": 15.7993,
+      "fwci": 15.782,
       "has_fulltext": true,
       "cited_by_count": 26,
       "citation_normalized_percentile": {
-        "value": 0.99132818,
+        "value": 0.99133052,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -15564,9 +15564,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -15578,6 +15578,13 @@
           "funder_display_name": "National Aeronautics and Space Administration"
         },
         {
+          "id": "https://openalex.org/G2030473123",
+          "display_name": null,
+          "funder_award_id": "2011_01_0705",
+          "funder_id": "https://openalex.org/F4320321504",
+          "funder_display_name": "Carlsbergfondet"
+        },
+        {
           "id": "https://openalex.org/G2049902789",
           "display_name": null,
           "funder_award_id": "611878",
@@ -15585,23 +15592,16 @@
           "funder_display_name": "Simons Foundation"
         },
         {
-          "id": "https://openalex.org/G6010135884",
+          "id": "https://openalex.org/G2420253477",
           "display_name": null,
-          "funder_award_id": "DNRF53",
+          "funder_award_id": "Grant DNRF 53",
           "funder_id": "https://openalex.org/F4320320943",
           "funder_display_name": "Danmarks Grundforskningsfond"
         },
         {
-          "id": "https://openalex.org/G7227419104",
+          "id": "https://openalex.org/G593508999",
           "display_name": null,
-          "funder_award_id": "2011‐01‐0705",
-          "funder_id": "https://openalex.org/F4320321504",
-          "funder_display_name": "Carlsbergfondet"
-        },
-        {
-          "id": "https://openalex.org/G8832037051",
-          "display_name": null,
-          "funder_award_id": "Grant DNRF53",
+          "funder_award_id": "DNRF 53",
           "funder_id": "https://openalex.org/F4320320943",
           "funder_display_name": "Danmarks Grundforskningsfond"
         }
@@ -15639,8 +15639,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -16321,7 +16321,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-08-01T09:00:35.917206",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16945,11 +16945,11 @@
         "value_usd": 3760
       },
       "apc_paid": null,
-      "fwci": 3.7339,
+      "fwci": 3.7353,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.94433371,
+        "value": 0.94435748,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -17201,12 +17201,19 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
+        {
+          "id": "https://openalex.org/G2720427022",
+          "display_name": null,
+          "funder_award_id": "015LC0-363",
+          "funder_id": "https://openalex.org/F4320329394",
+          "funder_display_name": "Yayasan UTP"
+        },
         {
           "id": "https://openalex.org/G6089876695",
           "display_name": null,
@@ -17220,13 +17227,6 @@
           "funder_award_id": "FRGS/1/2019/STG09/UTP/03/1",
           "funder_id": "https://openalex.org/F4320327296",
           "funder_display_name": "Ministry of Education – Kingdom of Saudi Arabi"
-        },
-        {
-          "id": "https://openalex.org/G8717389126",
-          "display_name": null,
-          "funder_award_id": "015LC0‐363",
-          "funder_id": "https://openalex.org/F4320329394",
-          "funder_display_name": "Yayasan UTP"
         }
       ],
       "funders": [
@@ -17242,8 +17242,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 91,
@@ -17926,7 +17926,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-27T08:26:11.824852",
+      "updated_date": "2026-08-01T09:00:35.917206",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18304,11 +18304,11 @@
         "currency": "USD",
         "value_usd": 1450
       },
-      "fwci": 1.4977,
+      "fwci": 1.4983,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.78746297,
+        "value": 0.78755454,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18680,9 +18680,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -18712,8 +18712,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -19327,7 +19327,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-08-01T09:00:35.917206",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19664,11 +19664,11 @@
         "value_usd": 1450
       },
       "apc_paid": null,
-      "fwci": 2.4945,
+      "fwci": 2.4901,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.89100037,
+        "value": 0.89056262,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19958,8 +19958,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -21167,16 +21167,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6899999976158142
+          "score": 0.6899999976158142,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -21816,8 +21816,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 101,
@@ -22478,8 +22478,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -23168,9 +23168,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -23187,8 +23187,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 101,
@@ -24084,9 +24084,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -24103,8 +24103,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 85,
@@ -24948,8 +24948,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -25685,16 +25685,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -26370,8 +26370,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -27291,16 +27291,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 15,
@@ -28688,16 +28688,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7400000095367432
+          "score": 0.7400000095367432,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 114,
@@ -29247,11 +29247,11 @@
         "value_usd": 3760
       },
       "apc_paid": null,
-      "fwci": 1.4924,
+      "fwci": 1.4918,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.77977005,
+        "value": 0.77967958,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29620,16 +29620,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5299999713897705
+          "score": 0.5299999713897705,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 111,
@@ -31108,16 +31108,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7900000214576721
+          "score": 0.7900000214576721,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -31936,8 +31936,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -32815,9 +32815,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6399999856948853
+          "score": 0.6399999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -32849,8 +32849,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -34122,9 +34122,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -34156,8 +34156,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -35075,8 +35075,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -35518,11 +35518,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5352,
+      "fwci": 0.5342,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.56986717,
+        "value": 0.56953621,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -35808,9 +35808,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.6700000166893005
+          "score": 0.6700000166893005,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [
@@ -35842,8 +35842,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -36389,16 +36389,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5099999904632568
+          "score": 0.5099999904632568,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 94,
@@ -37056,16 +37056,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4395117463.pdf",
@@ -38206,8 +38206,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4409325706.pdf",
@@ -39512,9 +39512,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -39526,8 +39526,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 76,
@@ -39633,1311 +39633,6 @@
         }
       ],
       "updated_date": "2026-06-15T08:34:33.830935",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4320057911",
-      "doi": "https://doi.org/10.15446/esrj.v26n3.96985",
-      "title": "Life on Mars (LoMars): History, advances, current research, and perspectives",
-      "display_name": "Life on Mars (LoMars): History, advances, current research, and perspectives",
-      "publication_year": 2022,
-      "publication_date": "2022-11-29",
-      "ids": {
-        "openalex": "https://openalex.org/W4320057911",
-        "doi": "https://doi.org/10.15446/esrj.v26n3.96985"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.15446/esrj.v26n3.96985",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.15446/esrj.v26n3.96985",
-        "pdf_url": "https://revistas.unal.edu.co/index.php/esrj/article/download/96985/85316",
-        "source": {
-          "id": "https://openalex.org/S123144898",
-          "display_name": "Earth Sciences Research Journal",
-          "issn_l": "1794-6190",
-          "issn": [
-            "1794-6190",
-            "2339-3459"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310318911",
-          "host_organization_name": "National University of Colombia",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310318911"
-          ],
-          "host_organization_lineage_names": [
-            "National University of Colombia"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Earth Sciences Research Journal",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "diamond",
-        "oa_url": "https://revistas.unal.edu.co/index.php/esrj/article/download/96985/85316",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5044314407",
-            "display_name": "Arshad Ali",
-            "orcid": "https://orcid.org/0000-0002-7087-0269"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I47818738",
-              "display_name": "Sultan Qaboos University",
-              "ror": "https://ror.org/04wq8zb47",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Arshad Ali",
-          "raw_affiliation_strings": [
-            "Sultan Qaboos University"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-7087-0269",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Sultan Qaboos University",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5040949198",
-            "display_name": "Muhammad Shafiq Shahid",
-            "orcid": "https://orcid.org/0000-0002-3550-0000"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I47818738",
-              "display_name": "Sultan Qaboos University",
-              "ror": "https://ror.org/04wq8zb47",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Muhammad S. Shahid",
-          "raw_affiliation_strings": [
-            "Department of Plant Sciences, College of Agricultural and Marine Sciences, Sultan Qaboos University (SQU), Al-Khod, Muscat 123, Oman"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Plant Sciences, College of Agricultural and Marine Sciences, Sultan Qaboos University (SQU), Al-Khod, Muscat 123, Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5091861514",
-            "display_name": "Iffat Jabeen",
-            "orcid": "https://orcid.org/0000-0001-6138-654X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2801508065",
-              "display_name": "Society of Economic Geologists",
-              "ror": "https://ror.org/02cb1bz50",
-              "country_code": "US",
-              "type": "other",
-              "lineage": [
-                "https://openalex.org/I2801508065"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Iffat Jabeen",
-          "raw_affiliation_strings": [
-            "Retired Geologist"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Retired Geologist",
-              "institution_ids": [
-                "https://openalex.org/I2801508065"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5044806143",
-            "display_name": "Mohamed A. K. El‐Ghali",
-            "orcid": "https://orcid.org/0000-0002-7850-3471"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I47818738",
-              "display_name": "Sultan Qaboos University",
-              "ror": "https://ror.org/04wq8zb47",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohamed A.K. El-Ghali",
-          "raw_affiliation_strings": [
-            "Earth Sciences Research Centre, Sultan Qaboos University, Al Khod, Muscat 123, Oman"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Earth Sciences Research Centre, Sultan Qaboos University, Al Khod, Muscat 123, Oman",
-              "institution_ids": [
-                "https://openalex.org/I47818738"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 4,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.1548,
-      "has_fulltext": true,
-      "cited_by_count": 2,
-      "citation_normalized_percentile": {
-        "value": 0.62145035,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 91,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "26",
-        "issue": "3",
-        "first_page": "221",
-        "last_page": "230"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10406",
-        "display_name": "Planetary Science and Exploration",
-        "score": 0.9998999834060669,
-        "subfield": {
-          "id": "https://openalex.org/subfields/3103",
-          "display_name": "Astronomy and Astrophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/31",
-          "display_name": "Physics and Astronomy"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10406",
-          "display_name": "Planetary Science and Exploration",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/3103",
-            "display_name": "Astronomy and Astrophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/31",
-            "display_name": "Physics and Astronomy"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10325",
-          "display_name": "Astro and Planetary Science",
-          "score": 0.9995999932289124,
-          "subfield": {
-            "id": "https://openalex.org/subfields/3103",
-            "display_name": "Astronomy and Astrophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/31",
-            "display_name": "Physics and Astronomy"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12788",
-          "display_name": "Space Science and Extraterrestrial Life",
-          "score": 0.996999979019165,
-          "subfield": {
-            "id": "https://openalex.org/subfields/3103",
-            "display_name": "Astronomy and Astrophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/31",
-            "display_name": "Physics and Astronomy"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/mars-exploration-program",
-          "display_name": "Mars Exploration Program",
-          "score": 0.8564486503601074
-        },
-        {
-          "id": "https://openalex.org/keywords/martian",
-          "display_name": "Martian",
-          "score": 0.7886874675750732
-        },
-        {
-          "id": "https://openalex.org/keywords/astrobiology",
-          "display_name": "Astrobiology",
-          "score": 0.638195812702179
-        },
-        {
-          "id": "https://openalex.org/keywords/scopus",
-          "display_name": "Scopus",
-          "score": 0.5365803837776184
-        },
-        {
-          "id": "https://openalex.org/keywords/space-research",
-          "display_name": "Space research",
-          "score": 0.5011255741119385
-        },
-        {
-          "id": "https://openalex.org/keywords/space-exploration",
-          "display_name": "Space exploration",
-          "score": 0.45694857835769653
-        },
-        {
-          "id": "https://openalex.org/keywords/aeronautics",
-          "display_name": "Aeronautics",
-          "score": 0.4398711919784546
-        },
-        {
-          "id": "https://openalex.org/keywords/extraterrestrial-life",
-          "display_name": "Extraterrestrial life",
-          "score": 0.41377460956573486
-        },
-        {
-          "id": "https://openalex.org/keywords/library-science",
-          "display_name": "Library science",
-          "score": 0.35812264680862427
-        },
-        {
-          "id": "https://openalex.org/keywords/history",
-          "display_name": "History",
-          "score": 0.3495032787322998
-        },
-        {
-          "id": "https://openalex.org/keywords/meteorology",
-          "display_name": "Meteorology",
-          "score": 0.32621273398399353
-        },
-        {
-          "id": "https://openalex.org/keywords/operations-research",
-          "display_name": "Operations research",
-          "score": 0.32102829217910767
-        },
-        {
-          "id": "https://openalex.org/keywords/political-science",
-          "display_name": "Political science",
-          "score": 0.30016809701919556
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.2722969949245453
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.26481354236602783
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.21260949969291687
-        },
-        {
-          "id": "https://openalex.org/keywords/aerospace-engineering",
-          "display_name": "Aerospace engineering",
-          "score": 0.16227266192436218
-        },
-        {
-          "id": "https://openalex.org/keywords/physics",
-          "display_name": "Physics",
-          "score": 0.13050323724746704
-        },
-        {
-          "id": "https://openalex.org/keywords/law",
-          "display_name": "Law",
-          "score": 0.08944347500801086
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C83260615",
-          "wikidata": "https://www.wikidata.org/wiki/Q6773121",
-          "display_name": "Mars Exploration Program",
-          "level": 2,
-          "score": 0.8564486503601074
-        },
-        {
-          "id": "https://openalex.org/C2778600265",
-          "wikidata": "https://www.wikidata.org/wiki/Q913850",
-          "display_name": "Martian",
-          "level": 3,
-          "score": 0.7886874675750732
-        },
-        {
-          "id": "https://openalex.org/C87355193",
-          "wikidata": "https://www.wikidata.org/wiki/Q411",
-          "display_name": "Astrobiology",
-          "level": 1,
-          "score": 0.638195812702179
-        },
-        {
-          "id": "https://openalex.org/C83867959",
-          "wikidata": "https://www.wikidata.org/wiki/Q371467",
-          "display_name": "Scopus",
-          "level": 3,
-          "score": 0.5365803837776184
-        },
-        {
-          "id": "https://openalex.org/C92851284",
-          "wikidata": "https://www.wikidata.org/wiki/Q15706425",
-          "display_name": "Space research",
-          "level": 2,
-          "score": 0.5011255741119385
-        },
-        {
-          "id": "https://openalex.org/C104060986",
-          "wikidata": "https://www.wikidata.org/wiki/Q180046",
-          "display_name": "Space exploration",
-          "level": 2,
-          "score": 0.45694857835769653
-        },
-        {
-          "id": "https://openalex.org/C178802073",
-          "wikidata": "https://www.wikidata.org/wiki/Q8421",
-          "display_name": "Aeronautics",
-          "level": 1,
-          "score": 0.4398711919784546
-        },
-        {
-          "id": "https://openalex.org/C98536072",
-          "wikidata": "https://www.wikidata.org/wiki/Q181508",
-          "display_name": "Extraterrestrial life",
-          "level": 2,
-          "score": 0.41377460956573486
-        },
-        {
-          "id": "https://openalex.org/C161191863",
-          "wikidata": "https://www.wikidata.org/wiki/Q199655",
-          "display_name": "Library science",
-          "level": 1,
-          "score": 0.35812264680862427
-        },
-        {
-          "id": "https://openalex.org/C95457728",
-          "wikidata": "https://www.wikidata.org/wiki/Q309",
-          "display_name": "History",
-          "level": 0,
-          "score": 0.3495032787322998
-        },
-        {
-          "id": "https://openalex.org/C153294291",
-          "wikidata": "https://www.wikidata.org/wiki/Q25261",
-          "display_name": "Meteorology",
-          "level": 1,
-          "score": 0.32621273398399353
-        },
-        {
-          "id": "https://openalex.org/C42475967",
-          "wikidata": "https://www.wikidata.org/wiki/Q194292",
-          "display_name": "Operations research",
-          "level": 1,
-          "score": 0.32102829217910767
-        },
-        {
-          "id": "https://openalex.org/C17744445",
-          "wikidata": "https://www.wikidata.org/wiki/Q36442",
-          "display_name": "Political science",
-          "level": 0,
-          "score": 0.30016809701919556
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.2722969949245453
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.26481354236602783
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.21260949969291687
-        },
-        {
-          "id": "https://openalex.org/C146978453",
-          "wikidata": "https://www.wikidata.org/wiki/Q3798668",
-          "display_name": "Aerospace engineering",
-          "level": 1,
-          "score": 0.16227266192436218
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0.13050323724746704
-        },
-        {
-          "id": "https://openalex.org/C199539241",
-          "wikidata": "https://www.wikidata.org/wiki/Q7748",
-          "display_name": "Law",
-          "level": 1,
-          "score": 0.08944347500801086
-        },
-        {
-          "id": "https://openalex.org/C2779473830",
-          "wikidata": "https://www.wikidata.org/wiki/Q1540899",
-          "display_name": "MEDLINE",
-          "level": 2,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.15446/esrj.v26n3.96985",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.15446/esrj.v26n3.96985",
-          "pdf_url": "https://revistas.unal.edu.co/index.php/esrj/article/download/96985/85316",
-          "source": {
-            "id": "https://openalex.org/S123144898",
-            "display_name": "Earth Sciences Research Journal",
-            "issn_l": "1794-6190",
-            "issn": [
-              "1794-6190",
-              "2339-3459"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310318911",
-            "host_organization_name": "National University of Colombia",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310318911"
-            ],
-            "host_organization_lineage_names": [
-              "National University of Colombia"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Earth Sciences Research Journal",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:www.revistas.unal.edu.co:article/96985",
-          "is_oa": true,
-          "landing_page_url": "https://revistas.unal.edu.co/index.php/esrj/article/view/96985",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4377196295",
-            "display_name": "Magazine Portal Bibliotech Digital (Universidad Nacional de Colombia)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I36243813",
-            "host_organization_name": "Universidad Nacional de Colombia",
-            "host_organization_lineage": [
-              "https://openalex.org/I36243813"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Earth Sciences Research Journal; Vol. 26 No. 3 (2022); 221-230",
-          "raw_type": "info:eu-repo/semantics/article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.15446/esrj.v26n3.96985",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.15446/esrj.v26n3.96985",
-        "pdf_url": "https://revistas.unal.edu.co/index.php/esrj/article/download/96985/85316",
-        "source": {
-          "id": "https://openalex.org/S123144898",
-          "display_name": "Earth Sciences Research Journal",
-          "issn_l": "1794-6190",
-          "issn": [
-            "1794-6190",
-            "2339-3459"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310318911",
-          "host_organization_name": "National University of Colombia",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310318911"
-          ],
-          "host_organization_lineage_names": [
-            "National University of Colombia"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Earth Sciences Research Journal",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/9",
-          "display_name": "Industry, innovation and infrastructure",
-          "score": 0.6299999952316284
-        }
-      ],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320306101",
-          "display_name": "National Aeronautics and Space Administration",
-          "ror": "https://ror.org/027ka1x80"
-        },
-        {
-          "id": "https://openalex.org/F4320322573",
-          "display_name": "Sultan Qaboos University",
-          "ror": "https://ror.org/04wq8zb47"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W4320057911.pdf"
-      },
-      "referenced_works_count": 46,
-      "referenced_works": [
-        "https://openalex.org/W38336971",
-        "https://openalex.org/W1968713120",
-        "https://openalex.org/W1983550241",
-        "https://openalex.org/W1993643777",
-        "https://openalex.org/W1993845088",
-        "https://openalex.org/W2005203120",
-        "https://openalex.org/W2012567689",
-        "https://openalex.org/W2013989794",
-        "https://openalex.org/W2018523785",
-        "https://openalex.org/W2024430005",
-        "https://openalex.org/W2026908727",
-        "https://openalex.org/W2031445615",
-        "https://openalex.org/W2037925493",
-        "https://openalex.org/W2039368209",
-        "https://openalex.org/W2050731935",
-        "https://openalex.org/W2081802593",
-        "https://openalex.org/W2086277408",
-        "https://openalex.org/W2090934532",
-        "https://openalex.org/W2094900009",
-        "https://openalex.org/W2095459354",
-        "https://openalex.org/W2100973511",
-        "https://openalex.org/W2120918440",
-        "https://openalex.org/W2136457070",
-        "https://openalex.org/W2148965904",
-        "https://openalex.org/W2152001765",
-        "https://openalex.org/W2166581978",
-        "https://openalex.org/W2170615758",
-        "https://openalex.org/W2342317271",
-        "https://openalex.org/W2424242487",
-        "https://openalex.org/W2486654687",
-        "https://openalex.org/W2513043765",
-        "https://openalex.org/W2519026232",
-        "https://openalex.org/W2590741408",
-        "https://openalex.org/W2611394524",
-        "https://openalex.org/W2624669186",
-        "https://openalex.org/W2730344541",
-        "https://openalex.org/W2730981050",
-        "https://openalex.org/W2755950973",
-        "https://openalex.org/W2784048515",
-        "https://openalex.org/W2884720674",
-        "https://openalex.org/W2921079363",
-        "https://openalex.org/W2972615627",
-        "https://openalex.org/W3005401259",
-        "https://openalex.org/W4200445662",
-        "https://openalex.org/W4238632320",
-        "https://openalex.org/W6632465098"
-      ],
-      "related_works": [
-        "https://openalex.org/W4251494107",
-        "https://openalex.org/W1973955463",
-        "https://openalex.org/W4387167104",
-        "https://openalex.org/W1539801526",
-        "https://openalex.org/W2077684114",
-        "https://openalex.org/W3131249533",
-        "https://openalex.org/W4205727143",
-        "https://openalex.org/W1668810364",
-        "https://openalex.org/W2030270789",
-        "https://openalex.org/W4385625990"
-      ],
-      "abstract_inverted_index": {
-        "2020": [
-          78
-        ],
-        "A": [
-          0
-        ],
-        "quest": [
-          1
-        ],
-        "for": [
-          2
-        ],
-        "life": [
-          3,
-          91
-        ],
-        "on": [
-          4,
-          61,
-          92,
-          148,
-          198,
-          204
-        ],
-        "Mars": [
-          5,
-          62,
-          77,
-          110
-        ],
-        "(LoMars)": [
-          6
-        ],
-        "started": [
-          7,
-          33
-        ],
-        "in": [
-          8,
-          29,
-          34,
-          55,
-          101,
-          161,
-          185,
-          240
-        ],
-        "the": [
-          9,
-          13,
-          27,
-          35,
-          42,
-          45,
-          71,
-          76,
-          87,
-          93,
-          97,
-          102,
-          124,
-          167,
-          174,
-          181,
-          186,
-          199,
-          206,
-          210,
-          213,
-          223,
-          226,
-          234,
-          238
-        ],
-        "early": [
-          10
-        ],
-        "1960s": [
-          11
-        ],
-        "when": [
-          12
-        ],
-        "most": [
-          14,
-          38,
-          207
-        ],
-        "prestigious": [
-          15
-        ],
-        "scientific": [
-          16
-        ],
-        "journals": [
-          17
-        ],
-        "published": [
-          18
-        ],
-        "several": [
-          19
-        ],
-        "research": [
-          20,
-          139,
-          183
-        ],
-        "articles.": [
-          21
-        ],
-        "According": [
-          22
-        ],
-        "to": [
-          23,
-          66,
-          83,
-          109,
-          122,
-          195
-        ],
-        "Elsevier’s": [
-          24
-        ],
-        "Scopus": [
-          25
-        ],
-        "database,": [
-          26
-        ],
-        "rise": [
-          28,
-          67
-        ],
-        "annual": [
-          30
-        ],
-        "literature": [
-          31
-        ],
-        "production": [
-          32
-        ],
-        "late": [
-          36
-        ],
-        "1990s,": [
-          37
-        ],
-        "likely": [
-          39,
-          64
-        ],
-        "associated": [
-          40,
-          172
-        ],
-        "with": [
-          41,
-          116,
-          173,
-          231
-        ],
-        "launch": [
-          43,
-          72
-        ],
-        "of": [
-          44,
-          59,
-          75,
-          104,
-          130,
-          151,
-          202
-        ],
-        "National": [
-          46
-        ],
-        "Aeronautics": [
-          47
-        ],
-        "and": [
-          48,
-          73,
-          85,
-          106,
-          119,
-          137,
-          212,
-          219,
-          225
-        ],
-        "Space": [
-          49
-        ],
-        "Administration’s": [
-          50
-        ],
-        "(NASA)": [
-          51
-        ],
-        "first": [
-          52
-        ],
-        "rover,": [
-          53
-        ],
-        "Sojourner,": [
-          54
-        ],
-        "1996.": [
-          56
-        ],
-        "The": [
-          57
-        ],
-        "number": [
-          58,
-          103,
-          201
-        ],
-        "articles": [
-          60
-        ],
-        "will": [
-          63
-        ],
-        "continue": [
-          65
-        ],
-        "sharply,": [
-          68
-        ],
-        "given": [
-          69,
-          112
-        ],
-        "that": [
-          70,
-          166
-        ],
-        "landing": [
-          74
-        ],
-        "Perseverance": [
-          79,
-          175
-        ],
-        "Rover": [
-          80,
-          176
-        ],
-        "are": [
-          81,
-          192,
-          215,
-          228
-        ],
-        "critical": [
-          82
-        ],
-        "discovering": [
-          84
-        ],
-        "understanding": [
-          86
-        ],
-        "present": [
-          88
-        ],
-        "or": [
-          89
-        ],
-        "past": [
-          90
-        ],
-        "planet.": [
-          94
-        ],
-        "Thus": [
-          95
-        ],
-        "far,": [
-          96
-        ],
-        "USA": [
-          98
-        ],
-        "has": [
-          99
-        ],
-        "dominated": [
-          100
-        ],
-        "citations": [
-          105
-        ],
-        "collaborations": [
-          107
-        ],
-        "related": [
-          108
-        ],
-        "research,": [
-          111
-        ],
-        "its": [
-          113
-        ],
-        "facilities": [
-          114
-        ],
-        "equipped": [
-          115
-        ],
-        "relevant": [
-          117
-        ],
-        "infrastructure": [
-          118
-        ],
-        "researchers’": [
-          120
-        ],
-        "capacity": [
-          121
-        ],
-        "explore": [
-          123
-        ],
-        "Solar": [
-          125
-        ],
-        "System": [
-          126
-        ],
-        "beyond": [
-          127
-        ],
-        "Earth.": [
-          128,
-          196
-        ],
-        "Most": [
-          129
-        ],
-        "these": [
-          131
-        ],
-        "frequently": [
-          132
-        ],
-        "cited": [
-          133,
-          144
-        ],
-        "papers": [
-          134
-        ],
-        "report": [
-          135
-        ],
-        "observational": [
-          136
-        ],
-        "theoretical": [
-          138
-        ],
-        "results.": [
-          140
-        ],
-        "However,": [
-          141
-        ],
-        "a": [
-          142,
-          152
-        ],
-        "highly": [
-          143
-        ],
-        "article": [
-          145
-        ],
-        "is": [
-          146,
-          164
-        ],
-        "based": [
-          147
-        ],
-        "analytical": [
-          149
-        ],
-        "studies": [
-          150
-        ],
-        "unique": [
-          153
-        ],
-        "Martian": [
-          154,
-          190
-        ],
-        "meteorite": [
-          155
-        ],
-        "(i.e.,": [
-          156
-        ],
-        "Allan": [
-          157
-        ],
-        "Hills": [
-          158
-        ],
-        "84001)": [
-          159
-        ],
-        "found": [
-          160
-        ],
-        "Antarctica.": [
-          162
-        ],
-        "It": [
-          163
-        ],
-        "expected": [
-          165
-        ],
-        "future": [
-          168
-        ],
-        "sample": [
-          169
-        ],
-        "return": [
-          170
-        ],
-        "mission": [
-          171
-        ],
-        "caching": [
-          177
-        ],
-        "system": [
-          178
-        ],
-        "could": [
-          179
-        ],
-        "increase": [
-          180
-        ],
-        "LoMars": [
-          182,
-          241
-        ],
-        "exponentially": [
-          184
-        ],
-        "coming": [
-          187
-        ],
-        "decades": [
-          188
-        ],
-        "if": [
-          189
-        ],
-        "samples": [
-          191
-        ],
-        "successfully": [
-          193
-        ],
-        "brought": [
-          194
-        ],
-        "Based": [
-          197
-        ],
-        "total": [
-          200
-        ],
-        "publications": [
-          203
-        ],
-        "LoMars,": [
-          205
-        ],
-        "influential": [
-          208
-        ],
-        "institute,": [
-          209
-        ],
-        "author,": [
-          211
-        ],
-        "journal": [
-          214
-        ],
-        "Caltech,": [
-          216
-        ],
-        "C.P.": [
-          217
-        ],
-        "McKay,": [
-          218
-        ],
-        "Icarus,": [
-          220
-        ],
-        "respectively.": [
-          221
-        ],
-        "Both": [
-          222
-        ],
-        "institute": [
-          224
-        ],
-        "author": [
-          227
-        ],
-        "directly": [
-          229
-        ],
-        "affiliated": [
-          230
-        ],
-        "NASA,": [
-          232
-        ],
-        "indicating": [
-          233
-        ],
-        "leadership": [
-          235
-        ],
-        "offered": [
-          236
-        ],
-        "by": [
-          237
-        ],
-        "organization": [
-          239
-        ],
-        "research.": [
-          242
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-06-11T09:08:48.828518",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -41359,16 +40054,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -41834,11 +40529,11 @@
         "currency": "CHF",
         "value_usd": 2561
       },
-      "fwci": 0.6916,
+      "fwci": 0.6915,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.59722114,
+        "value": 0.59715874,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42351,8 +41046,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4296742037.pdf"
@@ -43652,16 +42347,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.5600000023841858
+          "score": 0.5600000023841858,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2611104737.pdf",
@@ -44861,9 +43556,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8299999833106995
+          "score": 0.8299999833106995,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -44875,8 +43570,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 106,
@@ -46152,16 +44847,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -47073,9 +45768,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -47092,8 +45787,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4387133041.pdf"
@@ -48423,16 +47118,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 67,
@@ -49231,16 +47926,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5199999809265137
+          "score": 0.5199999809265137,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -49726,16 +48421,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6000000238418579
+          "score": 0.6000000238418579,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 88,
@@ -49849,6 +48544,1311 @@
         }
       ],
       "updated_date": "2026-07-23T08:03:31.855105",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4320057911",
+      "doi": "https://doi.org/10.15446/esrj.v26n3.96985",
+      "title": "Life on Mars (LoMars): History, advances, current research, and perspectives",
+      "display_name": "Life on Mars (LoMars): History, advances, current research, and perspectives",
+      "publication_year": 2022,
+      "publication_date": "2022-11-29",
+      "ids": {
+        "openalex": "https://openalex.org/W4320057911",
+        "doi": "https://doi.org/10.15446/esrj.v26n3.96985"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.15446/esrj.v26n3.96985",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.15446/esrj.v26n3.96985",
+        "pdf_url": "https://revistas.unal.edu.co/index.php/esrj/article/download/96985/85316",
+        "source": {
+          "id": "https://openalex.org/S123144898",
+          "display_name": "Earth Sciences Research Journal",
+          "issn_l": "1794-6190",
+          "issn": [
+            "1794-6190",
+            "2339-3459"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310318911",
+          "host_organization_name": "National University of Colombia",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310318911"
+          ],
+          "host_organization_lineage_names": [
+            "National University of Colombia"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Earth Sciences Research Journal",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://revistas.unal.edu.co/index.php/esrj/article/download/96985/85316",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5044314407",
+            "display_name": "Arshad Ali",
+            "orcid": "https://orcid.org/0000-0002-7087-0269"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I47818738",
+              "display_name": "Sultan Qaboos University",
+              "ror": "https://ror.org/04wq8zb47",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I47818738"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Arshad Ali",
+          "raw_affiliation_strings": [
+            "Sultan Qaboos University"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-7087-0269",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Sultan Qaboos University",
+              "institution_ids": [
+                "https://openalex.org/I47818738"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5040949198",
+            "display_name": "Muhammad Shafiq Shahid",
+            "orcid": "https://orcid.org/0000-0002-3550-0000"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I47818738",
+              "display_name": "Sultan Qaboos University",
+              "ror": "https://ror.org/04wq8zb47",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I47818738"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Muhammad S. Shahid",
+          "raw_affiliation_strings": [
+            "Department of Plant Sciences, College of Agricultural and Marine Sciences, Sultan Qaboos University (SQU), Al-Khod, Muscat 123, Oman"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Plant Sciences, College of Agricultural and Marine Sciences, Sultan Qaboos University (SQU), Al-Khod, Muscat 123, Oman",
+              "institution_ids": [
+                "https://openalex.org/I47818738"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5091861514",
+            "display_name": "Iffat Jabeen",
+            "orcid": "https://orcid.org/0000-0001-6138-654X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2801508065",
+              "display_name": "Society of Economic Geologists",
+              "ror": "https://ror.org/02cb1bz50",
+              "country_code": "US",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I2801508065"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Iffat Jabeen",
+          "raw_affiliation_strings": [
+            "Retired Geologist"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Retired Geologist",
+              "institution_ids": [
+                "https://openalex.org/I2801508065"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5044806143",
+            "display_name": "Mohamed A. K. El‐Ghali",
+            "orcid": "https://orcid.org/0000-0002-7850-3471"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I47818738",
+              "display_name": "Sultan Qaboos University",
+              "ror": "https://ror.org/04wq8zb47",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I47818738"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohamed A.K. El-Ghali",
+          "raw_affiliation_strings": [
+            "Earth Sciences Research Centre, Sultan Qaboos University, Al Khod, Muscat 123, Oman"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Sciences Research Centre, Sultan Qaboos University, Al Khod, Muscat 123, Oman",
+              "institution_ids": [
+                "https://openalex.org/I47818738"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.132,
+      "has_fulltext": true,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0.56502642,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 91,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "26",
+        "issue": "3",
+        "first_page": "221",
+        "last_page": "230"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10406",
+        "display_name": "Planetary Science and Exploration",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3103",
+          "display_name": "Astronomy and Astrophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/31",
+          "display_name": "Physics and Astronomy"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10406",
+          "display_name": "Planetary Science and Exploration",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3103",
+            "display_name": "Astronomy and Astrophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/31",
+            "display_name": "Physics and Astronomy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10325",
+          "display_name": "Astro and Planetary Science",
+          "score": 0.9995999932289124,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3103",
+            "display_name": "Astronomy and Astrophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/31",
+            "display_name": "Physics and Astronomy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12788",
+          "display_name": "Space Science and Extraterrestrial Life",
+          "score": 0.996999979019165,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3103",
+            "display_name": "Astronomy and Astrophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/31",
+            "display_name": "Physics and Astronomy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/mars-exploration-program",
+          "display_name": "Mars Exploration Program",
+          "score": 0.8564486503601074
+        },
+        {
+          "id": "https://openalex.org/keywords/martian",
+          "display_name": "Martian",
+          "score": 0.7886874675750732
+        },
+        {
+          "id": "https://openalex.org/keywords/astrobiology",
+          "display_name": "Astrobiology",
+          "score": 0.638195812702179
+        },
+        {
+          "id": "https://openalex.org/keywords/scopus",
+          "display_name": "Scopus",
+          "score": 0.5365803837776184
+        },
+        {
+          "id": "https://openalex.org/keywords/space-research",
+          "display_name": "Space research",
+          "score": 0.5011255741119385
+        },
+        {
+          "id": "https://openalex.org/keywords/space-exploration",
+          "display_name": "Space exploration",
+          "score": 0.45694857835769653
+        },
+        {
+          "id": "https://openalex.org/keywords/aeronautics",
+          "display_name": "Aeronautics",
+          "score": 0.4398711919784546
+        },
+        {
+          "id": "https://openalex.org/keywords/extraterrestrial-life",
+          "display_name": "Extraterrestrial life",
+          "score": 0.41377460956573486
+        },
+        {
+          "id": "https://openalex.org/keywords/library-science",
+          "display_name": "Library science",
+          "score": 0.35812264680862427
+        },
+        {
+          "id": "https://openalex.org/keywords/history",
+          "display_name": "History",
+          "score": 0.3495032787322998
+        },
+        {
+          "id": "https://openalex.org/keywords/meteorology",
+          "display_name": "Meteorology",
+          "score": 0.32621273398399353
+        },
+        {
+          "id": "https://openalex.org/keywords/operations-research",
+          "display_name": "Operations research",
+          "score": 0.32102829217910767
+        },
+        {
+          "id": "https://openalex.org/keywords/political-science",
+          "display_name": "Political science",
+          "score": 0.30016809701919556
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.2722969949245453
+        },
+        {
+          "id": "https://openalex.org/keywords/geography",
+          "display_name": "Geography",
+          "score": 0.26481354236602783
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.21260949969291687
+        },
+        {
+          "id": "https://openalex.org/keywords/aerospace-engineering",
+          "display_name": "Aerospace engineering",
+          "score": 0.16227266192436218
+        },
+        {
+          "id": "https://openalex.org/keywords/physics",
+          "display_name": "Physics",
+          "score": 0.13050323724746704
+        },
+        {
+          "id": "https://openalex.org/keywords/law",
+          "display_name": "Law",
+          "score": 0.08944347500801086
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C83260615",
+          "wikidata": "https://www.wikidata.org/wiki/Q6773121",
+          "display_name": "Mars Exploration Program",
+          "level": 2,
+          "score": 0.8564486503601074
+        },
+        {
+          "id": "https://openalex.org/C2778600265",
+          "wikidata": "https://www.wikidata.org/wiki/Q913850",
+          "display_name": "Martian",
+          "level": 3,
+          "score": 0.7886874675750732
+        },
+        {
+          "id": "https://openalex.org/C87355193",
+          "wikidata": "https://www.wikidata.org/wiki/Q411",
+          "display_name": "Astrobiology",
+          "level": 1,
+          "score": 0.638195812702179
+        },
+        {
+          "id": "https://openalex.org/C83867959",
+          "wikidata": "https://www.wikidata.org/wiki/Q371467",
+          "display_name": "Scopus",
+          "level": 3,
+          "score": 0.5365803837776184
+        },
+        {
+          "id": "https://openalex.org/C92851284",
+          "wikidata": "https://www.wikidata.org/wiki/Q15706425",
+          "display_name": "Space research",
+          "level": 2,
+          "score": 0.5011255741119385
+        },
+        {
+          "id": "https://openalex.org/C104060986",
+          "wikidata": "https://www.wikidata.org/wiki/Q180046",
+          "display_name": "Space exploration",
+          "level": 2,
+          "score": 0.45694857835769653
+        },
+        {
+          "id": "https://openalex.org/C178802073",
+          "wikidata": "https://www.wikidata.org/wiki/Q8421",
+          "display_name": "Aeronautics",
+          "level": 1,
+          "score": 0.4398711919784546
+        },
+        {
+          "id": "https://openalex.org/C98536072",
+          "wikidata": "https://www.wikidata.org/wiki/Q181508",
+          "display_name": "Extraterrestrial life",
+          "level": 2,
+          "score": 0.41377460956573486
+        },
+        {
+          "id": "https://openalex.org/C161191863",
+          "wikidata": "https://www.wikidata.org/wiki/Q199655",
+          "display_name": "Library science",
+          "level": 1,
+          "score": 0.35812264680862427
+        },
+        {
+          "id": "https://openalex.org/C95457728",
+          "wikidata": "https://www.wikidata.org/wiki/Q309",
+          "display_name": "History",
+          "level": 0,
+          "score": 0.3495032787322998
+        },
+        {
+          "id": "https://openalex.org/C153294291",
+          "wikidata": "https://www.wikidata.org/wiki/Q25261",
+          "display_name": "Meteorology",
+          "level": 1,
+          "score": 0.32621273398399353
+        },
+        {
+          "id": "https://openalex.org/C42475967",
+          "wikidata": "https://www.wikidata.org/wiki/Q194292",
+          "display_name": "Operations research",
+          "level": 1,
+          "score": 0.32102829217910767
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.30016809701919556
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.2722969949245453
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.26481354236602783
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.21260949969291687
+        },
+        {
+          "id": "https://openalex.org/C146978453",
+          "wikidata": "https://www.wikidata.org/wiki/Q3798668",
+          "display_name": "Aerospace engineering",
+          "level": 1,
+          "score": 0.16227266192436218
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.13050323724746704
+        },
+        {
+          "id": "https://openalex.org/C199539241",
+          "wikidata": "https://www.wikidata.org/wiki/Q7748",
+          "display_name": "Law",
+          "level": 1,
+          "score": 0.08944347500801086
+        },
+        {
+          "id": "https://openalex.org/C2779473830",
+          "wikidata": "https://www.wikidata.org/wiki/Q1540899",
+          "display_name": "MEDLINE",
+          "level": 2,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.15446/esrj.v26n3.96985",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.15446/esrj.v26n3.96985",
+          "pdf_url": "https://revistas.unal.edu.co/index.php/esrj/article/download/96985/85316",
+          "source": {
+            "id": "https://openalex.org/S123144898",
+            "display_name": "Earth Sciences Research Journal",
+            "issn_l": "1794-6190",
+            "issn": [
+              "1794-6190",
+              "2339-3459"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310318911",
+            "host_organization_name": "National University of Colombia",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310318911"
+            ],
+            "host_organization_lineage_names": [
+              "National University of Colombia"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Earth Sciences Research Journal",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:www.revistas.unal.edu.co:article/96985",
+          "is_oa": true,
+          "landing_page_url": "https://revistas.unal.edu.co/index.php/esrj/article/view/96985",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196295",
+            "display_name": "Magazine Portal Bibliotech Digital (Universidad Nacional de Colombia)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I36243813",
+            "host_organization_name": "Universidad Nacional de Colombia",
+            "host_organization_lineage": [
+              "https://openalex.org/I36243813"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Earth Sciences Research Journal; Vol. 26 No. 3 (2022); 221-230",
+          "raw_type": "info:eu-repo/semantics/article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.15446/esrj.v26n3.96985",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.15446/esrj.v26n3.96985",
+        "pdf_url": "https://revistas.unal.edu.co/index.php/esrj/article/download/96985/85316",
+        "source": {
+          "id": "https://openalex.org/S123144898",
+          "display_name": "Earth Sciences Research Journal",
+          "issn_l": "1794-6190",
+          "issn": [
+            "1794-6190",
+            "2339-3459"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310318911",
+          "host_organization_name": "National University of Colombia",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310318911"
+          ],
+          "host_organization_lineage_names": [
+            "National University of Colombia"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Earth Sciences Research Journal",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.6299999952316284,
+          "id": "https://metadata.un.org/sdg/9"
+        }
+      ],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320306101",
+          "display_name": "National Aeronautics and Space Administration",
+          "ror": "https://ror.org/027ka1x80"
+        },
+        {
+          "id": "https://openalex.org/F4320322573",
+          "display_name": "Sultan Qaboos University",
+          "ror": "https://ror.org/04wq8zb47"
+        }
+      ],
+      "has_content": {
+        "pdf": true,
+        "grobid_xml": false
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4320057911.pdf"
+      },
+      "referenced_works_count": 46,
+      "referenced_works": [
+        "https://openalex.org/W38336971",
+        "https://openalex.org/W1968713120",
+        "https://openalex.org/W1983550241",
+        "https://openalex.org/W1993643777",
+        "https://openalex.org/W1993845088",
+        "https://openalex.org/W2005203120",
+        "https://openalex.org/W2012567689",
+        "https://openalex.org/W2013989794",
+        "https://openalex.org/W2018523785",
+        "https://openalex.org/W2024430005",
+        "https://openalex.org/W2026908727",
+        "https://openalex.org/W2031445615",
+        "https://openalex.org/W2037925493",
+        "https://openalex.org/W2039368209",
+        "https://openalex.org/W2050731935",
+        "https://openalex.org/W2081802593",
+        "https://openalex.org/W2086277408",
+        "https://openalex.org/W2090934532",
+        "https://openalex.org/W2094900009",
+        "https://openalex.org/W2095459354",
+        "https://openalex.org/W2100973511",
+        "https://openalex.org/W2120918440",
+        "https://openalex.org/W2136457070",
+        "https://openalex.org/W2148965904",
+        "https://openalex.org/W2152001765",
+        "https://openalex.org/W2166581978",
+        "https://openalex.org/W2170615758",
+        "https://openalex.org/W2342317271",
+        "https://openalex.org/W2424242487",
+        "https://openalex.org/W2486654687",
+        "https://openalex.org/W2513043765",
+        "https://openalex.org/W2519026232",
+        "https://openalex.org/W2590741408",
+        "https://openalex.org/W2611394524",
+        "https://openalex.org/W2624669186",
+        "https://openalex.org/W2730344541",
+        "https://openalex.org/W2730981050",
+        "https://openalex.org/W2755950973",
+        "https://openalex.org/W2784048515",
+        "https://openalex.org/W2884720674",
+        "https://openalex.org/W2921079363",
+        "https://openalex.org/W2972615627",
+        "https://openalex.org/W3005401259",
+        "https://openalex.org/W4200445662",
+        "https://openalex.org/W4238632320",
+        "https://openalex.org/W6632465098"
+      ],
+      "related_works": [
+        "https://openalex.org/W4251494107",
+        "https://openalex.org/W1973955463",
+        "https://openalex.org/W4387167104",
+        "https://openalex.org/W1539801526",
+        "https://openalex.org/W2077684114",
+        "https://openalex.org/W3131249533",
+        "https://openalex.org/W4205727143",
+        "https://openalex.org/W1668810364",
+        "https://openalex.org/W2030270789",
+        "https://openalex.org/W4385625990"
+      ],
+      "abstract_inverted_index": {
+        "2020": [
+          78
+        ],
+        "A": [
+          0
+        ],
+        "quest": [
+          1
+        ],
+        "for": [
+          2
+        ],
+        "life": [
+          3,
+          91
+        ],
+        "on": [
+          4,
+          61,
+          92,
+          148,
+          198,
+          204
+        ],
+        "Mars": [
+          5,
+          62,
+          77,
+          110
+        ],
+        "(LoMars)": [
+          6
+        ],
+        "started": [
+          7,
+          33
+        ],
+        "in": [
+          8,
+          29,
+          34,
+          55,
+          101,
+          161,
+          185,
+          240
+        ],
+        "the": [
+          9,
+          13,
+          27,
+          35,
+          42,
+          45,
+          71,
+          76,
+          87,
+          93,
+          97,
+          102,
+          124,
+          167,
+          174,
+          181,
+          186,
+          199,
+          206,
+          210,
+          213,
+          223,
+          226,
+          234,
+          238
+        ],
+        "early": [
+          10
+        ],
+        "1960s": [
+          11
+        ],
+        "when": [
+          12
+        ],
+        "most": [
+          14,
+          38,
+          207
+        ],
+        "prestigious": [
+          15
+        ],
+        "scientific": [
+          16
+        ],
+        "journals": [
+          17
+        ],
+        "published": [
+          18
+        ],
+        "several": [
+          19
+        ],
+        "research": [
+          20,
+          139,
+          183
+        ],
+        "articles.": [
+          21
+        ],
+        "According": [
+          22
+        ],
+        "to": [
+          23,
+          66,
+          83,
+          109,
+          122,
+          195
+        ],
+        "Elsevier’s": [
+          24
+        ],
+        "Scopus": [
+          25
+        ],
+        "database,": [
+          26
+        ],
+        "rise": [
+          28,
+          67
+        ],
+        "annual": [
+          30
+        ],
+        "literature": [
+          31
+        ],
+        "production": [
+          32
+        ],
+        "late": [
+          36
+        ],
+        "1990s,": [
+          37
+        ],
+        "likely": [
+          39,
+          64
+        ],
+        "associated": [
+          40,
+          172
+        ],
+        "with": [
+          41,
+          116,
+          173,
+          231
+        ],
+        "launch": [
+          43,
+          72
+        ],
+        "of": [
+          44,
+          59,
+          75,
+          104,
+          130,
+          151,
+          202
+        ],
+        "National": [
+          46
+        ],
+        "Aeronautics": [
+          47
+        ],
+        "and": [
+          48,
+          73,
+          85,
+          106,
+          119,
+          137,
+          212,
+          219,
+          225
+        ],
+        "Space": [
+          49
+        ],
+        "Administration’s": [
+          50
+        ],
+        "(NASA)": [
+          51
+        ],
+        "first": [
+          52
+        ],
+        "rover,": [
+          53
+        ],
+        "Sojourner,": [
+          54
+        ],
+        "1996.": [
+          56
+        ],
+        "The": [
+          57
+        ],
+        "number": [
+          58,
+          103,
+          201
+        ],
+        "articles": [
+          60
+        ],
+        "will": [
+          63
+        ],
+        "continue": [
+          65
+        ],
+        "sharply,": [
+          68
+        ],
+        "given": [
+          69,
+          112
+        ],
+        "that": [
+          70,
+          166
+        ],
+        "landing": [
+          74
+        ],
+        "Perseverance": [
+          79,
+          175
+        ],
+        "Rover": [
+          80,
+          176
+        ],
+        "are": [
+          81,
+          192,
+          215,
+          228
+        ],
+        "critical": [
+          82
+        ],
+        "discovering": [
+          84
+        ],
+        "understanding": [
+          86
+        ],
+        "present": [
+          88
+        ],
+        "or": [
+          89
+        ],
+        "past": [
+          90
+        ],
+        "planet.": [
+          94
+        ],
+        "Thus": [
+          95
+        ],
+        "far,": [
+          96
+        ],
+        "USA": [
+          98
+        ],
+        "has": [
+          99
+        ],
+        "dominated": [
+          100
+        ],
+        "citations": [
+          105
+        ],
+        "collaborations": [
+          107
+        ],
+        "related": [
+          108
+        ],
+        "research,": [
+          111
+        ],
+        "its": [
+          113
+        ],
+        "facilities": [
+          114
+        ],
+        "equipped": [
+          115
+        ],
+        "relevant": [
+          117
+        ],
+        "infrastructure": [
+          118
+        ],
+        "researchers’": [
+          120
+        ],
+        "capacity": [
+          121
+        ],
+        "explore": [
+          123
+        ],
+        "Solar": [
+          125
+        ],
+        "System": [
+          126
+        ],
+        "beyond": [
+          127
+        ],
+        "Earth.": [
+          128,
+          196
+        ],
+        "Most": [
+          129
+        ],
+        "these": [
+          131
+        ],
+        "frequently": [
+          132
+        ],
+        "cited": [
+          133,
+          144
+        ],
+        "papers": [
+          134
+        ],
+        "report": [
+          135
+        ],
+        "observational": [
+          136
+        ],
+        "theoretical": [
+          138
+        ],
+        "results.": [
+          140
+        ],
+        "However,": [
+          141
+        ],
+        "a": [
+          142,
+          152
+        ],
+        "highly": [
+          143
+        ],
+        "article": [
+          145
+        ],
+        "is": [
+          146,
+          164
+        ],
+        "based": [
+          147
+        ],
+        "analytical": [
+          149
+        ],
+        "studies": [
+          150
+        ],
+        "unique": [
+          153
+        ],
+        "Martian": [
+          154,
+          190
+        ],
+        "meteorite": [
+          155
+        ],
+        "(i.e.,": [
+          156
+        ],
+        "Allan": [
+          157
+        ],
+        "Hills": [
+          158
+        ],
+        "84001)": [
+          159
+        ],
+        "found": [
+          160
+        ],
+        "Antarctica.": [
+          162
+        ],
+        "It": [
+          163
+        ],
+        "expected": [
+          165
+        ],
+        "future": [
+          168
+        ],
+        "sample": [
+          169
+        ],
+        "return": [
+          170
+        ],
+        "mission": [
+          171
+        ],
+        "caching": [
+          177
+        ],
+        "system": [
+          178
+        ],
+        "could": [
+          179
+        ],
+        "increase": [
+          180
+        ],
+        "LoMars": [
+          182,
+          241
+        ],
+        "exponentially": [
+          184
+        ],
+        "coming": [
+          187
+        ],
+        "decades": [
+          188
+        ],
+        "if": [
+          189
+        ],
+        "samples": [
+          191
+        ],
+        "successfully": [
+          193
+        ],
+        "brought": [
+          194
+        ],
+        "Based": [
+          197
+        ],
+        "total": [
+          200
+        ],
+        "publications": [
+          203
+        ],
+        "LoMars,": [
+          205
+        ],
+        "influential": [
+          208
+        ],
+        "institute,": [
+          209
+        ],
+        "author,": [
+          211
+        ],
+        "journal": [
+          214
+        ],
+        "Caltech,": [
+          216
+        ],
+        "C.P.": [
+          217
+        ],
+        "McKay,": [
+          218
+        ],
+        "Icarus,": [
+          220
+        ],
+        "respectively.": [
+          221
+        ],
+        "Both": [
+          222
+        ],
+        "institute": [
+          224
+        ],
+        "author": [
+          227
+        ],
+        "directly": [
+          229
+        ],
+        "affiliated": [
+          230
+        ],
+        "NASA,": [
+          232
+        ],
+        "indicating": [
+          233
+        ],
+        "leadership": [
+          235
+        ],
+        "offered": [
+          236
+        ],
+        "by": [
+          237
+        ],
+        "organization": [
+          239
+        ],
+        "research.": [
+          242
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-08-01T09:00:35.917206",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -50249,16 +50249,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -51790,16 +51790,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.8100000023841858
+          "score": 0.8100000023841858,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -52716,16 +52716,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5899999737739563
+          "score": 0.5899999737739563,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -53371,8 +53371,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3113005327.pdf",
@@ -54800,9 +54800,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -54822,8 +54822,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -55610,8 +55610,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -56188,16 +56188,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -56670,16 +56670,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -57380,16 +57380,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -58998,16 +58998,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -59792,9 +59792,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5899999737739563
+          "score": 0.5899999737739563,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -59806,8 +59806,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4389914228.pdf"
@@ -60501,16 +60501,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.5600000023841858
+          "score": 0.5600000023841858,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -61202,8 +61202,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4407416987.pdf",
@@ -62230,16 +62230,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -62749,16 +62749,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -63272,16 +63272,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7699999809265137
+          "score": 0.7699999809265137,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -63884,9 +63884,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -63898,8 +63898,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 71,
@@ -64782,16 +64782,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -65908,16 +65908,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -66933,16 +66933,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -68010,16 +68010,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "display_name": "Industry, innovation and infrastructure",
-          "score": 0.6499999761581421
+          "score": 0.6499999761581421,
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3155447873.pdf",
@@ -69197,16 +69197,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7200000286102295
+          "score": 0.7200000286102295,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -69834,16 +69834,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -70454,8 +70454,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -71391,16 +71391,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.8100000023841858
+          "score": 0.8100000023841858,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -72502,16 +72502,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -73033,16 +73033,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -73692,16 +73692,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.41999998688697815
+          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -74391,16 +74391,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -75064,16 +75064,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 2,
@@ -75575,8 +75575,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -76359,16 +76359,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6399999856948853
+          "score": 0.6399999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -76925,16 +76925,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.6200000047683716
+          "score": 0.6200000047683716,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -77346,16 +77346,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -78023,8 +78023,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 69,
@@ -78917,8 +78917,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -79666,8 +79666,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -80317,8 +80317,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415948913.pdf",
@@ -81482,8 +81482,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -82139,8 +82139,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4416331979.pdf",
@@ -83021,8 +83021,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4417275861.pdf"
@@ -84217,16 +84217,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7933499813079834
+          "score": 0.7933499813079834,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7128590603.pdf",

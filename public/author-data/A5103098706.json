@@ -21,7 +21,7 @@
     ],
     "full_name": "Johnson, Peter Roland Andrew",
     "works_count": 86,
-    "cited_by_count": 6076,
+    "cited_by_count": 6077,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 33,
@@ -464,7 +464,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000448,
+        "value": 0.0000447,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -732,7 +732,7 @@
         "year": 2016,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 80
+        "cited_by_count": 81
       },
       {
         "year": 2017,
@@ -795,7 +795,7 @@
     ],
     "block_key": "p johnson",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5103098706",
-    "updated_date": "2026-07-29T12:17:14",
+    "updated_date": "2026-07-31T12:17:18",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1167,11 +1167,11 @@
         "value_usd": 2650
       },
       "apc_paid": null,
-      "fwci": 20.3775,
+      "fwci": 20.3714,
       "has_fulltext": false,
       "cited_by_count": 804,
       "citation_normalized_percentile": {
-        "value": 0.99827264,
+        "value": 0.99827208,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1498,6 +1498,13 @@
           "funder_display_name": "National Natural Science Foundation of China"
         },
         {
+          "id": "https://openalex.org/G5045578611",
+          "display_name": "Geodynamic setting of the Panafrican Orogenesis in Eastern  Africa",
+          "funder_award_id": "P 12375",
+          "funder_id": "https://openalex.org/F4320321181",
+          "funder_display_name": "Austrian Science Fund"
+        },
+        {
           "id": "https://openalex.org/G5566233003",
           "display_name": null,
           "funder_award_id": "T247-N10",
@@ -1512,9 +1519,16 @@
           "funder_display_name": "National Natural Science Foundation of China"
         },
         {
-          "id": "https://openalex.org/G6107444760",
-          "display_name": "Critical edition of the compete vorks of Christine Lavant",
-          "funder_award_id": "P12836",
+          "id": "https://openalex.org/G5990848567",
+          "display_name": null,
+          "funder_award_id": "B0703 9",
+          "funder_id": "https://openalex.org/F4320321106",
+          "funder_display_name": "Ministry of Education of the People's Republic of China"
+        },
+        {
+          "id": "https://openalex.org/G6317786764",
+          "display_name": "Panafrican and older evolution in Tanzania",
+          "funder_award_id": "P 15599",
           "funder_id": "https://openalex.org/F4320321181",
           "funder_display_name": "Austrian Science Fund"
         },
@@ -1526,23 +1540,9 @@
           "funder_display_name": "National Science Foundation"
         },
         {
-          "id": "https://openalex.org/G8574805123",
-          "display_name": "Panafrican and older evolution in Tanzania",
-          "funder_award_id": "P15599",
-          "funder_id": "https://openalex.org/F4320321181",
-          "funder_display_name": "Austrian Science Fund"
-        },
-        {
-          "id": "https://openalex.org/G8672045995",
-          "display_name": null,
-          "funder_award_id": "B07039",
-          "funder_id": "https://openalex.org/F4320321106",
-          "funder_display_name": "Ministry of Education of the People's Republic of China"
-        },
-        {
-          "id": "https://openalex.org/G87414586",
-          "display_name": "Geodynamic setting of the Panafrican Orogenesis in Eastern  Africa",
-          "funder_award_id": "P12375",
+          "id": "https://openalex.org/G8287873341",
+          "display_name": "Critical edition of the compete vorks of Christine Lavant",
+          "funder_award_id": "P 12836",
           "funder_id": "https://openalex.org/F4320321181",
           "funder_display_name": "Austrian Science Fund"
         }
@@ -1964,7 +1964,7 @@
           "cited_by_count": 16
         }
       ],
-      "updated_date": "2026-07-29T09:40:50.615796",
+      "updated_date": "2026-08-01T09:00:35.917206",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11041,11 +11041,11 @@
         "currency": "CHF",
         "value_usd": 1670
       },
-      "fwci": 7.5296,
+      "fwci": 7.53,
       "has_fulltext": false,
       "cited_by_count": 105,
       "citation_normalized_percentile": {
-        "value": 0.96619818,
+        "value": 0.96618966,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15164,11 +15164,11 @@
         "value_usd": 3700
       },
       "apc_paid": null,
-      "fwci": 3.1567,
+      "fwci": 3.1538,
       "has_fulltext": false,
       "cited_by_count": 81,
       "citation_normalized_percentile": {
-        "value": 0.90369951,
+        "value": 0.9036,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -26752,11 +26752,11 @@
         "value_usd": 3760
       },
       "apc_paid": null,
-      "fwci": 3.0118,
+      "fwci": 3.012,
       "has_fulltext": false,
       "cited_by_count": 43,
       "citation_normalized_percentile": {
-        "value": 0.90028734,
+        "value": 0.90028217,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -27639,7 +27639,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-19T07:52:34.831488",
+      "updated_date": "2026-08-01T09:00:35.917206",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -30776,7 +30776,7 @@
         "value_usd": 3250
       },
       "apc_paid": null,
-      "fwci": 9.9113,
+      "fwci": 9.9072,
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
@@ -31227,7 +31227,7 @@
           "cited_by_count": 12
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-08-01T09:00:35.917206",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -31246,9 +31246,9 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/s0010-9452(77)80019-1",
-        "is_oa": false,
+        "is_oa": true,
         "landing_page_url": "https://doi.org/10.1016/s0010-9452(77)80019-1",
-        "pdf_url": null,
+        "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0010945277800191/pdf",
         "source": {
           "id": "https://openalex.org/S116196263",
           "display_name": "Cortex",
@@ -31284,9 +31284,9 @@
         "pubmed"
       ],
       "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.sciencedirect.com/science/article/pii/S0010945277800191/pdf",
         "any_repository_has_fulltext": false
       },
       "authorships": [
@@ -31343,11 +31343,11 @@
         "value_usd": 3460
       },
       "apc_paid": null,
-      "fwci": 1.929,
-      "has_fulltext": false,
+      "fwci": 1.932,
+      "has_fulltext": true,
       "cited_by_count": 123,
       "citation_normalized_percentile": {
-        "value": 0.86960032,
+        "value": 0.8697496,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31818,9 +31818,9 @@
       "locations": [
         {
           "id": "doi:10.1016/s0010-9452(77)80019-1",
-          "is_oa": false,
+          "is_oa": true,
           "landing_page_url": "https://doi.org/10.1016/s0010-9452(77)80019-1",
-          "pdf_url": null,
+          "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0010945277800191/pdf",
           "source": {
             "id": "https://openalex.org/S116196263",
             "display_name": "Cortex",
@@ -31880,15 +31880,51 @@
           "raw_type": null
         }
       ],
-      "best_oa_location": null,
+      "best_oa_location": {
+        "id": "doi:10.1016/s0010-9452(77)80019-1",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/s0010-9452(77)80019-1",
+        "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0010945277800191/pdf",
+        "source": {
+          "id": "https://openalex.org/S116196263",
+          "display_name": "Cortex",
+          "issn_l": "0010-9452",
+          "issn": [
+            "0010-9452",
+            "1973-8102"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Cortex",
+        "raw_type": "journal-article"
+      },
       "sustainable_development_goals": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "grobid_xml": true,
+        "pdf": true
       },
-      "content_urls": null,
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2067677164.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2067677164.grobid-xml"
+      },
       "referenced_works_count": 8,
       "referenced_works": [
         "https://openalex.org/W1493817611",
@@ -31943,7 +31979,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-08-01T09:00:35.917206",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -45589,11 +45625,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1149,
+      "fwci": 2.1167,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.86829268,
+        "value": 0.86876091,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -53240,7 +53276,7 @@
         "id": "pmh:oai:biodiversitylibrary.org:part/264256",
         "is_oa": true,
         "landing_page_url": "https://www.biodiversitylibrary.org/part/264256",
-        "pdf_url": "https://www.biodiversitylibrary.org/part/264256",
+        "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306402618",
           "display_name": "Biodiversity Heritage Library (Smithsonian Institution)",
@@ -53257,8 +53293,8 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "other-oa",
-        "license_id": "https://openalex.org/licenses/other-oa",
+        "license": "cc-by-nc-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
         "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
@@ -53348,7 +53384,7 @@
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.14627942,
+        "value": 0.12942168,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -53602,7 +53638,7 @@
           "id": "pmh:oai:biodiversitylibrary.org:part/264256",
           "is_oa": true,
           "landing_page_url": "https://www.biodiversitylibrary.org/part/264256",
-          "pdf_url": "https://www.biodiversitylibrary.org/part/264256",
+          "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4306402618",
             "display_name": "Biodiversity Heritage Library (Smithsonian Institution)",
@@ -53619,8 +53655,8 @@
             "host_organization_lineage_names": [],
             "type": "repository"
           },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
+          "license": "cc-by-nc-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -53753,7 +53789,7 @@
         "id": "pmh:oai:biodiversitylibrary.org:part/264256",
         "is_oa": true,
         "landing_page_url": "https://www.biodiversitylibrary.org/part/264256",
-        "pdf_url": "https://www.biodiversitylibrary.org/part/264256",
+        "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306402618",
           "display_name": "Biodiversity Heritage Library (Smithsonian Institution)",
@@ -53770,8 +53806,8 @@
           "host_organization_lineage_names": [],
           "type": "repository"
         },
-        "license": "other-oa",
-        "license_id": "https://openalex.org/licenses/other-oa",
+        "license": "cc-by-nc-sa",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-sa",
         "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
@@ -53788,13 +53824,10 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "grobid_xml": false,
+        "pdf": false
       },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2248607991.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W2248607991.grobid-xml"
-      },
+      "content_urls": null,
       "referenced_works_count": 11,
       "referenced_works": [
         "https://openalex.org/W774785941",
@@ -53876,7 +53909,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-01T06:00:48.157686",
+      "updated_date": "2026-08-01T09:00:35.917206",
       "created_date": "2025-10-10T00:00:00"
     },
     {

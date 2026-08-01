@@ -91,21 +91,6 @@
       },
       {
         "institution": {
-          "id": "https://openalex.org/I4210164339",
-          "ror": "https://ror.org/05cxzzq07",
-          "display_name": "Oldham Council",
-          "country_code": "GB",
-          "type": "government",
-          "lineage": [
-            "https://openalex.org/I4210164339"
-          ]
-        },
-        "years": [
-          2025
-        ]
-      },
-      {
-        "institution": {
           "id": "https://openalex.org/I62856769",
           "ror": "https://ror.org/035n7q728",
           "display_name": "Saudi Aramco (United States)",
@@ -155,16 +140,6 @@
         "type": "company",
         "lineage": [
           "https://openalex.org/I4210143841"
-        ]
-      },
-      {
-        "id": "https://openalex.org/I4210164339",
-        "ror": "https://ror.org/05cxzzq07",
-        "display_name": "Oldham Council",
-        "country_code": "GB",
-        "type": "government",
-        "lineage": [
-          "https://openalex.org/I4210164339"
         ]
       }
     ],
@@ -293,7 +268,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000528,
+        "value": 0.0000527,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -310,7 +285,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.000047,
+        "value": 0.0000469,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -327,7 +302,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0000428,
+        "value": 0.0000427,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -552,7 +527,7 @@
     ],
     "block_key": "m al-husseini",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5081811780",
-    "updated_date": "2026-07-28T12:17:01",
+    "updated_date": "2026-07-31T12:17:18",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -641,11 +616,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.4081,
+      "fwci": 4.4058,
       "has_fulltext": false,
       "cited_by_count": 352,
       "citation_normalized_percentile": {
-        "value": 0.94184427,
+        "value": 0.94180374,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -966,8 +941,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -2249,8 +2224,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2948813096.pdf",
@@ -3602,8 +3577,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -4441,11 +4416,11 @@
         "currency": "USD",
         "value_usd": 3700
       },
-      "fwci": 15.7882,
+      "fwci": 15.7795,
       "has_fulltext": true,
       "cited_by_count": 74,
       "citation_normalized_percentile": {
-        "value": 0.99192311,
+        "value": 0.99192493,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4907,8 +4882,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3006915709.pdf",
@@ -6104,8 +6079,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 90,
@@ -7657,8 +7632,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 59,
@@ -8451,11 +8426,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 14.2242,
+      "fwci": 14.2351,
       "has_fulltext": false,
       "cited_by_count": 92,
       "citation_normalized_percentile": {
-        "value": 0.98801326,
+        "value": 0.98802243,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8743,8 +8718,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 66,
@@ -9974,6 +9949,1217 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2121166329",
+      "doi": "https://doi.org/10.1190/1.1441183",
+      "title": "Dispersion patterns of the ground roll in eastern Saudi Arabia",
+      "display_name": "Dispersion patterns of the ground roll in eastern Saudi Arabia",
+      "publication_year": 1981,
+      "publication_date": "1981-02-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2121166329",
+        "doi": "https://doi.org/10.1190/1.1441183",
+        "mag": "2121166329"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1190/1.1441183",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1190/1.1441183",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S106174089",
+          "display_name": "Geophysics",
+          "issn_l": "0016-8033",
+          "issn": [
+            "0016-8033",
+            "1942-2156"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310316678",
+          "host_organization_name": "Society of Exploration Geophysicists",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310316678"
+          ],
+          "host_organization_lineage_names": [
+            "Society of Exploration Geophysicists"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geophysics",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5081811780",
+            "display_name": "Moujahed Al-Husseini",
+            "orcid": "https://orcid.org/0009-0002-1087-5882"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Moujahed I. Al-Husseini",
+          "raw_affiliation_strings": [
+            "Aramco Overs. Co., Hague, Netherlands",
+            "Aramco Overseas Company, Laan Van Meerdervoort 55, The Hague, The Netherlands"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Aramco Overs. Co., Hague, Netherlands",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Aramco Overseas Company, Laan Van Meerdervoort 55, The Hague, The Netherlands",
+              "institution_ids": []
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5035668241",
+            "display_name": "Jon B. Glover",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2801725672",
+              "display_name": "Western Isles Hospital",
+              "ror": "https://ror.org/00254th47",
+              "country_code": "GB",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I2801725672"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jon B. Glover",
+          "raw_affiliation_strings": [
+            "Western Geophysical Co. of America, Wesgeco Building, Worton Road, Islesworth, Middlesex, U.K"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Western Geophysical Co. of America, Wesgeco Building, Worton Road, Islesworth, Middlesex, U.K",
+              "institution_ids": [
+                "https://openalex.org/I2801725672"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5091790134",
+            "display_name": "Brian Barley",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I2801725672",
+              "display_name": "Western Isles Hospital",
+              "ror": "https://ror.org/00254th47",
+              "country_code": "GB",
+              "type": "healthcare",
+              "lineage": [
+                "https://openalex.org/I2801725672"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Brian J. Barley",
+          "raw_affiliation_strings": [
+            "Western Geophysical Co. of America, Wesgeco Building, Worton Road, Islesworth, Middlesex, U.K"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Western Geophysical Co. of America, Wesgeco Building, Worton Road, Islesworth, Middlesex, U.K",
+              "institution_ids": [
+                "https://openalex.org/I2801725672"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.6155,
+      "has_fulltext": false,
+      "cited_by_count": 57,
+      "citation_normalized_percentile": {
+        "value": 0.6645463,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "46",
+        "issue": "2",
+        "first_page": "121",
+        "last_page": "137"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11757",
+        "display_name": "Seismic Waves and Analysis",
+        "score": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11757",
+          "display_name": "Seismic Waves and Analysis",
+          "score": 1,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10271",
+          "display_name": "Seismic Imaging and Inversion Techniques",
+          "score": 0.9986000061035156,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13018",
+          "display_name": "Seismology and Earthquake Studies",
+          "score": 0.9980999827384949,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/rayleigh-wave",
+          "display_name": "Rayleigh wave",
+          "score": 0.8277934789657593
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.6897228956222534
+        },
+        {
+          "id": "https://openalex.org/keywords/seismology",
+          "display_name": "Seismology",
+          "score": 0.5602514743804932
+        },
+        {
+          "id": "https://openalex.org/keywords/surface-wave",
+          "display_name": "Surface wave",
+          "score": 0.5598287582397461
+        },
+        {
+          "id": "https://openalex.org/keywords/microseism",
+          "display_name": "Microseism",
+          "score": 0.5370522737503052
+        },
+        {
+          "id": "https://openalex.org/keywords/dispersion",
+          "display_name": "Dispersion (optics)",
+          "score": 0.5205184817314148
+        },
+        {
+          "id": "https://openalex.org/keywords/noise",
+          "display_name": "Noise (video)",
+          "score": 0.5177592635154724
+        },
+        {
+          "id": "https://openalex.org/keywords/seismic-noise",
+          "display_name": "Seismic noise",
+          "score": 0.4705013930797577
+        },
+        {
+          "id": "https://openalex.org/keywords/acoustics",
+          "display_name": "Acoustics",
+          "score": 0.46296146512031555
+        },
+        {
+          "id": "https://openalex.org/keywords/wavenumber",
+          "display_name": "Wavenumber",
+          "score": 0.44644734263420105
+        },
+        {
+          "id": "https://openalex.org/keywords/geodesy",
+          "display_name": "Geodesy",
+          "score": 0.36252281069755554
+        },
+        {
+          "id": "https://openalex.org/keywords/optics",
+          "display_name": "Optics",
+          "score": 0.2757246792316437
+        },
+        {
+          "id": "https://openalex.org/keywords/physics",
+          "display_name": "Physics",
+          "score": 0.24925750494003296
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.0885721743106842
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C51473458",
+          "wikidata": "https://www.wikidata.org/wiki/Q2351144",
+          "display_name": "Rayleigh wave",
+          "level": 3,
+          "score": 0.8277934789657593
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.6897228956222534
+        },
+        {
+          "id": "https://openalex.org/C165205528",
+          "wikidata": "https://www.wikidata.org/wiki/Q83371",
+          "display_name": "Seismology",
+          "level": 1,
+          "score": 0.5602514743804932
+        },
+        {
+          "id": "https://openalex.org/C84174578",
+          "wikidata": "https://www.wikidata.org/wiki/Q889796",
+          "display_name": "Surface wave",
+          "level": 2,
+          "score": 0.5598287582397461
+        },
+        {
+          "id": "https://openalex.org/C7266685",
+          "wikidata": "https://www.wikidata.org/wiki/Q1303250",
+          "display_name": "Microseism",
+          "level": 2,
+          "score": 0.5370522737503052
+        },
+        {
+          "id": "https://openalex.org/C177562468",
+          "wikidata": "https://www.wikidata.org/wiki/Q182893",
+          "display_name": "Dispersion (optics)",
+          "level": 2,
+          "score": 0.5205184817314148
+        },
+        {
+          "id": "https://openalex.org/C99498987",
+          "wikidata": "https://www.wikidata.org/wiki/Q2210247",
+          "display_name": "Noise (video)",
+          "level": 3,
+          "score": 0.5177592635154724
+        },
+        {
+          "id": "https://openalex.org/C30947920",
+          "wikidata": "https://www.wikidata.org/wiki/Q2133491",
+          "display_name": "Seismic noise",
+          "level": 2,
+          "score": 0.4705013930797577
+        },
+        {
+          "id": "https://openalex.org/C24890656",
+          "wikidata": "https://www.wikidata.org/wiki/Q82811",
+          "display_name": "Acoustics",
+          "level": 1,
+          "score": 0.46296146512031555
+        },
+        {
+          "id": "https://openalex.org/C121130766",
+          "wikidata": "https://www.wikidata.org/wiki/Q192510",
+          "display_name": "Wavenumber",
+          "level": 2,
+          "score": 0.44644734263420105
+        },
+        {
+          "id": "https://openalex.org/C13280743",
+          "wikidata": "https://www.wikidata.org/wiki/Q131089",
+          "display_name": "Geodesy",
+          "level": 1,
+          "score": 0.36252281069755554
+        },
+        {
+          "id": "https://openalex.org/C120665830",
+          "wikidata": "https://www.wikidata.org/wiki/Q14620",
+          "display_name": "Optics",
+          "level": 1,
+          "score": 0.2757246792316437
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0.24925750494003296
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.0885721743106842
+        },
+        {
+          "id": "https://openalex.org/C115961682",
+          "wikidata": "https://www.wikidata.org/wiki/Q860623",
+          "display_name": "Image (mathematics)",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1190/1.1441183",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1190/1.1441183",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S106174089",
+            "display_name": "Geophysics",
+            "issn_l": "0016-8033",
+            "issn": [
+              "0016-8033",
+              "1942-2156"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310316678",
+            "host_organization_name": "Society of Exploration Geophysicists",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310316678"
+            ],
+            "host_organization_lineage_names": [
+              "Society of Exploration Geophysicists"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Geophysics",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 16,
+      "referenced_works": [
+        "https://openalex.org/W1577420699",
+        "https://openalex.org/W2018382216",
+        "https://openalex.org/W2049684760",
+        "https://openalex.org/W2051400378",
+        "https://openalex.org/W2075654039",
+        "https://openalex.org/W2086928487",
+        "https://openalex.org/W2101306007",
+        "https://openalex.org/W2108010353",
+        "https://openalex.org/W2119516151",
+        "https://openalex.org/W2152326356",
+        "https://openalex.org/W2164592454",
+        "https://openalex.org/W2208503098",
+        "https://openalex.org/W2219230591",
+        "https://openalex.org/W2267451851",
+        "https://openalex.org/W2596323630",
+        "https://openalex.org/W3144529538"
+      ],
+      "related_works": [
+        "https://openalex.org/W4386617227",
+        "https://openalex.org/W1558521841",
+        "https://openalex.org/W1983824476",
+        "https://openalex.org/W1964145015",
+        "https://openalex.org/W4235226117",
+        "https://openalex.org/W4230920733",
+        "https://openalex.org/W3146766707",
+        "https://openalex.org/W1992783276",
+        "https://openalex.org/W2350193313",
+        "https://openalex.org/W4367850082"
+      ],
+      "abstract_inverted_index": {
+        "2": [
+          109
+        ],
+        "80": [
+          114,
+          234
+        ],
+        "Abstract": [
+          0
+        ],
+        "Seismic": [
+          1
+        ],
+        "surveys": [
+          2
+        ],
+        "on": [
+          3,
+          62
+        ],
+        "land": [
+          4
+        ],
+        "must": [
+          5
+        ],
+        "be": [
+          6,
+          147,
+          213
+        ],
+        "designed": [
+          7
+        ],
+        "so": [
+          8
+        ],
+        "that": [
+          9,
+          46,
+          139
+        ],
+        "the": [
+          10,
+          38,
+          42,
+          47,
+          78,
+          86,
+          140,
+          163,
+          167,
+          188,
+          197,
+          208,
+          224,
+          241,
+          247
+        ],
+        "source-generated": [
+          11,
+          53
+        ],
+        "noise,": [
+          12
+        ],
+        "such": [
+          13
+        ],
+        "as": [
+          14
+        ],
+        "ground": [
+          15
+        ],
+        "roll,": [
+          16
+        ],
+        "is": [
+          17,
+          60,
+          98,
+          255,
+          268
+        ],
+        "preferentially": [
+          18
+        ],
+        "attenuated": [
+          19
+        ],
+        "before": [
+          20
+        ],
+        "P-wave": [
+          21,
+          68,
+          127,
+          171
+        ],
+        "signal": [
+          22
+        ],
+        "amplification": [
+          23
+        ],
+        "and": [
+          24,
+          31,
+          117,
+          134,
+          157,
+          192,
+          199,
+          226,
+          233,
+          243
+        ],
+        "recording.": [
+          25
+        ],
+        "The": [
+          26,
+          111
+        ],
+        "correct": [
+          27
+        ],
+        "specification": [
+          28
+        ],
+        "of": [
+          29,
+          37,
+          52,
+          80,
+          105,
+          121,
+          126,
+          132,
+          143,
+          153,
+          166,
+          187,
+          228,
+          250
+        ],
+        "spatial": [
+          30
+        ],
+        "frequency": [
+          32
+        ],
+        "filters": [
+          33
+        ],
+        "requires": [
+          34
+        ],
+        "prior": [
+          35
+        ],
+        "knowledge": [
+          36
+        ],
+        "noise": [
+          39,
+          54,
+          81,
+          115,
+          178
+        ],
+        "properties": [
+          40,
+          165
+        ],
+        "in": [
+          41,
+          71,
+          149,
+          151,
+          174
+        ],
+        "area.": [
+          43
+        ],
+        "We": [
+          44
+        ],
+        "show": [
+          45,
+          138
+        ],
+        "strong": [
+          48
+        ],
+        "Rayleigh": [
+          49,
+          92,
+          154,
+          217,
+          251,
+          262
+        ],
+        "wave": [
+          50,
+          93,
+          155,
+          159,
+          218,
+          263
+        ],
+        "component": [
+          51
+        ],
+        "has": [
+          55
+        ],
+        "a": [
+          56,
+          63,
+          118
+        ],
+        "wavelength": [
+          57,
+          248
+        ],
+        "range": [
+          58,
+          249
+        ],
+        "which": [
+          59,
+          222
+        ],
+        "predictable": [
+          61
+        ],
+        "regional": [
+          64
+        ],
+        "scale,": [
+          65
+        ],
+        "using": [
+          66
+        ],
+        "widespread": [
+          67
+        ],
+        "velocity": [
+          69
+        ],
+        "measurements": [
+          70,
+          125
+        ],
+        "shallow": [
+          72,
+          169,
+          175
+        ],
+        "upholes.": [
+          73
+        ],
+        "This": [
+          74
+        ],
+        "predictive": [
+          75
+        ],
+        "capability": [
+          76
+        ],
+        "decreases": [
+          77
+        ],
+        "number": [
+          79
+        ],
+        "analyses": [
+          82,
+          116
+        ],
+        "required": [
+          83
+        ],
+        "to": [
+          84,
+          183,
+          215,
+          245,
+          258,
+          270
+        ],
+        "map": [
+          85,
+          259
+        ],
+        "boundaries": [
+          87
+        ],
+        "between": [
+          88
+        ],
+        "areas": [
+          89
+        ],
+        "with": [
+          90
+        ],
+        "different": [
+          91
+        ],
+        "properties.The": [
+          94
+        ],
+        "case": [
+          95
+        ],
+        "history": [
+          96
+        ],
+        "presented": [
+          97
+        ],
+        "for": [
+          99,
+          240
+        ],
+        "northeastern": [
+          100
+        ],
+        "Saudi": [
+          101
+        ],
+        "Arabia,": [
+          102
+        ],
+        "an": [
+          103
+        ],
+        "area": [
+          104,
+          242
+        ],
+        "roughly": [
+          106
+        ],
+        "150,000": [
+          107
+        ],
+        "km": [
+          108
+        ],
+        ".": [
+          110
+        ],
+        "data": [
+          112,
+          119
+        ],
+        "comprise": [
+          113
+        ],
+        "base": [
+          120
+        ],
+        "over": [
+          122
+        ],
+        "10,000": [
+          123
+        ],
+        "uphole": [
+          124
+        ],
+        "velocities,": [
+          128,
+          172
+        ],
+        "supplemented": [
+          129
+        ],
+        "by": [
+          130,
+          162,
+          195
+        ],
+        "maps": [
+          131
+        ],
+        "topography": [
+          133,
+          267
+        ],
+        "geologic": [
+          135
+        ],
+        "outcrops.": [
+          136
+        ],
+        "Examples": [
+          137
+        ],
+        "frequency-wavenumber": [
+          141
+        ],
+        "transforms": [
+          142
+        ],
+        "time-offset": [
+          144
+        ],
+        "records": [
+          145
+        ],
+        "can": [
+          146,
+          212
+        ],
+        "interpreted": [
+          148
+        ],
+        "detail": [
+          150
+        ],
+        "terms": [
+          152
+        ],
+        "dispersion": [
+          156,
+          201
+        ],
+        "air": [
+          158
+        ],
+        "coupling,": [
+          160
+        ],
+        "dictated": [
+          161
+        ],
+        "elastic": [
+          164
+        ],
+        "very": [
+          168
+        ],
+        "layers.": [
+          170
+        ],
+        "measured": [
+          173
+        ],
+        "upholes": [
+          176
+        ],
+        "at": [
+          177,
+          220
+        ],
+        "analysis": [
+          179
+        ],
+        "sites,": [
+          180
+        ],
+        "are": [
+          181,
+          238
+        ],
+        "used": [
+          182,
+          214,
+          244
+        ],
+        "form": [
+          184
+        ],
+        "initial": [
+          185,
+          209
+        ],
+        "estimates": [
+          186
+        ],
+        "corresponding": [
+          189
+        ],
+        "shear-wave": [
+          190
+        ],
+        "velocities": [
+          191,
+          211,
+          219,
+          237
+        ],
+        "subsequently": [
+          193
+        ],
+        "refined": [
+          194
+        ],
+        "matching": [
+          196
+        ],
+        "observed": [
+          198
+        ],
+        "predicted": [
+          200
+        ],
+        "curves.": [
+          202
+        ],
+        "Even": [
+          203
+        ],
+        "without": [
+          204
+        ],
+        "this": [
+          205
+        ],
+        "refinement": [
+          206
+        ],
+        "process,": [
+          207
+        ],
+        "S-wave": [
+          210
+        ],
+        "estimate": [
+          216
+        ],
+        "frequencies": [
+          221
+        ],
+        "typify": [
+          223
+        ],
+        "top": [
+          225
+        ],
+        "bottom": [
+          227
+        ],
+        "current": [
+          229
+        ],
+        "vibrator": [
+          230
+        ],
+        "sweeps": [
+          231
+        ],
+        "(10": [
+          232
+        ],
+        "Hz).": [
+          235
+        ],
+        "These": [
+          236
+        ],
+        "mapped": [
+          239
+        ],
+        "determine": [
+          246
+        ],
+        "waves.": [
+          252
+        ],
+        "An": [
+          253
+        ],
+        "effort": [
+          254
+        ],
+        "also": [
+          256
+        ],
+        "made": [
+          257
+        ],
+        "regions": [
+          260
+        ],
+        "where": [
+          261
+        ],
+        "scattering": [
+          264
+        ],
+        "from": [
+          265
+        ],
+        "surface": [
+          266
+        ],
+        "likely": [
+          269
+        ],
+        "occur.": [
+          271
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 4
+        }
+      ],
+      "updated_date": "2026-08-01T09:00:35.917206",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2594660138",
       "doi": "https://doi.org/10.2113/geoarabia1402145",
       "title": "Update to Late Triassic – Jurassic stratigraphy of Saudi Arabia for the Middle East Geologic Time Scale",
@@ -10007,8 +11193,8 @@
           "host_organization_lineage_names": [],
           "type": "journal"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -10021,7 +11207,7 @@
       ],
       "open_access": {
         "is_oa": true,
-        "oa_status": "bronze",
+        "oa_status": "hybrid",
         "oa_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/14/2/145/5444335/husseini.pdf",
         "any_repository_has_fulltext": false
       },
@@ -10044,18 +11230,18 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 1,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5081811780"
       ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2388,
+      "fwci": 0.2033,
       "has_fulltext": false,
       "cited_by_count": 52,
       "citation_normalized_percentile": {
-        "value": 0.68042884,
+        "value": 0.64884786,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10402,8 +11588,8 @@
             "host_organization_lineage_names": [],
             "type": "journal"
           },
-          "license": null,
-          "license_id": null,
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -10432,8 +11618,8 @@
           "host_organization_lineage_names": [],
           "type": "journal"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -10444,8 +11630,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -11749,7 +12935,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-06-13T07:54:00.901334",
+      "updated_date": "2026-08-01T09:00:35.917206",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11830,11 +13016,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2649,
+      "fwci": 1.2647,
       "has_fulltext": false,
       "cited_by_count": 45,
       "citation_normalized_percentile": {
-        "value": 0.83016736,
+        "value": 0.83006782,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12118,8 +13304,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3093533935.pdf"
@@ -13507,8 +14693,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -15025,8 +16211,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2946023000.pdf"
@@ -15572,8 +16758,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 140,
@@ -16207,8 +17393,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 141,
@@ -17400,8 +18586,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -17912,8 +19098,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -18852,8 +20038,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -18901,1217 +20087,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2121166329",
-      "doi": "https://doi.org/10.1190/1.1441183",
-      "title": "Dispersion patterns of the ground roll in eastern Saudi Arabia",
-      "display_name": "Dispersion patterns of the ground roll in eastern Saudi Arabia",
-      "publication_year": 1981,
-      "publication_date": "1981-02-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2121166329",
-        "doi": "https://doi.org/10.1190/1.1441183",
-        "mag": "2121166329"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1190/1.1441183",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1190/1.1441183",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S106174089",
-          "display_name": "Geophysics",
-          "issn_l": "0016-8033",
-          "issn": [
-            "0016-8033",
-            "1942-2156"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310316678",
-          "host_organization_name": "Society of Exploration Geophysicists",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310316678"
-          ],
-          "host_organization_lineage_names": [
-            "Society of Exploration Geophysicists"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geophysics",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5081811780",
-            "display_name": "Moujahed Al-Husseini",
-            "orcid": "https://orcid.org/0009-0002-1087-5882"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Moujahed I. Al-Husseini",
-          "raw_affiliation_strings": [
-            "Aramco Overs. Co., Hague, Netherlands",
-            "Aramco Overseas Company, Laan Van Meerdervoort 55, The Hague, The Netherlands"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Aramco Overs. Co., Hague, Netherlands",
-              "institution_ids": [
-                "https://openalex.org/I62856769"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Aramco Overseas Company, Laan Van Meerdervoort 55, The Hague, The Netherlands",
-              "institution_ids": []
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5035668241",
-            "display_name": "Jon B. Glover",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2801725672",
-              "display_name": "Western Isles Hospital",
-              "ror": "https://ror.org/00254th47",
-              "country_code": "GB",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I2801725672"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Jon B. Glover",
-          "raw_affiliation_strings": [
-            "Western Geophysical Co. of America, Wesgeco Building, Worton Road, Islesworth, Middlesex, U.K"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Western Geophysical Co. of America, Wesgeco Building, Worton Road, Islesworth, Middlesex, U.K",
-              "institution_ids": [
-                "https://openalex.org/I2801725672"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5091790134",
-            "display_name": "Brian Barley",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I2801725672",
-              "display_name": "Western Isles Hospital",
-              "ror": "https://ror.org/00254th47",
-              "country_code": "GB",
-              "type": "healthcare",
-              "lineage": [
-                "https://openalex.org/I2801725672"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Brian J. Barley",
-          "raw_affiliation_strings": [
-            "Western Geophysical Co. of America, Wesgeco Building, Worton Road, Islesworth, Middlesex, U.K"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Western Geophysical Co. of America, Wesgeco Building, Worton Road, Islesworth, Middlesex, U.K",
-              "institution_ids": [
-                "https://openalex.org/I2801725672"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.6148,
-      "has_fulltext": false,
-      "cited_by_count": 56,
-      "citation_normalized_percentile": {
-        "value": 0.66410641,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "46",
-        "issue": "2",
-        "first_page": "121",
-        "last_page": "137"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11757",
-        "display_name": "Seismic Waves and Analysis",
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11757",
-          "display_name": "Seismic Waves and Analysis",
-          "score": 1,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10271",
-          "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.9986000061035156,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13018",
-          "display_name": "Seismology and Earthquake Studies",
-          "score": 0.9980999827384949,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/rayleigh-wave",
-          "display_name": "Rayleigh wave",
-          "score": 0.8277934789657593
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.6897228956222534
-        },
-        {
-          "id": "https://openalex.org/keywords/seismology",
-          "display_name": "Seismology",
-          "score": 0.5602514743804932
-        },
-        {
-          "id": "https://openalex.org/keywords/surface-wave",
-          "display_name": "Surface wave",
-          "score": 0.5598287582397461
-        },
-        {
-          "id": "https://openalex.org/keywords/microseism",
-          "display_name": "Microseism",
-          "score": 0.5370522737503052
-        },
-        {
-          "id": "https://openalex.org/keywords/dispersion",
-          "display_name": "Dispersion (optics)",
-          "score": 0.5205184817314148
-        },
-        {
-          "id": "https://openalex.org/keywords/noise",
-          "display_name": "Noise (video)",
-          "score": 0.5177592635154724
-        },
-        {
-          "id": "https://openalex.org/keywords/seismic-noise",
-          "display_name": "Seismic noise",
-          "score": 0.4705013930797577
-        },
-        {
-          "id": "https://openalex.org/keywords/acoustics",
-          "display_name": "Acoustics",
-          "score": 0.46296146512031555
-        },
-        {
-          "id": "https://openalex.org/keywords/wavenumber",
-          "display_name": "Wavenumber",
-          "score": 0.44644734263420105
-        },
-        {
-          "id": "https://openalex.org/keywords/geodesy",
-          "display_name": "Geodesy",
-          "score": 0.36252281069755554
-        },
-        {
-          "id": "https://openalex.org/keywords/optics",
-          "display_name": "Optics",
-          "score": 0.2757246792316437
-        },
-        {
-          "id": "https://openalex.org/keywords/physics",
-          "display_name": "Physics",
-          "score": 0.24925750494003296
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.0885721743106842
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C51473458",
-          "wikidata": "https://www.wikidata.org/wiki/Q2351144",
-          "display_name": "Rayleigh wave",
-          "level": 3,
-          "score": 0.8277934789657593
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.6897228956222534
-        },
-        {
-          "id": "https://openalex.org/C165205528",
-          "wikidata": "https://www.wikidata.org/wiki/Q83371",
-          "display_name": "Seismology",
-          "level": 1,
-          "score": 0.5602514743804932
-        },
-        {
-          "id": "https://openalex.org/C84174578",
-          "wikidata": "https://www.wikidata.org/wiki/Q889796",
-          "display_name": "Surface wave",
-          "level": 2,
-          "score": 0.5598287582397461
-        },
-        {
-          "id": "https://openalex.org/C7266685",
-          "wikidata": "https://www.wikidata.org/wiki/Q1303250",
-          "display_name": "Microseism",
-          "level": 2,
-          "score": 0.5370522737503052
-        },
-        {
-          "id": "https://openalex.org/C177562468",
-          "wikidata": "https://www.wikidata.org/wiki/Q182893",
-          "display_name": "Dispersion (optics)",
-          "level": 2,
-          "score": 0.5205184817314148
-        },
-        {
-          "id": "https://openalex.org/C99498987",
-          "wikidata": "https://www.wikidata.org/wiki/Q2210247",
-          "display_name": "Noise (video)",
-          "level": 3,
-          "score": 0.5177592635154724
-        },
-        {
-          "id": "https://openalex.org/C30947920",
-          "wikidata": "https://www.wikidata.org/wiki/Q2133491",
-          "display_name": "Seismic noise",
-          "level": 2,
-          "score": 0.4705013930797577
-        },
-        {
-          "id": "https://openalex.org/C24890656",
-          "wikidata": "https://www.wikidata.org/wiki/Q82811",
-          "display_name": "Acoustics",
-          "level": 1,
-          "score": 0.46296146512031555
-        },
-        {
-          "id": "https://openalex.org/C121130766",
-          "wikidata": "https://www.wikidata.org/wiki/Q192510",
-          "display_name": "Wavenumber",
-          "level": 2,
-          "score": 0.44644734263420105
-        },
-        {
-          "id": "https://openalex.org/C13280743",
-          "wikidata": "https://www.wikidata.org/wiki/Q131089",
-          "display_name": "Geodesy",
-          "level": 1,
-          "score": 0.36252281069755554
-        },
-        {
-          "id": "https://openalex.org/C120665830",
-          "wikidata": "https://www.wikidata.org/wiki/Q14620",
-          "display_name": "Optics",
-          "level": 1,
-          "score": 0.2757246792316437
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0.24925750494003296
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.0885721743106842
-        },
-        {
-          "id": "https://openalex.org/C115961682",
-          "wikidata": "https://www.wikidata.org/wiki/Q860623",
-          "display_name": "Image (mathematics)",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C154945302",
-          "wikidata": "https://www.wikidata.org/wiki/Q11660",
-          "display_name": "Artificial intelligence",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1190/1.1441183",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1190/1.1441183",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S106174089",
-            "display_name": "Geophysics",
-            "issn_l": "0016-8033",
-            "issn": [
-              "0016-8033",
-              "1942-2156"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310316678",
-            "host_organization_name": "Society of Exploration Geophysicists",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310316678"
-            ],
-            "host_organization_lineage_names": [
-              "Society of Exploration Geophysicists"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Geophysics",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 16,
-      "referenced_works": [
-        "https://openalex.org/W1577420699",
-        "https://openalex.org/W2018382216",
-        "https://openalex.org/W2049684760",
-        "https://openalex.org/W2051400378",
-        "https://openalex.org/W2075654039",
-        "https://openalex.org/W2086928487",
-        "https://openalex.org/W2101306007",
-        "https://openalex.org/W2108010353",
-        "https://openalex.org/W2119516151",
-        "https://openalex.org/W2152326356",
-        "https://openalex.org/W2164592454",
-        "https://openalex.org/W2208503098",
-        "https://openalex.org/W2219230591",
-        "https://openalex.org/W2267451851",
-        "https://openalex.org/W2596323630",
-        "https://openalex.org/W3144529538"
-      ],
-      "related_works": [
-        "https://openalex.org/W4386617227",
-        "https://openalex.org/W1558521841",
-        "https://openalex.org/W1983824476",
-        "https://openalex.org/W1964145015",
-        "https://openalex.org/W4235226117",
-        "https://openalex.org/W4230920733",
-        "https://openalex.org/W3146766707",
-        "https://openalex.org/W1992783276",
-        "https://openalex.org/W2350193313",
-        "https://openalex.org/W4367850082"
-      ],
-      "abstract_inverted_index": {
-        "2": [
-          109
-        ],
-        "80": [
-          114,
-          234
-        ],
-        "Abstract": [
-          0
-        ],
-        "Seismic": [
-          1
-        ],
-        "surveys": [
-          2
-        ],
-        "on": [
-          3,
-          62
-        ],
-        "land": [
-          4
-        ],
-        "must": [
-          5
-        ],
-        "be": [
-          6,
-          147,
-          213
-        ],
-        "designed": [
-          7
-        ],
-        "so": [
-          8
-        ],
-        "that": [
-          9,
-          46,
-          139
-        ],
-        "the": [
-          10,
-          38,
-          42,
-          47,
-          78,
-          86,
-          140,
-          163,
-          167,
-          188,
-          197,
-          208,
-          224,
-          241,
-          247
-        ],
-        "source-generated": [
-          11,
-          53
-        ],
-        "noise,": [
-          12
-        ],
-        "such": [
-          13
-        ],
-        "as": [
-          14
-        ],
-        "ground": [
-          15
-        ],
-        "roll,": [
-          16
-        ],
-        "is": [
-          17,
-          60,
-          98,
-          255,
-          268
-        ],
-        "preferentially": [
-          18
-        ],
-        "attenuated": [
-          19
-        ],
-        "before": [
-          20
-        ],
-        "P-wave": [
-          21,
-          68,
-          127,
-          171
-        ],
-        "signal": [
-          22
-        ],
-        "amplification": [
-          23
-        ],
-        "and": [
-          24,
-          31,
-          117,
-          134,
-          157,
-          192,
-          199,
-          226,
-          233,
-          243
-        ],
-        "recording.": [
-          25
-        ],
-        "The": [
-          26,
-          111
-        ],
-        "correct": [
-          27
-        ],
-        "specification": [
-          28
-        ],
-        "of": [
-          29,
-          37,
-          52,
-          80,
-          105,
-          121,
-          126,
-          132,
-          143,
-          153,
-          166,
-          187,
-          228,
-          250
-        ],
-        "spatial": [
-          30
-        ],
-        "frequency": [
-          32
-        ],
-        "filters": [
-          33
-        ],
-        "requires": [
-          34
-        ],
-        "prior": [
-          35
-        ],
-        "knowledge": [
-          36
-        ],
-        "noise": [
-          39,
-          54,
-          81,
-          115,
-          178
-        ],
-        "properties": [
-          40,
-          165
-        ],
-        "in": [
-          41,
-          71,
-          149,
-          151,
-          174
-        ],
-        "area.": [
-          43
-        ],
-        "We": [
-          44
-        ],
-        "show": [
-          45,
-          138
-        ],
-        "strong": [
-          48
-        ],
-        "Rayleigh": [
-          49,
-          92,
-          154,
-          217,
-          251,
-          262
-        ],
-        "wave": [
-          50,
-          93,
-          155,
-          159,
-          218,
-          263
-        ],
-        "component": [
-          51
-        ],
-        "has": [
-          55
-        ],
-        "a": [
-          56,
-          63,
-          118
-        ],
-        "wavelength": [
-          57,
-          248
-        ],
-        "range": [
-          58,
-          249
-        ],
-        "which": [
-          59,
-          222
-        ],
-        "predictable": [
-          61
-        ],
-        "regional": [
-          64
-        ],
-        "scale,": [
-          65
-        ],
-        "using": [
-          66
-        ],
-        "widespread": [
-          67
-        ],
-        "velocity": [
-          69
-        ],
-        "measurements": [
-          70,
-          125
-        ],
-        "shallow": [
-          72,
-          169,
-          175
-        ],
-        "upholes.": [
-          73
-        ],
-        "This": [
-          74
-        ],
-        "predictive": [
-          75
-        ],
-        "capability": [
-          76
-        ],
-        "decreases": [
-          77
-        ],
-        "number": [
-          79
-        ],
-        "analyses": [
-          82,
-          116
-        ],
-        "required": [
-          83
-        ],
-        "to": [
-          84,
-          183,
-          215,
-          245,
-          258,
-          270
-        ],
-        "map": [
-          85,
-          259
-        ],
-        "boundaries": [
-          87
-        ],
-        "between": [
-          88
-        ],
-        "areas": [
-          89
-        ],
-        "with": [
-          90
-        ],
-        "different": [
-          91
-        ],
-        "properties.The": [
-          94
-        ],
-        "case": [
-          95
-        ],
-        "history": [
-          96
-        ],
-        "presented": [
-          97
-        ],
-        "for": [
-          99,
-          240
-        ],
-        "northeastern": [
-          100
-        ],
-        "Saudi": [
-          101
-        ],
-        "Arabia,": [
-          102
-        ],
-        "an": [
-          103
-        ],
-        "area": [
-          104,
-          242
-        ],
-        "roughly": [
-          106
-        ],
-        "150,000": [
-          107
-        ],
-        "km": [
-          108
-        ],
-        ".": [
-          110
-        ],
-        "data": [
-          112,
-          119
-        ],
-        "comprise": [
-          113
-        ],
-        "base": [
-          120
-        ],
-        "over": [
-          122
-        ],
-        "10,000": [
-          123
-        ],
-        "uphole": [
-          124
-        ],
-        "velocities,": [
-          128,
-          172
-        ],
-        "supplemented": [
-          129
-        ],
-        "by": [
-          130,
-          162,
-          195
-        ],
-        "maps": [
-          131
-        ],
-        "topography": [
-          133,
-          267
-        ],
-        "geologic": [
-          135
-        ],
-        "outcrops.": [
-          136
-        ],
-        "Examples": [
-          137
-        ],
-        "frequency-wavenumber": [
-          141
-        ],
-        "transforms": [
-          142
-        ],
-        "time-offset": [
-          144
-        ],
-        "records": [
-          145
-        ],
-        "can": [
-          146,
-          212
-        ],
-        "interpreted": [
-          148
-        ],
-        "detail": [
-          150
-        ],
-        "terms": [
-          152
-        ],
-        "dispersion": [
-          156,
-          201
-        ],
-        "air": [
-          158
-        ],
-        "coupling,": [
-          160
-        ],
-        "dictated": [
-          161
-        ],
-        "elastic": [
-          164
-        ],
-        "very": [
-          168
-        ],
-        "layers.": [
-          170
-        ],
-        "measured": [
-          173
-        ],
-        "upholes": [
-          176
-        ],
-        "at": [
-          177,
-          220
-        ],
-        "analysis": [
-          179
-        ],
-        "sites,": [
-          180
-        ],
-        "are": [
-          181,
-          238
-        ],
-        "used": [
-          182,
-          214,
-          244
-        ],
-        "form": [
-          184
-        ],
-        "initial": [
-          185,
-          209
-        ],
-        "estimates": [
-          186
-        ],
-        "corresponding": [
-          189
-        ],
-        "shear-wave": [
-          190
-        ],
-        "velocities": [
-          191,
-          211,
-          219,
-          237
-        ],
-        "subsequently": [
-          193
-        ],
-        "refined": [
-          194
-        ],
-        "matching": [
-          196
-        ],
-        "observed": [
-          198
-        ],
-        "predicted": [
-          200
-        ],
-        "curves.": [
-          202
-        ],
-        "Even": [
-          203
-        ],
-        "without": [
-          204
-        ],
-        "this": [
-          205
-        ],
-        "refinement": [
-          206
-        ],
-        "process,": [
-          207
-        ],
-        "S-wave": [
-          210
-        ],
-        "estimate": [
-          216
-        ],
-        "frequencies": [
-          221
-        ],
-        "typify": [
-          223
-        ],
-        "top": [
-          225
-        ],
-        "bottom": [
-          227
-        ],
-        "current": [
-          229
-        ],
-        "vibrator": [
-          230
-        ],
-        "sweeps": [
-          231
-        ],
-        "(10": [
-          232
-        ],
-        "Hz).": [
-          235
-        ],
-        "These": [
-          236
-        ],
-        "mapped": [
-          239
-        ],
-        "determine": [
-          246
-        ],
-        "waves.": [
-          252
-        ],
-        "An": [
-          253
-        ],
-        "effort": [
-          254
-        ],
-        "also": [
-          256
-        ],
-        "made": [
-          257
-        ],
-        "regions": [
-          260
-        ],
-        "where": [
-          261
-        ],
-        "scattering": [
-          264
-        ],
-        "from": [
-          265
-        ],
-        "surface": [
-          266
-        ],
-        "likely": [
-          269
-        ],
-        "occur.": [
-          271
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 4
-        }
-      ],
-      "updated_date": "2026-07-22T07:51:19.307946",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2922003475",
       "doi": "https://doi.org/10.2113/geoarabia1503155",
       "title": "Orbital-forcing glacio-eustasy: A sequence-stratigraphic time scale",
@@ -20145,8 +20120,8 @@
           "host_organization_lineage_names": [],
           "type": "journal"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -20159,7 +20134,7 @@
       ],
       "open_access": {
         "is_oa": true,
-        "oa_status": "bronze",
+        "oa_status": "hybrid",
         "oa_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/15/3/155/5445034/matthews.pdf",
         "any_repository_has_fulltext": false
       },
@@ -20202,11 +20177,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.8637,
+      "fwci": 2.8736,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.89740126,
+        "value": 0.89777321,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20486,8 +20461,8 @@
             "host_organization_lineage_names": [],
             "type": "journal"
           },
-          "license": null,
-          "license_id": null,
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -20516,8 +20491,8 @@
           "host_organization_lineage_names": [],
           "type": "journal"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -20534,8 +20509,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2922003475.pdf"
@@ -20909,7 +20884,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-17T09:13:05.818461",
+      "updated_date": "2026-08-01T09:00:35.917206",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21363,8 +21338,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2998820729.pdf"
@@ -22582,8 +22557,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -24242,8 +24217,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2967258048.pdf",
@@ -25210,11 +25185,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.5843,
+      "fwci": 1.5846,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.82778232,
+        "value": 0.82781608,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25607,8 +25582,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2202216454.pdf"
@@ -26604,11 +26579,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.4919,
+      "fwci": 2.4884,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.89764493,
+        "value": 0.89754352,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -26931,8 +26906,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3004523161.pdf"
@@ -28268,8 +28243,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 30,
@@ -29321,11 +29296,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.9451,
+      "fwci": 2.9415,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.90960452,
+        "value": 0.90956998,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -29656,8 +29631,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2951871263.pdf"
@@ -30944,8 +30919,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -31426,8 +31401,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2964097576.pdf"
@@ -32537,8 +32512,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3083121467.pdf"
@@ -33632,7 +33607,7 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1394,
+      "fwci": 2.1396,
       "has_fulltext": false,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
@@ -34000,8 +33975,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2782942463.pdf"
@@ -35323,8 +35298,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -36006,11 +35981,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.9843,
+      "fwci": 4.9833,
       "has_fulltext": false,
       "cited_by_count": 27,
       "citation_normalized_percentile": {
-        "value": 0.94488395,
+        "value": 0.94486953,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -36362,8 +36337,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2972289394.pdf"
@@ -37794,8 +37769,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2990369555.pdf",
@@ -38446,8 +38421,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -39702,11 +39677,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.5138,
+      "fwci": 3.514,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.92020553,
+        "value": 0.92023582,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -40027,8 +40002,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2574973601.pdf"
@@ -41736,8 +41711,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3094434653.pdf"
@@ -42319,8 +42294,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -43093,8 +43068,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2150065718.pdf"
@@ -44044,8 +44019,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2970361768.pdf"
@@ -44162,8 +44137,8 @@
           "host_organization_lineage_names": [],
           "type": "journal"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -44176,7 +44151,7 @@
       ],
       "open_access": {
         "is_oa": true,
-        "oa_status": "bronze",
+        "oa_status": "hybrid",
         "oa_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/15/2/175/5444932/husseini_megts2010.pdf",
         "any_repository_has_fulltext": false
       },
@@ -44304,7 +44279,7 @@
       "has_fulltext": true,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.82030265,
+        "value": 0.82029608,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -44577,8 +44552,8 @@
             "host_organization_lineage_names": [],
             "type": "journal"
           },
-          "license": null,
-          "license_id": null,
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -44607,8 +44582,8 @@
           "host_organization_lineage_names": [],
           "type": "journal"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -44631,8 +44606,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2955710534.pdf",
@@ -46092,7 +46067,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-08-01T09:00:35.917206",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -46574,8 +46549,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 148,
@@ -47139,8 +47114,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 104,
@@ -48057,8 +48032,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4393192528.pdf"
@@ -48992,8 +48967,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -50221,8 +50196,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -51088,11 +51063,11 @@
         "currency": "USD",
         "value_usd": 2100
       },
-      "fwci": 4.5984,
+      "fwci": 4.587,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.94314349,
+        "value": 0.94275806,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -51461,8 +51436,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -52346,8 +52321,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -53392,11 +53367,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7802,
+      "fwci": 0.7805,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.74762341,
+        "value": 0.74765529,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -53703,8 +53678,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3011458131.pdf"
@@ -54762,7 +54737,7 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.44103997,
+        "value": 0.44121212,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -55127,8 +55102,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -56650,8 +56625,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3123020830.pdf"
@@ -57984,8 +57959,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2968475188.pdf"
@@ -58817,8 +58792,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -59207,8 +59182,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -59569,8 +59544,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3128531337.pdf"
@@ -60007,8 +59982,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3012103603.pdf"
@@ -60443,8 +60418,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2952036994.pdf"
@@ -60802,8 +60777,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2967961194.pdf"
@@ -61278,8 +61253,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -62212,8 +62187,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -63547,8 +63522,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -63929,8 +63904,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -64303,8 +64278,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -64948,8 +64923,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -65087,8 +65062,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

@@ -60,21 +60,6 @@
       },
       {
         "institution": {
-          "id": "https://openalex.org/I4210134214",
-          "ror": "https://ror.org/046qx3a23",
-          "display_name": "Beijing Research Institute of Uranium Geology",
-          "country_code": "CN",
-          "type": "facility",
-          "lineage": [
-            "https://openalex.org/I4210134214"
-          ]
-        },
-        "years": [
-          2021
-        ]
-      },
-      {
-        "institution": {
           "id": "https://openalex.org/I4210140406",
           "ror": "https://ror.org/032ab1973",
           "display_name": "Geological Survey Department",
@@ -470,7 +455,7 @@
     ],
     "block_key": "a memesh",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044930714",
-    "updated_date": "2026-07-27T12:17:47",
+    "updated_date": "2026-07-31T12:17:18",
     "created_date": "2018-04-24T00:00:00"
   },
   "works": [
@@ -1884,11 +1869,11 @@
         "value_usd": 11690
       },
       "apc_paid": null,
-      "fwci": 108.1393,
+      "fwci": 108.0616,
       "has_fulltext": true,
       "cited_by_count": 188,
       "citation_normalized_percentile": {
-        "value": 0.99945785,
+        "value": 0.99945786,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2392,7 +2377,7 @@
           "raw_type": null
         },
         {
-          "id": "pmh:oai:kclpure.kcl.ac.uk:publications/b96822e2-bbb0-4177-b101-1cfcc1c4bb4f",
+          "id": "pmh:oai:kclpure.kcl.ac.uk:openaire/b96822e2-bbb0-4177-b101-1cfcc1c4bb4f",
           "is_oa": true,
           "landing_page_url": "https://kclpure.kcl.ac.uk/portal/en/publications/b96822e2-bbb0-4177-b101-1cfcc1c4bb4f",
           "pdf_url": null,
@@ -2722,7 +2707,7 @@
         }
       ],
       "best_oa_location": {
-        "id": "pmh:oai:kclpure.kcl.ac.uk:publications/b96822e2-bbb0-4177-b101-1cfcc1c4bb4f",
+        "id": "pmh:oai:kclpure.kcl.ac.uk:openaire/b96822e2-bbb0-4177-b101-1cfcc1c4bb4f",
         "is_oa": true,
         "landing_page_url": "https://kclpure.kcl.ac.uk/portal/en/publications/b96822e2-bbb0-4177-b101-1cfcc1c4bb4f",
         "pdf_url": null,
@@ -2752,9 +2737,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [
@@ -2970,7 +2955,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-29T09:40:50.615796",
+      "updated_date": "2026-08-01T09:00:35.917206",
       "created_date": "2018-04-24T00:00:00"
     },
     {
@@ -3780,11 +3765,11 @@
         "value_usd": 3520
       },
       "apc_paid": null,
-      "fwci": 26.3405,
+      "fwci": 26.1601,
       "has_fulltext": true,
       "cited_by_count": 47,
       "citation_normalized_percentile": {
-        "value": 0.99228244,
+        "value": 0.99220903,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4103,25 +4088,11 @@
           },
           "license": "other-oa",
           "license_id": "https://openalex.org/licenses/other-oa",
-          "version": "submittedVersion",
-          "is_accepted": false,
+          "version": "acceptedVersion",
+          "is_accepted": true,
           "is_published": false,
           "raw_source_name": "Stimpson, C M, Lister, A, Parton, A, Clark-Balzan, L, Breeze, P S, Drake, N A, Groucutt, H S, Jennings, R, Scerri, E M L, White, T S, Zahir, M, Duval, M, Grün, R, Al-Omari, A, Al Murayyi, K S M, Zalmout, I S, Mufarreh, Y A, Memesh, A M & Petraglia, M D 2016, 'Middle Pleistocene vertebrate fossils from the Nefud Desert, Saudi Arabia : Implications for biogeography and palaeoecology', QUATERNARY SCIENCE REVIEWS, vol. 143, pp. 13-36. https://doi.org/10.1016/j.quascirev.2016.05.016",
           "raw_type": "info:eu-repo/semantics/publishedVersion"
-        },
-        {
-          "id": "pmh:oai:research-repository.griffith.edu.au:10072/142575",
-          "is_oa": true,
-          "landing_page_url": "http://hdl.handle.net/10072/142575",
-          "pdf_url": "http://hdl.handle.net/10072/142575",
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "",
-          "raw_type": "Journal article"
         },
         {
           "id": "pmh:oai:researchonline.ljmu.ac.uk:9395",
@@ -4269,6 +4240,20 @@
           "raw_type": "info:eu-repo/semantics/article"
         },
         {
+          "id": "pmh:oai:research-repository.griffith.edu.au:10072/142575",
+          "is_oa": true,
+          "landing_page_url": "http://hdl.handle.net/10072/142575",
+          "pdf_url": null,
+          "source": null,
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Journal article"
+        },
+        {
           "id": "pmh:tle:84973c13-c5a0-424f-b1a0-8e26dd524f24:b4ef9587-4603-18f8-a471-bb20511f0ad9:1",
           "is_oa": true,
           "landing_page_url": "https://radar.brookes.ac.uk/radar/items/84973c13-c5a0-424f-b1a0-8e26dd524f24/1",
@@ -4321,17 +4306,17 @@
         },
         "license": "other-oa",
         "license_id": "https://openalex.org/licenses/other-oa",
-        "version": "submittedVersion",
-        "is_accepted": false,
+        "version": "acceptedVersion",
+        "is_accepted": true,
         "is_published": false,
         "raw_source_name": "Stimpson, C M, Lister, A, Parton, A, Clark-Balzan, L, Breeze, P S, Drake, N A, Groucutt, H S, Jennings, R, Scerri, E M L, White, T S, Zahir, M, Duval, M, Grün, R, Al-Omari, A, Al Murayyi, K S M, Zalmout, I S, Mufarreh, Y A, Memesh, A M & Petraglia, M D 2016, 'Middle Pleistocene vertebrate fossils from the Nefud Desert, Saudi Arabia : Implications for biogeography and palaeoecology', QUATERNARY SCIENCE REVIEWS, vol. 143, pp. 13-36. https://doi.org/10.1016/j.quascirev.2016.05.016",
         "raw_type": "info:eu-repo/semantics/publishedVersion"
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6200000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6200000047683716
         }
       ],
       "awards": [
@@ -5158,7 +5143,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-08-01T09:00:35.917206",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5827,9 +5812,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5199999809265137,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
@@ -6578,7 +6563,7 @@
       "has_fulltext": false,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.87450172,
+        "value": 0.87446721,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6932,9 +6917,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -9805,11 +9790,11 @@
         "value_usd": 2670
       },
       "apc_paid": null,
-      "fwci": 1.7946,
+      "fwci": 1.7951,
       "has_fulltext": true,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.82960303,
+        "value": 0.82957173,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10142,7 +10127,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 7,
+      "locations_count": 8,
       "locations": [
         {
           "id": "doi:10.1016/j.ara.2017.02.002",
@@ -10179,7 +10164,7 @@
           "raw_type": "journal-article"
         },
         {
-          "id": "pmh:oai:kclpure.kcl.ac.uk:openaire/286d340c-4eb0-4752-8581-7d72a32bf6a2",
+          "id": "pmh:oai:kclpure.kcl.ac.uk:publications/286d340c-4eb0-4752-8581-7d72a32bf6a2",
           "is_oa": false,
           "landing_page_url": "https://kclpure.kcl.ac.uk/portal/en/publications/286d340c-4eb0-4752-8581-7d72a32bf6a2",
           "pdf_url": null,
@@ -10293,6 +10278,35 @@
           "raw_type": "Journal article"
         },
         {
+          "id": "pmh:oai:pure.mpg.de:item_2406997",
+          "is_oa": false,
+          "landing_page_url": "https://hdl.handle.net/11858/00-001M-0000-002C-A2F4-7",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400654",
+            "display_name": "MPG.PuRe (Max Planck Society)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I149899117",
+            "host_organization_name": "Max Planck Society",
+            "host_organization_lineage": [
+              "https://openalex.org/I149899117"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Archaeological Research in Asia",
+          "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
           "id": "pmh:oai:pure.mpg.de:item_3052857",
           "is_oa": false,
           "landing_page_url": "http://hdl.handle.net/21.11116/0000-0003-F46E-F",
@@ -10383,9 +10397,9 @@
       "sustainable_development_goals": [],
       "awards": [
         {
-          "id": "https://openalex.org/G8572164514",
+          "id": "https://openalex.org/G3292515912",
           "display_name": null,
-          "funder_award_id": "295719",
+          "funder_award_id": "295719,",
           "funder_id": "https://openalex.org/F4320338335",
           "funder_display_name": "H2020 European Research Council"
         }
@@ -10505,7 +10519,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-08-01T09:00:35.917206",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11047,9 +11061,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5400000214576721,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5400000214576721
         }
       ],
       "awards": [],
@@ -12874,9 +12888,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.800000011920929
         }
       ],
       "awards": [
@@ -13716,11 +13730,11 @@
         "currency": "USD",
         "value_usd": 4540
       },
-      "fwci": 1.6417,
+      "fwci": 1.3127,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.82065532,
+        "value": 0.77398235,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14042,9 +14056,9 @@
           "funder_display_name": "Deutsches Zentrum für Luft- und Raumfahrt"
         },
         {
-          "id": "https://openalex.org/G8653831550",
+          "id": "https://openalex.org/G3801677241",
           "display_name": null,
-          "funder_award_id": "PID2021-123189NB-I00",
+          "funder_award_id": "PID2021- 123189NB-I00",
           "funder_id": "https://openalex.org/F4320322930",
           "funder_display_name": "Ministerio de Ciencia e Innovación"
         }
@@ -14850,7 +14864,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-07-02T09:51:11.867554",
+      "updated_date": "2026-08-01T09:00:35.917206",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15888,11 +15902,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.853,
+      "fwci": 1.8524,
       "has_fulltext": false,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.82935342,
+        "value": 0.82931949,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16256,9 +16270,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
@@ -17834,9 +17848,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -18510,9 +18524,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -19551,11 +19565,11 @@
         "currency": "CHF",
         "value_usd": 2227
       },
-      "fwci": 2.585,
+      "fwci": 2.5839,
       "has_fulltext": true,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.87842574,
+        "value": 0.87834242,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19936,9 +19950,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -20852,11 +20866,11 @@
         "currency": "USD",
         "value_usd": 1300
       },
-      "fwci": 1.823,
+      "fwci": 1.821,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.8574317,
+        "value": 0.85733537,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21233,7 +21247,7 @@
         },
         {
           "id": "pmh:oai:centre-mersenne.org:CRGEOS_2023__355_S2_99_0",
-          "is_oa": false,
+          "is_oa": true,
           "landing_page_url": "https://comptes-rendus.academie-sciences.fr/geoscience/articles/10.5802/crgeos.227/",
           "pdf_url": null,
           "source": {
@@ -21250,8 +21264,8 @@
             "host_organization_lineage_names": [],
             "type": "journal"
           },
-          "license": null,
-          "license_id": null,
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -22002,7 +22016,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-08-01T09:00:35.917206",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -23063,11 +23077,11 @@
         "currency": "USD",
         "value_usd": 1805
       },
-      "fwci": 6.3871,
+      "fwci": 6.3659,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.96436556,
+        "value": 0.96429554,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24885,9 +24899,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6899999976158142,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6899999976158142
         }
       ],
       "awards": [],
@@ -27105,9 +27119,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],

@@ -8,10 +8,10 @@
       "Adhipa Herlambang"
     ],
     "full_name": "Adhipa Herlambang",
-    "works_count": 33,
-    "cited_by_count": 74,
+    "works_count": 34,
+    "cited_by_count": 75,
     "summary_stats": {
-      "2yr_mean_citedness": 1.5909090909090908,
+      "2yr_mean_citedness": 1.5217391304347827,
       "h_index": 5,
       "i10_index": 2
     },
@@ -104,7 +104,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "count": 15,
+        "count": 16,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -174,7 +174,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.000061,
+        "value": 0.0000651,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -225,7 +225,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0000214,
+        "value": 0.0000285,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -242,7 +242,7 @@
       {
         "id": "https://openalex.org/T14160",
         "display_name": "Water management and technologies",
-        "value": 0.0000185,
+        "value": 0.0000184,
         "subfield": {
           "id": "https://openalex.org/subfields/1105",
           "display_name": "Ecology, Evolution, Behavior and Systematics"
@@ -306,7 +306,7 @@
         "year": 2023,
         "works_count": 7,
         "oa_works_count": 4,
-        "cited_by_count": 23
+        "cited_by_count": 24
       },
       {
         "year": 2024,
@@ -322,7 +322,7 @@
       },
       {
         "year": 2026,
-        "works_count": 3,
+        "works_count": 4,
         "oa_works_count": 2,
         "cited_by_count": 0
       }
@@ -333,7 +333,7 @@
     ],
     "block_key": "a herlambang",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5051302005",
-    "updated_date": "2026-07-28T12:17:01",
+    "updated_date": "2026-07-31T12:17:18",
     "created_date": "2023-12-06T00:00:00"
   },
   "works": [
@@ -947,9 +947,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -2641,9 +2641,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -3921,11 +3921,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 8.6188,
+      "fwci": 7.2859,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.97052812,
+        "value": 0.96483838,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -4227,9 +4227,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -4241,9 +4241,9 @@
           "funder_display_name": "Khalifa University of Science, Technology and Research"
         },
         {
-          "id": "https://openalex.org/G3057190137",
+          "id": "https://openalex.org/G302735620",
           "display_name": null,
-          "funder_award_id": "FSU-2018-15",
+          "funder_award_id": "FSU‐2018‐15",
           "funder_id": "https://openalex.org/F4320322334",
           "funder_display_name": "Khalifa University of Science, Technology and Research"
         },
@@ -4391,7 +4391,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-13T07:31:44.756512",
+      "updated_date": "2026-08-01T09:00:35.917206",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6562,9 +6562,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.44999998807907104
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -7378,9 +7378,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -8521,9 +8521,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.47999998927116394
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -9747,9 +9747,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -10638,11 +10638,11 @@
         "currency": "USD",
         "value_usd": 2000
       },
-      "fwci": 0.1058,
+      "fwci": 0.1056,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.42495468,
+        "value": 0.42465753,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11053,25 +11053,32 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.6600000262260437,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6600000262260437
+          "display_name": "Life below water"
         }
       ],
       "awards": [
         {
           "id": "https://openalex.org/G1239671426",
-          "display_name": null,
+          "display_name": "Microbial methane in the crust - volumes, fluxes and consequences",
           "funder_award_id": "2020-01577",
           "funder_id": "https://openalex.org/F4320321033",
           "funder_display_name": "Svenska Forskningsrådet Formas"
         },
         {
           "id": "https://openalex.org/G1728532766",
-          "display_name": null,
+          "display_name": "Characteristics and extent of microbial anaerobic methane oxidation and sulfate reduction in the deep terrestrial subsurface over geological time scales",
           "funder_award_id": "2017-05186",
           "funder_id": "https://openalex.org/F4320322581",
           "funder_display_name": "Vetenskapsrådet"
+        },
+        {
+          "id": "https://openalex.org/G2592076083",
+          "display_name": null,
+          "funder_award_id": "20210524",
+          "funder_id": "https://openalex.org/F4320321761",
+          "funder_display_name": "Crafoordska Stiftelsen"
         },
         {
           "id": "https://openalex.org/G2720801328",
@@ -11082,8 +11089,22 @@
         },
         {
           "id": "https://openalex.org/G29492362",
-          "display_name": null,
+          "display_name": "Production and consumption of the greenhouse gas methane in the crystalline bedrock",
           "funder_award_id": "2017-00766",
+          "funder_id": "https://openalex.org/F4320321033",
+          "funder_display_name": "Svenska Forskningsrådet Formas"
+        },
+        {
+          "id": "https://openalex.org/G3352476173",
+          "display_name": null,
+          "funder_award_id": "20210524",
+          "funder_id": "https://openalex.org/F4320321033",
+          "funder_display_name": "Svenska Forskningsrådet Formas"
+        },
+        {
+          "id": "https://openalex.org/G3779386752",
+          "display_name": null,
+          "funder_award_id": "2021-04365",
           "funder_id": "https://openalex.org/F4320321033",
           "funder_display_name": "Svenska Forskningsrådet Formas"
         },
@@ -11096,7 +11117,7 @@
         },
         {
           "id": "https://openalex.org/G3940213687",
-          "display_name": null,
+          "display_name": "Deep Life in Deep Time",
           "funder_award_id": "2021-04365",
           "funder_id": "https://openalex.org/F4320322581",
           "funder_display_name": "Vetenskapsrådet"
@@ -11109,6 +11130,13 @@
           "funder_display_name": "Crafoordska Stiftelsen"
         },
         {
+          "id": "https://openalex.org/G514396669",
+          "display_name": null,
+          "funder_award_id": "2021-0524",
+          "funder_id": "https://openalex.org/F4320322581",
+          "funder_display_name": "Vetenskapsrådet"
+        },
+        {
           "id": "https://openalex.org/G527607142",
           "display_name": null,
           "funder_award_id": "2020-01577",
@@ -11116,11 +11144,11 @@
           "funder_display_name": "Crafoordska Stiftelsen"
         },
         {
-          "id": "https://openalex.org/G6195242680",
-          "display_name": null,
-          "funder_award_id": "2021-0524",
-          "funder_id": "https://openalex.org/F4320321761",
-          "funder_display_name": "Crafoordska Stiftelsen"
+          "id": "https://openalex.org/G6644634834",
+          "display_name": "Surveillance After Resection of Oesophageal aNd Gastric cancer (SARONG): A Registry-based Randomised Controlled Trial",
+          "funder_award_id": "2020-01577",
+          "funder_id": "https://openalex.org/F4320322581",
+          "funder_display_name": "Vetenskapsrådet"
         },
         {
           "id": "https://openalex.org/G7649917319",
@@ -11739,7 +11767,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-31T08:31:51.225901",
+      "updated_date": "2026-08-01T09:00:35.917206",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13651,9 +13679,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
+          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4699999988079071
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -15142,9 +15170,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -15760,9 +15788,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -16831,9 +16859,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -17330,9 +17358,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.49000000953674316
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -18030,9 +18058,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.5600000023841858,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5600000023841858
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -19439,9 +19467,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.4399999976158142
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -19986,9 +20014,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -21212,9 +21240,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -24583,9 +24611,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -31599,9 +31627,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.581807553768158,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.581807553768158
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -34798,7 +34826,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.89357218,
+        "value": 0.88968657,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -35055,13 +35083,19 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8341094851493835,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8341094851493835
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        }
+      ],
       "has_content": {
         "grobid_xml": false,
         "pdf": false
@@ -35175,7 +35209,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-07-31T08:31:51.225901",
+      "updated_date": "2026-08-01T09:00:35.917206",
       "created_date": "2026-07-30T00:00:00"
     }
   ]

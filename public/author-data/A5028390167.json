@@ -14,7 +14,7 @@
     ],
     "full_name": "Osman Mahmoud Abdullatif",
     "works_count": 151,
-    "cited_by_count": 1174,
+    "cited_by_count": 1175,
     "summary_stats": {
       "2yr_mean_citedness": 0.75,
       "h_index": 18,
@@ -427,7 +427,7 @@
         "year": 1989,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 132
+        "cited_by_count": 133
       },
       {
         "year": 1997,
@@ -543,7 +543,7 @@
     ],
     "block_key": "o abdullatif",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5028390167",
-    "updated_date": "2026-07-29T12:17:14",
+    "updated_date": "2026-07-31T12:17:18",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -665,11 +665,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 0.7895,
+      "fwci": 0.7898,
       "has_fulltext": false,
       "cited_by_count": 133,
       "citation_normalized_percentile": {
-        "value": 0.6524,
+        "value": 0.65267786,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16794,7 +16794,7 @@
         "currency": "USD",
         "value_usd": 2090
       },
-      "fwci": 2.6096,
+      "fwci": 2.6095,
       "has_fulltext": true,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
@@ -23305,11 +23305,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.171,
+      "fwci": 2.1702,
       "has_fulltext": false,
       "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.86545691,
+        "value": 0.86541905,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -67601,7 +67601,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.00141562,
+        "value": 0.0014457,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -77166,15 +77166,35 @@
             "display_name": "Lamidi Babalola",
             "orcid": "https://orcid.org/0000-0002-0052-5603"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210118538",
+              "display_name": "University of Petroleum",
+              "ror": "https://ror.org/02em1tr51",
+              "country_code": "ID",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210118538"
+              ]
+            }
+          ],
+          "countries": [
+            "ID"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Lamidi O. Babalola",
           "raw_affiliation_strings": [
+            "College of Petroleum Engineering and Geosciences",
             "Microfacies and Depositional Environments of the Bathonian-Bajocian Middle Dhruma Carbonates, Central Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences",
+              "institution_ids": [
+                "https://openalex.org/I4210118538"
+              ]
+            },
             {
               "raw_affiliation_string": "Microfacies and Depositional Environments of the Bathonian-Bajocian Middle Dhruma Carbonates, Central Saudi Arabia",
               "institution_ids": []
@@ -77338,8 +77358,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -77348,7 +77368,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.14934772,
+        "value": 0.14941174,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -78160,7 +78180,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-08-01T09:00:35.917206",
       "created_date": "2018-12-11T00:00:00"
     },
     {

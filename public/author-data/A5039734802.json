@@ -13,7 +13,7 @@
     ],
     "full_name": "Dave L. Cantrell",
     "works_count": 39,
-    "cited_by_count": 1244,
+    "cited_by_count": 1245,
     "summary_stats": {
       "2yr_mean_citedness": 0.75,
       "h_index": 20,
@@ -221,7 +221,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000814,
+        "value": 0.0000813,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -289,7 +289,7 @@
       {
         "id": "https://openalex.org/T11278",
         "display_name": "Calcium Carbonate Crystallization and Inhibition",
-        "value": 0.0000238,
+        "value": 0.0000237,
         "subfield": {
           "id": "https://openalex.org/subfields/2502",
           "display_name": "Biomaterials"
@@ -449,7 +449,7 @@
         "year": 2019,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 36
+        "cited_by_count": 37
       },
       {
         "year": 2020,
@@ -498,7 +498,7 @@
     ],
     "block_key": "d cantrell",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5039734802",
-    "updated_date": "2026-07-28T12:17:01",
+    "updated_date": "2026-07-31T12:17:18",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -5106,8 +5106,8 @@
           "host_organization_lineage_names": [],
           "type": "journal"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -5120,7 +5120,7 @@
       ],
       "open_access": {
         "is_oa": true,
-        "oa_status": "bronze",
+        "oa_status": "hybrid",
         "oa_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/9/2/11/5441540/cantrell.pdf",
         "any_repository_has_fulltext": false
       },
@@ -5246,13 +5246,13 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.068,
+      "fwci": 2.6935,
       "has_fulltext": true,
       "cited_by_count": 114,
       "citation_normalized_percentile": {
-        "value": 0.91104136,
+        "value": 0.89699195,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
+        "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 97,
@@ -5485,8 +5485,8 @@
             "host_organization_lineage_names": [],
             "type": "journal"
           },
-          "license": null,
-          "license_id": null,
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -5515,8 +5515,8 @@
           "host_organization_lineage_names": [],
           "type": "journal"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -6417,7 +6417,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-07-09T07:52:08.696243",
+      "updated_date": "2026-08-01T09:00:35.917206",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7852,8 +7852,8 @@
           "host_organization_lineage_names": [],
           "type": "journal"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -7866,7 +7866,7 @@
       ],
       "open_access": {
         "is_oa": true,
-        "oa_status": "bronze",
+        "oa_status": "hybrid",
         "oa_url": "https://pubs.geoscienceworld.org/geoarabia/article-pdf/8/3/435/5441287/cantrell.pdf",
         "any_repository_has_fulltext": false
       },
@@ -7904,16 +7904,16 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8985,
+      "fwci": 1.7009,
       "has_fulltext": false,
       "cited_by_count": 62,
       "citation_normalized_percentile": {
-        "value": 0.86119372,
+        "value": 0.8442372,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8372,8 +8372,8 @@
             "host_organization_lineage_names": [],
             "type": "journal"
           },
-          "license": null,
-          "license_id": null,
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -8402,8 +8402,8 @@
           "host_organization_lineage_names": [],
           "type": "journal"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -9511,7 +9511,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-08-01T09:00:35.917206",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14617,11 +14617,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.2442,
+      "fwci": 7.2363,
       "has_fulltext": false,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.96651898,
+        "value": 0.96642167,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
