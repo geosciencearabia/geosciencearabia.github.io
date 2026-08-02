@@ -20,7 +20,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10399",
     "name": "Hydrocarbon exploration and reservoir analysis",
     "publications": 1302,
-    "citations": 24736
+    "citations": 24737
   },
   {
     "id": "https://openalex.org/T10109",
@@ -32,7 +32,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10017",
     "name": "Geology and Paleoclimatology Research",
     "publications": 753,
-    "citations": 18356
+    "citations": 18357
   },
   {
     "id": "https://openalex.org/T10965",
@@ -62,7 +62,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10635",
     "name": "Hydraulic Fracturing and Reservoir Analysis",
     "publications": 347,
-    "citations": 4765
+    "citations": 4766
   },
   {
     "id": "https://openalex.org/T10995",
@@ -122,7 +122,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10892",
     "name": "Drilling and Well Engineering",
     "publications": 140,
-    "citations": 938
+    "citations": 939
   },
   {
     "id": "https://openalex.org/T11588",
@@ -554,7 +554,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T10779",
     "name": "Coastal wetland ecosystem dynamics",
     "publications": 10,
-    "citations": 75
+    "citations": 76
   },
   {
     "id": "https://openalex.org/T11857",
@@ -2210,7 +2210,7 @@ export const topicStats: TopicStats[] = [
     "id": "https://openalex.org/T12091",
     "name": "Peatlands and Wetlands Ecology",
     "publications": 1,
-    "citations": 16
+    "citations": 17
   },
   {
     "id": "https://openalex.org/T10864",
@@ -3653,7 +3653,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I134085113",
     "name": "King Fahd University of Petroleum and Minerals",
     "publications": 935,
-    "citations": 10790
+    "citations": 10791
   },
   {
     "id": "https://openalex.org/I5681781",
@@ -3683,7 +3683,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I60342839",
     "name": "Qatar University",
     "publications": 121,
-    "citations": 1183
+    "citations": 1184
   },
   {
     "id": "https://openalex.org/I33849332",
@@ -4277,7 +4277,7 @@ export const institutionStats: InstitutionStats[] = [
     "id": "https://openalex.org/I185261750",
     "name": "University of Toronto",
     "publications": 13,
-    "citations": 158
+    "citations": 159
   },
   {
     "id": "https://openalex.org/I686019",
