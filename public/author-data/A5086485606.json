@@ -12666,16 +12666,16 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.1839,
+      "fwci": 2.3188,
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.83098592,
+        "value": 0.8369906,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13136,7 +13136,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-08-04T08:18:43.703281",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -32825,7 +32825,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -32834,7 +32834,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.4029975,
+        "value": 0.40219224,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33065,7 +33065,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-08-04T08:18:43.703281",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -37923,6 +37923,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I4210095435",
+              "display_name": "King Abdullah Petroleum Studies and Research Center",
+              "ror": "https://ror.org/00qd31w11",
+              "country_code": "SA",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210095435"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210134674",
               "display_name": "Japan Petroleum Energy Center",
               "ror": "https://ror.org/03jfdh841",
@@ -37934,12 +37944,14 @@
             }
           ],
           "countries": [
-            "JP"
+            "JP",
+            "SA"
           ],
           "is_corresponding": false,
           "raw_author_name": "Volker Vahrenkamp",
           "raw_affiliation_strings": [
-            "Energy Research and Petroleum Engineering"
+            "Energy Research and Petroleum Engineering",
+            "Energy Research and Petroleum Engineering, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
@@ -37948,13 +37960,20 @@
               "institution_ids": [
                 "https://openalex.org/I4210134674"
               ]
+            },
+            {
+              "raw_affiliation_string": "Energy Research and Petroleum Engineering, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210095435",
+                "https://openalex.org/I4210134674"
+              ]
             }
           ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5028588934"
       ],
@@ -38266,7 +38285,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-07-14T23:27:15.235271",
+      "updated_date": "2026-08-04T08:18:43.703281",
       "created_date": "2025-10-10T00:00:00"
     },
     {

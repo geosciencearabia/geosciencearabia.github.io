@@ -13,7 +13,7 @@
     ],
     "full_name": "Abdullah M. Memesh",
     "works_count": 24,
-    "cited_by_count": 427,
+    "cited_by_count": 428,
     "summary_stats": {
       "2yr_mean_citedness": 1,
       "h_index": 10,
@@ -250,7 +250,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000407,
+        "value": 0.0000406,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -406,7 +406,7 @@
         "year": 2018,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 200
+        "cited_by_count": 201
       },
       {
         "year": 2019,
@@ -455,7 +455,7 @@
     ],
     "block_key": "a memesh",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044930714",
-    "updated_date": "2026-07-31T12:17:18",
+    "updated_date": "2026-08-03T12:17:51",
     "created_date": "2018-04-24T00:00:00"
   },
   "works": [
@@ -1869,11 +1869,11 @@
         "value_usd": 11690
       },
       "apc_paid": null,
-      "fwci": 108.301,
+      "fwci": 108.2567,
       "has_fulltext": true,
       "cited_by_count": 189,
       "citation_normalized_percentile": {
-        "value": 0.99945809,
+        "value": 0.99945799,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2737,9 +2737,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [
@@ -3765,11 +3765,11 @@
         "value_usd": 3520
       },
       "apc_paid": null,
-      "fwci": 26.1875,
+      "fwci": 26.2102,
       "has_fulltext": true,
       "cited_by_count": 47,
       "citation_normalized_percentile": {
-        "value": 0.99223739,
+        "value": 0.99225816,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4095,6 +4095,20 @@
           "raw_type": "info:eu-repo/semantics/publishedVersion"
         },
         {
+          "id": "pmh:oai:research-repository.griffith.edu.au:10072/142575",
+          "is_oa": true,
+          "landing_page_url": "http://hdl.handle.net/10072/142575",
+          "pdf_url": "http://hdl.handle.net/10072/142575",
+          "source": null,
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Journal article"
+        },
+        {
           "id": "pmh:oai:researchonline.ljmu.ac.uk:9395",
           "is_oa": true,
           "landing_page_url": null,
@@ -4240,20 +4254,6 @@
           "raw_type": "info:eu-repo/semantics/article"
         },
         {
-          "id": "pmh:oai:research-repository.griffith.edu.au:10072/142575",
-          "is_oa": true,
-          "landing_page_url": "http://hdl.handle.net/10072/142575",
-          "pdf_url": null,
-          "source": null,
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "",
-          "raw_type": "Journal article"
-        },
-        {
           "id": "pmh:tle:84973c13-c5a0-424f-b1a0-8e26dd524f24:b4ef9587-4603-18f8-a471-bb20511f0ad9:1",
           "is_oa": true,
           "landing_page_url": "https://radar.brookes.ac.uk/radar/items/84973c13-c5a0-424f-b1a0-8e26dd524f24/1",
@@ -4314,9 +4314,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6200000047683716,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6200000047683716
         }
       ],
       "awards": [
@@ -5143,7 +5143,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-01T09:00:35.917206",
+      "updated_date": "2026-08-04T08:18:43.703281",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5812,9 +5812,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5199999809265137,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
@@ -6917,9 +6917,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -10878,11 +10878,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2063,
+      "fwci": 1.2059,
       "has_fulltext": true,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.84498249,
+        "value": 0.84489319,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11061,9 +11061,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5400000214576721,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.5400000214576721
         }
       ],
       "awards": [],
@@ -11648,7 +11648,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-08-04T08:18:43.703281",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12888,9 +12888,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.800000011920929
         }
       ],
       "awards": [
@@ -16270,9 +16270,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
@@ -17848,9 +17848,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -18524,9 +18524,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -19950,9 +19950,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -24442,6 +24442,7 @@
           "raw_affiliation_strings": [
             "Geology Department, Taibah University, Madinah, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Geology Department, Taibah University, Madinah, Saudi Arabia",
@@ -24478,6 +24479,7 @@
           "raw_affiliation_strings": [
             "Saudi Geological Survey, Jeddah, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, Jeddah, Saudi Arabia",
@@ -24514,6 +24516,7 @@
           "raw_affiliation_strings": [
             "Saudi Geological Survey, Jeddah, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, Jeddah, Saudi Arabia",
@@ -24550,6 +24553,7 @@
           "raw_affiliation_strings": [
             "Saudi Geological Survey, Jeddah, Saudi Arabia"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "Saudi Geological Survey, Jeddah, Saudi Arabia",
@@ -24562,7 +24566,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5049961167"
       ],
@@ -24571,11 +24575,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4241,
+      "fwci": 1.578,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.8336414,
+        "value": 0.84767642,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24899,9 +24903,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6899999976158142,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.6899999976158142
         }
       ],
       "awards": [],
@@ -24970,7 +24974,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2025-11-06T03:46:38.306776",
+      "updated_date": "2026-08-04T08:18:43.703281",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -27119,9 +27123,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8700000047683716
         }
       ],
       "awards": [],

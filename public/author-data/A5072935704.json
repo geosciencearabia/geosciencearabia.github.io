@@ -860,8 +860,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 99,
@@ -1935,8 +1935,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 116,
@@ -3042,8 +3042,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 130,
@@ -3769,8 +3769,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 125,
@@ -4892,8 +4892,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 150,
@@ -5560,8 +5560,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -7041,8 +7041,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -8197,8 +8197,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -8875,8 +8875,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -9666,8 +9666,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4387996609.pdf"
@@ -10870,8 +10870,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 132,
@@ -12449,8 +12449,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 92,
@@ -13074,8 +13074,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4408588305.pdf"
@@ -14486,8 +14486,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -15627,8 +15627,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 87,
@@ -16501,8 +16501,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 60,
@@ -17717,8 +17717,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4401646659.pdf",
@@ -19174,8 +19174,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4407393621.pdf",
@@ -19884,16 +19884,9 @@
           "countries": [],
           "is_corresponding": false,
           "raw_author_name": "ANAS MUHAMMAD SALISU",
-          "raw_affiliation_strings": [
-            "Independent  - affiliation not provided to SSRN"
-          ],
+          "raw_affiliation_strings": [],
           "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Independent  - affiliation not provided to SSRN",
-              "institution_ids": []
-            }
-          ]
+          "affiliations": []
         },
         {
           "author_position": "middle",
@@ -19906,16 +19899,9 @@
           "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Hasan Algheryafi",
-          "raw_affiliation_strings": [
-            "Independent  - affiliation not provided to SSRN"
-          ],
+          "raw_affiliation_strings": [],
           "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Independent  - affiliation not provided to SSRN",
-              "institution_ids": []
-            }
-          ]
+          "affiliations": []
         },
         {
           "author_position": "middle",
@@ -19942,12 +19928,12 @@
           "is_corresponding": false,
           "raw_author_name": "Abdulwahab  Muhammad Bello",
           "raw_affiliation_strings": [
-            "King Fahd University of Petroleum & Minerals (KFUPM) - College of Petroleum Engineering & Geosciences"
+            "King Fahd University of Petroleum & Minerals (KFUPM) - College of Petroleum Engineering & Geosciences, Saudi Arabia"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-4637-9883",
           "affiliations": [
             {
-              "raw_affiliation_string": "King Fahd University of Petroleum & Minerals (KFUPM) - College of Petroleum Engineering & Geosciences",
+              "raw_affiliation_string": "King Fahd University of Petroleum & Minerals (KFUPM) - College of Petroleum Engineering & Geosciences, Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I134085113"
               ]
@@ -19965,16 +19951,9 @@
           "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Abduljamiu  O. Amao",
-          "raw_affiliation_strings": [
-            "Independent  - affiliation not provided to SSRN"
-          ],
+          "raw_affiliation_strings": [],
           "raw_orcid": "https://orcid.org/0000-0001-8203-851X",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Independent  - affiliation not provided to SSRN",
-              "institution_ids": []
-            }
-          ]
+          "affiliations": []
         },
         {
           "author_position": "middle",
@@ -19987,16 +19966,9 @@
           "countries": [],
           "is_corresponding": false,
           "raw_author_name": "Bandar Al-Otaibi",
-          "raw_affiliation_strings": [
-            "Independent  - affiliation not provided to SSRN"
-          ],
+          "raw_affiliation_strings": [],
           "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Independent  - affiliation not provided to SSRN",
-              "institution_ids": []
-            }
-          ]
+          "affiliations": []
         },
         {
           "author_position": "last",
@@ -20007,24 +19979,19 @@
           },
           "institutions": [],
           "countries": [],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Khalid Al-Ramadan",
-          "raw_affiliation_strings": [
-            "Independent  - affiliation not provided to SSRN"
-          ],
+          "raw_affiliation_strings": [],
           "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Independent  - affiliation not provided to SSRN",
-              "institution_ids": []
-            }
-          ]
+          "affiliations": []
         }
       ],
       "institutions": [],
       "countries_distinct_count": 1,
       "institutions_distinct_count": 1,
-      "corresponding_author_ids": [],
+      "corresponding_author_ids": [
+        "https://openalex.org/A5085007251"
+      ],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
@@ -20276,8 +20243,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20301,7 +20268,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-30T17:31:21.811387",
+      "updated_date": "2026-08-04T08:18:43.703281",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20752,8 +20719,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21210,8 +21177,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7161263637.pdf",
@@ -22405,8 +22372,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -23717,8 +23684,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -25046,8 +25013,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 60,

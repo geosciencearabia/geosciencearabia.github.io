@@ -12,10 +12,10 @@
       "Mohammed H. N. Al-Kindi"
     ],
     "full_name": "Mohammed H. Al Kindi",
-    "works_count": 13,
+    "works_count": 15,
     "cited_by_count": 27,
     "summary_stats": {
-      "2yr_mean_citedness": 1.4285714285714286,
+      "2yr_mean_citedness": 1.1111111111111112,
       "h_index": 3,
       "i10_index": 0
     },
@@ -311,8 +311,8 @@
       },
       {
         "year": 2026,
-        "works_count": 4,
-        "oa_works_count": 4,
+        "works_count": 6,
+        "oa_works_count": 6,
         "cited_by_count": 0
       }
     ],
@@ -326,7 +326,7 @@
     ],
     "block_key": "m al kindi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5007597150",
-    "updated_date": "2026-07-31T12:17:18",
+    "updated_date": "2026-08-03T12:17:51",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -819,8 +819,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -1913,8 +1913,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3107735373.pdf",
@@ -3389,8 +3389,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3010622588.pdf",
@@ -4720,8 +4720,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -5787,8 +5787,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386162512.pdf"
@@ -6473,8 +6473,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -7228,8 +7228,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4410788205.pdf"
@@ -8497,8 +8497,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -9025,8 +9025,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -9537,8 +9537,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10378,8 +10378,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11422,8 +11422,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7155534781.pdf",
@@ -12483,8 +12483,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -13428,11 +13428,32 @@
         "raw_type": "Dataset"
       },
       "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G1531882774",
+          "display_name": null,
+          "funder_award_id": "101045506",
+          "funder_id": "https://openalex.org/F4320320300",
+          "funder_display_name": "European Commission"
+        },
+        {
+          "id": "https://openalex.org/G4117492580",
+          "display_name": null,
+          "funder_award_id": "101052761",
+          "funder_id": "https://openalex.org/F4320320300",
+          "funder_display_name": "European Commission"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320320300",
+          "display_name": "European Commission",
+          "ror": "https://ror.org/00k4n6c32"
+        }
+      ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13726,7 +13747,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-03T07:22:36.454288",
+      "updated_date": "2026-08-04T08:18:43.703281",
       "created_date": "2026-08-03T00:00:00"
     },
     {
@@ -14219,11 +14240,32 @@
         "raw_type": "Dataset"
       },
       "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G1531882774",
+          "display_name": null,
+          "funder_award_id": "101045506",
+          "funder_id": "https://openalex.org/F4320320300",
+          "funder_display_name": "European Commission"
+        },
+        {
+          "id": "https://openalex.org/G4117492580",
+          "display_name": null,
+          "funder_award_id": "101052761",
+          "funder_id": "https://openalex.org/F4320320300",
+          "funder_display_name": "European Commission"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320320300",
+          "display_name": "European Commission",
+          "ror": "https://ror.org/00k4n6c32"
+        }
+      ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14517,7 +14559,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-03T07:22:36.454288",
+      "updated_date": "2026-08-04T08:18:43.703281",
       "created_date": "2026-08-03T00:00:00"
     }
   ]
