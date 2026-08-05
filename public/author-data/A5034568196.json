@@ -12,9 +12,9 @@
     ],
     "full_name": "Benaafi, Mohammed",
     "works_count": 80,
-    "cited_by_count": 1077,
+    "cited_by_count": 1078,
     "summary_stats": {
-      "2yr_mean_citedness": 4.852941176470588,
+      "2yr_mean_citedness": 4.882352941176471,
       "h_index": 21,
       "i10_index": 32
     },
@@ -154,7 +154,7 @@
       {
         "id": "https://openalex.org/T12543",
         "display_name": "Groundwater and Watershed Analysis",
-        "value": 0.0002175,
+        "value": 0.0002171,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -171,7 +171,7 @@
       {
         "id": "https://openalex.org/T10398",
         "display_name": "Groundwater and Isotope Geochemistry",
-        "value": 0.000168,
+        "value": 0.0001679,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -188,7 +188,7 @@
       {
         "id": "https://openalex.org/T11490",
         "display_name": "Hydrological Forecasting Using AI",
-        "value": 0.0001461,
+        "value": 0.000146,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -205,7 +205,7 @@
       {
         "id": "https://openalex.org/T11869",
         "display_name": "Per- and polyfluoroalkyl substances research",
-        "value": 0.0000532,
+        "value": 0.0000531,
         "subfield": {
           "id": "https://openalex.org/subfields/2304",
           "display_name": "Environmental Chemistry"
@@ -273,7 +273,7 @@
       {
         "year": 2014,
         "works_count": 2,
-        "oa_works_count": 1,
+        "oa_works_count": 2,
         "cited_by_count": 7
       },
       {
@@ -340,7 +340,7 @@
         "year": 2025,
         "works_count": 12,
         "oa_works_count": 5,
-        "cited_by_count": 24
+        "cited_by_count": 25
       },
       {
         "year": 2026,
@@ -358,7 +358,7 @@
     ],
     "block_key": "m benaafi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5034568196",
-    "updated_date": "2026-07-31T12:17:18",
+    "updated_date": "2026-08-04T12:18:11",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -2239,9 +2239,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.6100000143051147
+          "score": 0.6100000143051147,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -3649,9 +3649,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.4000000059604645
+          "score": 0.4000000059604645,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -5452,9 +5452,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -6650,9 +6650,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6299999952316284
+          "score": 0.6299999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -12030,9 +12030,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.5899999737739563
+          "score": 0.5899999737739563,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [
@@ -13172,11 +13172,11 @@
         "currency": "USD",
         "value_usd": 1350
       },
-      "fwci": 2.0877,
+      "fwci": 2.0879,
       "has_fulltext": true,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.86266953,
+        "value": 0.86265935,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13499,9 +13499,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.41999998688697815
+          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [
@@ -14217,622 +14217,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4316669266",
-      "doi": "https://doi.org/10.1016/j.desal.2023.116376",
-      "title": "Intelligent process optimisation based on cutting-edge emotional learning for performance evaluation of NF/RO of seawater desalination plant",
-      "display_name": "Intelligent process optimisation based on cutting-edge emotional learning for performance evaluation of NF/RO of seawater desalination plant",
-      "publication_year": 2023,
-      "publication_date": "2023-01-16",
-      "ids": {
-        "openalex": "https://openalex.org/W4316669266",
-        "doi": "https://doi.org/10.1016/j.desal.2023.116376"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.desal.2023.116376",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.desal.2023.116376",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S86512602",
-          "display_name": "Desalination",
-          "issn_l": "0011-9164",
-          "issn": [
-            "0011-9164",
-            "1873-4464"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Desalination",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5062007467",
-            "display_name": "Sani I. Abba",
-            "orcid": "https://orcid.org/0000-0001-9356-2798"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "S.I. Abba",
-          "raw_affiliation_strings": [
-            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5034568196",
-            "display_name": "Mohammed Benaafi",
-            "orcid": "https://orcid.org/0000-0001-6246-7835"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammed Benaafi",
-          "raw_affiliation_strings": [
-            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5030371811",
-            "display_name": "Isam H. Aljundi",
-            "orcid": "https://orcid.org/0000-0002-0714-8580"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Isam H. Aljundi",
-          "raw_affiliation_strings": [
-            "Department of Chemical Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Chemical Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5062007467"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": {
-        "value": 4580,
-        "currency": "USD",
-        "value_usd": 4580
-      },
-      "apc_paid": null,
-      "fwci": 1.8141,
-      "has_fulltext": false,
-      "cited_by_count": 31,
-      "citation_normalized_percentile": {
-        "value": 0.8422527,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 98,
-        "max": 100
-      },
-      "biblio": {
-        "volume": "550",
-        "issue": null,
-        "first_page": "116376",
-        "last_page": "116376"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12008",
-        "display_name": "Solar-Powered Water Purification Methods",
-        "score": 0.9817000031471252,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2105",
-          "display_name": "Renewable Energy, Sustainability and the Environment"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/21",
-          "display_name": "Energy"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12008",
-          "display_name": "Solar-Powered Water Purification Methods",
-          "score": 0.9817000031471252,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2105",
-            "display_name": "Renewable Energy, Sustainability and the Environment"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/21",
-            "display_name": "Energy"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11490",
-          "display_name": "Hydrological Forecasting Using AI",
-          "score": 0.9758999943733215,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2305",
-            "display_name": "Environmental Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13038",
-          "display_name": "Internet of Things and AI",
-          "score": 0.9508000016212463,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1710",
-            "display_name": "Information Systems"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/desalination",
-          "display_name": "Desalination",
-          "score": 0.6832817792892456
-        },
-        {
-          "id": "https://openalex.org/keywords/mean-squared-error",
-          "display_name": "Mean squared error",
-          "score": 0.6768487691879272
-        },
-        {
-          "id": "https://openalex.org/keywords/artificial-neural-network",
-          "display_name": "Artificial neural network",
-          "score": 0.6471948027610779
-        },
-        {
-          "id": "https://openalex.org/keywords/correlation-coefficient",
-          "display_name": "Correlation coefficient",
-          "score": 0.5274527072906494
-        },
-        {
-          "id": "https://openalex.org/keywords/artificial-intelligence",
-          "display_name": "Artificial intelligence",
-          "score": 0.5172520279884338
-        },
-        {
-          "id": "https://openalex.org/keywords/backpropagation",
-          "display_name": "Backpropagation",
-          "score": 0.49683669209480286
-        },
-        {
-          "id": "https://openalex.org/keywords/multilayer-perceptron",
-          "display_name": "Multilayer perceptron",
-          "score": 0.4956129789352417
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.39946043491363525
-        },
-        {
-          "id": "https://openalex.org/keywords/machine-learning",
-          "display_name": "Machine learning",
-          "score": 0.3803963363170624
-        },
-        {
-          "id": "https://openalex.org/keywords/mathematics",
-          "display_name": "Mathematics",
-          "score": 0.35887229442596436
-        },
-        {
-          "id": "https://openalex.org/keywords/process-engineering",
-          "display_name": "Process engineering",
-          "score": 0.3479195833206177
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.2895498275756836
-        },
-        {
-          "id": "https://openalex.org/keywords/statistics",
-          "display_name": "Statistics",
-          "score": 0.28219637274742126
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.19088837504386902
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2776870568",
-          "wikidata": "https://www.wikidata.org/wiki/Q190873",
-          "display_name": "Desalination",
-          "level": 3,
-          "score": 0.6832817792892456
-        },
-        {
-          "id": "https://openalex.org/C139945424",
-          "wikidata": "https://www.wikidata.org/wiki/Q1940696",
-          "display_name": "Mean squared error",
-          "level": 2,
-          "score": 0.6768487691879272
-        },
-        {
-          "id": "https://openalex.org/C50644808",
-          "wikidata": "https://www.wikidata.org/wiki/Q192776",
-          "display_name": "Artificial neural network",
-          "level": 2,
-          "score": 0.6471948027610779
-        },
-        {
-          "id": "https://openalex.org/C2780092901",
-          "wikidata": "https://www.wikidata.org/wiki/Q3433612",
-          "display_name": "Correlation coefficient",
-          "level": 2,
-          "score": 0.5274527072906494
-        },
-        {
-          "id": "https://openalex.org/C154945302",
-          "wikidata": "https://www.wikidata.org/wiki/Q11660",
-          "display_name": "Artificial intelligence",
-          "level": 1,
-          "score": 0.5172520279884338
-        },
-        {
-          "id": "https://openalex.org/C155032097",
-          "wikidata": "https://www.wikidata.org/wiki/Q798503",
-          "display_name": "Backpropagation",
-          "level": 3,
-          "score": 0.49683669209480286
-        },
-        {
-          "id": "https://openalex.org/C179717631",
-          "wikidata": "https://www.wikidata.org/wiki/Q2991667",
-          "display_name": "Multilayer perceptron",
-          "level": 3,
-          "score": 0.4956129789352417
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.39946043491363525
-        },
-        {
-          "id": "https://openalex.org/C119857082",
-          "wikidata": "https://www.wikidata.org/wiki/Q2539",
-          "display_name": "Machine learning",
-          "level": 1,
-          "score": 0.3803963363170624
-        },
-        {
-          "id": "https://openalex.org/C33923547",
-          "wikidata": "https://www.wikidata.org/wiki/Q395",
-          "display_name": "Mathematics",
-          "level": 0,
-          "score": 0.35887229442596436
-        },
-        {
-          "id": "https://openalex.org/C21880701",
-          "wikidata": "https://www.wikidata.org/wiki/Q2144042",
-          "display_name": "Process engineering",
-          "level": 1,
-          "score": 0.3479195833206177
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.2895498275756836
-        },
-        {
-          "id": "https://openalex.org/C105795698",
-          "wikidata": "https://www.wikidata.org/wiki/Q12483",
-          "display_name": "Statistics",
-          "level": 1,
-          "score": 0.28219637274742126
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.19088837504386902
-        },
-        {
-          "id": "https://openalex.org/C41625074",
-          "wikidata": "https://www.wikidata.org/wiki/Q176088",
-          "display_name": "Membrane",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C55493867",
-          "wikidata": "https://www.wikidata.org/wiki/Q7094",
-          "display_name": "Biochemistry",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.desal.2023.116376",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.desal.2023.116376",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S86512602",
-            "display_name": "Desalination",
-            "issn_l": "0011-9164",
-            "issn": [
-              "0011-9164",
-              "1873-4464"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Desalination",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8600000143051147
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 58,
-      "referenced_works": [
-        "https://openalex.org/W1485545181",
-        "https://openalex.org/W1543335190",
-        "https://openalex.org/W1985479415",
-        "https://openalex.org/W1986260005",
-        "https://openalex.org/W2049526509",
-        "https://openalex.org/W2079521419",
-        "https://openalex.org/W2085516621",
-        "https://openalex.org/W2111657017",
-        "https://openalex.org/W2134194481",
-        "https://openalex.org/W2296210273",
-        "https://openalex.org/W2327665041",
-        "https://openalex.org/W2492303674",
-        "https://openalex.org/W2550265600",
-        "https://openalex.org/W2557399396",
-        "https://openalex.org/W2753179649",
-        "https://openalex.org/W2770078329",
-        "https://openalex.org/W2775932298",
-        "https://openalex.org/W2912412944",
-        "https://openalex.org/W2917234733",
-        "https://openalex.org/W2918212782",
-        "https://openalex.org/W2921232544",
-        "https://openalex.org/W2948700797",
-        "https://openalex.org/W2963265946",
-        "https://openalex.org/W2977216623",
-        "https://openalex.org/W2990583519",
-        "https://openalex.org/W2996168212",
-        "https://openalex.org/W2998297225",
-        "https://openalex.org/W3005808741",
-        "https://openalex.org/W3007782869",
-        "https://openalex.org/W3034019545",
-        "https://openalex.org/W3042612344",
-        "https://openalex.org/W3048139064",
-        "https://openalex.org/W3107903126",
-        "https://openalex.org/W3116845615",
-        "https://openalex.org/W3136208729",
-        "https://openalex.org/W3137429615",
-        "https://openalex.org/W3183018501",
-        "https://openalex.org/W3193902859",
-        "https://openalex.org/W3213699326",
-        "https://openalex.org/W4200263281",
-        "https://openalex.org/W4205263966",
-        "https://openalex.org/W4206939330",
-        "https://openalex.org/W4212839989",
-        "https://openalex.org/W4213328516",
-        "https://openalex.org/W4220727972",
-        "https://openalex.org/W4221008626",
-        "https://openalex.org/W4281850339",
-        "https://openalex.org/W4283746594",
-        "https://openalex.org/W6629815555",
-        "https://openalex.org/W6722626487",
-        "https://openalex.org/W6780384236",
-        "https://openalex.org/W6781685552",
-        "https://openalex.org/W6787419382",
-        "https://openalex.org/W6798718009",
-        "https://openalex.org/W6799987290",
-        "https://openalex.org/W6803450915",
-        "https://openalex.org/W6807663276",
-        "https://openalex.org/W6809315028"
-      ],
-      "related_works": [
-        "https://openalex.org/W2555356437",
-        "https://openalex.org/W2417891382",
-        "https://openalex.org/W4382982879",
-        "https://openalex.org/W4401177694",
-        "https://openalex.org/W4322009192",
-        "https://openalex.org/W4320483926",
-        "https://openalex.org/W2083196709",
-        "https://openalex.org/W4311044000",
-        "https://openalex.org/W2600618515",
-        "https://openalex.org/W4285523177"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 15
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 8
-        }
-      ],
-      "updated_date": "2026-06-14T06:11:07.267592",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4394837151",
       "doi": "https://doi.org/10.1016/j.heliyon.2024.e29320",
       "title": "Suitability of treated wastewater for irrigation and its impact on groundwater resources in arid coastal regions: Insights for water resources sustainability",
@@ -15221,11 +14605,11 @@
         "currency": "USD",
         "value_usd": 2100
       },
-      "fwci": 6.3902,
+      "fwci": 6.4568,
       "has_fulltext": true,
-      "cited_by_count": 31,
+      "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.97378256,
+        "value": 0.97427505,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16435,7 +15819,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 9
+          "cited_by_count": 10
         },
         {
           "year": 2025,
@@ -16446,7 +15830,623 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-08-05T07:39:15.569665",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4316669266",
+      "doi": "https://doi.org/10.1016/j.desal.2023.116376",
+      "title": "Intelligent process optimisation based on cutting-edge emotional learning for performance evaluation of NF/RO of seawater desalination plant",
+      "display_name": "Intelligent process optimisation based on cutting-edge emotional learning for performance evaluation of NF/RO of seawater desalination plant",
+      "publication_year": 2023,
+      "publication_date": "2023-01-16",
+      "ids": {
+        "openalex": "https://openalex.org/W4316669266",
+        "doi": "https://doi.org/10.1016/j.desal.2023.116376"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.desal.2023.116376",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.desal.2023.116376",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S86512602",
+          "display_name": "Desalination",
+          "issn_l": "0011-9164",
+          "issn": [
+            "0011-9164",
+            "1873-4464"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Desalination",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5062007467",
+            "display_name": "Sani I. Abba",
+            "orcid": "https://orcid.org/0000-0001-9356-2798"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "S.I. Abba",
+          "raw_affiliation_strings": [
+            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5034568196",
+            "display_name": "Mohammed Benaafi",
+            "orcid": "https://orcid.org/0000-0001-6246-7835"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed Benaafi",
+          "raw_affiliation_strings": [
+            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5030371811",
+            "display_name": "Isam H. Aljundi",
+            "orcid": "https://orcid.org/0000-0002-0714-8580"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Isam H. Aljundi",
+          "raw_affiliation_strings": [
+            "Department of Chemical Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Chemical Engineering, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5062007467"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": {
+        "value": 4580,
+        "currency": "USD",
+        "value_usd": 4580
+      },
+      "apc_paid": null,
+      "fwci": 1.8141,
+      "has_fulltext": false,
+      "cited_by_count": 31,
+      "citation_normalized_percentile": {
+        "value": 0.8422527,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 98,
+        "max": 100
+      },
+      "biblio": {
+        "volume": "550",
+        "issue": null,
+        "first_page": "116376",
+        "last_page": "116376"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12008",
+        "display_name": "Solar-Powered Water Purification Methods",
+        "score": 0.9817000031471252,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2105",
+          "display_name": "Renewable Energy, Sustainability and the Environment"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/21",
+          "display_name": "Energy"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12008",
+          "display_name": "Solar-Powered Water Purification Methods",
+          "score": 0.9817000031471252,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2105",
+            "display_name": "Renewable Energy, Sustainability and the Environment"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/21",
+            "display_name": "Energy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11490",
+          "display_name": "Hydrological Forecasting Using AI",
+          "score": 0.9758999943733215,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2305",
+            "display_name": "Environmental Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13038",
+          "display_name": "Internet of Things and AI",
+          "score": 0.9508000016212463,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1710",
+            "display_name": "Information Systems"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/desalination",
+          "display_name": "Desalination",
+          "score": 0.6832817792892456
+        },
+        {
+          "id": "https://openalex.org/keywords/mean-squared-error",
+          "display_name": "Mean squared error",
+          "score": 0.6768487691879272
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-neural-network",
+          "display_name": "Artificial neural network",
+          "score": 0.6471948027610779
+        },
+        {
+          "id": "https://openalex.org/keywords/correlation-coefficient",
+          "display_name": "Correlation coefficient",
+          "score": 0.5274527072906494
+        },
+        {
+          "id": "https://openalex.org/keywords/artificial-intelligence",
+          "display_name": "Artificial intelligence",
+          "score": 0.5172520279884338
+        },
+        {
+          "id": "https://openalex.org/keywords/backpropagation",
+          "display_name": "Backpropagation",
+          "score": 0.49683669209480286
+        },
+        {
+          "id": "https://openalex.org/keywords/multilayer-perceptron",
+          "display_name": "Multilayer perceptron",
+          "score": 0.4956129789352417
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.39946043491363525
+        },
+        {
+          "id": "https://openalex.org/keywords/machine-learning",
+          "display_name": "Machine learning",
+          "score": 0.3803963363170624
+        },
+        {
+          "id": "https://openalex.org/keywords/mathematics",
+          "display_name": "Mathematics",
+          "score": 0.35887229442596436
+        },
+        {
+          "id": "https://openalex.org/keywords/process-engineering",
+          "display_name": "Process engineering",
+          "score": 0.3479195833206177
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.2895498275756836
+        },
+        {
+          "id": "https://openalex.org/keywords/statistics",
+          "display_name": "Statistics",
+          "score": 0.28219637274742126
+        },
+        {
+          "id": "https://openalex.org/keywords/chemistry",
+          "display_name": "Chemistry",
+          "score": 0.19088837504386902
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2776870568",
+          "wikidata": "https://www.wikidata.org/wiki/Q190873",
+          "display_name": "Desalination",
+          "level": 3,
+          "score": 0.6832817792892456
+        },
+        {
+          "id": "https://openalex.org/C139945424",
+          "wikidata": "https://www.wikidata.org/wiki/Q1940696",
+          "display_name": "Mean squared error",
+          "level": 2,
+          "score": 0.6768487691879272
+        },
+        {
+          "id": "https://openalex.org/C50644808",
+          "wikidata": "https://www.wikidata.org/wiki/Q192776",
+          "display_name": "Artificial neural network",
+          "level": 2,
+          "score": 0.6471948027610779
+        },
+        {
+          "id": "https://openalex.org/C2780092901",
+          "wikidata": "https://www.wikidata.org/wiki/Q3433612",
+          "display_name": "Correlation coefficient",
+          "level": 2,
+          "score": 0.5274527072906494
+        },
+        {
+          "id": "https://openalex.org/C154945302",
+          "wikidata": "https://www.wikidata.org/wiki/Q11660",
+          "display_name": "Artificial intelligence",
+          "level": 1,
+          "score": 0.5172520279884338
+        },
+        {
+          "id": "https://openalex.org/C155032097",
+          "wikidata": "https://www.wikidata.org/wiki/Q798503",
+          "display_name": "Backpropagation",
+          "level": 3,
+          "score": 0.49683669209480286
+        },
+        {
+          "id": "https://openalex.org/C179717631",
+          "wikidata": "https://www.wikidata.org/wiki/Q2991667",
+          "display_name": "Multilayer perceptron",
+          "level": 3,
+          "score": 0.4956129789352417
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.39946043491363525
+        },
+        {
+          "id": "https://openalex.org/C119857082",
+          "wikidata": "https://www.wikidata.org/wiki/Q2539",
+          "display_name": "Machine learning",
+          "level": 1,
+          "score": 0.3803963363170624
+        },
+        {
+          "id": "https://openalex.org/C33923547",
+          "wikidata": "https://www.wikidata.org/wiki/Q395",
+          "display_name": "Mathematics",
+          "level": 0,
+          "score": 0.35887229442596436
+        },
+        {
+          "id": "https://openalex.org/C21880701",
+          "wikidata": "https://www.wikidata.org/wiki/Q2144042",
+          "display_name": "Process engineering",
+          "level": 1,
+          "score": 0.3479195833206177
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.2895498275756836
+        },
+        {
+          "id": "https://openalex.org/C105795698",
+          "wikidata": "https://www.wikidata.org/wiki/Q12483",
+          "display_name": "Statistics",
+          "level": 1,
+          "score": 0.28219637274742126
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.19088837504386902
+        },
+        {
+          "id": "https://openalex.org/C41625074",
+          "wikidata": "https://www.wikidata.org/wiki/Q176088",
+          "display_name": "Membrane",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C55493867",
+          "wikidata": "https://www.wikidata.org/wiki/Q7094",
+          "display_name": "Biochemistry",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.desal.2023.116376",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.desal.2023.116376",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S86512602",
+            "display_name": "Desalination",
+            "issn_l": "0011-9164",
+            "issn": [
+              "0011-9164",
+              "1873-4464"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Desalination",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Life below water",
+          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/14"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 58,
+      "referenced_works": [
+        "https://openalex.org/W1485545181",
+        "https://openalex.org/W1543335190",
+        "https://openalex.org/W1985479415",
+        "https://openalex.org/W1986260005",
+        "https://openalex.org/W2049526509",
+        "https://openalex.org/W2079521419",
+        "https://openalex.org/W2085516621",
+        "https://openalex.org/W2111657017",
+        "https://openalex.org/W2134194481",
+        "https://openalex.org/W2296210273",
+        "https://openalex.org/W2327665041",
+        "https://openalex.org/W2492303674",
+        "https://openalex.org/W2550265600",
+        "https://openalex.org/W2557399396",
+        "https://openalex.org/W2753179649",
+        "https://openalex.org/W2770078329",
+        "https://openalex.org/W2775932298",
+        "https://openalex.org/W2912412944",
+        "https://openalex.org/W2917234733",
+        "https://openalex.org/W2918212782",
+        "https://openalex.org/W2921232544",
+        "https://openalex.org/W2948700797",
+        "https://openalex.org/W2963265946",
+        "https://openalex.org/W2977216623",
+        "https://openalex.org/W2990583519",
+        "https://openalex.org/W2996168212",
+        "https://openalex.org/W2998297225",
+        "https://openalex.org/W3005808741",
+        "https://openalex.org/W3007782869",
+        "https://openalex.org/W3034019545",
+        "https://openalex.org/W3042612344",
+        "https://openalex.org/W3048139064",
+        "https://openalex.org/W3107903126",
+        "https://openalex.org/W3116845615",
+        "https://openalex.org/W3136208729",
+        "https://openalex.org/W3137429615",
+        "https://openalex.org/W3183018501",
+        "https://openalex.org/W3193902859",
+        "https://openalex.org/W3213699326",
+        "https://openalex.org/W4200263281",
+        "https://openalex.org/W4205263966",
+        "https://openalex.org/W4206939330",
+        "https://openalex.org/W4212839989",
+        "https://openalex.org/W4213328516",
+        "https://openalex.org/W4220727972",
+        "https://openalex.org/W4221008626",
+        "https://openalex.org/W4281850339",
+        "https://openalex.org/W4283746594",
+        "https://openalex.org/W6629815555",
+        "https://openalex.org/W6722626487",
+        "https://openalex.org/W6780384236",
+        "https://openalex.org/W6781685552",
+        "https://openalex.org/W6787419382",
+        "https://openalex.org/W6798718009",
+        "https://openalex.org/W6799987290",
+        "https://openalex.org/W6803450915",
+        "https://openalex.org/W6807663276",
+        "https://openalex.org/W6809315028"
+      ],
+      "related_works": [
+        "https://openalex.org/W2555356437",
+        "https://openalex.org/W2417891382",
+        "https://openalex.org/W4382982879",
+        "https://openalex.org/W4401177694",
+        "https://openalex.org/W4322009192",
+        "https://openalex.org/W4320483926",
+        "https://openalex.org/W2083196709",
+        "https://openalex.org/W4311044000",
+        "https://openalex.org/W2600618515",
+        "https://openalex.org/W4285523177"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 15
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 8
+        }
+      ],
+      "updated_date": "2026-06-14T06:11:07.267592",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18243,9 +18243,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -19628,9 +19628,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.550000011920929
+          "score": 0.550000011920929,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [
@@ -20289,9 +20289,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7300000190734863
+          "score": 0.7300000190734863,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -22249,9 +22249,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -23143,9 +23143,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.6200000047683716
+          "score": 0.6200000047683716,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -24351,9 +24351,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.7599999904632568
+          "score": 0.7599999904632568,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -27364,9 +27364,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.5
+          "score": 0.5,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -28275,9 +28275,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -29499,9 +29499,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7599999904632568
+          "score": 0.7599999904632568,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -30917,9 +30917,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7400000095367432
+          "score": 0.7400000095367432,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -32303,9 +32303,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.6200000047683716
+          "score": 0.6200000047683716,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -33598,9 +33598,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.8100000023841858
+          "score": 0.8100000023841858,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
@@ -34386,9 +34386,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.699999988079071
+          "score": 0.699999988079071,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -38894,9 +38894,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [
@@ -39496,7 +39496,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Md Masudur Rahman",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
@@ -39547,7 +39547,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Md Masudur Rahman",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
@@ -39716,8 +39716,7 @@
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I120158604",
-        "https://openalex.org/I134085113",
-        "https://openalex.org/I4210132231"
+        "https://openalex.org/I134085113"
       ],
       "apc_list": {
         "value": 3265,
@@ -39729,11 +39728,11 @@
         "currency": "AUD",
         "value_usd": 2390
       },
-      "fwci": 1.1422,
+      "fwci": 1.1369,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.77182561,
+        "value": 0.7711188,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -40687,7 +40686,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-08-04T08:18:43.703281",
+      "updated_date": "2026-08-05T07:39:15.569665",
       "created_date": "2025-11-23T00:00:00"
     },
     {
@@ -41236,9 +41235,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.5
+          "score": 0.5,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -42388,9 +42387,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.49000000953674316
+          "score": 0.49000000953674316,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [
@@ -43656,9 +43655,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -44034,11 +44033,11 @@
         "value_usd": 3640
       },
       "apc_paid": null,
-      "fwci": 2.0384,
+      "fwci": 2.0265,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.84442977,
+        "value": 0.84349549,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -44385,9 +44384,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [
@@ -44897,9 +44896,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/2",
           "display_name": "Zero hunger",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "id": "https://metadata.un.org/sdg/2"
         }
       ],
       "awards": [
@@ -45944,9 +45943,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.41999998688697815
+          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -46670,9 +46669,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -47530,9 +47529,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7300000190734863
+          "score": 0.7300000190734863,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -48927,9 +48926,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "score": 0.4099999964237213
+          "score": 0.4099999964237213,
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -49654,9 +49653,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6700000166893005
+          "score": 0.6700000166893005,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -52979,11 +52978,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7233,
+      "fwci": 0.7236,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.73715079,
+        "value": 0.73713544,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -53449,9 +53448,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -54650,9 +54649,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
           "display_name": "Affordable and clean energy",
-          "score": 0.5899999737739563
+          "score": 0.5899999737739563,
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
@@ -56563,9 +56562,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/2",
           "display_name": "Zero hunger",
-          "score": 0.41999998688697815
+          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/2"
         }
       ],
       "awards": [],
@@ -57706,9 +57705,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6499999761581421
+          "score": 0.6499999761581421,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -58792,9 +58791,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6700000166893005
+          "score": 0.6700000166893005,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -59670,9 +59669,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -60951,9 +60950,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "score": 0.5099999904632568
+          "score": 0.5099999904632568,
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -62289,9 +62288,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -66850,9 +66849,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.6700000166893005
+          "score": 0.6700000166893005,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -67407,9 +67406,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/2",
           "display_name": "Zero hunger",
-          "score": 0.7400000095367432
+          "score": 0.7400000095367432,
+          "id": "https://metadata.un.org/sdg/2"
         }
       ],
       "awards": [],
@@ -68459,9 +68458,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7699999809265137
+          "score": 0.7699999809265137,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -68899,9 +68898,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.800000011920929
+          "score": 0.800000011920929,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -70017,9 +70016,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8299999833106995
+          "score": 0.8299999833106995,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -72417,9 +72416,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.6299999952316284
+          "score": 0.6299999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -77099,9 +77098,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "display_name": "Clean water and sanitation",
-          "score": 0.5572254657745361
+          "score": 0.5572254657745361,
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [
@@ -81380,9 +81379,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 0.5348670482635498
+          "score": 0.5348670482635498,
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
