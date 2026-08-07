@@ -18,10 +18,10 @@
       "Mohammed Hakimi"
     ],
     "full_name": "Mohammed  Hail Hakimi",
-    "works_count": 231,
-    "cited_by_count": 4776,
+    "works_count": 232,
+    "cited_by_count": 4784,
     "summary_stats": {
-      "2yr_mean_citedness": 3.4339622641509435,
+      "2yr_mean_citedness": 3.4074074074074074,
       "h_index": 41,
       "i10_index": 118
     },
@@ -190,7 +190,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "count": 217,
+        "count": 218,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -277,7 +277,7 @@
       {
         "id": "https://openalex.org/T11630",
         "display_name": "Petroleum Processing and Analysis",
-        "value": 0.00063,
+        "value": 0.0006299,
         "subfield": {
           "id": "https://openalex.org/subfields/1602",
           "display_name": "Analytical Chemistry"
@@ -294,7 +294,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0004696,
+        "value": 0.0004717,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -311,7 +311,7 @@
       {
         "id": "https://openalex.org/T12218",
         "display_name": "Coal and Its By-products",
-        "value": 0.0002364,
+        "value": 0.0002502,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -343,16 +343,16 @@
         }
       },
       {
-        "id": "https://openalex.org/T11588",
-        "display_name": "Atmospheric and Environmental Gas Dynamics",
-        "value": 0.0001777,
+        "id": "https://openalex.org/T11284",
+        "display_name": "Coal Properties and Utilization",
+        "value": 0.0001898,
         "subfield": {
-          "id": "https://openalex.org/subfields/2306",
-          "display_name": "Global and Planetary Change"
+          "id": "https://openalex.org/subfields/2212",
+          "display_name": "Ocean Engineering"
         },
         "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
         },
         "domain": {
           "id": "https://openalex.org/domains/3",
@@ -415,13 +415,13 @@
         "year": 2012,
         "works_count": 11,
         "oa_works_count": 1,
-        "cited_by_count": 588
+        "cited_by_count": 589
       },
       {
         "year": 2013,
         "works_count": 14,
         "oa_works_count": 0,
-        "cited_by_count": 510
+        "cited_by_count": 511
       },
       {
         "year": 2014,
@@ -433,7 +433,7 @@
         "year": 2015,
         "works_count": 13,
         "oa_works_count": 0,
-        "cited_by_count": 407
+        "cited_by_count": 408
       },
       {
         "year": 2016,
@@ -445,7 +445,7 @@
         "year": 2017,
         "works_count": 11,
         "oa_works_count": 5,
-        "cited_by_count": 247
+        "cited_by_count": 249
       },
       {
         "year": 2018,
@@ -469,7 +469,7 @@
         "year": 2021,
         "works_count": 17,
         "oa_works_count": 3,
-        "cited_by_count": 159
+        "cited_by_count": 160
       },
       {
         "year": 2022,
@@ -487,7 +487,7 @@
         "year": 2024,
         "works_count": 22,
         "oa_works_count": 12,
-        "cited_by_count": 134
+        "cited_by_count": 136
       },
       {
         "year": 2025,
@@ -497,7 +497,7 @@
       },
       {
         "year": 2026,
-        "works_count": 10,
+        "works_count": 11,
         "oa_works_count": 5,
         "cited_by_count": 7
       }
@@ -518,7 +518,7 @@
     ],
     "block_key": "m hakimi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5029716563",
-    "updated_date": "2026-08-05T12:20:06",
+    "updated_date": "2026-08-06T12:17:09",
     "created_date": "2019-03-02T00:00:00"
   },
   "works": [
