@@ -1869,11 +1869,11 @@
         "value_usd": 11690
       },
       "apc_paid": null,
-      "fwci": 107.8837,
+      "fwci": 108.3938,
       "has_fulltext": true,
-      "cited_by_count": 189,
+      "cited_by_count": 190,
       "citation_normalized_percentile": {
-        "value": 0.99945801,
+        "value": 0.99945993,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2310,7 +2310,7 @@
           "is_major_topic": true
         }
       ],
-      "locations_count": 14,
+      "locations_count": 12,
       "locations": [
         {
           "id": "doi:10.1038/s41559-018-0518-2",
@@ -2607,49 +2607,6 @@
           "raw_type": "Text"
         },
         {
-          "id": "pmh:oai:pure.mpg.de:item_3052855",
-          "is_oa": false,
-          "landing_page_url": "http://hdl.handle.net/21.11116/0000-0003-FD92-B",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400654",
-            "display_name": "MPG.PuRe (Max Planck Society)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I149899117",
-            "host_organization_name": "Max Planck Society",
-            "host_organization_lineage": [
-              "https://openalex.org/I149899117"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "",
-          "raw_type": "info:eu-repo/semantics/article"
-        },
-        {
-          "id": "pmh:oai:research-repository.griffith.edu.au:10072/384894",
-          "is_oa": false,
-          "landing_page_url": "http://hdl.handle.net/10072/384894",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "",
-          "raw_type": "Journal article"
-        },
-        {
           "id": "pmh:oai:www.repository.cam.ac.uk:1810/278306",
           "is_oa": false,
           "landing_page_url": "https://www.repository.cam.ac.uk/handle/1810/278306",
@@ -2916,7 +2873,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 9
+          "cited_by_count": 10
         },
         {
           "year": 2025,
@@ -2955,7 +2912,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-03T07:22:36.454288",
+      "updated_date": "2026-08-08T01:25:22.217667",
       "created_date": "2018-04-24T00:00:00"
     },
     {
@@ -7809,11 +7766,11 @@
         "currency": "USD",
         "value_usd": 1300
       },
-      "fwci": 4.8954,
+      "fwci": 4.8366,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.93747191,
+        "value": 0.93655278,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8134,8 +8091,8 @@
           "raw_type": "journal-article"
         },
         {
-          "id": "pmh:oai:centre-mersenne.org:CRGEOS_2023__355_S2_67_0",
-          "is_oa": true,
+          "id": "pmh:oai:centre-mersenne.org:CRGEOS_2023__355_S2_A6_0",
+          "is_oa": false,
           "landing_page_url": "https://comptes-rendus.academie-sciences.fr/geoscience/articles/10.5802/crgeos.217/",
           "pdf_url": null,
           "source": {
@@ -8152,8 +8109,8 @@
             "host_organization_lineage_names": [],
             "type": "journal"
           },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
+          "license": null,
+          "license_id": null,
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -9147,7 +9104,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-08-08T01:25:22.217667",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20866,11 +20823,11 @@
         "currency": "USD",
         "value_usd": 1300
       },
-      "fwci": 1.8203,
+      "fwci": 1.8137,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.8573674,
+        "value": 0.85705318,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21246,8 +21203,8 @@
           "raw_type": "info:eu-repo/semantics/article"
         },
         {
-          "id": "pmh:oai:centre-mersenne.org:CRGEOS_2023__355_S2_99_0",
-          "is_oa": true,
+          "id": "pmh:oai:centre-mersenne.org:CRGEOS_2023__355_S2_A7_0",
+          "is_oa": false,
           "landing_page_url": "https://comptes-rendus.academie-sciences.fr/geoscience/articles/10.5802/crgeos.227/",
           "pdf_url": null,
           "source": {
@@ -21264,8 +21221,8 @@
             "host_organization_lineage_names": [],
             "type": "journal"
           },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
+          "license": null,
+          "license_id": null,
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
@@ -22016,7 +21973,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-01T09:00:35.917206",
+      "updated_date": "2026-08-08T01:25:22.217667",
       "created_date": "2025-10-10T00:00:00"
     },
     {

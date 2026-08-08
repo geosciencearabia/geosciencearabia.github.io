@@ -4,8 +4,22 @@
     <title>Integrative Dashboard</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Fri, 07 Aug 2026 21:37:50 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 08 Aug 2026 21:28:51 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Organic-rich carbonate characteristics and depositional settings of the Late Jurassic Lam Member in the Shabwah depression, southeastern Yemen</title>
+      <link>https://doi.org/10.1038/s41598-026-65006-5</link>
+      <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7197007524</guid>
+      <dc:creator>Adel M. Al-Matary, Mohammed Hail Hakimi, Ali Saleh Naji Ghurab, Bassim Shaif Alkirbash, Murad M. Abdulfarraj, Azmi Saleh Ali Alawdi</dc:creator>
+      <dc:publisher>Scientific Reports</dc:publisher>
+      <category>Sedimentary depositional environment</category>
+      <category>Anoxic waters</category>
+      <category>Organic matter</category>
+      <category>Geology</category>
+      <category>Total organic carbon</category>
+      <description>Abstract: Organic-rich sediments of the Late Jurassic Lam Member (LM) in the Shabwah depression, southeastern Yemen were investigated using organic geochemical, biomarker and carbon isotope compositions with microscopic observations to assess the organic matter input and evaluate the sedimentary depositional conditions, as well as their role in controlling organic carbon accumulation. The LM samples are characterized by elevated organic matter (OM) and sulfur, reaching maximum values of 8.40 wt% and 18.85 wt%, respectively, indicating marine environment under anoxic and sulfidic conditions, promoting effective preservation of OM during deposition. This interpretation is supported by redox-related biomarker proxies, particularly low Pr/Ph ratio of less than 1.5, and higher abundance of sulfide mineral (FeS) in small size framboidal pyrite form, which it is formed due to sulphidation of iron under poor-oxygenated conditions. The source-related biomarker parameters, along with carbon isotope data also provide evidences of mainly marine (i.e., planktonic-bacterial) organic matter, with low amounts of land-plant input, reflecting mainly hydrogen-rich kerogen as original OM during deposition of the LM sediments. The predominance of marine-derived OM is evidenced by the abundance of alginite, including telalginite and lamalginite, together with diverse bituminite organic matter. The elevated warm-water climate event during the Late Jurassic time associated with anoxic conditions, promoting gr…&#10;Topics: Sedimentary depositional environment, Anoxic waters, Organic matter, Geology, Total organic carbon&#10;Venue: Scientific Reports&#10;Year: 2026&#10;Citations: 0</description>
+    </item>
     <item>
       <title>Oil–Coaly‐Source Rock of Oil Seepages From the West Coast Basin, New Zealand: Insights From Biomarker and Isotopic Investigations Coupled With 1D Basin Modeling Analysis</title>
       <link>https://doi.org/10.1111/jpg.70105</link>
@@ -851,7 +865,7 @@
       <category>Chabazite</category>
       <category>Dissolution</category>
       <category>Zeolite</category>
-      <description>Abstract: Analcime is a common authigenic mineral in siliciclastic rocks and has widespread industrial applications in catalysis and ceramic production. Although its formation from volcanic glass has been extensively studied, the role of clay minerals and feldspar precursors in its genesis remains poorly constrained. This study investigates the hydrothermal formation of analcime and associated zeolites from arkosic sandstone of the Oligocene–Miocene Al Wajh Formation, northwest Saudi Arabia using Na 2 CO 3 solutions (0.1 M and 0.5 M) at 80, 150, 200, and 250 °C for 336 h. The results indicate that analcime crystallized through the dissolution of feldspars, kaolinite, smectite, and illite, forming cubic to trapezohedral crystals. Mordenite and chabazite formed as minor zeolite phases at ≥ 200 °C, associated with higher silica activity and the breakdown of silica gel, smectite, and illite. Analcime precipitated as grain-coating, replacive, and pore-filling cement, with intercrystalline pores reaching up to 9.7 µm in size. The synthesised analcime may enhance the mechanical stability of the sandstone framework by reducing susceptibility to compaction. Furthermore, if exposed to acidic meteoric waters, dissolution of analcime could generate secondary intracrystalline porosity that could significantly improve the overall reservoir quality of the sandstone.&#10;Topics: Analcime, Leucite, Chabazite, Dissolution, Zeolite&#10;Venue: Scientific Reports&#10;Year: 2026&#10;Citations: 3</description>
+      <description>Abstract: Analcime is a common authigenic mineral in siliciclastic rocks and has widespread industrial applications in catalysis and ceramic production. Although its formation from volcanic glass has been extensively studied, the role of clay minerals and feldspar precursors in its genesis remains poorly constrained. This study investigates the hydrothermal formation of analcime and associated zeolites from arkosic sandstone of the Oligocene–Miocene Al Wajh Formation, northwest Saudi Arabia using Na 2 CO 3 solutions (0.1 M and 0.5 M) at 80, 150, 200, and 250 °C for 336 h. The results indicate that analcime crystallized through the dissolution of feldspars, kaolinite, smectite, and illite, forming cubic to trapezohedral crystals. Mordenite and chabazite formed as minor zeolite phases at ≥ 200 °C, associated with higher silica activity and the breakdown of silica gel, smectite, and illite. Analcime precipitated as grain-coating, replacive, and pore-filling cement, with intercrystalline pores reaching up to 9.7 µm in size. The synthesised analcime may enhance the mechanical stability of the sandstone framework by reducing susceptibility to compaction. Furthermore, if exposed to acidic meteoric waters, dissolution of analcime could generate secondary intracrystalline porosity that could significantly improve the overall reservoir quality of the sandstone.&#10;Topics: Analcime, Leucite, Chabazite, Dissolution, Zeolite&#10;Venue: Scientific Reports&#10;Year: 2026&#10;Citations: 4</description>
     </item>
     <item>
       <title>Vertical variability of geochemical, petrophysical, and rock mechanical properties in upper Cretaceous organic-rich carbonate source rocks, Jordan</title>
@@ -1369,20 +1383,6 @@
       <category>Analytics</category>
       <category>Restructuring</category>
       <description>Abstract: An offline, data-driven research analytics app that uses locally cached OpenAlex data to keep navigation fast and accessible without relying on live API calls. It helps you explore publications and citations by topic, institution, and member over the years, inspect co-author networks and follow links to publication DOIs or URLs, and filter instantly with precomputed tables—no waiting for remote queries. The latest updates include: Enhancements to the user interface. Restructuring of files for improved organization Repairing broken links Resolving mojibake issues in CSV exports.&#10;Topics: Dashboard, Computer science, World Wide Web, Analytics, Restructuring&#10;Venue: Zenodo (CERN European Organization for Nuclear Research)&#10;Year: 2025&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Kaolinite Illitization Under Hydrothermal Conditions: Experimental Insight into Transformation Pathways</title>
-      <link>https://doi.org/10.3390/min16010004</link>
-      <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W4417503339</guid>
-      <dc:creator>Mashaer Alfaraj, Abdulwahab Muhammad Bello, Anas Muhammad Salisu, Khalid Al‐Ramadan</dc:creator>
-      <dc:publisher>Minerals</dc:publisher>
-      <category>Illite</category>
-      <category>Kaolinite</category>
-      <category>Diagenesis</category>
-      <category>Clay minerals</category>
-      <category>Dissolution</category>
-      <description>Abstract: Illite plays a critical role in diagenetic processes of sedimentary rocks, influencing geochemical evolution, reservoir quality, and fluid flow pathways. This study experimentally investigated the hydrothermal transformation of kaolinite to illite using sandstones from the Upper Ordovician Quwarah Member of Qasim Formation, northwest Saudi Arabia. Experiments were performed to simulate burial diagenesis involving illitization using three fluid systems: a synthetic solution (0.2 M KCl and 0.5 M MgCl2), natural Red Sea water, and modified Red Sea water (0.2 M KCl and 0.5 M MgCl2 + Red Sea water) at different temperatures (80 °C, 150 °C, 200 °C, 250 °C). Analysis included thin-section petrography, scanning electron microscopy, and X-ray diffraction, whereas the elemental compositions of the experimental solutions were analyzed using ICP-MS and Ion Chromatography. At 80 °C and 150 °C, kaolinite underwent dissolution without significant mineralogical changes. At 200 °C, continued kaolinite disaggregation and dissolution produced smectite and mixed smectite–chlorite/illite layers, indicating early transformation pathways. At 250 °C, fluid chemistry exerted strong control on clay minerals. The synthetic solution formed smectite with minor chlorite and illite; Red Sea water favored well developed smectite; the modified Red Sea water promoted well-developed illite due to increased potassium availability. The experiments show illitization is strongly temperature dependent and primarily…&#10;Topics: Illite, Kaolinite, Diagenesis, Clay minerals, Dissolution&#10;Venue: Minerals&#10;Year: 2025&#10;Citations: 7</description>
     </item>
   </channel>
 </rss>

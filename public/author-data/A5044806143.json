@@ -36813,13 +36813,13 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.1332,
+      "fwci": 3.0939,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.90008598,
+        "value": 0.89911017,
         "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
+        "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
         "min": 91,
@@ -36981,7 +36981,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
         {
           "id": "doi:10.53539/squjs.vol29iss1pp68-85",
@@ -37017,6 +37017,33 @@
           "is_published": true,
           "raw_source_name": "Sultan Qaboos University Journal For Science",
           "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:f1a8bcc322e9425091c9eb47d2643324",
+          "is_oa": false,
+          "landing_page_url": "https://doaj.org/article/f1a8bcc322e9425091c9eb47d2643324",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Sultan Qaboos University Journal for Science, Vol 29, Iss 1 (2025)",
+          "raw_type": "article"
         }
       ],
       "best_oa_location": {
@@ -37658,7 +37685,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-08-08T01:25:22.217667",
       "created_date": "2025-10-10T00:00:00"
     },
     {

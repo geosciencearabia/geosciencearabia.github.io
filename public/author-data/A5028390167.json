@@ -108851,7 +108851,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.2664098,
+        "value": 0.26162891,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -109134,7 +109134,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
         {
           "id": "doi:10.1016/j.jafrearsci.2025.105910",
@@ -109170,6 +109170,35 @@
           "is_published": true,
           "raw_source_name": "Journal of African Earth Sciences",
           "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:nur.nu.edu.kz:123456789/18182",
+          "is_oa": false,
+          "landing_page_url": "https://nur.nu.edu.kz/handle/123456789/18182",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4377196417",
+            "display_name": "Nazarbayev University Repository (Nazarbayev University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I60559429",
+            "host_organization_name": "Nazarbayev University",
+            "host_organization_lineage": [
+              "https://openalex.org/I60559429"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "Article"
         }
       ],
       "best_oa_location": null,
@@ -109211,7 +109240,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-08-08T07:41:36.138363",
       "created_date": "2025-11-05T00:00:00"
     }
   ]

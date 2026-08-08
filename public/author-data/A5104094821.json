@@ -351,1403 +351,6 @@
   },
   "works": [
     {
-      "id": "https://openalex.org/W3128211510",
-      "doi": "https://doi.org/10.1029/2020ea001432",
-      "title": "Comprehensive Geophysical Study at Wabar Crater, Rub Al‐Khali Desert, Saudi Arabia",
-      "display_name": "Comprehensive Geophysical Study at Wabar Crater, Rub Al‐Khali Desert, Saudi Arabia",
-      "publication_year": 2021,
-      "publication_date": "2021-09-01",
-      "ids": {
-        "openalex": "https://openalex.org/W3128211510",
-        "doi": "https://doi.org/10.1029/2020ea001432",
-        "mag": "3128211510"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1029/2020ea001432",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1029/2020ea001432",
-        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2020EA001432",
-        "source": {
-          "id": "https://openalex.org/S2764679394",
-          "display_name": "Earth and Space Science",
-          "issn_l": "2333-5084",
-          "issn": [
-            "2333-5084"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310315809",
-          "host_organization_name": "American Geophysical Union",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310315809"
-          ],
-          "host_organization_lineage_names": [
-            "American Geophysical Union"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Earth and Space Science",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2020EA001432",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5077467560",
-            "display_name": "Sherif M. Hanafy",
-            "orcid": "https://orcid.org/0000-0003-4568-2941"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Sherif M. Hanafy",
-          "raw_affiliation_strings": [
-            "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals  Dhahran Saudi Arabia",
-            "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0003-4568-2941",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals  Dhahran Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5008213975",
-            "display_name": "Pantelis Soupios",
-            "orcid": "https://orcid.org/0000-0002-4153-3415"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Pantelis Soupios",
-          "raw_affiliation_strings": [
-            "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals  Dhahran Saudi Arabia",
-            "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-4153-3415",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals  Dhahran Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5017749705",
-            "display_name": "Alexandros Stampolidis",
-            "orcid": "https://orcid.org/0000-0002-0605-5382"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I21370196",
-              "display_name": "Aristotle University of Thessaloniki",
-              "ror": "https://ror.org/02j61yw88",
-              "country_code": "GR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I21370196"
-              ]
-            }
-          ],
-          "countries": [
-            "GR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Alexandros Stampolidis",
-          "raw_affiliation_strings": [
-            "School of Geology Aristotle University of Thessaloniki  Thessaloniki Greece",
-            "School of Geology, Aristotle University of Thessaloniki, Thessaloniki, Greece"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "School of Geology Aristotle University of Thessaloniki  Thessaloniki Greece",
-              "institution_ids": [
-                "https://openalex.org/I21370196"
-              ]
-            },
-            {
-              "raw_affiliation_string": "School of Geology, Aristotle University of Thessaloniki, Thessaloniki, Greece",
-              "institution_ids": [
-                "https://openalex.org/I21370196"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5013919197",
-            "display_name": "Christian Koch",
-            "orcid": "https://orcid.org/0000-0002-7496-297X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I124055696",
-              "display_name": "University of Copenhagen",
-              "ror": "https://ror.org/035b05819",
-              "country_code": "DK",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I124055696"
-              ]
-            }
-          ],
-          "countries": [
-            "DK"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Christian Bender Koch",
-          "raw_affiliation_strings": [
-            "Department of Chemistry University of Copenhagen  Copenhagen Denmark",
-            "Department of Chemistry, University of Copenhagen, Copenhagen, Denmark"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-7496-297X",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Chemistry University of Copenhagen  Copenhagen Denmark",
-              "institution_ids": [
-                "https://openalex.org/I124055696"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Chemistry, University of Copenhagen, Copenhagen, Denmark",
-              "institution_ids": [
-                "https://openalex.org/I124055696"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5104094821",
-            "display_name": "Khalid Al‐Ramadan",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Khalid Al‐Ramadan",
-          "raw_affiliation_strings": [
-            "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals  Dhahran Saudi Arabia",
-            "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals  Dhahran Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5054922583",
-            "display_name": "Abdullatif Al‐Shuhail",
-            "orcid": "https://orcid.org/0000-0002-2171-0154"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdullatif Al‐Shuhail",
-          "raw_affiliation_strings": [
-            "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals  Dhahran Saudi Arabia",
-            "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals  Dhahran Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5038432622",
-            "display_name": "Theis I. Sølling",
-            "orcid": "https://orcid.org/0000-0003-1710-9072"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Theis Solling",
-          "raw_affiliation_strings": [
-            "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals  Dhahran Saudi Arabia",
-            "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0003-1710-9072",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals  Dhahran Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5077816186",
-            "display_name": "Ignatius Argadestya",
-            "orcid": "https://orcid.org/0000-0002-7540-3897"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ignatius Argadestya",
-          "raw_affiliation_strings": [
-            "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals  Dhahran Saudi Arabia",
-            "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-7540-3897",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals  Dhahran Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5077467560"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": {
-        "value": 2100,
-        "currency": "USD",
-        "value_usd": 2100
-      },
-      "apc_paid": {
-        "value": 2100,
-        "currency": "USD",
-        "value_usd": 2100
-      },
-      "fwci": 0.9231,
-      "has_fulltext": true,
-      "cited_by_count": 13,
-      "citation_normalized_percentile": {
-        "value": 0.68846351,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "8",
-        "issue": "9",
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10017",
-        "display_name": "Geology and Paleoclimatology Research",
-        "score": 0.998199999332428,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1902",
-          "display_name": "Atmospheric Science"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.998199999332428,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10995",
-          "display_name": "Methane Hydrates and Related Phenomena",
-          "score": 0.9969000220298767,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2304",
-            "display_name": "Environmental Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11609",
-          "display_name": "Geophysical Methods and Applications",
-          "score": 0.9962999820709229,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/desert",
-          "display_name": "Desert (philosophy)",
-          "score": 0.8411198854446411
-        },
-        {
-          "id": "https://openalex.org/keywords/impact-crater",
-          "display_name": "Impact crater",
-          "score": 0.8091341853141785
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.7833101749420166
-        },
-        {
-          "id": "https://openalex.org/keywords/geophysics",
-          "display_name": "Geophysics",
-          "score": 0.40369197726249695
-        },
-        {
-          "id": "https://openalex.org/keywords/astrobiology",
-          "display_name": "Astrobiology",
-          "score": 0.10401177406311035
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2776130869",
-          "wikidata": "https://www.wikidata.org/wiki/Q1361649",
-          "display_name": "Desert (philosophy)",
-          "level": 2,
-          "score": 0.8411198854446411
-        },
-        {
-          "id": "https://openalex.org/C179537507",
-          "wikidata": "https://www.wikidata.org/wiki/Q55818",
-          "display_name": "Impact crater",
-          "level": 2,
-          "score": 0.8091341853141785
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.7833101749420166
-        },
-        {
-          "id": "https://openalex.org/C8058405",
-          "wikidata": "https://www.wikidata.org/wiki/Q46255",
-          "display_name": "Geophysics",
-          "level": 1,
-          "score": 0.40369197726249695
-        },
-        {
-          "id": "https://openalex.org/C87355193",
-          "wikidata": "https://www.wikidata.org/wiki/Q411",
-          "display_name": "Astrobiology",
-          "level": 1,
-          "score": 0.10401177406311035
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C138885662",
-          "wikidata": "https://www.wikidata.org/wiki/Q5891",
-          "display_name": "Philosophy",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C111472728",
-          "wikidata": "https://www.wikidata.org/wiki/Q9471",
-          "display_name": "Epistemology",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 3,
-      "locations": [
-        {
-          "id": "doi:10.1029/2020ea001432",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1029/2020ea001432",
-          "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2020EA001432",
-          "source": {
-            "id": "https://openalex.org/S2764679394",
-            "display_name": "Earth and Space Science",
-            "issn_l": "2333-5084",
-            "issn": [
-              "2333-5084"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310315809",
-            "host_organization_name": "American Geophysical Union",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310315809"
-            ],
-            "host_organization_lineage_names": [
-              "American Geophysical Union"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Earth and Space Science",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:doaj.org/article:78bbcbfe42bb4f7e93ef1a9633369499",
-          "is_oa": true,
-          "landing_page_url": "https://doaj.org/article/78bbcbfe42bb4f7e93ef1a9633369499",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Earth and Space Science, Vol 8, Iss 9, Pp n/a-n/a (2021)",
-          "raw_type": "article"
-        },
-        {
-          "id": "pmh:oai:pure.atira.dk:openaire_cris_publications/56e55c8a-001d-4d3a-bc88-ab9daacaf2fc",
-          "is_oa": true,
-          "landing_page_url": "https://researchprofiles.ku.dk/da/publications/56e55c8a-001d-4d3a-bc88-ab9daacaf2fc",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401983",
-            "display_name": "Research at the University of Copenhagen (University of Copenhagen)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I124055696",
-            "host_organization_name": "University of Copenhagen",
-            "host_organization_lineage": [
-              "https://openalex.org/I124055696"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-nc",
-          "license_id": "https://openalex.org/licenses/cc-by-nc",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Hanafy , S M , Soupios , P , Stampolidis , A , Koch , C B , Al-Ramadan , K , Al-Shuhail , A , Solling , T & Argadestya , I 2021 , ' Comprehensive Geophysical Study at Wabar Crater, Rub Al-Khali Desert, Saudi Arabia ' , Earth and Space Science , vol. 8 , no. 9 , e2020EA001432 . https://doi.org/10.1029/2020EA001432",
-          "raw_type": "article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1029/2020ea001432",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1029/2020ea001432",
-        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2020EA001432",
-        "source": {
-          "id": "https://openalex.org/S2764679394",
-          "display_name": "Earth and Space Science",
-          "issn_l": "2333-5084",
-          "issn": [
-            "2333-5084"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310315809",
-          "host_organization_name": "American Geophysical Union",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310315809"
-          ],
-          "host_organization_lineage_names": [
-            "American Geophysical Union"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Earth and Space Science",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5400000214576721
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 44,
-      "referenced_works": [
-        "https://openalex.org/W602057047",
-        "https://openalex.org/W1532676516",
-        "https://openalex.org/W1597269288",
-        "https://openalex.org/W1606273775",
-        "https://openalex.org/W1619257572",
-        "https://openalex.org/W1675734555",
-        "https://openalex.org/W1963837649",
-        "https://openalex.org/W1969984189",
-        "https://openalex.org/W1970797589",
-        "https://openalex.org/W1998004980",
-        "https://openalex.org/W2004332091",
-        "https://openalex.org/W2007863288",
-        "https://openalex.org/W2012987972",
-        "https://openalex.org/W2032480550",
-        "https://openalex.org/W2052082248",
-        "https://openalex.org/W2060769897",
-        "https://openalex.org/W2080855370",
-        "https://openalex.org/W2083654323",
-        "https://openalex.org/W2084709634",
-        "https://openalex.org/W2087628391",
-        "https://openalex.org/W2091806282",
-        "https://openalex.org/W2121303396",
-        "https://openalex.org/W2126767740",
-        "https://openalex.org/W2157030444",
-        "https://openalex.org/W2158940394",
-        "https://openalex.org/W2263924161",
-        "https://openalex.org/W2275961988",
-        "https://openalex.org/W2314616476",
-        "https://openalex.org/W2315544345",
-        "https://openalex.org/W2324030799",
-        "https://openalex.org/W2505696104",
-        "https://openalex.org/W2602621609",
-        "https://openalex.org/W2747101882",
-        "https://openalex.org/W2767566751",
-        "https://openalex.org/W2783706479",
-        "https://openalex.org/W2922271974",
-        "https://openalex.org/W2993803229",
-        "https://openalex.org/W3113790059",
-        "https://openalex.org/W3129048270",
-        "https://openalex.org/W3183969522",
-        "https://openalex.org/W4229631831",
-        "https://openalex.org/W4249886930",
-        "https://openalex.org/W4301171111",
-        "https://openalex.org/W6760703806"
-      ],
-      "related_works": [
-        "https://openalex.org/W2625809971",
-        "https://openalex.org/W1663847441",
-        "https://openalex.org/W2768493687",
-        "https://openalex.org/W2170886505",
-        "https://openalex.org/W1969484083",
-        "https://openalex.org/W2743845306",
-        "https://openalex.org/W2792375831",
-        "https://openalex.org/W2386713424",
-        "https://openalex.org/W4382051772",
-        "https://openalex.org/W3170601672"
-      ],
-      "abstract_inverted_index": {
-        "25": [
-          131
-        ],
-        "Abstract": [
-          0
-        ],
-        "Interest": [
-          1
-        ],
-        "in": [
-          2,
-          50,
-          114,
-          204
-        ],
-        "impact": [
-          3,
-          125
-        ],
-        "craters": [
-          4
-        ],
-        "on": [
-          5,
-          226
-        ],
-        "the": [
-          6,
-          41,
-          45,
-          77,
-          85,
-          89,
-          95,
-          100,
-          115,
-          124,
-          127,
-          136,
-          141,
-          145,
-          152,
-          156,
-          179,
-          205,
-          209,
-          215,
-          227,
-          230
-        ],
-        "earth's": [
-          7
-        ],
-        "surface": [
-          8
-        ],
-        "has": [
-          9
-        ],
-        "increased": [
-          10
-        ],
-        "worldwide": [
-          11
-        ],
-        "and": [
-          12,
-          23,
-          62,
-          92,
-          111,
-          144,
-          159,
-          219
-        ],
-        "is": [
-          13,
-          129,
-          197
-        ],
-        "being": [
-          14
-        ],
-        "investigated": [
-          15,
-          55
-        ],
-        "by": [
-          16,
-          135
-        ],
-        "using": [
-          17,
-          56
-        ],
-        "remote": [
-          18
-        ],
-        "sensing,": [
-          19
-        ],
-        "geological,": [
-          20
-        ],
-        "boreholes,": [
-          21
-        ],
-        "geophysical,": [
-          22
-        ],
-        "laboratory": [
-          24
-        ],
-        "measurements.": [
-          25
-        ],
-        "These": [
-          26
-        ],
-        "measurements": [
-          27
-        ],
-        "are": [
-          28
-        ],
-        "used": [
-          29,
-          184
-        ],
-        "to": [
-          30,
-          34,
-          74,
-          123,
-          185,
-          235,
-          239
-        ],
-        "build": [
-          31
-        ],
-        "dynamic": [
-          32
-        ],
-        "models": [
-          33
-        ],
-        "study": [
-          35
-        ],
-        "crater": [
-          36,
-          48,
-          158,
-          163
-        ],
-        "formation.": [
-          37
-        ],
-        "In": [
-          38
-        ],
-        "this": [
-          39,
-          71
-        ],
-        "work,": [
-          40
-        ],
-        "near‐crater": [
-          42
-        ],
-        "sediments": [
-          43
-        ],
-        "at": [
-          44
-        ],
-        "young": [
-          46
-        ],
-        "Wabar": [
-          47
-        ],
-        "field": [
-          49
-        ],
-        "Saudi": [
-          51
-        ],
-        "Arabia": [
-          52
-        ],
-        "have": [
-          53
-        ],
-        "been": [
-          54
-        ],
-        "magnetic,": [
-          57
-        ],
-        "transient": [
-          58
-        ],
-        "electromagnetic": [
-          59
-        ],
-        "(TEM),": [
-          60
-        ],
-        "seismic,": [
-          61
-        ],
-        "ground‐penetrating": [
-          63
-        ],
-        "radar": [
-          64
-        ],
-        "(GPR)": [
-          65
-        ],
-        "methods.": [
-          66
-        ],
-        "The": [
-          67,
-          117,
-          167,
-          194
-        ],
-        "main": [
-          68
-        ],
-        "objectives": [
-          69
-        ],
-        "of": [
-          70,
-          79,
-          84,
-          120,
-          126,
-          155,
-          173,
-          178,
-          201,
-          214
-        ],
-        "research": [
-          72
-        ],
-        "were": [
-          73,
-          217
-        ],
-        "(a)": [
-          75
-        ],
-        "explore": [
-          76
-        ],
-        "possibility": [
-          78
-        ],
-        "any": [
-          80,
-          174
-        ],
-        "remnant": [
-          81,
-          175
-        ],
-        "major": [
-          82,
-          157,
-          176
-        ],
-        "pieces": [
-          83,
-          177,
-          213
-        ],
-        "meteorite,": [
-          86
-        ],
-        "(b)": [
-          87
-        ],
-        "investigate": [
-          88
-        ],
-        "meteoroid": [
-          90,
-          216
-        ],
-        "direction,": [
-          91
-        ],
-        "(c)": [
-          93
-        ],
-        "map": [
-          94
-        ],
-        "deformational": [
-          96
-        ],
-        "structures": [
-          97
-        ],
-        "associated": [
-          98
-        ],
-        "with": [
-          99
-        ],
-        "meteorite": [
-          101,
-          128,
-          231
-        ],
-        "impact.": [
-          102
-        ],
-        "Our": [
-          103
-        ],
-        "results": [
-          104
-        ],
-        "show": [
-          105
-        ],
-        "five": [
-          106
-        ],
-        "different": [
-          107
-        ],
-        "magnetic": [
-          108,
-          168,
-          192,
-          195
-        ],
-        "anomaly": [
-          109
-        ],
-        "types": [
-          110
-        ],
-        "three": [
-          112
-        ],
-        "layers": [
-          113
-        ],
-        "subsurface.": [
-          116
-        ],
-        "maximum": [
-          118
-        ],
-        "depth": [
-          119
-        ],
-        "deformation": [
-          121
-        ],
-        "due": [
-          122
-        ],
-        "about": [
-          130
-        ],
-        "m": [
-          132
-        ],
-        "as": [
-          133,
-          165
-        ],
-        "shown": [
-          134
-        ],
-        "seismic": [
-          137
-        ],
-        "travel": [
-          138
-        ],
-        "time": [
-          139
-        ],
-        "tomogram,": [
-          140
-        ],
-        "quasi‐2D": [
-          142
-        ],
-        "TEM,": [
-          143
-        ],
-        "3D": [
-          146
-        ],
-        "GPR": [
-          147
-        ],
-        "model.": [
-          148
-        ],
-        "TEM": [
-          149
-        ],
-        "survey": [
-          150,
-          169
-        ],
-        "confirmed": [
-          151
-        ],
-        "geometrical": [
-          153
-        ],
-        "characteristics": [
-          154
-        ],
-        "located": [
-          160
-        ],
-        "another": [
-          161
-        ],
-        "small": [
-          162,
-          212
-        ],
-        "(known": [
-          164
-        ],
-        "Philby‐A).": [
-          166
-        ],
-        "shows": [
-          170
-        ],
-        "no": [
-          171
-        ],
-        "evidence": [
-          172
-        ],
-        "meteorite;": [
-          180
-        ],
-        "however,": [
-          181
-        ],
-        "it": [
-          182
-        ],
-        "was": [
-          183,
-          233
-        ],
-        "trace": [
-          186
-        ],
-        "ejecta": [
-          187
-        ],
-        "material": [
-          188
-        ],
-        "containing": [
-          189
-        ],
-        "highly": [
-          190
-        ],
-        "dilute": [
-          191
-        ],
-        "material.": [
-          193
-        ],
-        "carrier": [
-          196
-        ],
-        "most": [
-          198
-        ],
-        "likely": [
-          199
-        ],
-        "spheres": [
-          200
-        ],
-        "metal": [
-          202
-        ],
-        "incorporated": [
-          203
-        ],
-        "black/green": [
-          206
-        ],
-        "glasses.": [
-          207
-        ],
-        "During": [
-          208
-        ],
-        "expedition,": [
-          210
-        ],
-        "many": [
-          211
-        ],
-        "found": [
-          218,
-          234
-        ],
-        "collected": [
-          220
-        ],
-        "for": [
-          221
-        ],
-        "further": [
-          222
-        ],
-        "geochemical": [
-          223
-        ],
-        "analysis.": [
-          224
-        ],
-        "Based": [
-          225
-        ],
-        "geophysical": [
-          228
-        ],
-        "findings,": [
-          229
-        ],
-        "direction": [
-          232
-        ],
-        "be": [
-          236
-        ],
-        "from": [
-          237
-        ],
-        "north": [
-          238
-        ],
-        "south.": [
-          240
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-07-23T08:03:31.855105",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W4408660286",
       "doi": "https://doi.org/10.2110/jsr.2024.135",
       "title": "Experimental study of smectite authigenesis and its subsequent illitization: insights from modern estuary sediments",
@@ -2038,17 +641,17 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.9333,
+      "fwci": 3.152,
       "has_fulltext": false,
-      "cited_by_count": 9,
+      "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.90727283,
+        "value": 0.91689403,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
         "min": 96,
-        "max": 99
+        "max": 100
       },
       "biblio": {
         "volume": "95",
@@ -3301,14 +1904,1411 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 6
+          "cited_by_count": 7
         },
         {
           "year": 2025,
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-08-08T01:25:22.217667",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W3128211510",
+      "doi": "https://doi.org/10.1029/2020ea001432",
+      "title": "Comprehensive Geophysical Study at Wabar Crater, Rub Al‐Khali Desert, Saudi Arabia",
+      "display_name": "Comprehensive Geophysical Study at Wabar Crater, Rub Al‐Khali Desert, Saudi Arabia",
+      "publication_year": 2021,
+      "publication_date": "2021-09-01",
+      "ids": {
+        "openalex": "https://openalex.org/W3128211510",
+        "doi": "https://doi.org/10.1029/2020ea001432",
+        "mag": "3128211510"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1029/2020ea001432",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1029/2020ea001432",
+        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2020EA001432",
+        "source": {
+          "id": "https://openalex.org/S2764679394",
+          "display_name": "Earth and Space Science",
+          "issn_l": "2333-5084",
+          "issn": [
+            "2333-5084"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310315809",
+          "host_organization_name": "American Geophysical Union",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315809"
+          ],
+          "host_organization_lineage_names": [
+            "American Geophysical Union"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Earth and Space Science",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2020EA001432",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5077467560",
+            "display_name": "Sherif M. Hanafy",
+            "orcid": "https://orcid.org/0000-0003-4568-2941"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Sherif M. Hanafy",
+          "raw_affiliation_strings": [
+            "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals  Dhahran Saudi Arabia",
+            "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-4568-2941",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals  Dhahran Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5008213975",
+            "display_name": "Pantelis Soupios",
+            "orcid": "https://orcid.org/0000-0002-4153-3415"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Pantelis Soupios",
+          "raw_affiliation_strings": [
+            "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals  Dhahran Saudi Arabia",
+            "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-4153-3415",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals  Dhahran Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5017749705",
+            "display_name": "Alexandros Stampolidis",
+            "orcid": "https://orcid.org/0000-0002-0605-5382"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I21370196",
+              "display_name": "Aristotle University of Thessaloniki",
+              "ror": "https://ror.org/02j61yw88",
+              "country_code": "GR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I21370196"
+              ]
+            }
+          ],
+          "countries": [
+            "GR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Alexandros Stampolidis",
+          "raw_affiliation_strings": [
+            "School of Geology Aristotle University of Thessaloniki  Thessaloniki Greece",
+            "School of Geology, Aristotle University of Thessaloniki, Thessaloniki, Greece"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "School of Geology Aristotle University of Thessaloniki  Thessaloniki Greece",
+              "institution_ids": [
+                "https://openalex.org/I21370196"
+              ]
+            },
+            {
+              "raw_affiliation_string": "School of Geology, Aristotle University of Thessaloniki, Thessaloniki, Greece",
+              "institution_ids": [
+                "https://openalex.org/I21370196"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5013919197",
+            "display_name": "Christian Koch",
+            "orcid": "https://orcid.org/0000-0002-7496-297X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I124055696",
+              "display_name": "University of Copenhagen",
+              "ror": "https://ror.org/035b05819",
+              "country_code": "DK",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I124055696"
+              ]
+            }
+          ],
+          "countries": [
+            "DK"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Christian Bender Koch",
+          "raw_affiliation_strings": [
+            "Department of Chemistry University of Copenhagen  Copenhagen Denmark",
+            "Department of Chemistry, University of Copenhagen, Copenhagen, Denmark"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-7496-297X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Chemistry University of Copenhagen  Copenhagen Denmark",
+              "institution_ids": [
+                "https://openalex.org/I124055696"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Chemistry, University of Copenhagen, Copenhagen, Denmark",
+              "institution_ids": [
+                "https://openalex.org/I124055696"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5104094821",
+            "display_name": "Khalid Al‐Ramadan",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Khalid Al‐Ramadan",
+          "raw_affiliation_strings": [
+            "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals  Dhahran Saudi Arabia",
+            "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals  Dhahran Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5054922583",
+            "display_name": "Abdullatif Al‐Shuhail",
+            "orcid": "https://orcid.org/0000-0002-2171-0154"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdullatif Al‐Shuhail",
+          "raw_affiliation_strings": [
+            "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals  Dhahran Saudi Arabia",
+            "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals  Dhahran Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5038432622",
+            "display_name": "Theis I. Sølling",
+            "orcid": "https://orcid.org/0000-0003-1710-9072"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Theis Solling",
+          "raw_affiliation_strings": [
+            "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals  Dhahran Saudi Arabia",
+            "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-1710-9072",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals  Dhahran Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5077816186",
+            "display_name": "Ignatius Argadestya",
+            "orcid": "https://orcid.org/0000-0002-7540-3897"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ignatius Argadestya",
+          "raw_affiliation_strings": [
+            "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals  Dhahran Saudi Arabia",
+            "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-7540-3897",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences King Fahd University of Petroleum and Minerals  Dhahran Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5077467560"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": {
+        "value": 2100,
+        "currency": "USD",
+        "value_usd": 2100
+      },
+      "apc_paid": {
+        "value": 2100,
+        "currency": "USD",
+        "value_usd": 2100
+      },
+      "fwci": 0.9231,
+      "has_fulltext": true,
+      "cited_by_count": 13,
+      "citation_normalized_percentile": {
+        "value": 0.68846351,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "8",
+        "issue": "9",
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10017",
+        "display_name": "Geology and Paleoclimatology Research",
+        "score": 0.998199999332428,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1902",
+          "display_name": "Atmospheric Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.998199999332428,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10995",
+          "display_name": "Methane Hydrates and Related Phenomena",
+          "score": 0.9969000220298767,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2304",
+            "display_name": "Environmental Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11609",
+          "display_name": "Geophysical Methods and Applications",
+          "score": 0.9962999820709229,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/desert",
+          "display_name": "Desert (philosophy)",
+          "score": 0.8411198854446411
+        },
+        {
+          "id": "https://openalex.org/keywords/impact-crater",
+          "display_name": "Impact crater",
+          "score": 0.8091341853141785
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.7833101749420166
+        },
+        {
+          "id": "https://openalex.org/keywords/geophysics",
+          "display_name": "Geophysics",
+          "score": 0.40369197726249695
+        },
+        {
+          "id": "https://openalex.org/keywords/astrobiology",
+          "display_name": "Astrobiology",
+          "score": 0.10401177406311035
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2776130869",
+          "wikidata": "https://www.wikidata.org/wiki/Q1361649",
+          "display_name": "Desert (philosophy)",
+          "level": 2,
+          "score": 0.8411198854446411
+        },
+        {
+          "id": "https://openalex.org/C179537507",
+          "wikidata": "https://www.wikidata.org/wiki/Q55818",
+          "display_name": "Impact crater",
+          "level": 2,
+          "score": 0.8091341853141785
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7833101749420166
+        },
+        {
+          "id": "https://openalex.org/C8058405",
+          "wikidata": "https://www.wikidata.org/wiki/Q46255",
+          "display_name": "Geophysics",
+          "level": 1,
+          "score": 0.40369197726249695
+        },
+        {
+          "id": "https://openalex.org/C87355193",
+          "wikidata": "https://www.wikidata.org/wiki/Q411",
+          "display_name": "Astrobiology",
+          "level": 1,
+          "score": 0.10401177406311035
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C138885662",
+          "wikidata": "https://www.wikidata.org/wiki/Q5891",
+          "display_name": "Philosophy",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C111472728",
+          "wikidata": "https://www.wikidata.org/wiki/Q9471",
+          "display_name": "Epistemology",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 3,
+      "locations": [
+        {
+          "id": "doi:10.1029/2020ea001432",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1029/2020ea001432",
+          "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2020EA001432",
+          "source": {
+            "id": "https://openalex.org/S2764679394",
+            "display_name": "Earth and Space Science",
+            "issn_l": "2333-5084",
+            "issn": [
+              "2333-5084"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310315809",
+            "host_organization_name": "American Geophysical Union",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310315809"
+            ],
+            "host_organization_lineage_names": [
+              "American Geophysical Union"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Earth and Space Science",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:78bbcbfe42bb4f7e93ef1a9633369499",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/78bbcbfe42bb4f7e93ef1a9633369499",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Earth and Space Science, Vol 8, Iss 9, Pp n/a-n/a (2021)",
+          "raw_type": "article"
+        },
+        {
+          "id": "pmh:oai:pure.atira.dk:openaire_cris_publications/56e55c8a-001d-4d3a-bc88-ab9daacaf2fc",
+          "is_oa": true,
+          "landing_page_url": "https://researchprofiles.ku.dk/da/publications/56e55c8a-001d-4d3a-bc88-ab9daacaf2fc",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401983",
+            "display_name": "Research at the University of Copenhagen (University of Copenhagen)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I124055696",
+            "host_organization_name": "University of Copenhagen",
+            "host_organization_lineage": [
+              "https://openalex.org/I124055696"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Hanafy , S M , Soupios , P , Stampolidis , A , Koch , C B , Al-Ramadan , K , Al-Shuhail , A , Solling , T & Argadestya , I 2021 , ' Comprehensive Geophysical Study at Wabar Crater, Rub Al-Khali Desert, Saudi Arabia ' , Earth and Space Science , vol. 8 , no. 9 , e2020EA001432 . https://doi.org/10.1029/2020EA001432",
+          "raw_type": "article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1029/2020ea001432",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1029/2020ea001432",
+        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2020EA001432",
+        "source": {
+          "id": "https://openalex.org/S2764679394",
+          "display_name": "Earth and Space Science",
+          "issn_l": "2333-5084",
+          "issn": [
+            "2333-5084"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310315809",
+          "host_organization_name": "American Geophysical Union",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310315809"
+          ],
+          "host_organization_lineage_names": [
+            "American Geophysical Union"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Earth and Space Science",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "score": 0.5400000214576721,
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 44,
+      "referenced_works": [
+        "https://openalex.org/W602057047",
+        "https://openalex.org/W1532676516",
+        "https://openalex.org/W1597269288",
+        "https://openalex.org/W1606273775",
+        "https://openalex.org/W1619257572",
+        "https://openalex.org/W1675734555",
+        "https://openalex.org/W1963837649",
+        "https://openalex.org/W1969984189",
+        "https://openalex.org/W1970797589",
+        "https://openalex.org/W1998004980",
+        "https://openalex.org/W2004332091",
+        "https://openalex.org/W2007863288",
+        "https://openalex.org/W2012987972",
+        "https://openalex.org/W2032480550",
+        "https://openalex.org/W2052082248",
+        "https://openalex.org/W2060769897",
+        "https://openalex.org/W2080855370",
+        "https://openalex.org/W2083654323",
+        "https://openalex.org/W2084709634",
+        "https://openalex.org/W2087628391",
+        "https://openalex.org/W2091806282",
+        "https://openalex.org/W2121303396",
+        "https://openalex.org/W2126767740",
+        "https://openalex.org/W2157030444",
+        "https://openalex.org/W2158940394",
+        "https://openalex.org/W2263924161",
+        "https://openalex.org/W2275961988",
+        "https://openalex.org/W2314616476",
+        "https://openalex.org/W2315544345",
+        "https://openalex.org/W2324030799",
+        "https://openalex.org/W2505696104",
+        "https://openalex.org/W2602621609",
+        "https://openalex.org/W2747101882",
+        "https://openalex.org/W2767566751",
+        "https://openalex.org/W2783706479",
+        "https://openalex.org/W2922271974",
+        "https://openalex.org/W2993803229",
+        "https://openalex.org/W3113790059",
+        "https://openalex.org/W3129048270",
+        "https://openalex.org/W3183969522",
+        "https://openalex.org/W4229631831",
+        "https://openalex.org/W4249886930",
+        "https://openalex.org/W4301171111",
+        "https://openalex.org/W6760703806"
+      ],
+      "related_works": [
+        "https://openalex.org/W2625809971",
+        "https://openalex.org/W1663847441",
+        "https://openalex.org/W2768493687",
+        "https://openalex.org/W2170886505",
+        "https://openalex.org/W1969484083",
+        "https://openalex.org/W2743845306",
+        "https://openalex.org/W2792375831",
+        "https://openalex.org/W2386713424",
+        "https://openalex.org/W4382051772",
+        "https://openalex.org/W3170601672"
+      ],
+      "abstract_inverted_index": {
+        "25": [
+          131
+        ],
+        "Abstract": [
+          0
+        ],
+        "Interest": [
+          1
+        ],
+        "in": [
+          2,
+          50,
+          114,
+          204
+        ],
+        "impact": [
+          3,
+          125
+        ],
+        "craters": [
+          4
+        ],
+        "on": [
+          5,
+          226
+        ],
+        "the": [
+          6,
+          41,
+          45,
+          77,
+          85,
+          89,
+          95,
+          100,
+          115,
+          124,
+          127,
+          136,
+          141,
+          145,
+          152,
+          156,
+          179,
+          205,
+          209,
+          215,
+          227,
+          230
+        ],
+        "earth's": [
+          7
+        ],
+        "surface": [
+          8
+        ],
+        "has": [
+          9
+        ],
+        "increased": [
+          10
+        ],
+        "worldwide": [
+          11
+        ],
+        "and": [
+          12,
+          23,
+          62,
+          92,
+          111,
+          144,
+          159,
+          219
+        ],
+        "is": [
+          13,
+          129,
+          197
+        ],
+        "being": [
+          14
+        ],
+        "investigated": [
+          15,
+          55
+        ],
+        "by": [
+          16,
+          135
+        ],
+        "using": [
+          17,
+          56
+        ],
+        "remote": [
+          18
+        ],
+        "sensing,": [
+          19
+        ],
+        "geological,": [
+          20
+        ],
+        "boreholes,": [
+          21
+        ],
+        "geophysical,": [
+          22
+        ],
+        "laboratory": [
+          24
+        ],
+        "measurements.": [
+          25
+        ],
+        "These": [
+          26
+        ],
+        "measurements": [
+          27
+        ],
+        "are": [
+          28
+        ],
+        "used": [
+          29,
+          184
+        ],
+        "to": [
+          30,
+          34,
+          74,
+          123,
+          185,
+          235,
+          239
+        ],
+        "build": [
+          31
+        ],
+        "dynamic": [
+          32
+        ],
+        "models": [
+          33
+        ],
+        "study": [
+          35
+        ],
+        "crater": [
+          36,
+          48,
+          158,
+          163
+        ],
+        "formation.": [
+          37
+        ],
+        "In": [
+          38
+        ],
+        "this": [
+          39,
+          71
+        ],
+        "work,": [
+          40
+        ],
+        "near‐crater": [
+          42
+        ],
+        "sediments": [
+          43
+        ],
+        "at": [
+          44
+        ],
+        "young": [
+          46
+        ],
+        "Wabar": [
+          47
+        ],
+        "field": [
+          49
+        ],
+        "Saudi": [
+          51
+        ],
+        "Arabia": [
+          52
+        ],
+        "have": [
+          53
+        ],
+        "been": [
+          54
+        ],
+        "magnetic,": [
+          57
+        ],
+        "transient": [
+          58
+        ],
+        "electromagnetic": [
+          59
+        ],
+        "(TEM),": [
+          60
+        ],
+        "seismic,": [
+          61
+        ],
+        "ground‐penetrating": [
+          63
+        ],
+        "radar": [
+          64
+        ],
+        "(GPR)": [
+          65
+        ],
+        "methods.": [
+          66
+        ],
+        "The": [
+          67,
+          117,
+          167,
+          194
+        ],
+        "main": [
+          68
+        ],
+        "objectives": [
+          69
+        ],
+        "of": [
+          70,
+          79,
+          84,
+          120,
+          126,
+          155,
+          173,
+          178,
+          201,
+          214
+        ],
+        "research": [
+          72
+        ],
+        "were": [
+          73,
+          217
+        ],
+        "(a)": [
+          75
+        ],
+        "explore": [
+          76
+        ],
+        "possibility": [
+          78
+        ],
+        "any": [
+          80,
+          174
+        ],
+        "remnant": [
+          81,
+          175
+        ],
+        "major": [
+          82,
+          157,
+          176
+        ],
+        "pieces": [
+          83,
+          177,
+          213
+        ],
+        "meteorite,": [
+          86
+        ],
+        "(b)": [
+          87
+        ],
+        "investigate": [
+          88
+        ],
+        "meteoroid": [
+          90,
+          216
+        ],
+        "direction,": [
+          91
+        ],
+        "(c)": [
+          93
+        ],
+        "map": [
+          94
+        ],
+        "deformational": [
+          96
+        ],
+        "structures": [
+          97
+        ],
+        "associated": [
+          98
+        ],
+        "with": [
+          99
+        ],
+        "meteorite": [
+          101,
+          128,
+          231
+        ],
+        "impact.": [
+          102
+        ],
+        "Our": [
+          103
+        ],
+        "results": [
+          104
+        ],
+        "show": [
+          105
+        ],
+        "five": [
+          106
+        ],
+        "different": [
+          107
+        ],
+        "magnetic": [
+          108,
+          168,
+          192,
+          195
+        ],
+        "anomaly": [
+          109
+        ],
+        "types": [
+          110
+        ],
+        "three": [
+          112
+        ],
+        "layers": [
+          113
+        ],
+        "subsurface.": [
+          116
+        ],
+        "maximum": [
+          118
+        ],
+        "depth": [
+          119
+        ],
+        "deformation": [
+          121
+        ],
+        "due": [
+          122
+        ],
+        "about": [
+          130
+        ],
+        "m": [
+          132
+        ],
+        "as": [
+          133,
+          165
+        ],
+        "shown": [
+          134
+        ],
+        "seismic": [
+          137
+        ],
+        "travel": [
+          138
+        ],
+        "time": [
+          139
+        ],
+        "tomogram,": [
+          140
+        ],
+        "quasi‐2D": [
+          142
+        ],
+        "TEM,": [
+          143
+        ],
+        "3D": [
+          146
+        ],
+        "GPR": [
+          147
+        ],
+        "model.": [
+          148
+        ],
+        "TEM": [
+          149
+        ],
+        "survey": [
+          150,
+          169
+        ],
+        "confirmed": [
+          151
+        ],
+        "geometrical": [
+          153
+        ],
+        "characteristics": [
+          154
+        ],
+        "located": [
+          160
+        ],
+        "another": [
+          161
+        ],
+        "small": [
+          162,
+          212
+        ],
+        "(known": [
+          164
+        ],
+        "Philby‐A).": [
+          166
+        ],
+        "shows": [
+          170
+        ],
+        "no": [
+          171
+        ],
+        "evidence": [
+          172
+        ],
+        "meteorite;": [
+          180
+        ],
+        "however,": [
+          181
+        ],
+        "it": [
+          182
+        ],
+        "was": [
+          183,
+          233
+        ],
+        "trace": [
+          186
+        ],
+        "ejecta": [
+          187
+        ],
+        "material": [
+          188
+        ],
+        "containing": [
+          189
+        ],
+        "highly": [
+          190
+        ],
+        "dilute": [
+          191
+        ],
+        "material.": [
+          193
+        ],
+        "carrier": [
+          196
+        ],
+        "most": [
+          198
+        ],
+        "likely": [
+          199
+        ],
+        "spheres": [
+          200
+        ],
+        "metal": [
+          202
+        ],
+        "incorporated": [
+          203
+        ],
+        "black/green": [
+          206
+        ],
+        "glasses.": [
+          207
+        ],
+        "During": [
+          208
+        ],
+        "expedition,": [
+          210
+        ],
+        "many": [
+          211
+        ],
+        "found": [
+          218,
+          234
+        ],
+        "collected": [
+          220
+        ],
+        "for": [
+          221
+        ],
+        "further": [
+          222
+        ],
+        "geochemical": [
+          223
+        ],
+        "analysis.": [
+          224
+        ],
+        "Based": [
+          225
+        ],
+        "geophysical": [
+          228
+        ],
+        "findings,": [
+          229
+        ],
+        "direction": [
+          232
+        ],
+        "be": [
+          236
+        ],
+        "from": [
+          237
+        ],
+        "north": [
+          238
+        ],
+        "south.": [
+          240
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3835,9 +3835,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -7553,9 +7553,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -8729,9 +8729,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -9426,9 +9426,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -10060,9 +10060,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -16868,9 +16868,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -17740,9 +17740,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8399999737739563
+          "display_name": "Life below water"
         }
       ],
       "awards": [],

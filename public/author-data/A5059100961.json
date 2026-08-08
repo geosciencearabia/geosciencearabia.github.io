@@ -798,9 +798,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
+          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "display_name": "Affordable and clean energy"
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
@@ -4566,10 +4566,10 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "pmh:oai:generic.eprints.org:136092",
+        "id": "pmh:oai:eprints.kfupm.edu.sa:136092",
         "is_oa": true,
         "landing_page_url": null,
-        "pdf_url": "http://eprints.kfupm.edu.sa/136092/1/Master_Thesis_of_Ayman_Al%2DLehyani.pdf",
+        "pdf_url": "https://eprints.kfupm.edu.sa/id/eprint/136092/1/Master_Thesis_of_Ayman_Al-Lehyani.pdf",
         "source": {
           "id": "https://openalex.org/S4306400607",
           "display_name": "Research Publication Repository of King Fahd University of Petroleum and Minerals (King Fahd University of Petroleum and Minerals)",
@@ -4591,7 +4591,7 @@
         "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": "",
+        "raw_source_name": null,
         "raw_type": "Thesis"
       },
       "type": "dissertation",
@@ -4599,7 +4599,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "http://eprints.kfupm.edu.sa/136092/1/Master_Thesis_of_Ayman_Al%2DLehyani.pdf",
+        "oa_url": "https://eprints.kfupm.edu.sa/id/eprint/136092/1/Master_Thesis_of_Ayman_Al-Lehyani.pdf",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -4621,7 +4621,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 1,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [
         "https://openalex.org/A5059100961"
       ],
@@ -4734,10 +4734,10 @@
       "locations_count": 2,
       "locations": [
         {
-          "id": "pmh:oai:generic.eprints.org:136092",
+          "id": "pmh:oai:eprints.kfupm.edu.sa:136092",
           "is_oa": true,
           "landing_page_url": null,
-          "pdf_url": "http://eprints.kfupm.edu.sa/136092/1/Master_Thesis_of_Ayman_Al%2DLehyani.pdf",
+          "pdf_url": "https://eprints.kfupm.edu.sa/id/eprint/136092/1/Master_Thesis_of_Ayman_Al-Lehyani.pdf",
           "source": {
             "id": "https://openalex.org/S4306400607",
             "display_name": "Research Publication Repository of King Fahd University of Petroleum and Minerals (King Fahd University of Petroleum and Minerals)",
@@ -4759,7 +4759,7 @@
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
-          "raw_source_name": "",
+          "raw_source_name": null,
           "raw_type": "Thesis"
         },
         {
@@ -4778,10 +4778,10 @@
         }
       ],
       "best_oa_location": {
-        "id": "pmh:oai:generic.eprints.org:136092",
+        "id": "pmh:oai:eprints.kfupm.edu.sa:136092",
         "is_oa": true,
         "landing_page_url": null,
-        "pdf_url": "http://eprints.kfupm.edu.sa/136092/1/Master_Thesis_of_Ayman_Al%2DLehyani.pdf",
+        "pdf_url": "https://eprints.kfupm.edu.sa/id/eprint/136092/1/Master_Thesis_of_Ayman_Al-Lehyani.pdf",
         "source": {
           "id": "https://openalex.org/S4306400607",
           "display_name": "Research Publication Repository of King Fahd University of Petroleum and Minerals (King Fahd University of Petroleum and Minerals)",
@@ -4803,14 +4803,14 @@
         "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": "",
+        "raw_source_name": null,
         "raw_type": "Thesis"
       },
       "sustainable_development_goals": [
         {
-          "score": 0.550000011920929,
+          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action"
+          "score": 0.550000011920929
         }
       ],
       "awards": [],
@@ -4854,7 +4854,7 @@
           "cited_by_count": 11
         }
       ],
-      "updated_date": "2025-11-06T04:12:42.849631",
+      "updated_date": "2026-08-08T01:25:22.217667",
       "created_date": "2025-10-10T00:00:00"
     },
     {
