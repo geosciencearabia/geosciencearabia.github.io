@@ -15,9 +15,9 @@
     ],
     "full_name": "Fadhil Nomas Sadooni",
     "works_count": 122,
-    "cited_by_count": 1639,
+    "cited_by_count": 1642,
     "summary_stats": {
-      "2yr_mean_citedness": 1.8,
+      "2yr_mean_citedness": 1.8333333333333333,
       "h_index": 23,
       "i10_index": 43
     },
@@ -321,7 +321,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0001178,
+        "value": 0.0001167,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -338,7 +338,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0001125,
+        "value": 0.0001124,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -355,7 +355,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000743,
+        "value": 0.000074,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -372,7 +372,7 @@
       {
         "id": "https://openalex.org/T12316",
         "display_name": "Oil Spill Detection and Mitigation",
-        "value": 0.0000717,
+        "value": 0.0000711,
         "subfield": {
           "id": "https://openalex.org/subfields/2310",
           "display_name": "Pollution"
@@ -579,7 +579,7 @@
         "year": 2019,
         "works_count": 5,
         "oa_works_count": 2,
-        "cited_by_count": 115
+        "cited_by_count": 116
       },
       {
         "year": 2020,
@@ -591,7 +591,7 @@
         "year": 2021,
         "works_count": 13,
         "oa_works_count": 8,
-        "cited_by_count": 308
+        "cited_by_count": 309
       },
       {
         "year": 2022,
@@ -615,7 +615,7 @@
         "year": 2025,
         "works_count": 16,
         "oa_works_count": 7,
-        "cited_by_count": 35
+        "cited_by_count": 36
       },
       {
         "year": 2026,
@@ -636,7 +636,7 @@
     ],
     "block_key": "f sadooni",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5070411489",
-    "updated_date": "2026-08-05T12:20:06",
+    "updated_date": "2026-08-08T12:19:51",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1452,9 +1452,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.44999998807907104
+          "score": 0.44999998807907104,
+          "display_name": "Climate action"
         }
       ],
       "awards": [
@@ -2905,9 +2905,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7099999785423279
+          "score": 0.7099999785423279,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -4374,9 +4374,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6100000143051147
+          "score": 0.6100000143051147,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -5541,9 +5541,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -7445,9 +7445,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929
+          "score": 0.800000011920929,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -8632,11 +8632,11 @@
         "currency": "USD",
         "value_usd": 3690
       },
-      "fwci": 3.3509,
+      "fwci": 3.5125,
       "has_fulltext": true,
-      "cited_by_count": 21,
+      "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.94047619,
+        "value": 0.94658754,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9964,14 +9964,14 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 18
+          "cited_by_count": 19
         },
         {
           "year": 2025,
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-08-08T01:25:22.217667",
+      "updated_date": "2026-08-09T07:27:16.801131",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10830,9 +10830,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4699999988079071
+          "score": 0.4699999988079071,
+          "display_name": "Life in Land"
         }
       ],
       "awards": [
@@ -11387,9 +11387,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -13562,9 +13562,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6299999952316284
+          "score": 0.6299999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -14489,9 +14489,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5699999928474426
+          "score": 0.5699999928474426,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -14913,9 +14913,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -15814,9 +15814,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -17298,9 +17298,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [
@@ -18748,9 +18748,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -19441,9 +19441,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -21666,11 +21666,11 @@
         "currency": "EUR",
         "value_usd": 2426
       },
-      "fwci": 4.0578,
+      "fwci": 4.0711,
       "has_fulltext": true,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.93579846,
+        "value": 0.93592608,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -22044,9 +22044,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -22866,11 +22866,11 @@
         "currency": "EUR",
         "value_usd": 3176
       },
-      "fwci": 1.8761,
+      "fwci": 1.8764,
       "has_fulltext": true,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.87447203,
+        "value": 0.87444238,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -25763,9 +25763,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -27133,9 +27133,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -28036,9 +28036,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -28799,9 +28799,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8299999833106995
+          "score": 0.8299999833106995,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -29783,9 +29783,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -30979,9 +30979,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5799999833106995
+          "score": 0.5799999833106995,
+          "display_name": "Life in Land"
         }
       ],
       "awards": [
@@ -31423,11 +31423,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3248,
+      "fwci": 1.3241,
       "has_fulltext": false,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.78997041,
+        "value": 0.78978992,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -31993,9 +31993,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -34711,9 +34711,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5299999713897705
+          "score": 0.5299999713897705,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -35748,9 +35748,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -37776,9 +37776,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -38573,9 +38573,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -39673,9 +39673,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -41943,9 +41943,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -43437,9 +43437,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -44765,9 +44765,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -45623,9 +45623,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8299999833106995
+          "score": 0.8299999833106995,
+          "display_name": "Climate action"
         }
       ],
       "awards": [
@@ -47601,9 +47601,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5699999928474426
+          "score": 0.5699999928474426,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -49653,9 +49653,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5
+          "score": 0.5,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -50356,9 +50356,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6200000047683716
+          "score": 0.6200000047683716,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -50942,9 +50942,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929
+          "score": 0.800000011920929,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -51534,9 +51534,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.7300000190734863
+          "score": 0.7300000190734863,
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -53777,9 +53777,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -56531,9 +56531,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -57570,9 +57570,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -59900,9 +59900,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7699999809265137
+          "score": 0.7699999809265137,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -60705,6 +60705,1588 @@
         }
       ],
       "updated_date": "2026-06-26T08:34:08.712188",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4407260658",
+      "doi": "https://doi.org/10.1180/gbi.2024.8",
+      "title": "Blue carbon cycling in the coastal areas of Qatar",
+      "display_name": "Blue carbon cycling in the coastal areas of Qatar",
+      "publication_year": 2025,
+      "publication_date": "2025-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4407260658",
+        "doi": "https://doi.org/10.1180/gbi.2024.8"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1180/gbi.2024.8",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1180/gbi.2024.8",
+        "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/79189D83FFC62E6C63503E7D1081AC55/S2755385X24000086a.pdf/div-class-title-blue-carbon-cycling-in-the-coastal-areas-of-qatar-div.pdf",
+        "source": {
+          "id": "https://openalex.org/S5407027500",
+          "display_name": "Geo-Bio Interfaces",
+          "issn_l": "2755-385X",
+          "issn": [
+            "2755-385X"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geo-Bio Interfaces",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "diamond",
+        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/79189D83FFC62E6C63503E7D1081AC55/S2755385X24000086a.pdf/div-class-title-blue-carbon-cycling-in-the-coastal-areas-of-qatar-div.pdf",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5034667952",
+            "display_name": "I. S. Strakhov",
+            "orcid": "https://orcid.org/0000-0002-1140-1745"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I185261750",
+              "display_name": "University of Toronto",
+              "ror": "https://ror.org/03dbr7087",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I185261750"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ivan Strakhov",
+          "raw_affiliation_strings": [
+            "Biogeochemistry Group, Department of Physical and Environmental Sciences, University of Toronto Scarborough, 1065 Military Trail, Toronto, Ontario, M1C 1A1, Canada",
+            "Department of Earth Sciences, University of Toronto, 22 Ursula Franklin St., Toronto, Ontario, M5S 3B1, Canada"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-1140-1745",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Biogeochemistry Group, Department of Physical and Environmental Sciences, University of Toronto Scarborough, 1065 Military Trail, Toronto, Ontario, M1C 1A1, Canada",
+              "institution_ids": [
+                "https://openalex.org/I185261750"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, University of Toronto, 22 Ursula Franklin St., Toronto, Ontario, M5S 3B1, Canada",
+              "institution_ids": [
+                "https://openalex.org/I185261750"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5011492717",
+            "display_name": "Hadil Elsayed",
+            "orcid": "https://orcid.org/0000-0001-7566-4002"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I60342839",
+              "display_name": "Qatar University",
+              "ror": "https://ror.org/00yhnba62",
+              "country_code": "QA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ],
+          "countries": [
+            "QA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Hadil Elsayed",
+          "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-7566-4002",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5063023865",
+            "display_name": "Zach Diloreto",
+            "orcid": "https://orcid.org/0000-0002-0295-2764"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I185261750",
+              "display_name": "University of Toronto",
+              "ror": "https://ror.org/03dbr7087",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I185261750"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Zach A. DiLoreto",
+          "raw_affiliation_strings": [
+            "Biogeochemistry Group, Department of Physical and Environmental Sciences, University of Toronto Scarborough, 1065 Military Trail, Toronto, Ontario, M1C 1A1, Canada"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Biogeochemistry Group, Department of Physical and Environmental Sciences, University of Toronto Scarborough, 1065 Military Trail, Toronto, Ontario, M1C 1A1, Canada",
+              "institution_ids": [
+                "https://openalex.org/I185261750"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5070705874",
+            "display_name": "Khoren Avetisyan",
+            "orcid": "https://orcid.org/0000-0003-4145-5477"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I185261750",
+              "display_name": "University of Toronto",
+              "ror": "https://ror.org/03dbr7087",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I185261750"
+              ]
+            }
+          ],
+          "countries": [
+            "CA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Khoren Avetisyan",
+          "raw_affiliation_strings": [
+            "Biogeochemistry Group, Department of Physical and Environmental Sciences, University of Toronto Scarborough, 1065 Military Trail, Toronto, Ontario, M1C 1A1, Canada"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Biogeochemistry Group, Department of Physical and Environmental Sciences, University of Toronto Scarborough, 1065 Military Trail, Toronto, Ontario, M1C 1A1, Canada",
+              "institution_ids": [
+                "https://openalex.org/I185261750"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5085989529",
+            "display_name": "Zulfa Ali Al Disi",
+            "orcid": "https://orcid.org/0000-0003-0935-4545"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I60342839",
+              "display_name": "Qatar University",
+              "ror": "https://ror.org/00yhnba62",
+              "country_code": "QA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ],
+          "countries": [
+            "QA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Zulfa Ali Al Disi",
+          "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-0935-4545",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5070682798",
+            "display_name": "Khaled Naja",
+            "orcid": "https://orcid.org/0000-0001-9259-3082"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I60342839",
+              "display_name": "Qatar University",
+              "ror": "https://ror.org/00yhnba62",
+              "country_code": "QA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ],
+          "countries": [
+            "QA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Khaled Naja",
+          "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5079669280",
+            "display_name": "Hamad Al-Saad Al-Kuwari",
+            "orcid": "https://orcid.org/0000-0001-6787-3533"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I60342839",
+              "display_name": "Qatar University",
+              "ror": "https://ror.org/00yhnba62",
+              "country_code": "QA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ],
+          "countries": [
+            "QA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Hamad A. S. Al-Kuwari",
+          "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0001-6787-3533",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5070411489",
+            "display_name": "Fadhil Sadooni",
+            "orcid": "https://orcid.org/0000-0001-5027-0648"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I60342839",
+              "display_name": "Qatar University",
+              "ror": "https://ror.org/00yhnba62",
+              "country_code": "QA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ],
+          "countries": [
+            "QA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Fadhil N. Sadooni",
+          "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5031066506",
+            "display_name": "Jassim Alkhayat",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I60342839",
+              "display_name": "Qatar University",
+              "ror": "https://ror.org/00yhnba62",
+              "country_code": "QA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ],
+          "countries": [
+            "QA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Jassim Alkhayat",
+          "raw_affiliation_strings": [
+            "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5030411046",
+            "display_name": "Maria Dittrich",
+            "orcid": "https://orcid.org/0000-0002-8112-2661"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I185261750",
+              "display_name": "University of Toronto",
+              "ror": "https://ror.org/03dbr7087",
+              "country_code": "CA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I185261750"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I60342839",
+              "display_name": "Qatar University",
+              "ror": "https://ror.org/00yhnba62",
+              "country_code": "QA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ],
+          "countries": [
+            "CA",
+            "QA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Maria Dittrich",
+          "raw_affiliation_strings": [
+            "Biogeochemistry Group, Department of Physical and Environmental Sciences, University of Toronto Scarborough, 1065 Military Trail, Toronto, Ontario, M1C 1A1, Canada",
+            "Department of Earth Sciences, University of Toronto, 22 Ursula Franklin St., Toronto, Ontario, M5S 3B1, Canada",
+            "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-8112-2661",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Biogeochemistry Group, Department of Physical and Environmental Sciences, University of Toronto Scarborough, 1065 Military Trail, Toronto, Ontario, M1C 1A1, Canada",
+              "institution_ids": [
+                "https://openalex.org/I185261750"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Earth Sciences, University of Toronto, 22 Ursula Franklin St., Toronto, Ontario, M5S 3B1, Canada",
+              "institution_ids": [
+                "https://openalex.org/I185261750"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
+              "institution_ids": [
+                "https://openalex.org/I60342839"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5030411046"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I185261750",
+        "https://openalex.org/I60342839"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 3.7986,
+      "has_fulltext": true,
+      "cited_by_count": 3,
+      "citation_normalized_percentile": {
+        "value": 0.91439666,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 94,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "2",
+        "issue": null,
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12414",
+        "display_name": "Coastal and Marine Management",
+        "score": 0.982699990272522,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2308",
+          "display_name": "Management, Monitoring, Policy and Law"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12414",
+          "display_name": "Coastal and Marine Management",
+          "score": 0.982699990272522,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2308",
+            "display_name": "Management, Monitoring, Policy and Law"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10779",
+          "display_name": "Coastal wetland ecosystem dynamics",
+          "score": 0.9735999703407288,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2303",
+            "display_name": "Ecology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10647",
+          "display_name": "Coastal and Marine Dynamics",
+          "score": 0.9398999810218811,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/cycling",
+          "display_name": "Cycling",
+          "score": 0.7988559007644653
+        },
+        {
+          "id": "https://openalex.org/keywords/blue-carbon",
+          "display_name": "Blue carbon",
+          "score": 0.6582061648368835
+        },
+        {
+          "id": "https://openalex.org/keywords/carbon-fibers",
+          "display_name": "Carbon fibers",
+          "score": 0.5831590890884399
+        },
+        {
+          "id": "https://openalex.org/keywords/environmental-science",
+          "display_name": "Environmental science",
+          "score": 0.5196541547775269
+        },
+        {
+          "id": "https://openalex.org/keywords/carbon-cycle",
+          "display_name": "Carbon cycle",
+          "score": 0.4625372886657715
+        },
+        {
+          "id": "https://openalex.org/keywords/geography",
+          "display_name": "Geography",
+          "score": 0.3489057421684265
+        },
+        {
+          "id": "https://openalex.org/keywords/oceanography",
+          "display_name": "Oceanography",
+          "score": 0.33942893147468567
+        },
+        {
+          "id": "https://openalex.org/keywords/forestry",
+          "display_name": "Forestry",
+          "score": 0.15123113989830017
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.14695021510124207
+        },
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.1356152892112732
+        },
+        {
+          "id": "https://openalex.org/keywords/ecology",
+          "display_name": "Ecology",
+          "score": 0.12983855605125427
+        },
+        {
+          "id": "https://openalex.org/keywords/carbon-dioxide",
+          "display_name": "Carbon dioxide",
+          "score": 0.1066441535949707
+        },
+        {
+          "id": "https://openalex.org/keywords/carbon-sequestration",
+          "display_name": "Carbon sequestration",
+          "score": 0.10523569583892822
+        },
+        {
+          "id": "https://openalex.org/keywords/biology",
+          "display_name": "Biology",
+          "score": 0.0654592514038086
+        },
+        {
+          "id": "https://openalex.org/keywords/ecosystem",
+          "display_name": "Ecosystem",
+          "score": 0.05909156799316406
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C541528975",
+          "wikidata": "https://www.wikidata.org/wiki/Q53121",
+          "display_name": "Cycling",
+          "level": 2,
+          "score": 0.7988559007644653
+        },
+        {
+          "id": "https://openalex.org/C142804171",
+          "wikidata": "https://www.wikidata.org/wiki/Q4930066",
+          "display_name": "Blue carbon",
+          "level": 4,
+          "score": 0.6582061648368835
+        },
+        {
+          "id": "https://openalex.org/C140205800",
+          "wikidata": "https://www.wikidata.org/wiki/Q5860",
+          "display_name": "Carbon fibers",
+          "level": 3,
+          "score": 0.5831590890884399
+        },
+        {
+          "id": "https://openalex.org/C39432304",
+          "wikidata": "https://www.wikidata.org/wiki/Q188847",
+          "display_name": "Environmental science",
+          "level": 0,
+          "score": 0.5196541547775269
+        },
+        {
+          "id": "https://openalex.org/C6939412",
+          "wikidata": "https://www.wikidata.org/wiki/Q167751",
+          "display_name": "Carbon cycle",
+          "level": 3,
+          "score": 0.4625372886657715
+        },
+        {
+          "id": "https://openalex.org/C205649164",
+          "wikidata": "https://www.wikidata.org/wiki/Q1071",
+          "display_name": "Geography",
+          "level": 0,
+          "score": 0.3489057421684265
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.33942893147468567
+        },
+        {
+          "id": "https://openalex.org/C97137747",
+          "wikidata": "https://www.wikidata.org/wiki/Q38112",
+          "display_name": "Forestry",
+          "level": 1,
+          "score": 0.15123113989830017
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.14695021510124207
+        },
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.1356152892112732
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.12983855605125427
+        },
+        {
+          "id": "https://openalex.org/C530467964",
+          "wikidata": "https://www.wikidata.org/wiki/Q1997",
+          "display_name": "Carbon dioxide",
+          "level": 2,
+          "score": 0.1066441535949707
+        },
+        {
+          "id": "https://openalex.org/C22884784",
+          "wikidata": "https://www.wikidata.org/wiki/Q15305550",
+          "display_name": "Carbon sequestration",
+          "level": 3,
+          "score": 0.10523569583892822
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.0654592514038086
+        },
+        {
+          "id": "https://openalex.org/C110872660",
+          "wikidata": "https://www.wikidata.org/wiki/Q37813",
+          "display_name": "Ecosystem",
+          "level": 2,
+          "score": 0.05909156799316406
+        },
+        {
+          "id": "https://openalex.org/C104779481",
+          "wikidata": "https://www.wikidata.org/wiki/Q50707",
+          "display_name": "Composite number",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C11413529",
+          "wikidata": "https://www.wikidata.org/wiki/Q8366",
+          "display_name": "Algorithm",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1180/gbi.2024.8",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1180/gbi.2024.8",
+          "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/79189D83FFC62E6C63503E7D1081AC55/S2755385X24000086a.pdf/div-class-title-blue-carbon-cycling-in-the-coastal-areas-of-qatar-div.pdf",
+          "source": {
+            "id": "https://openalex.org/S5407027500",
+            "display_name": "Geo-Bio Interfaces",
+            "issn_l": "2755-385X",
+            "issn": [
+              "2755-385X"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Geo-Bio Interfaces",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1180/gbi.2024.8",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1180/gbi.2024.8",
+        "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/79189D83FFC62E6C63503E7D1081AC55/S2755385X24000086a.pdf/div-class-title-blue-carbon-cycling-in-the-coastal-areas-of-qatar-div.pdf",
+        "source": {
+          "id": "https://openalex.org/S5407027500",
+          "display_name": "Geo-Bio Interfaces",
+          "issn_l": "2755-385X",
+          "issn": [
+            "2755-385X"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": false,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geo-Bio Interfaces",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [
+        {
+          "id": "https://openalex.org/G1360567091",
+          "display_name": null,
+          "funder_award_id": "RGPIN‐06184",
+          "funder_id": "https://openalex.org/F4320334593",
+          "funder_display_name": "Natural Sciences and Engineering Research Council of Canada"
+        },
+        {
+          "id": "https://openalex.org/G1385313657",
+          "display_name": null,
+          "funder_award_id": "NPRP12S-0313-190349",
+          "funder_id": "https://openalex.org/F4320332753",
+          "funder_display_name": "Qatar National Research Fund"
+        },
+        {
+          "id": "https://openalex.org/G2894603144",
+          "display_name": null,
+          "funder_award_id": "NPRP12S-",
+          "funder_id": "https://openalex.org/F4320332753",
+          "funder_display_name": "Qatar National Research Fund"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320309815",
+          "display_name": "Qatar Foundation",
+          "ror": "https://ror.org/01cawbq05"
+        },
+        {
+          "id": "https://openalex.org/F4320321038",
+          "display_name": "Fonds National de la Recherche Luxembourg",
+          "ror": "https://ror.org/039z13y21"
+        },
+        {
+          "id": "https://openalex.org/F4320322015",
+          "display_name": "University of Toronto",
+          "ror": "https://ror.org/03dbr7087"
+        },
+        {
+          "id": "https://openalex.org/F4320332753",
+          "display_name": "Qatar National Research Fund",
+          "ror": "https://ror.org/01svaqq28"
+        },
+        {
+          "id": "https://openalex.org/F4320334593",
+          "display_name": "Natural Sciences and Engineering Research Council of Canada",
+          "ror": "https://ror.org/01h531d29"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W4407260658.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4407260658.grobid-xml"
+      },
+      "referenced_works_count": 83,
+      "referenced_works": [
+        "https://openalex.org/W101853479",
+        "https://openalex.org/W1536058474",
+        "https://openalex.org/W1542162133",
+        "https://openalex.org/W1568042890",
+        "https://openalex.org/W1864162857",
+        "https://openalex.org/W1943121318",
+        "https://openalex.org/W1977457680",
+        "https://openalex.org/W1980702780",
+        "https://openalex.org/W1993637118",
+        "https://openalex.org/W1997720395",
+        "https://openalex.org/W2007765774",
+        "https://openalex.org/W2027638281",
+        "https://openalex.org/W2060971146",
+        "https://openalex.org/W2062339208",
+        "https://openalex.org/W2071091649",
+        "https://openalex.org/W2075417561",
+        "https://openalex.org/W2077568485",
+        "https://openalex.org/W2095957426",
+        "https://openalex.org/W2099054953",
+        "https://openalex.org/W2109245308",
+        "https://openalex.org/W2125751590",
+        "https://openalex.org/W2130426665",
+        "https://openalex.org/W2142984901",
+        "https://openalex.org/W2145154988",
+        "https://openalex.org/W2146541609",
+        "https://openalex.org/W2159353102",
+        "https://openalex.org/W2165727691",
+        "https://openalex.org/W2189694045",
+        "https://openalex.org/W2329702531",
+        "https://openalex.org/W2515577950",
+        "https://openalex.org/W2563245495",
+        "https://openalex.org/W2610439443",
+        "https://openalex.org/W2626417521",
+        "https://openalex.org/W2730387433",
+        "https://openalex.org/W2763447466",
+        "https://openalex.org/W2763532287",
+        "https://openalex.org/W2765728954",
+        "https://openalex.org/W2790698334",
+        "https://openalex.org/W2807444063",
+        "https://openalex.org/W2907494230",
+        "https://openalex.org/W2910003524",
+        "https://openalex.org/W2910754831",
+        "https://openalex.org/W2912899911",
+        "https://openalex.org/W2966066340",
+        "https://openalex.org/W2970370226",
+        "https://openalex.org/W3006374807",
+        "https://openalex.org/W3008295732",
+        "https://openalex.org/W3009520992",
+        "https://openalex.org/W3011003889",
+        "https://openalex.org/W3022163171",
+        "https://openalex.org/W3040586764",
+        "https://openalex.org/W3045984832",
+        "https://openalex.org/W3130040991",
+        "https://openalex.org/W3142280028",
+        "https://openalex.org/W3144551819",
+        "https://openalex.org/W3158648940",
+        "https://openalex.org/W3176391812",
+        "https://openalex.org/W3178374055",
+        "https://openalex.org/W3184364778",
+        "https://openalex.org/W3194660024",
+        "https://openalex.org/W3201840021",
+        "https://openalex.org/W3205892886",
+        "https://openalex.org/W4200141786",
+        "https://openalex.org/W4220713977",
+        "https://openalex.org/W4220780115",
+        "https://openalex.org/W4295065973",
+        "https://openalex.org/W4298008615",
+        "https://openalex.org/W4308875861",
+        "https://openalex.org/W4312116444",
+        "https://openalex.org/W4313908403",
+        "https://openalex.org/W4315471469",
+        "https://openalex.org/W4328054900",
+        "https://openalex.org/W4379056699",
+        "https://openalex.org/W4380758658",
+        "https://openalex.org/W4385319393",
+        "https://openalex.org/W4385602287",
+        "https://openalex.org/W4386471238",
+        "https://openalex.org/W4389274138",
+        "https://openalex.org/W4406513556",
+        "https://openalex.org/W6680504335",
+        "https://openalex.org/W6684159186",
+        "https://openalex.org/W6776842964",
+        "https://openalex.org/W6802012172"
+      ],
+      "related_works": [
+        "https://openalex.org/W4389668926",
+        "https://openalex.org/W2564868157",
+        "https://openalex.org/W4386750975",
+        "https://openalex.org/W4284884394",
+        "https://openalex.org/W4386412820",
+        "https://openalex.org/W4401134457",
+        "https://openalex.org/W2396534229",
+        "https://openalex.org/W2938514908",
+        "https://openalex.org/W2333554664",
+        "https://openalex.org/W3205947674"
+      ],
+      "abstract_inverted_index": {
+        "2": [
+          140,
+          148
+        ],
+        "40": [
+          115
+        ],
+        "Abstract": [
+          0
+        ],
+        "Coastal": [
+          1
+        ],
+        "wetland": [
+          2
+        ],
+        "sediments": [
+          3
+        ],
+        "are": [
+          4,
+          28,
+          42
+        ],
+        "vital": [
+          5
+        ],
+        "to": [
+          6,
+          89
+        ],
+        "the": [
+          7,
+          39,
+          57,
+          80,
+          110,
+          124,
+          180,
+          183,
+          187,
+          198,
+          206,
+          224,
+          241
+        ],
+        "global": [
+          8
+        ],
+        "carbon": [
+          9,
+          18,
+          20,
+          37,
+          86,
+          97,
+          210,
+          221,
+          237
+        ],
+        "cycle": [
+          10
+        ],
+        "as": [
+          11
+        ],
+        "they": [
+          12
+        ],
+        "represent": [
+          13
+        ],
+        "large": [
+          14
+        ],
+        "sinks": [
+          15
+        ],
+        "of": [
+          16,
+          35,
+          104,
+          113,
+          123,
+          133,
+          182,
+          200
+        ],
+        "blue": [
+          17,
+          96
+        ],
+        "–": [
+          19,
+          26,
+          66,
+          83
+        ],
+        "from": [
+          21
+        ],
+        "atmospheric": [
+          22
+        ],
+        "and": [
+          23,
+          38,
+          47,
+          70,
+          76,
+          106,
+          131,
+          144,
+          161,
+          209,
+          226,
+          235,
+          251
+        ],
+        "oceanic": [
+          24
+        ],
+        "sources": [
+          25
+        ],
+        "which": [
+          27
+        ],
+        "threatened": [
+          29
+        ],
+        "by": [
+          30,
+          44,
+          150,
+          248
+        ],
+        "ecosystem": [
+          31
+        ],
+        "loss.": [
+          32
+        ],
+        "The": [
+          33
+        ],
+        "forms": [
+          34
+        ],
+        "sequestered": [
+          36
+        ],
+        "sequestration": [
+          40,
+          98,
+          211,
+          222
+        ],
+        "capability": [
+          41
+        ],
+        "affected": [
+          43
+        ],
+        "many": [
+          45
+        ],
+        "bio-": [
+          46
+        ],
+        "geochemical": [
+          48,
+          107,
+          207
+        ],
+        "factors": [
+          49
+        ],
+        "that": [
+          50,
+          170,
+          220
+        ],
+        "change": [
+          51
+        ],
+        "unpredictably": [
+          52
+        ],
+        "along": [
+          53
+        ],
+        "coastal": [
+          54,
+          64,
+          68,
+          175
+        ],
+        "locales.": [
+          55
+        ],
+        "In": [
+          56
+        ],
+        "present": [
+          58
+        ],
+        "study,": [
+          59
+        ],
+        "we": [
+          60,
+          218
+        ],
+        "investigated": [
+          61
+        ],
+        "three": [
+          62
+        ],
+        "unique": [
+          63
+        ],
+        "sites": [
+          65
+        ],
+        "a": [
+          67,
+          102
+        ],
+        "mangrove": [
+          69,
+          225
+        ],
+        "two": [
+          71
+        ],
+        "sabkhas": [
+          72
+        ],
+        "with": [
+          73,
+          156,
+          231
+        ],
+        "contrasting": [
+          74
+        ],
+        "geology": [
+          75
+        ],
+        "tidal": [
+          77
+        ],
+        "influence": [
+          78
+        ],
+        "in": [
+          79,
+          174,
+          223,
+          240
+        ],
+        "Qatar": [
+          81
+        ],
+        "peninsula": [
+          82
+        ],
+        "for": [
+          84,
+          136
+        ],
+        "their": [
+          85,
+          95
+        ],
+        "capture": [
+          87
+        ],
+        "ability": [
+          88
+        ],
+        "determine": [
+          90
+        ],
+        "how": [
+          91
+        ],
+        "biogeochemical": [
+          92
+        ],
+        "indices": [
+          93
+        ],
+        "affect": [
+          94
+        ],
+        "potential.": [
+          99
+        ],
+        "We": [
+          100
+        ],
+        "applied": [
+          101
+        ],
+        "suite": [
+          103
+        ],
+        "biological": [
+          105
+        ],
+        "tools,": [
+          108
+        ],
+        "collecting": [
+          109
+        ],
+        "sediment": [
+          111,
+          119,
+          134,
+          188,
+          195,
+          249
+        ],
+        "cores": [
+          112
+        ],
+        "approximately": [
+          114
+        ],
+        "cm": [
+          116
+        ],
+        "depth;": [
+          117
+        ],
+        "analysed": [
+          118
+        ],
+        "porewater;": [
+          120
+        ],
+        "performed": [
+          121
+        ],
+        "depth-profiling": [
+          122
+        ],
+        "organic": [
+          125,
+          232
+        ],
+        "matter,": [
+          126
+        ],
+        "sedimentary": [
+          127
+        ],
+        "minerals,": [
+          128
+        ],
+        "microbial": [
+          129,
+          201
+        ],
+        "community": [
+          130
+        ],
+        "analysis": [
+          132
+        ],
+        "surface": [
+          135
+        ],
+        "pH,": [
+          137
+        ],
+        "oxygen": [
+          138
+        ],
+        "(O": [
+          139
+        ],
+        ");": [
+          141
+        ],
+        "redox": [
+          142
+        ],
+        "potential": [
+          143
+        ],
+        "hydrogen": [
+          145
+        ],
+        "sulfide": [
+          146
+        ],
+        "(H": [
+          147
+        ],
+        "S)": [
+          149
+        ],
+        "microsensors.": [
+          151
+        ],
+        "High-resolution": [
+          152
+        ],
+        "transmission": [
+          153,
+          163
+        ],
+        "electron": [
+          154
+        ],
+        "microscopy": [
+          155,
+          165
+        ],
+        "energy-dispersive": [
+          157
+        ],
+        "X-ray": [
+          158,
+          164
+        ],
+        "spectroscopy": [
+          159
+        ],
+        "(TEM-EDXS)": [
+          160
+        ],
+        "scanning": [
+          162
+        ],
+        "(STXM)": [
+          166
+        ],
+        "revealed": [
+          167
+        ],
+        "templating": [
+          168
+        ],
+        "effects": [
+          169
+        ],
+        "promoted": [
+          171
+        ],
+        "Mg-carbonate": [
+          172
+        ],
+        "nucleation": [
+          173
+        ],
+        "hypersaline": [
+          176
+        ],
+        "environments.": [
+          177
+        ],
+        "Microsensing": [
+          178
+        ],
+        "reveals": [
+          179
+        ],
+        "intricacy": [
+          181
+        ],
+        "oxic/anoxic": [
+          184
+        ],
+        "transition": [
+          185
+        ],
+        "at": [
+          186,
+          193,
+          214
+        ],
+        "surface.": [
+          189
+        ],
+        "Microbial": [
+          190
+        ],
+        "DNA": [
+          191
+        ],
+        "sequencing": [
+          192
+        ],
+        "various": [
+          194
+        ],
+        "depths": [
+          196
+        ],
+        "shows": [
+          197
+        ],
+        "occurrence": [
+          199
+        ],
+        "genera,": [
+          202
+        ],
+        "whose": [
+          203
+        ],
+        "functions": [
+          204
+        ],
+        "explain": [
+          205
+        ],
+        "trends": [
+          208
+        ],
+        "pathways": [
+          212
+        ],
+        "observed": [
+          213
+        ],
+        "each": [
+          215
+        ],
+        "site.": [
+          216
+        ],
+        "Notably,": [
+          217
+        ],
+        "found": [
+          219
+        ],
+        "carbonate-sand": [
+          227
+        ],
+        "sabkha": [
+          228,
+          243
+        ],
+        "was": [
+          229,
+          245
+        ],
+        "correlated": [
+          230
+        ],
+        "matter": [
+          233
+        ],
+        "degradation": [
+          234
+        ],
+        "inorganic": [
+          236
+        ],
+        "content,": [
+          238
+        ],
+        "while": [
+          239
+        ],
+        "siliciclastic": [
+          242
+        ],
+        "it": [
+          244
+        ],
+        "solely": [
+          246
+        ],
+        "influenced": [
+          247
+        ],
+        "density": [
+          250
+        ],
+        "depth.": [
+          252
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-08-09T07:27:16.801131",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -62548,9 +64130,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -64238,9 +65820,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5699999928474426
+          "score": 0.5699999928474426,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -65810,9 +67392,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6499999761581421
+          "score": 0.6499999761581421,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -66377,9 +67959,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -66985,9 +68567,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -67878,9 +69460,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5299999713897705
+          "score": 0.5299999713897705,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -68677,9 +70259,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5099999904632568
+          "score": 0.5099999904632568,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [
@@ -69938,9 +71520,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -70510,1584 +72092,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4407260658",
-      "doi": "https://doi.org/10.1180/gbi.2024.8",
-      "title": "Blue carbon cycling in the coastal areas of Qatar",
-      "display_name": "Blue carbon cycling in the coastal areas of Qatar",
-      "publication_year": 2025,
-      "publication_date": "2025-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W4407260658",
-        "doi": "https://doi.org/10.1180/gbi.2024.8"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1180/gbi.2024.8",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1180/gbi.2024.8",
-        "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/79189D83FFC62E6C63503E7D1081AC55/S2755385X24000086a.pdf/div-class-title-blue-carbon-cycling-in-the-coastal-areas-of-qatar-div.pdf",
-        "source": {
-          "id": "https://openalex.org/S5407027500",
-          "display_name": "Geo-Bio Interfaces",
-          "issn_l": "2755-385X",
-          "issn": [
-            "2755-385X"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geo-Bio Interfaces",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "diamond",
-        "oa_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/79189D83FFC62E6C63503E7D1081AC55/S2755385X24000086a.pdf/div-class-title-blue-carbon-cycling-in-the-coastal-areas-of-qatar-div.pdf",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5034667952",
-            "display_name": "I. S. Strakhov",
-            "orcid": "https://orcid.org/0000-0002-1140-1745"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I185261750",
-              "display_name": "University of Toronto",
-              "ror": "https://ror.org/03dbr7087",
-              "country_code": "CA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I185261750"
-              ]
-            }
-          ],
-          "countries": [
-            "CA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ivan Strakhov",
-          "raw_affiliation_strings": [
-            "Biogeochemistry Group, Department of Physical and Environmental Sciences, University of Toronto Scarborough, 1065 Military Trail, Toronto, Ontario, M1C 1A1, Canada",
-            "Department of Earth Sciences, University of Toronto, 22 Ursula Franklin St., Toronto, Ontario, M5S 3B1, Canada"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-1140-1745",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Biogeochemistry Group, Department of Physical and Environmental Sciences, University of Toronto Scarborough, 1065 Military Trail, Toronto, Ontario, M1C 1A1, Canada",
-              "institution_ids": [
-                "https://openalex.org/I185261750"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, University of Toronto, 22 Ursula Franklin St., Toronto, Ontario, M5S 3B1, Canada",
-              "institution_ids": [
-                "https://openalex.org/I185261750"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5011492717",
-            "display_name": "Hadil Elsayed",
-            "orcid": "https://orcid.org/0000-0001-7566-4002"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I60342839",
-              "display_name": "Qatar University",
-              "ror": "https://ror.org/00yhnba62",
-              "country_code": "QA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ],
-          "countries": [
-            "QA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Hadil Elsayed",
-          "raw_affiliation_strings": [
-            "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0001-7566-4002",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
-              "institution_ids": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5063023865",
-            "display_name": "Zach Diloreto",
-            "orcid": "https://orcid.org/0000-0002-0295-2764"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I185261750",
-              "display_name": "University of Toronto",
-              "ror": "https://ror.org/03dbr7087",
-              "country_code": "CA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I185261750"
-              ]
-            }
-          ],
-          "countries": [
-            "CA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Zach A. DiLoreto",
-          "raw_affiliation_strings": [
-            "Biogeochemistry Group, Department of Physical and Environmental Sciences, University of Toronto Scarborough, 1065 Military Trail, Toronto, Ontario, M1C 1A1, Canada"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Biogeochemistry Group, Department of Physical and Environmental Sciences, University of Toronto Scarborough, 1065 Military Trail, Toronto, Ontario, M1C 1A1, Canada",
-              "institution_ids": [
-                "https://openalex.org/I185261750"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5070705874",
-            "display_name": "Khoren Avetisyan",
-            "orcid": "https://orcid.org/0000-0003-4145-5477"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I185261750",
-              "display_name": "University of Toronto",
-              "ror": "https://ror.org/03dbr7087",
-              "country_code": "CA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I185261750"
-              ]
-            }
-          ],
-          "countries": [
-            "CA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Khoren Avetisyan",
-          "raw_affiliation_strings": [
-            "Biogeochemistry Group, Department of Physical and Environmental Sciences, University of Toronto Scarborough, 1065 Military Trail, Toronto, Ontario, M1C 1A1, Canada"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Biogeochemistry Group, Department of Physical and Environmental Sciences, University of Toronto Scarborough, 1065 Military Trail, Toronto, Ontario, M1C 1A1, Canada",
-              "institution_ids": [
-                "https://openalex.org/I185261750"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5085989529",
-            "display_name": "Zulfa Ali Al Disi",
-            "orcid": "https://orcid.org/0000-0003-0935-4545"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I60342839",
-              "display_name": "Qatar University",
-              "ror": "https://ror.org/00yhnba62",
-              "country_code": "QA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ],
-          "countries": [
-            "QA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Zulfa Ali Al Disi",
-          "raw_affiliation_strings": [
-            "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0003-0935-4545",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
-              "institution_ids": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5070682798",
-            "display_name": "Khaled Naja",
-            "orcid": "https://orcid.org/0000-0001-9259-3082"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I60342839",
-              "display_name": "Qatar University",
-              "ror": "https://ror.org/00yhnba62",
-              "country_code": "QA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ],
-          "countries": [
-            "QA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Khaled Naja",
-          "raw_affiliation_strings": [
-            "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
-              "institution_ids": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5079669280",
-            "display_name": "Hamad Al-Saad Al-Kuwari",
-            "orcid": "https://orcid.org/0000-0001-6787-3533"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I60342839",
-              "display_name": "Qatar University",
-              "ror": "https://ror.org/00yhnba62",
-              "country_code": "QA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ],
-          "countries": [
-            "QA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Hamad A. S. Al-Kuwari",
-          "raw_affiliation_strings": [
-            "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0001-6787-3533",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
-              "institution_ids": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5070411489",
-            "display_name": "Fadhil Sadooni",
-            "orcid": "https://orcid.org/0000-0001-5027-0648"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I60342839",
-              "display_name": "Qatar University",
-              "ror": "https://ror.org/00yhnba62",
-              "country_code": "QA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ],
-          "countries": [
-            "QA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Fadhil N. Sadooni",
-          "raw_affiliation_strings": [
-            "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
-              "institution_ids": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5031066506",
-            "display_name": "Jassim Alkhayat",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I60342839",
-              "display_name": "Qatar University",
-              "ror": "https://ror.org/00yhnba62",
-              "country_code": "QA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ],
-          "countries": [
-            "QA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Jassim Alkhayat",
-          "raw_affiliation_strings": [
-            "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
-              "institution_ids": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5030411046",
-            "display_name": "Maria Dittrich",
-            "orcid": "https://orcid.org/0000-0002-8112-2661"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I185261750",
-              "display_name": "University of Toronto",
-              "ror": "https://ror.org/03dbr7087",
-              "country_code": "CA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I185261750"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I60342839",
-              "display_name": "Qatar University",
-              "ror": "https://ror.org/00yhnba62",
-              "country_code": "QA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ],
-          "countries": [
-            "CA",
-            "QA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Maria Dittrich",
-          "raw_affiliation_strings": [
-            "Biogeochemistry Group, Department of Physical and Environmental Sciences, University of Toronto Scarborough, 1065 Military Trail, Toronto, Ontario, M1C 1A1, Canada",
-            "Department of Earth Sciences, University of Toronto, 22 Ursula Franklin St., Toronto, Ontario, M5S 3B1, Canada",
-            "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-8112-2661",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Biogeochemistry Group, Department of Physical and Environmental Sciences, University of Toronto Scarborough, 1065 Military Trail, Toronto, Ontario, M1C 1A1, Canada",
-              "institution_ids": [
-                "https://openalex.org/I185261750"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Earth Sciences, University of Toronto, 22 Ursula Franklin St., Toronto, Ontario, M5S 3B1, Canada",
-              "institution_ids": [
-                "https://openalex.org/I185261750"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Environmental Science Center, Qatar University, P.O. Box 2713, Doha, Qatar",
-              "institution_ids": [
-                "https://openalex.org/I60342839"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5030411046"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I185261750",
-        "https://openalex.org/I60342839"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 2.5592,
-      "has_fulltext": true,
-      "cited_by_count": 2,
-      "citation_normalized_percentile": {
-        "value": 0.87597839,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 95,
-        "max": 96
-      },
-      "biblio": {
-        "volume": "2",
-        "issue": null,
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12414",
-        "display_name": "Coastal and Marine Management",
-        "score": 0.982699990272522,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2308",
-          "display_name": "Management, Monitoring, Policy and Law"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12414",
-          "display_name": "Coastal and Marine Management",
-          "score": 0.982699990272522,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2308",
-            "display_name": "Management, Monitoring, Policy and Law"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10779",
-          "display_name": "Coastal wetland ecosystem dynamics",
-          "score": 0.9735999703407288,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2303",
-            "display_name": "Ecology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10647",
-          "display_name": "Coastal and Marine Dynamics",
-          "score": 0.9398999810218811,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/cycling",
-          "display_name": "Cycling",
-          "score": 0.7988559007644653
-        },
-        {
-          "id": "https://openalex.org/keywords/blue-carbon",
-          "display_name": "Blue carbon",
-          "score": 0.6582061648368835
-        },
-        {
-          "id": "https://openalex.org/keywords/carbon-fibers",
-          "display_name": "Carbon fibers",
-          "score": 0.5831590890884399
-        },
-        {
-          "id": "https://openalex.org/keywords/environmental-science",
-          "display_name": "Environmental science",
-          "score": 0.5196541547775269
-        },
-        {
-          "id": "https://openalex.org/keywords/carbon-cycle",
-          "display_name": "Carbon cycle",
-          "score": 0.4625372886657715
-        },
-        {
-          "id": "https://openalex.org/keywords/geography",
-          "display_name": "Geography",
-          "score": 0.3489057421684265
-        },
-        {
-          "id": "https://openalex.org/keywords/oceanography",
-          "display_name": "Oceanography",
-          "score": 0.33942893147468567
-        },
-        {
-          "id": "https://openalex.org/keywords/forestry",
-          "display_name": "Forestry",
-          "score": 0.15123113989830017
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.14695021510124207
-        },
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.1356152892112732
-        },
-        {
-          "id": "https://openalex.org/keywords/ecology",
-          "display_name": "Ecology",
-          "score": 0.12983855605125427
-        },
-        {
-          "id": "https://openalex.org/keywords/carbon-dioxide",
-          "display_name": "Carbon dioxide",
-          "score": 0.1066441535949707
-        },
-        {
-          "id": "https://openalex.org/keywords/carbon-sequestration",
-          "display_name": "Carbon sequestration",
-          "score": 0.10523569583892822
-        },
-        {
-          "id": "https://openalex.org/keywords/biology",
-          "display_name": "Biology",
-          "score": 0.0654592514038086
-        },
-        {
-          "id": "https://openalex.org/keywords/ecosystem",
-          "display_name": "Ecosystem",
-          "score": 0.05909156799316406
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C541528975",
-          "wikidata": "https://www.wikidata.org/wiki/Q53121",
-          "display_name": "Cycling",
-          "level": 2,
-          "score": 0.7988559007644653
-        },
-        {
-          "id": "https://openalex.org/C142804171",
-          "wikidata": "https://www.wikidata.org/wiki/Q4930066",
-          "display_name": "Blue carbon",
-          "level": 4,
-          "score": 0.6582061648368835
-        },
-        {
-          "id": "https://openalex.org/C140205800",
-          "wikidata": "https://www.wikidata.org/wiki/Q5860",
-          "display_name": "Carbon fibers",
-          "level": 3,
-          "score": 0.5831590890884399
-        },
-        {
-          "id": "https://openalex.org/C39432304",
-          "wikidata": "https://www.wikidata.org/wiki/Q188847",
-          "display_name": "Environmental science",
-          "level": 0,
-          "score": 0.5196541547775269
-        },
-        {
-          "id": "https://openalex.org/C6939412",
-          "wikidata": "https://www.wikidata.org/wiki/Q167751",
-          "display_name": "Carbon cycle",
-          "level": 3,
-          "score": 0.4625372886657715
-        },
-        {
-          "id": "https://openalex.org/C205649164",
-          "wikidata": "https://www.wikidata.org/wiki/Q1071",
-          "display_name": "Geography",
-          "level": 0,
-          "score": 0.3489057421684265
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.33942893147468567
-        },
-        {
-          "id": "https://openalex.org/C97137747",
-          "wikidata": "https://www.wikidata.org/wiki/Q38112",
-          "display_name": "Forestry",
-          "level": 1,
-          "score": 0.15123113989830017
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.14695021510124207
-        },
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.1356152892112732
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0.12983855605125427
-        },
-        {
-          "id": "https://openalex.org/C530467964",
-          "wikidata": "https://www.wikidata.org/wiki/Q1997",
-          "display_name": "Carbon dioxide",
-          "level": 2,
-          "score": 0.1066441535949707
-        },
-        {
-          "id": "https://openalex.org/C22884784",
-          "wikidata": "https://www.wikidata.org/wiki/Q15305550",
-          "display_name": "Carbon sequestration",
-          "level": 3,
-          "score": 0.10523569583892822
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0.0654592514038086
-        },
-        {
-          "id": "https://openalex.org/C110872660",
-          "wikidata": "https://www.wikidata.org/wiki/Q37813",
-          "display_name": "Ecosystem",
-          "level": 2,
-          "score": 0.05909156799316406
-        },
-        {
-          "id": "https://openalex.org/C104779481",
-          "wikidata": "https://www.wikidata.org/wiki/Q50707",
-          "display_name": "Composite number",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C11413529",
-          "wikidata": "https://www.wikidata.org/wiki/Q8366",
-          "display_name": "Algorithm",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1180/gbi.2024.8",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1180/gbi.2024.8",
-          "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/79189D83FFC62E6C63503E7D1081AC55/S2755385X24000086a.pdf/div-class-title-blue-carbon-cycling-in-the-coastal-areas-of-qatar-div.pdf",
-          "source": {
-            "id": "https://openalex.org/S5407027500",
-            "display_name": "Geo-Bio Interfaces",
-            "issn_l": "2755-385X",
-            "issn": [
-              "2755-385X"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Geo-Bio Interfaces",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1180/gbi.2024.8",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1180/gbi.2024.8",
-        "pdf_url": "https://www.cambridge.org/core/services/aop-cambridge-core/content/view/79189D83FFC62E6C63503E7D1081AC55/S2755385X24000086a.pdf/div-class-title-blue-carbon-cycling-in-the-coastal-areas-of-qatar-div.pdf",
-        "source": {
-          "id": "https://openalex.org/S5407027500",
-          "display_name": "Geo-Bio Interfaces",
-          "issn_l": "2755-385X",
-          "issn": [
-            "2755-385X"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geo-Bio Interfaces",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "awards": [
-        {
-          "id": "https://openalex.org/G1360567091",
-          "display_name": null,
-          "funder_award_id": "RGPIN‐06184",
-          "funder_id": "https://openalex.org/F4320334593",
-          "funder_display_name": "Natural Sciences and Engineering Research Council of Canada"
-        },
-        {
-          "id": "https://openalex.org/G1385313657",
-          "display_name": null,
-          "funder_award_id": "NPRP12S-0313-190349",
-          "funder_id": "https://openalex.org/F4320332753",
-          "funder_display_name": "Qatar National Research Fund"
-        },
-        {
-          "id": "https://openalex.org/G2894603144",
-          "display_name": null,
-          "funder_award_id": "NPRP12S-",
-          "funder_id": "https://openalex.org/F4320332753",
-          "funder_display_name": "Qatar National Research Fund"
-        }
-      ],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320309815",
-          "display_name": "Qatar Foundation",
-          "ror": "https://ror.org/01cawbq05"
-        },
-        {
-          "id": "https://openalex.org/F4320321038",
-          "display_name": "Fonds National de la Recherche Luxembourg",
-          "ror": "https://ror.org/039z13y21"
-        },
-        {
-          "id": "https://openalex.org/F4320322015",
-          "display_name": "University of Toronto",
-          "ror": "https://ror.org/03dbr7087"
-        },
-        {
-          "id": "https://openalex.org/F4320332753",
-          "display_name": "Qatar National Research Fund",
-          "ror": "https://ror.org/01svaqq28"
-        },
-        {
-          "id": "https://openalex.org/F4320334593",
-          "display_name": "Natural Sciences and Engineering Research Council of Canada",
-          "ror": "https://ror.org/01h531d29"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": true,
-        "pdf": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W4407260658.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W4407260658.grobid-xml"
-      },
-      "referenced_works_count": 83,
-      "referenced_works": [
-        "https://openalex.org/W101853479",
-        "https://openalex.org/W1536058474",
-        "https://openalex.org/W1542162133",
-        "https://openalex.org/W1568042890",
-        "https://openalex.org/W1864162857",
-        "https://openalex.org/W1943121318",
-        "https://openalex.org/W1977457680",
-        "https://openalex.org/W1980702780",
-        "https://openalex.org/W1993637118",
-        "https://openalex.org/W1997720395",
-        "https://openalex.org/W2007765774",
-        "https://openalex.org/W2027638281",
-        "https://openalex.org/W2060971146",
-        "https://openalex.org/W2062339208",
-        "https://openalex.org/W2071091649",
-        "https://openalex.org/W2075417561",
-        "https://openalex.org/W2077568485",
-        "https://openalex.org/W2095957426",
-        "https://openalex.org/W2099054953",
-        "https://openalex.org/W2109245308",
-        "https://openalex.org/W2125751590",
-        "https://openalex.org/W2130426665",
-        "https://openalex.org/W2142984901",
-        "https://openalex.org/W2145154988",
-        "https://openalex.org/W2146541609",
-        "https://openalex.org/W2159353102",
-        "https://openalex.org/W2165727691",
-        "https://openalex.org/W2189694045",
-        "https://openalex.org/W2329702531",
-        "https://openalex.org/W2515577950",
-        "https://openalex.org/W2563245495",
-        "https://openalex.org/W2610439443",
-        "https://openalex.org/W2626417521",
-        "https://openalex.org/W2730387433",
-        "https://openalex.org/W2763447466",
-        "https://openalex.org/W2763532287",
-        "https://openalex.org/W2765728954",
-        "https://openalex.org/W2790698334",
-        "https://openalex.org/W2807444063",
-        "https://openalex.org/W2907494230",
-        "https://openalex.org/W2910003524",
-        "https://openalex.org/W2910754831",
-        "https://openalex.org/W2912899911",
-        "https://openalex.org/W2966066340",
-        "https://openalex.org/W2970370226",
-        "https://openalex.org/W3006374807",
-        "https://openalex.org/W3008295732",
-        "https://openalex.org/W3009520992",
-        "https://openalex.org/W3011003889",
-        "https://openalex.org/W3022163171",
-        "https://openalex.org/W3040586764",
-        "https://openalex.org/W3045984832",
-        "https://openalex.org/W3130040991",
-        "https://openalex.org/W3142280028",
-        "https://openalex.org/W3144551819",
-        "https://openalex.org/W3158648940",
-        "https://openalex.org/W3176391812",
-        "https://openalex.org/W3178374055",
-        "https://openalex.org/W3184364778",
-        "https://openalex.org/W3194660024",
-        "https://openalex.org/W3201840021",
-        "https://openalex.org/W3205892886",
-        "https://openalex.org/W4200141786",
-        "https://openalex.org/W4220713977",
-        "https://openalex.org/W4220780115",
-        "https://openalex.org/W4295065973",
-        "https://openalex.org/W4298008615",
-        "https://openalex.org/W4308875861",
-        "https://openalex.org/W4312116444",
-        "https://openalex.org/W4313908403",
-        "https://openalex.org/W4315471469",
-        "https://openalex.org/W4328054900",
-        "https://openalex.org/W4379056699",
-        "https://openalex.org/W4380758658",
-        "https://openalex.org/W4385319393",
-        "https://openalex.org/W4385602287",
-        "https://openalex.org/W4386471238",
-        "https://openalex.org/W4389274138",
-        "https://openalex.org/W4406513556",
-        "https://openalex.org/W6680504335",
-        "https://openalex.org/W6684159186",
-        "https://openalex.org/W6776842964",
-        "https://openalex.org/W6802012172"
-      ],
-      "related_works": [
-        "https://openalex.org/W4389668926",
-        "https://openalex.org/W2564868157",
-        "https://openalex.org/W4386750975",
-        "https://openalex.org/W4284884394",
-        "https://openalex.org/W4386412820",
-        "https://openalex.org/W4401134457",
-        "https://openalex.org/W2396534229",
-        "https://openalex.org/W2938514908",
-        "https://openalex.org/W2333554664",
-        "https://openalex.org/W3205947674"
-      ],
-      "abstract_inverted_index": {
-        "2": [
-          140,
-          148
-        ],
-        "40": [
-          115
-        ],
-        "Abstract": [
-          0
-        ],
-        "Coastal": [
-          1
-        ],
-        "wetland": [
-          2
-        ],
-        "sediments": [
-          3
-        ],
-        "are": [
-          4,
-          28,
-          42
-        ],
-        "vital": [
-          5
-        ],
-        "to": [
-          6,
-          89
-        ],
-        "the": [
-          7,
-          39,
-          57,
-          80,
-          110,
-          124,
-          180,
-          183,
-          187,
-          198,
-          206,
-          224,
-          241
-        ],
-        "global": [
-          8
-        ],
-        "carbon": [
-          9,
-          18,
-          20,
-          37,
-          86,
-          97,
-          210,
-          221,
-          237
-        ],
-        "cycle": [
-          10
-        ],
-        "as": [
-          11
-        ],
-        "they": [
-          12
-        ],
-        "represent": [
-          13
-        ],
-        "large": [
-          14
-        ],
-        "sinks": [
-          15
-        ],
-        "of": [
-          16,
-          35,
-          104,
-          113,
-          123,
-          133,
-          182,
-          200
-        ],
-        "blue": [
-          17,
-          96
-        ],
-        "–": [
-          19,
-          26,
-          66,
-          83
-        ],
-        "from": [
-          21
-        ],
-        "atmospheric": [
-          22
-        ],
-        "and": [
-          23,
-          38,
-          47,
-          70,
-          76,
-          106,
-          131,
-          144,
-          161,
-          209,
-          226,
-          235,
-          251
-        ],
-        "oceanic": [
-          24
-        ],
-        "sources": [
-          25
-        ],
-        "which": [
-          27
-        ],
-        "threatened": [
-          29
-        ],
-        "by": [
-          30,
-          44,
-          150,
-          248
-        ],
-        "ecosystem": [
-          31
-        ],
-        "loss.": [
-          32
-        ],
-        "The": [
-          33
-        ],
-        "forms": [
-          34
-        ],
-        "sequestered": [
-          36
-        ],
-        "sequestration": [
-          40,
-          98,
-          211,
-          222
-        ],
-        "capability": [
-          41
-        ],
-        "affected": [
-          43
-        ],
-        "many": [
-          45
-        ],
-        "bio-": [
-          46
-        ],
-        "geochemical": [
-          48,
-          107,
-          207
-        ],
-        "factors": [
-          49
-        ],
-        "that": [
-          50,
-          170,
-          220
-        ],
-        "change": [
-          51
-        ],
-        "unpredictably": [
-          52
-        ],
-        "along": [
-          53
-        ],
-        "coastal": [
-          54,
-          64,
-          68,
-          175
-        ],
-        "locales.": [
-          55
-        ],
-        "In": [
-          56
-        ],
-        "present": [
-          58
-        ],
-        "study,": [
-          59
-        ],
-        "we": [
-          60,
-          218
-        ],
-        "investigated": [
-          61
-        ],
-        "three": [
-          62
-        ],
-        "unique": [
-          63
-        ],
-        "sites": [
-          65
-        ],
-        "a": [
-          67,
-          102
-        ],
-        "mangrove": [
-          69,
-          225
-        ],
-        "two": [
-          71
-        ],
-        "sabkhas": [
-          72
-        ],
-        "with": [
-          73,
-          156,
-          231
-        ],
-        "contrasting": [
-          74
-        ],
-        "geology": [
-          75
-        ],
-        "tidal": [
-          77
-        ],
-        "influence": [
-          78
-        ],
-        "in": [
-          79,
-          174,
-          223,
-          240
-        ],
-        "Qatar": [
-          81
-        ],
-        "peninsula": [
-          82
-        ],
-        "for": [
-          84,
-          136
-        ],
-        "their": [
-          85,
-          95
-        ],
-        "capture": [
-          87
-        ],
-        "ability": [
-          88
-        ],
-        "determine": [
-          90
-        ],
-        "how": [
-          91
-        ],
-        "biogeochemical": [
-          92
-        ],
-        "indices": [
-          93
-        ],
-        "affect": [
-          94
-        ],
-        "potential.": [
-          99
-        ],
-        "We": [
-          100
-        ],
-        "applied": [
-          101
-        ],
-        "suite": [
-          103
-        ],
-        "biological": [
-          105
-        ],
-        "tools,": [
-          108
-        ],
-        "collecting": [
-          109
-        ],
-        "sediment": [
-          111,
-          119,
-          134,
-          188,
-          195,
-          249
-        ],
-        "cores": [
-          112
-        ],
-        "approximately": [
-          114
-        ],
-        "cm": [
-          116
-        ],
-        "depth;": [
-          117
-        ],
-        "analysed": [
-          118
-        ],
-        "porewater;": [
-          120
-        ],
-        "performed": [
-          121
-        ],
-        "depth-profiling": [
-          122
-        ],
-        "organic": [
-          125,
-          232
-        ],
-        "matter,": [
-          126
-        ],
-        "sedimentary": [
-          127
-        ],
-        "minerals,": [
-          128
-        ],
-        "microbial": [
-          129,
-          201
-        ],
-        "community": [
-          130
-        ],
-        "analysis": [
-          132
-        ],
-        "surface": [
-          135
-        ],
-        "pH,": [
-          137
-        ],
-        "oxygen": [
-          138
-        ],
-        "(O": [
-          139
-        ],
-        ");": [
-          141
-        ],
-        "redox": [
-          142
-        ],
-        "potential": [
-          143
-        ],
-        "hydrogen": [
-          145
-        ],
-        "sulfide": [
-          146
-        ],
-        "(H": [
-          147
-        ],
-        "S)": [
-          149
-        ],
-        "microsensors.": [
-          151
-        ],
-        "High-resolution": [
-          152
-        ],
-        "transmission": [
-          153,
-          163
-        ],
-        "electron": [
-          154
-        ],
-        "microscopy": [
-          155,
-          165
-        ],
-        "energy-dispersive": [
-          157
-        ],
-        "X-ray": [
-          158,
-          164
-        ],
-        "spectroscopy": [
-          159
-        ],
-        "(TEM-EDXS)": [
-          160
-        ],
-        "scanning": [
-          162
-        ],
-        "(STXM)": [
-          166
-        ],
-        "revealed": [
-          167
-        ],
-        "templating": [
-          168
-        ],
-        "effects": [
-          169
-        ],
-        "promoted": [
-          171
-        ],
-        "Mg-carbonate": [
-          172
-        ],
-        "nucleation": [
-          173
-        ],
-        "hypersaline": [
-          176
-        ],
-        "environments.": [
-          177
-        ],
-        "Microsensing": [
-          178
-        ],
-        "reveals": [
-          179
-        ],
-        "intricacy": [
-          181
-        ],
-        "oxic/anoxic": [
-          184
-        ],
-        "transition": [
-          185
-        ],
-        "at": [
-          186,
-          193,
-          214
-        ],
-        "surface.": [
-          189
-        ],
-        "Microbial": [
-          190
-        ],
-        "DNA": [
-          191
-        ],
-        "sequencing": [
-          192
-        ],
-        "various": [
-          194
-        ],
-        "depths": [
-          196
-        ],
-        "shows": [
-          197
-        ],
-        "occurrence": [
-          199
-        ],
-        "genera,": [
-          202
-        ],
-        "whose": [
-          203
-        ],
-        "functions": [
-          204
-        ],
-        "explain": [
-          205
-        ],
-        "trends": [
-          208
-        ],
-        "pathways": [
-          212
-        ],
-        "observed": [
-          213
-        ],
-        "each": [
-          215
-        ],
-        "site.": [
-          216
-        ],
-        "Notably,": [
-          217
-        ],
-        "found": [
-          219
-        ],
-        "carbonate-sand": [
-          227
-        ],
-        "sabkha": [
-          228,
-          243
-        ],
-        "was": [
-          229,
-          245
-        ],
-        "correlated": [
-          230
-        ],
-        "matter": [
-          233
-        ],
-        "degradation": [
-          234
-        ],
-        "inorganic": [
-          236
-        ],
-        "content,": [
-          238
-        ],
-        "while": [
-          239
-        ],
-        "siliciclastic": [
-          242
-        ],
-        "it": [
-          244
-        ],
-        "solely": [
-          246
-        ],
-        "influenced": [
-          247
-        ],
-        "density": [
-          250
-        ],
-        "depth.": [
-          252
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-08-01T09:00:35.917206",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2508018119",
       "doi": "https://doi.org/10.1111/jpg.12657",
       "title": "STRATIGRAPHY AND PETROLEUM SYSTEMS OF THE PALAEOZOIC (PRE‐KHUFF) SUCCESSION, QATAR",
@@ -72596,9 +72600,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -73770,9 +73774,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.6100000143051147
+          "score": 0.6100000143051147,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -75499,9 +75503,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -77199,9 +77203,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -80302,9 +80306,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -81551,9 +81555,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6499999761581421
+          "score": 0.6499999761581421,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -83026,9 +83030,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -84068,9 +84072,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -86187,9 +86191,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7200000286102295
+          "score": 0.7200000286102295,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -89502,9 +89506,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579
+          "score": 0.8500000238418579,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -90298,9 +90302,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -93009,9 +93013,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -94021,9 +94025,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.5799999833106995
+          "score": 0.5799999833106995,
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [
@@ -95074,9 +95078,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -97085,9 +97089,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929
+          "score": 0.800000011920929,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -97219,7 +97223,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.00172801,
+        "value": 0.00172741,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -97493,9 +97497,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -98153,9 +98157,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7900000214576721
+          "score": 0.7900000214576721,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -99441,9 +99445,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.6800000071525574
+          "score": 0.6800000071525574,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -100939,9 +100943,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929
+          "score": 0.800000011920929,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -101769,9 +101773,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.7799999713897705
+          "score": 0.7799999713897705,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -102144,9 +102148,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421
+          "score": 0.8999999761581421,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -102694,9 +102698,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6000000238418579
+          "score": 0.6000000238418579,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -103040,9 +103044,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5400000214576721
+          "score": 0.5400000214576721,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -103374,9 +103378,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5
+          "score": 0.5,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -103708,9 +103712,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.550000011920929
+          "score": 0.550000011920929,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -104413,9 +104417,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -105181,7 +105185,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.21065737,
+        "value": 0.21076233,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -106858,9 +106862,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -107904,9 +107908,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4399999976158142
+          "score": 0.4399999976158142,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -108454,9 +108458,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Zero hunger",
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.699999988079071
+          "score": 0.699999988079071,
+          "display_name": "Zero hunger"
         }
       ],
       "awards": [],
@@ -109860,9 +109864,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5199999809265137
+          "score": 0.5199999809265137,
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -113768,9 +113772,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Zero hunger",
           "id": "https://metadata.un.org/sdg/2",
-          "score": 0.8299999833106995
+          "score": 0.8299999833106995,
+          "display_name": "Zero hunger"
         }
       ],
       "awards": [],
@@ -120042,9 +120046,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8206668496131897
+          "score": 0.8206668496131897,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -121644,9 +121648,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8598002791404724
+          "score": 0.8598002791404724,
+          "display_name": "Life below water"
         }
       ],
       "awards": [
