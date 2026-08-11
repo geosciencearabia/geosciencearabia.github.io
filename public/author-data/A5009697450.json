@@ -680,11 +680,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 9.2856,
+      "fwci": 9.2758,
       "has_fulltext": false,
       "cited_by_count": 120,
       "citation_normalized_percentile": {
-        "value": 0.98642245,
+        "value": 0.98641775,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2229,11 +2229,11 @@
         "value_usd": 3300
       },
       "apc_paid": null,
-      "fwci": 4.6068,
+      "fwci": 4.6486,
       "has_fulltext": false,
-      "cited_by_count": 37,
+      "cited_by_count": 38,
       "citation_normalized_percentile": {
-        "value": 0.96663354,
+        "value": 0.96724309,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2639,7 +2639,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 5
+          "cited_by_count": 6
         },
         {
           "year": 2025,
@@ -2654,7 +2654,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4084,11 +4084,11 @@
         "currency": "USD",
         "value_usd": 3000
       },
-      "fwci": 1.9063,
+      "fwci": 1.9057,
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.86423132,
+        "value": 0.86416741,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4703,6 +4703,35 @@
           "raw_type": null
         },
         {
+          "id": "pmh:oai:pubmedcentral.nih.gov:8361460",
+          "is_oa": true,
+          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8361460",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764455111",
+            "display_name": "PubMed Central",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": true,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1299303238",
+            "host_organization_name": "National Institutes of Health",
+            "host_organization_lineage": [
+              "https://openalex.org/I1299303238"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Blood Adv",
+          "raw_type": "Text"
+        },
+        {
           "id": "pmh:ark:/13030/qt17871538",
           "is_oa": false,
           "landing_page_url": null,
@@ -4744,35 +4773,6 @@
           "is_published": false,
           "raw_source_name": "Blood Advances, vol 5, iss 15",
           "raw_type": "article"
-        },
-        {
-          "id": "pmh:oai:pubmedcentral.nih.gov:8361460",
-          "is_oa": true,
-          "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8361460",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S2764455111",
-            "display_name": "PubMed Central",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I1299303238",
-            "host_organization_name": "National Institutes of Health",
-            "host_organization_lineage": [
-              "https://openalex.org/I1299303238"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Blood Adv",
-          "raw_type": "Text"
         }
       ],
       "best_oa_location": {
@@ -5500,7 +5500,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-01T09:00:35.917206",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16137,11 +16137,11 @@
         "currency": "USD",
         "value_usd": 530
       },
-      "fwci": 0.9916,
+      "fwci": 0.991,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.81721752,
+        "value": 0.81699197,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -16480,33 +16480,6 @@
           "raw_type": null
         },
         {
-          "id": "pmh:oai:doaj.org/article:dbb8a8e5c0d44f6d9ff5229766361b23",
-          "is_oa": true,
-          "landing_page_url": "https://doaj.org/article/dbb8a8e5c0d44f6d9ff5229766361b23",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "MethodsX, Vol 9, Iss , Pp 101828- (2022)",
-          "raw_type": "article"
-        },
-        {
           "id": "pmh:oai:pubmedcentral.nih.gov:9465100",
           "is_oa": true,
           "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/9465100",
@@ -16534,6 +16507,33 @@
           "is_published": false,
           "raw_source_name": "MethodsX",
           "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:dbb8a8e5c0d44f6d9ff5229766361b23",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/dbb8a8e5c0d44f6d9ff5229766361b23",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "MethodsX, Vol 9, Iss , Pp 101828- (2022)",
+          "raw_type": "article"
         }
       ],
       "best_oa_location": {
@@ -17221,7 +17221,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-03T07:22:36.454288",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {

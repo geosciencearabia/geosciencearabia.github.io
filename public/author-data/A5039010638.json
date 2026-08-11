@@ -861,9 +861,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.7900000214576721,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7900000214576721
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -2638,9 +2638,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
+          "score": 0.4000000059604645,
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4000000059604645
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -3014,11 +3014,11 @@
         "currency": "CHF",
         "value_usd": 2450
       },
-      "fwci": 4.6561,
+      "fwci": 4.6532,
       "has_fulltext": true,
       "cited_by_count": 50,
       "citation_normalized_percentile": {
-        "value": 0.96060775,
+        "value": 0.96059276,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3477,9 +3477,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
+          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4399999976158142
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -5538,9 +5538,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Decent work and economic growth",
+          "score": 0.6399999856948853,
           "id": "https://metadata.un.org/sdg/8",
-          "score": 0.6399999856948853
+          "display_name": "Decent work and economic growth"
         }
       ],
       "awards": [],
@@ -9059,9 +9059,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
+          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4699999988079071
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -10315,9 +10315,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
+          "score": 0.4000000059604645,
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.4000000059604645
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
@@ -11224,7 +11224,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5049649985"
       ],
@@ -11241,16 +11241,16 @@
         "currency": "USD",
         "value_usd": 1685
       },
-      "fwci": 2.4245,
+      "fwci": 2.0803,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.8797546,
+        "value": 0.85792267,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 94,
+        "min": 93,
         "max": 99
       },
       "biblio": {
@@ -11667,33 +11667,6 @@
           "raw_type": null
         },
         {
-          "id": "pmh:oai:doaj.org/article:269ba17cef414205b5f4c9e24e85d4f9",
-          "is_oa": true,
-          "landing_page_url": "https://doaj.org/article/269ba17cef414205b5f4c9e24e85d4f9",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401280",
-            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-sa",
-          "license_id": "https://openalex.org/licenses/cc-by-sa",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "ACS Omega, Vol 5, Iss 40, Pp 26169-26181 (2020)",
-          "raw_type": "article"
-        },
-        {
           "id": "pmh:oai:europepmc.org:6774136",
           "is_oa": true,
           "landing_page_url": "http://europepmc.org/pmc/articles/PMC7864083",
@@ -11750,6 +11723,33 @@
           "is_published": false,
           "raw_source_name": "ACS Omega",
           "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:doaj.org/article:269ba17cef414205b5f4c9e24e85d4f9",
+          "is_oa": true,
+          "landing_page_url": "https://doaj.org/article/269ba17cef414205b5f4c9e24e85d4f9",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401280",
+            "display_name": "DOAJ (DOAJ: Directory of Open Access Journals)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-sa",
+          "license_id": "https://openalex.org/licenses/cc-by-sa",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "ACS Omega, Vol 5, Iss 40, Pp 26169-26181 (2020)",
+          "raw_type": "article"
         }
       ],
       "best_oa_location": {
@@ -12562,7 +12562,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-05-19T21:40:30.786675",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12899,11 +12899,11 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 2.5359,
+      "fwci": 2.5388,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.89629918,
+        "value": 0.89638085,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13343,8 +13343,8 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:533281",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "https://nora.nerc.ac.uk/id/eprint/533281/1/1-s2.0-S0264817222003993-main.pdf",
+          "pdf_url": "https://nora.nerc.ac.uk/id/eprint/533281/1/1-s2.0-S0264817222003993-main.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
             "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
@@ -14312,7 +14312,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-29T09:40:50.615796",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14950,9 +14950,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
+          "score": 0.75,
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.75
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -15968,9 +15968,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.6600000262260437,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6600000262260437
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -16610,9 +16610,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.7799999713897705,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7799999713897705
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -19326,9 +19326,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -22362,9 +22362,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Clean water and sanitation",
+          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.4099999964237213
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
@@ -23196,9 +23196,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8299999833106995
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -29716,9 +29716,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.46000000834465027
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -31827,9 +31827,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.5099999904632568,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5099999904632568
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -32338,9 +32338,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -34678,9 +34678,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -38231,9 +38231,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8700000047683716
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -40112,9 +40112,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.49000000953674316
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -41276,9 +41276,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Decent work and economic growth",
+          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/8",
-          "score": 0.4399999976158142
+          "display_name": "Decent work and economic growth"
         }
       ],
       "awards": [],
@@ -42946,9 +42946,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.47999998927116394
+          "display_name": "Life below water"
         }
       ],
       "awards": [],

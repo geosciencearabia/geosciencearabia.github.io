@@ -21,7 +21,7 @@
     ],
     "full_name": "Michael  Henry Stephenson",
     "works_count": 162,
-    "cited_by_count": 3020,
+    "cited_by_count": 3021,
     "summary_stats": {
       "2yr_mean_citedness": 1.8333333333333333,
       "h_index": 31,
@@ -617,7 +617,7 @@
         "year": 2019,
         "works_count": 13,
         "oa_works_count": 10,
-        "cited_by_count": 600
+        "cited_by_count": 601
       },
       {
         "year": 2020,
@@ -680,7 +680,7 @@
     ],
     "block_key": "m stephenson",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5040147688",
-    "updated_date": "2026-08-09T12:17:28",
+    "updated_date": "2026-08-10T12:17:52",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -912,11 +912,11 @@
         "currency": "USD",
         "value_usd": 4540
       },
-      "fwci": 15.32,
+      "fwci": 15.3107,
       "has_fulltext": true,
       "cited_by_count": 315,
       "citation_normalized_percentile": {
-        "value": 0.99840199,
+        "value": 0.99840138,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1307,7 +1307,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 2,
+      "locations_count": 4,
       "locations": [
         {
           "id": "doi:10.1016/j.earscirev.2019.102936",
@@ -1344,9 +1344,67 @@
           "raw_type": "journal-article"
         },
         {
+          "id": "pmh:oai:eprints.kingston.ac.uk:43838",
+          "is_oa": false,
+          "landing_page_url": "https://eprints.kingston.ac.uk/id/eprint/43838/1/Henry-D-G-43838-VoR.pdf",
+          "pdf_url": "https://eprints.kingston.ac.uk/id/eprint/43838/1/Henry-D-G-43838-VoR.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306400991",
+            "display_name": "Research Repository (Kingston University London)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I2801636071",
+            "host_organization_name": "Kingston Hospital NHS Trust",
+            "host_organization_lineage": [
+              "https://openalex.org/I2801636071"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Article"
+        },
+        {
+          "id": "pmh:oai:nora.nerc.ac.uk:526553",
+          "is_oa": false,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/526553/1/raman_spect.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/526553/1/raman_spect.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306400758",
+            "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I141816643",
+            "host_organization_name": "Natural Environment Research Council",
+            "host_organization_lineage": [
+              "https://openalex.org/I141816643"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Publication - Article"
+        },
+        {
           "id": "pmh:oai:researchspace.bathspa.ac.uk:14049",
           "is_oa": true,
-          "landing_page_url": null,
+          "landing_page_url": "http://researchspace.bathspa.ac.uk/14049/1/14049.pdf",
           "pdf_url": "http://researchspace.bathspa.ac.uk/14049/1/14049.pdf",
           "source": {
             "id": "https://openalex.org/S4306401821",
@@ -1449,8 +1507,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2969676768.pdf",
@@ -2217,7 +2275,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-08T01:25:22.217667",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2962,11 +3020,11 @@
         "currency": "USD",
         "value_usd": 1904
       },
-      "fwci": 40.6909,
+      "fwci": 40.5284,
       "has_fulltext": true,
       "cited_by_count": 125,
       "citation_normalized_percentile": {
-        "value": 0.996616,
+        "value": 0.99660588,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -3265,35 +3323,6 @@
           "raw_type": null
         },
         {
-          "id": "pmh:oai:kobv.de-opus4-uni-potsdam:68261",
-          "is_oa": true,
-          "landing_page_url": "https://publishup.uni-potsdam.de/frontdoor/index/index/docId/68261",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400594",
-            "display_name": "publish.UP (University of Potsdam)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I176453806",
-            "host_organization_name": "University of Potsdam",
-            "host_organization_lineage": [
-              "https://openalex.org/I176453806"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "article"
-        },
-        {
           "id": "pmh:oai:pubmedcentral.nih.gov:8433093",
           "is_oa": true,
           "landing_page_url": "https://www.ncbi.nlm.nih.gov/pmc/articles/8433093",
@@ -3321,6 +3350,35 @@
           "is_published": false,
           "raw_source_name": "Natl Sci Rev",
           "raw_type": "Text"
+        },
+        {
+          "id": "pmh:oai:kobv.de-opus4-uni-potsdam:68261",
+          "is_oa": true,
+          "landing_page_url": "https://publishup.uni-potsdam.de/frontdoor/index/index/docId/68261",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400594",
+            "display_name": "publish.UP (University of Potsdam)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I176453806",
+            "host_organization_name": "University of Potsdam",
+            "host_organization_lineage": [
+              "https://openalex.org/I176453806"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "article"
         }
       ],
       "best_oa_location": {
@@ -3402,8 +3460,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3132519602.pdf",
@@ -3868,7 +3926,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-08-08T07:41:36.138363",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4136,11 +4194,11 @@
         "currency": "USD",
         "value_usd": 4270
       },
-      "fwci": 8.485,
+      "fwci": 8.4954,
       "has_fulltext": true,
       "cited_by_count": 122,
       "citation_normalized_percentile": {
-        "value": 0.99023131,
+        "value": 0.99024092,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4438,7 +4496,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 4,
+      "locations_count": 6,
       "locations": [
         {
           "id": "doi:10.1016/j.coal.2018.03.005",
@@ -4475,9 +4533,67 @@
           "raw_type": "journal-article"
         },
         {
+          "id": "pmh:oai:eprints.kingston.ac.uk:40875",
+          "is_oa": false,
+          "landing_page_url": "https://eprints.kingston.ac.uk/id/eprint/40875/1/Henry-D-G-40875-VoR.pdf",
+          "pdf_url": "https://eprints.kingston.ac.uk/id/eprint/40875/1/Henry-D-G-40875-VoR.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306400991",
+            "display_name": "Research Repository (Kingston University London)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I2801636071",
+            "host_organization_name": "Kingston Hospital NHS Trust",
+            "host_organization_lineage": [
+              "https://openalex.org/I2801636071"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Article"
+        },
+        {
+          "id": "pmh:oai:nora.nerc.ac.uk:521140",
+          "is_oa": false,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/521140/1/1-s2.0-S0166516218301034-main.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/521140/1/1-s2.0-S0166516218301034-main.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306400758",
+            "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I141816643",
+            "host_organization_name": "Natural Environment Research Council",
+            "host_organization_lineage": [
+              "https://openalex.org/I141816643"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Publication - Article"
+        },
+        {
           "id": "pmh:oai:researchspace.bathspa.ac.uk:14052",
           "is_oa": true,
-          "landing_page_url": null,
+          "landing_page_url": "http://researchspace.bathspa.ac.uk/14052/1/14052.pdf",
           "pdf_url": "http://researchspace.bathspa.ac.uk/14052/1/14052.pdf",
           "source": {
             "id": "https://openalex.org/S4306401821",
@@ -4663,8 +4779,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2793424403.pdf",
@@ -5283,7 +5399,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-08-04T08:18:43.703281",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5769,11 +5885,11 @@
         "currency": "USD",
         "value_usd": 4000
       },
-      "fwci": 3.3721,
+      "fwci": 3.372,
       "has_fulltext": true,
       "cited_by_count": 105,
       "citation_normalized_percentile": {
-        "value": 0.91822956,
+        "value": 0.91825746,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6019,8 +6135,8 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:19896",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/19896/1/Kender_et_al_2012_paper_submission.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/19896/1/Kender_et_al_2012_paper_submission.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
             "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
@@ -6263,8 +6379,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 83,
@@ -7111,7 +7227,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-09T07:27:16.801131",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7342,11 +7458,11 @@
         "currency": "USD",
         "value_usd": 4270
       },
-      "fwci": 6.893,
+      "fwci": 6.9048,
       "has_fulltext": true,
       "cited_by_count": 74,
       "citation_normalized_percentile": {
-        "value": 0.98391523,
+        "value": 0.9839123,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -7675,7 +7791,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 2,
+      "locations_count": 4,
       "locations": [
         {
           "id": "doi:10.1016/j.coal.2019.01.003",
@@ -7712,9 +7828,52 @@
           "raw_type": "journal-article"
         },
         {
+          "id": "pmh:oai:eprints.kingston.ac.uk:42642",
+          "is_oa": false,
+          "landing_page_url": "https://eprints.kingston.ac.uk/id/eprint/42642/6/Henry-D-42642-VoR.pdf",
+          "pdf_url": "https://eprints.kingston.ac.uk/id/eprint/42642/6/Henry-D-42642-VoR.pdf",
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Article"
+        },
+        {
+          "id": "pmh:oai:nora.nerc.ac.uk:522643",
+          "is_oa": false,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/522643/1/1-s2.0-S0166516218309935-main.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/522643/1/1-s2.0-S0166516218309935-main.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306400758",
+            "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I141816643",
+            "host_organization_name": "Natural Environment Research Council",
+            "host_organization_lineage": [
+              "https://openalex.org/I141816643"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Publication - Article"
+        },
+        {
           "id": "pmh:oai:researchspace.bathspa.ac.uk:14051",
           "is_oa": true,
-          "landing_page_url": null,
+          "landing_page_url": "http://researchspace.bathspa.ac.uk/14051/1/14051.pdf",
           "pdf_url": "http://researchspace.bathspa.ac.uk/14051/1/14051.pdf",
           "source": {
             "id": "https://openalex.org/S4306401821",
@@ -7822,8 +7981,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2909098680.pdf",
@@ -8219,7 +8378,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-08-02T14:50:37.381335",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8346,11 +8505,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 8.4233,
+      "fwci": 8.4283,
       "has_fulltext": false,
       "cited_by_count": 53,
       "citation_normalized_percentile": {
-        "value": 0.96777845,
+        "value": 0.96783212,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8524,8 +8683,8 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:516139",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/516139/1/321.full.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/516139/1/321.full.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
             "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
@@ -8615,8 +8774,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 145,
@@ -9184,7 +9343,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9311,11 +9470,11 @@
         "currency": "USD",
         "value_usd": 2530
       },
-      "fwci": 2.1684,
+      "fwci": 2.1711,
       "has_fulltext": true,
       "cited_by_count": 50,
       "citation_normalized_percentile": {
-        "value": 0.86830345,
+        "value": 0.86844982,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9689,8 +9848,8 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:512129",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/512129/1/Stephenson-2016-Energy_Science_%26_Engineering.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/512129/1/Stephenson-2016-Energy_Science_%26_Engineering.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
             "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
@@ -9794,8 +9953,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2159968487.pdf",
@@ -10420,7 +10579,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10834,8 +10993,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -11838,8 +11997,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -12852,8 +13011,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -14472,8 +14631,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 103,
@@ -15957,11 +16116,11 @@
         "value_usd": 6290
       },
       "apc_paid": null,
-      "fwci": 6.0338,
+      "fwci": 6.0295,
       "has_fulltext": true,
       "cited_by_count": 85,
       "citation_normalized_percentile": {
-        "value": 0.96390637,
+        "value": 0.96391675,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -16324,6 +16483,35 @@
           "raw_type": "journal-article"
         },
         {
+          "id": "pmh:oai:oma.vliz.be:241049",
+          "is_oa": true,
+          "landing_page_url": "http://www.vliz.be/imisdocs/publications/263745.pdf",
+          "pdf_url": "http://www.vliz.be/imisdocs/publications/263745.pdf",
+          "source": {
+            "id": "https://openalex.org/S4377196427",
+            "display_name": "Flanders Marine Institute (Flanders Marine Institute)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1293303778",
+            "host_organization_name": "Flanders Marine Institute",
+            "host_organization_lineage": [
+              "https://openalex.org/I1293303778"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "%3Ci%3ENature+Comm.+1%2850%29%3C%2Fi%3E%3A+6+pp.+%3Ca+href%3D%22http%3A%2F%2Fhdl.handle.net%2F10.1038%2Fncomms1049%22+target%3D%22_blank%22%3Ehttp%3A%2F%2Fhdl.handle.net%2F10.1038%2Fncomms1049%3C%2Fa%3E",
+          "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
           "id": "pmid:20975721",
           "is_oa": false,
           "landing_page_url": "https://pubmed.ncbi.nlm.nih.gov/20975721",
@@ -16351,35 +16539,6 @@
           "is_published": true,
           "raw_source_name": "Nature communications",
           "raw_type": null
-        },
-        {
-          "id": "pmh:oai:oma.vliz.be:241049",
-          "is_oa": true,
-          "landing_page_url": null,
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4377196427",
-            "display_name": "Flanders Marine Institute (Flanders Marine Institute)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I1293303778",
-            "host_organization_name": "Flanders Marine Institute",
-            "host_organization_lineage": [
-              "https://openalex.org/I1293303778"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "other-oa",
-          "license_id": "https://openalex.org/licenses/other-oa",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "%3Ci%3ENature+Comm.+1%2850%29%3C%2Fi%3E%3A+6+pp.+%3Ca+href%3D%22http%3A%2F%2Fhdl.handle.net%2F10.1038%2Fncomms1049%22+target%3D%22_blank%22%3Ehttp%3A%2F%2Fhdl.handle.net%2F10.1038%2Fncomms1049%3C%2Fa%3E",
-          "raw_type": "info:eu-repo/semantics/article"
         },
         {
           "id": "pmh:oai:nora.nerc.ac.uk:12799",
@@ -16547,8 +16706,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2002716893.pdf",
@@ -16691,7 +16850,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17291,11 +17450,11 @@
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 3.7454,
+      "fwci": 3.7275,
       "has_fulltext": false,
       "cited_by_count": 65,
       "citation_normalized_percentile": {
-        "value": 0.92942786,
+        "value": 0.92907894,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -17654,8 +17813,8 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:512787",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/512787/1/1-s2.0-S0031018216000304-main.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/512787/1/1-s2.0-S0031018216000304-main.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
             "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
@@ -17822,8 +17981,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 122,
@@ -18010,7 +18169,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18957,8 +19116,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 99,
@@ -20120,11 +20279,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.1684,
+      "fwci": 3.1649,
       "has_fulltext": false,
       "cited_by_count": 55,
       "citation_normalized_percentile": {
-        "value": 0.93166723,
+        "value": 0.93167829,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -20490,8 +20649,8 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:525361",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/525361/1/petgeo2019-084.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/525361/1/petgeo2019-084.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
             "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
@@ -20592,8 +20751,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -21124,7 +21283,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21984,8 +22143,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 84,
@@ -23118,11 +23277,11 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 2.6768,
+      "fwci": 2.6792,
       "has_fulltext": true,
       "cited_by_count": 43,
       "citation_normalized_percentile": {
-        "value": 0.89153086,
+        "value": 0.89157085,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23418,8 +23577,8 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:517371",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/517371/1/1-s2.0-S0264817217302404-main.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/517371/1/1-s2.0-S0264817217302404-main.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
             "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
@@ -23592,8 +23751,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2730765521.pdf",
@@ -24659,7 +24818,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-08-02T14:50:37.381335",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24988,8 +25147,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2169713986.pdf"
@@ -25403,11 +25562,11 @@
         "currency": "USD",
         "value_usd": 4050
       },
-      "fwci": 2.8475,
+      "fwci": 2.852,
       "has_fulltext": false,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.90487805,
+        "value": 0.90507245,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -25719,8 +25878,8 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:525373",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/525373/1/Emmings_et_al-2020-Sedimentology.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/525373/1/Emmings_et_al-2020-Sedimentology.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
             "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
@@ -25867,8 +26026,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2955892120.pdf"
@@ -26794,7 +26953,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-29T09:40:50.615796",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2019-07-12T00:00:00"
     },
     {
@@ -27385,8 +27544,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -28339,8 +28498,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 57,
@@ -29458,11 +29617,11 @@
         "value_usd": 3700
       },
       "apc_paid": null,
-      "fwci": 2.2675,
+      "fwci": 2.162,
       "has_fulltext": false,
       "cited_by_count": 34,
       "citation_normalized_percentile": {
-        "value": 0.88088421,
+        "value": 0.87534039,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -29698,8 +29857,8 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:19871",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/19871/1/Gondwana_Research.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/19871/1/Gondwana_Research.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
             "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
@@ -29762,8 +29921,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -29874,7 +30033,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-14T08:27:34.040176",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -30005,11 +30164,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.9408,
+      "fwci": 2.9689,
       "has_fulltext": false,
       "cited_by_count": 31,
       "citation_normalized_percentile": {
-        "value": 0.90148305,
+        "value": 0.90251572,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -30404,8 +30563,8 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:4580",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/4580/1/Stephenson_JGS_deglac.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/4580/1/Stephenson_JGS_deglac.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
             "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
@@ -30442,8 +30601,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 98,
@@ -30963,7 +31122,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-07-15T18:14:33.161393",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30982,7 +31141,7 @@
       "primary_location": {
         "id": "pmh:oai:nora.nerc.ac.uk:521969",
         "is_oa": true,
-        "landing_page_url": null,
+        "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/521969/1/10706-31867-1-SM.pdf",
         "pdf_url": "http://nora.nerc.ac.uk/id/eprint/521969/1/10706-31867-1-SM.pdf",
         "source": {
           "id": "https://openalex.org/S4306400758",
@@ -31103,11 +31262,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.9308,
+      "fwci": 4.948,
       "has_fulltext": true,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.94234025,
+        "value": 0.94249433,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -31252,7 +31411,7 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:521969",
           "is_oa": true,
-          "landing_page_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/521969/1/10706-31867-1-SM.pdf",
           "pdf_url": "http://nora.nerc.ac.uk/id/eprint/521969/1/10706-31867-1-SM.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
@@ -31365,7 +31524,7 @@
       "best_oa_location": {
         "id": "pmh:oai:nora.nerc.ac.uk:521969",
         "is_oa": true,
-        "landing_page_url": null,
+        "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/521969/1/10706-31867-1-SM.pdf",
         "pdf_url": "http://nora.nerc.ac.uk/id/eprint/521969/1/10706-31867-1-SM.pdf",
         "source": {
           "id": "https://openalex.org/S4306400758",
@@ -31401,8 +31560,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2903365142.pdf"
@@ -31879,7 +32038,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-08-04T08:18:43.703281",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -32342,11 +32501,11 @@
         "currency": "USD",
         "value_usd": 3080
       },
-      "fwci": 2.5474,
+      "fwci": 2.5518,
       "has_fulltext": true,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.88346801,
+        "value": 0.88365602,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -32589,7 +32748,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 5,
+      "locations_count": 6,
       "locations": [
         {
           "id": "doi:10.1016/j.revpalbo.2019.04.004",
@@ -32628,8 +32787,8 @@
         {
           "id": "pmh:oai:eprints.whiterose.ac.uk:144609",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "http://eprints.whiterose.ac.uk/144609/1/Emmings_et_al_accepted%20version.pdf",
+          "pdf_url": "http://eprints.whiterose.ac.uk/144609/1/Emmings_et_al_accepted%20version.pdf",
           "source": {
             "id": "https://openalex.org/S4306400854",
             "display_name": "White Rose Research Online (University of Leeds, The University of Sheffield, University of York)",
@@ -32653,6 +32812,35 @@
           "is_published": false,
           "raw_source_name": "",
           "raw_type": "Article"
+        },
+        {
+          "id": "pmh:oai:nora.nerc.ac.uk:523691",
+          "is_oa": false,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/523691/1/1-s2.0-S0034666718302859-main.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/523691/1/1-s2.0-S0034666718302859-main.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306400758",
+            "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I141816643",
+            "host_organization_name": "Natural Environment Research Council",
+            "host_organization_lineage": [
+              "https://openalex.org/I141816643"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Publication - Article"
         },
         {
           "id": "pmh:oai:figshare.com:article/10196120",
@@ -32850,8 +33038,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2931062164.pdf",
@@ -33891,7 +34079,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-02T14:50:37.381335",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -34625,11 +34813,11 @@
         "value_usd": 4530
       },
       "apc_paid": null,
-      "fwci": 4.7263,
+      "fwci": 4.7229,
       "has_fulltext": false,
       "cited_by_count": 26,
       "citation_normalized_percentile": {
-        "value": 0.939599,
+        "value": 0.93955961,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -34849,6 +35037,35 @@
           "raw_type": "journal-article"
         },
         {
+          "id": "pmh:oai:nora.nerc.ac.uk:523846",
+          "is_oa": false,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/523846/1/Giga%20text.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/523846/1/Giga%20text.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306400758",
+            "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I141816643",
+            "host_organization_name": "Natural Environment Research Council",
+            "host_organization_lineage": [
+              "https://openalex.org/I141816643"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Publication - Article"
+        },
+        {
           "id": "pmh:oai:dro.dur.ac.uk.OAI2:28517",
           "is_oa": false,
           "landing_page_url": "http://dro.dur.ac.uk/28517/",
@@ -34876,35 +35093,6 @@
           "is_published": false,
           "raw_source_name": "Palaeontology, 2019, Vol.62(6), pp.889-917 [Peer Reviewed Journal]",
           "raw_type": "Article"
-        },
-        {
-          "id": "pmh:oai:nora.nerc.ac.uk:523846",
-          "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400758",
-            "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I141816643",
-            "host_organization_name": "Natural Environment Research Council",
-            "host_organization_lineage": [
-              "https://openalex.org/I141816643"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "acceptedVersion",
-          "is_accepted": true,
-          "is_published": false,
-          "raw_source_name": "",
-          "raw_type": "Publication - Article"
         },
         {
           "id": "pmh:oai:air.unimi.it:2434/657756",
@@ -35118,8 +35306,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 121,
@@ -35886,7 +36074,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-10T07:06:39.071514",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2019-06-27T00:00:00"
     },
     {
@@ -36434,8 +36622,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -37493,11 +37681,11 @@
         "currency": "USD",
         "value_usd": 3080
       },
-      "fwci": 1.6522,
+      "fwci": 1.6512,
       "has_fulltext": true,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.81153612,
+        "value": 0.81143901,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -37685,7 +37873,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 4,
+      "locations_count": 5,
       "locations": [
         {
           "id": "doi:10.1016/j.palaeo.2019.109423",
@@ -37724,8 +37912,8 @@
         {
           "id": "pmh:oai:eprints.whiterose.ac.uk:152589",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "https://eprints.whiterose.ac.uk/152589/8/1-s2.0-S0031018219307527-main.pdf",
+          "pdf_url": "https://eprints.whiterose.ac.uk/152589/8/1-s2.0-S0031018219307527-main.pdf",
           "source": {
             "id": "https://openalex.org/S4306400854",
             "display_name": "White Rose Research Online (University of Leeds, The University of Sheffield, University of York)",
@@ -37749,6 +37937,35 @@
           "is_published": false,
           "raw_source_name": "",
           "raw_type": "Article"
+        },
+        {
+          "id": "pmh:oai:nora.nerc.ac.uk:526119",
+          "is_oa": false,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/526119/1/1-s2.0-S0031018219307527-main.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/526119/1/1-s2.0-S0031018219307527-main.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306400758",
+            "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I141816643",
+            "host_organization_name": "Natural Environment Research Council",
+            "host_organization_lineage": [
+              "https://openalex.org/I141816643"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Publication - Article"
         },
         {
           "id": "pmh:oai:figshare.com:article/10211843",
@@ -37927,8 +38144,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2987182603.pdf",
@@ -39025,7 +39242,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-09T07:27:16.801131",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -39390,11 +39607,11 @@
         "currency": "USD",
         "value_usd": 3140
       },
-      "fwci": 1.1471,
+      "fwci": 1.1482,
       "has_fulltext": true,
       "cited_by_count": 22,
       "citation_normalized_percentile": {
-        "value": 0.74514444,
+        "value": 0.74552176,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -39740,8 +39957,8 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:518897",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/518897/1/1-s2.0-S0009254117305132-main.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/518897/1/1-s2.0-S0009254117305132-main.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
             "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
@@ -39908,8 +40125,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2759881585.pdf",
@@ -40780,7 +40997,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-01T09:00:35.917206",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -41100,11 +41317,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.0385,
+      "fwci": 4.0539,
       "has_fulltext": true,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.92287222,
+        "value": 0.92310458,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -41376,8 +41593,8 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:529514",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/529514/1/IUGS043-04-04.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/529514/1/IUGS043-04-04.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
             "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
@@ -41473,8 +41690,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3029362192.pdf",
@@ -42054,7 +42271,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-01T09:00:35.917206",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -42317,11 +42534,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0523,
+      "fwci": 1.0505,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.725576,
+        "value": 0.72508446,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42548,8 +42765,8 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:529516",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/529516/1/IUGS043-04-12.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/529516/1/IUGS043-04-12.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
             "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
@@ -42642,8 +42859,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -43118,7 +43335,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-08T01:25:22.217667",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2020-06-05T00:00:00"
     },
     {
@@ -44658,8 +44875,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4388163951.pdf"
@@ -45622,8 +45839,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 20,
@@ -46678,8 +46895,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -47534,11 +47751,11 @@
         "currency": "USD",
         "value_usd": 3590
       },
-      "fwci": 0.6843,
+      "fwci": 0.6793,
       "has_fulltext": true,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.60173009,
+        "value": 0.60048014,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -47896,8 +48113,8 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:534900",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "https://nora.nerc.ac.uk/id/eprint/534900/1/s10347-023-00663-w.pdf",
+          "pdf_url": "https://nora.nerc.ac.uk/id/eprint/534900/1/s10347-023-00663-w.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
             "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
@@ -48033,8 +48250,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4366992704.pdf",
@@ -48796,7 +49013,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-01T09:00:35.917206",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -49328,8 +49545,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -50360,8 +50577,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -51532,8 +51749,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -51936,8 +52153,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -52607,8 +52824,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -53174,8 +53391,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -54412,8 +54629,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -55220,11 +55437,11 @@
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 2.6001,
+      "fwci": 2.5954,
       "has_fulltext": false,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.89281713,
+        "value": 0.89278924,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -55499,8 +55716,8 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:9892",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/9892/1/Palynostratigraphic_correlation_of_the_Sardhai_Formation_%28Permian%29_of_Pakistan.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/9892/1/Palynostratigraphic_correlation_of_the_Sardhai_Formation_%28Permian%29_of_Pakistan.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
             "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
@@ -55577,8 +55794,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -55704,7 +55921,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -56647,8 +56864,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -57023,11 +57240,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.423,
+      "fwci": 5.1688,
       "has_fulltext": false,
       "cited_by_count": 37,
       "citation_normalized_percentile": {
-        "value": 0.94880776,
+        "value": 0.94620502,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -57206,8 +57423,8 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:4843",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/4843/1/stephenson-modified.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/4843/1/stephenson-modified.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
             "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
@@ -57299,8 +57516,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 66,
@@ -57890,7 +58107,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-07-02T09:51:11.867554",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -59452,8 +59669,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 69,
@@ -60378,8 +60595,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -61219,11 +61436,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.2924,
+      "fwci": 3.1723,
       "has_fulltext": false,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.9138378,
+        "value": 0.91024218,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -61438,8 +61655,8 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:11749",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/11749/1/Woodland_last_submission.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/11749/1/Woodland_last_submission.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
             "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
@@ -61545,8 +61762,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 68,
@@ -62189,7 +62406,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-02T09:51:11.867554",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -62858,8 +63075,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -63686,11 +63903,11 @@
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 1.8201,
+      "fwci": 1.8221,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.8328003,
+        "value": 0.8329768,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -64027,8 +64244,8 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:512135",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/512135/1/K%C3%B6nitzer.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/512135/1/K%C3%B6nitzer.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
             "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
@@ -64110,8 +64327,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 85,
@@ -64253,7 +64470,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -64272,8 +64489,8 @@
       "primary_location": {
         "id": "pmh:oai:nora.nerc.ac.uk:515747",
         "is_oa": false,
-        "landing_page_url": null,
-        "pdf_url": null,
+        "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/515747/1/7671-22827-1-SM.pdf",
+        "pdf_url": "http://nora.nerc.ac.uk/id/eprint/515747/1/7671-22827-1-SM.pdf",
         "source": {
           "id": "https://openalex.org/S4306400758",
           "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
@@ -64408,16 +64625,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.4693,
+      "fwci": 2.1265,
       "has_fulltext": false,
       "cited_by_count": 21,
       "citation_normalized_percentile": {
-        "value": 0.87884797,
+        "value": 0.85690007,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 90,
         "max": 98
       },
       "biblio": {
@@ -64703,8 +64920,8 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:515747",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/515747/1/7671-22827-1-SM.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/515747/1/7671-22827-1-SM.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
             "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
@@ -64794,7 +65011,7 @@
             "id": "https://openalex.org/S7407050996",
             "display_name": "Università degli Studi di Milano",
             "issn_l": null,
-            "issn": [],
+            "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
@@ -64852,8 +65069,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2564457604.pdf"
@@ -65527,7 +65744,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-01T06:00:48.157686",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -65769,11 +65986,11 @@
         "value_usd": 2750
       },
       "apc_paid": null,
-      "fwci": 0.8302,
+      "fwci": 0.83,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.73638154,
+        "value": 0.73647522,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -66116,8 +66333,8 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:19897",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/19897/1/2012GC004094.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/19897/1/2012GC004094.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
             "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
@@ -66220,8 +66437,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1501302398.pdf"
@@ -66974,7 +67191,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -67472,8 +67689,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1903847998.pdf",
@@ -68284,11 +68501,11 @@
         "value_usd": 3430
       },
       "apc_paid": null,
-      "fwci": 2.4019,
+      "fwci": 2.3975,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.90852161,
+        "value": 0.90830769,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -68575,8 +68792,8 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:503946",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/503946/1/Abstract.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/503946/1/Abstract.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
             "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
@@ -68658,8 +68875,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 104,
@@ -68820,7 +69037,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -69403,8 +69620,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2923770826.pdf"
@@ -70233,11 +70450,11 @@
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 0.9613,
+      "fwci": 0.7621,
       "has_fulltext": false,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.75427587,
+        "value": 0.68715446,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -70502,8 +70719,8 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:528061",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/528061/1/Avdat%20paper_MHS_final-clean.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/528061/1/Avdat%20paper_MHS_final-clean.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
             "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
@@ -70566,8 +70783,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 51,
@@ -70667,7 +70884,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-14T08:27:34.040176",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2020-01-10T00:00:00"
     },
     {
@@ -71047,8 +71264,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -71919,8 +72136,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -72093,11 +72310,11 @@
         "value_usd": 3080
       },
       "apc_paid": null,
-      "fwci": 0.9968,
+      "fwci": 0.9964,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.82923341,
+        "value": 0.82933219,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -72391,8 +72608,8 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:510967",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/510967/1/Stephenson%20OSPZ%20paper.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/510967/1/Stephenson%20OSPZ%20paper.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
             "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
@@ -72429,8 +72646,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -72515,7 +72732,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-29T09:40:50.615796",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -72941,8 +73158,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -73754,8 +73971,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4362555246.pdf"
@@ -74813,11 +75030,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1658,
+      "fwci": 1.1533,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.79808702,
+        "value": 0.79685498,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -75089,8 +75306,8 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:536822",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "https://nora.nerc.ac.uk/id/eprint/536822/1/IUGS046-04-623.pdf",
+          "pdf_url": "https://nora.nerc.ac.uk/id/eprint/536822/1/IUGS046-04-623.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
             "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
@@ -75237,8 +75454,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4380997768.pdf"
@@ -75370,7 +75587,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-31T08:31:51.225901",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -76170,8 +76387,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -77382,8 +77599,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1992673920.pdf",
@@ -78316,11 +78533,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3153,
+      "fwci": 1.318,
       "has_fulltext": false,
       "cited_by_count": 20,
       "citation_normalized_percentile": {
-        "value": 0.83789578,
+        "value": 0.83829822,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -78551,8 +78768,8 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:3565",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/3565/1/Angiolini_et_al_TRSE.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/3565/1/Angiolini_et_al_TRSE.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
             "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
@@ -78658,8 +78875,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -79337,7 +79554,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -79737,8 +79954,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -81250,8 +81467,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -81930,8 +82147,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -82365,11 +82582,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.1344,
+      "fwci": 1.1349,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.83238292,
+        "value": 0.83251916,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -82651,8 +82868,8 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:517396",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/517396/1/239.full.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/517396/1/239.full.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
             "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
@@ -82900,8 +83117,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -83563,7 +83780,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2017-07-31T00:00:00"
     },
     {
@@ -83582,7 +83799,7 @@
       "primary_location": {
         "id": "pmh:oai:nora.nerc.ac.uk:514099",
         "is_oa": true,
-        "landing_page_url": null,
+        "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/514099/1/6948-20789-1-SM.pdf",
         "pdf_url": "http://nora.nerc.ac.uk/id/eprint/514099/1/6948-20789-1-SM.pdf",
         "source": {
           "id": "https://openalex.org/S4306400758",
@@ -83733,11 +83950,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0659,
+      "fwci": 1.0632,
       "has_fulltext": true,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.75867918,
+        "value": 0.75798776,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -84021,7 +84238,7 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:514099",
           "is_oa": true,
-          "landing_page_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/514099/1/6948-20789-1-SM.pdf",
           "pdf_url": "http://nora.nerc.ac.uk/id/eprint/514099/1/6948-20789-1-SM.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
@@ -84134,7 +84351,7 @@
       "best_oa_location": {
         "id": "pmh:oai:nora.nerc.ac.uk:514099",
         "is_oa": true,
-        "landing_page_url": null,
+        "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/514099/1/6948-20789-1-SM.pdf",
         "pdf_url": "http://nora.nerc.ac.uk/id/eprint/514099/1/6948-20789-1-SM.pdf",
         "source": {
           "id": "https://openalex.org/S4306400758",
@@ -84181,8 +84398,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2345181148.pdf",
@@ -84692,7 +84909,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-18T07:39:51.176621",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -85091,8 +85308,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -86069,8 +86286,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -86941,8 +87158,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,
@@ -87380,8 +87597,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -87896,8 +88113,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -88784,8 +89001,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -89380,8 +89597,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4312883963.pdf",
@@ -90421,8 +90638,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -90878,11 +91095,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8203,
+      "fwci": 1.8047,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.84524184,
+        "value": 0.84460916,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -91161,7 +91378,7 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:534518",
           "is_oa": true,
-          "landing_page_url": null,
+          "landing_page_url": "https://nora.nerc.ac.uk/id/eprint/534518/1/Stephenson_%26_McLean.pdf",
           "pdf_url": "https://nora.nerc.ac.uk/id/eprint/534518/1/Stephenson_%26_McLean.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
@@ -91314,8 +91531,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -91846,7 +92063,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-01T09:00:35.917206",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2023-01-28T00:00:00"
     },
     {
@@ -92866,8 +93083,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4409192459.pdf",
@@ -93330,8 +93547,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -94024,8 +94241,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -95102,8 +95319,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 96,
@@ -95577,8 +95794,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -96030,8 +96247,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -96800,8 +97017,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -97155,7 +97372,7 @@
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.02971225,
+        "value": 0.02994919,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -97452,8 +97669,8 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:520259",
           "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/520259/1/R2-Geological%20Suitability%20and%20Capacity%20of%20CO2%20Storage%20in%20the%20Jiyang%20Depr.._.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/520259/1/R2-Geological%20Suitability%20and%20Capacity%20of%20CO2%20Storage%20in%20the%20Jiyang%20Depr.._.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
             "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
@@ -97522,8 +97739,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -97995,7 +98212,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-29T09:40:50.615796",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2018-05-17T00:00:00"
     },
     {
@@ -98373,8 +98590,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -98853,8 +99070,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -99398,8 +99615,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -100020,8 +100237,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -100512,11 +100729,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9069,
+      "fwci": 0.8648,
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.79805269,
+        "value": 0.79062027,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -100795,7 +101012,7 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:19898",
           "is_oa": true,
-          "landing_page_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/19898/1/Stephenson_et_al_2012.pdf",
           "pdf_url": "http://nora.nerc.ac.uk/id/eprint/19898/1/Stephenson_et_al_2012.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
@@ -100867,8 +101084,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1549392209.pdf"
@@ -101478,7 +101695,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-02T09:51:11.867554",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -101962,8 +102179,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -102487,8 +102704,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -102994,8 +103211,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -103962,8 +104179,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -104499,8 +104716,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1537786900.pdf",
@@ -105233,8 +105450,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2947262027.pdf"
@@ -105786,8 +106003,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -106746,8 +106963,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -107162,8 +107379,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -107211,7 +107428,7 @@
       "primary_location": {
         "id": "pmh:oai:nora.nerc.ac.uk:517472",
         "is_oa": true,
-        "landing_page_url": null,
+        "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/517472/1/ECSSR%20Stephenson.pdf",
         "pdf_url": "http://nora.nerc.ac.uk/id/eprint/517472/1/ECSSR%20Stephenson.pdf",
         "source": {
           "id": "https://openalex.org/S4306400758",
@@ -107271,11 +107488,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.3435,
+      "fwci": 1.3431,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.84689583,
+        "value": 0.84620726,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -107592,7 +107809,7 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:517472",
           "is_oa": true,
-          "landing_page_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/517472/1/ECSSR%20Stephenson.pdf",
           "pdf_url": "http://nora.nerc.ac.uk/id/eprint/517472/1/ECSSR%20Stephenson.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
@@ -107636,7 +107853,7 @@
       "best_oa_location": {
         "id": "pmh:oai:nora.nerc.ac.uk:517472",
         "is_oa": true,
-        "landing_page_url": null,
+        "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/517472/1/ECSSR%20Stephenson.pdf",
         "pdf_url": "http://nora.nerc.ac.uk/id/eprint/517472/1/ECSSR%20Stephenson.pdf",
         "source": {
           "id": "https://openalex.org/S4306400758",
@@ -107672,8 +107889,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2765693573.pdf",
@@ -108621,7 +108838,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-15T18:14:33.161393",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -109012,8 +109229,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -109363,8 +109580,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -109792,8 +110009,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -110052,8 +110269,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -110488,8 +110705,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -110927,8 +111144,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -111504,8 +111721,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -112090,8 +112307,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 118,
@@ -113794,8 +114011,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -114210,8 +114427,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -114785,8 +115002,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -115206,8 +115423,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -115676,8 +115893,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -116266,8 +116483,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -116560,8 +116777,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -117396,8 +117613,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -118166,8 +118383,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -118453,8 +118670,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -118999,8 +119216,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -119326,7 +119543,7 @@
       "primary_location": {
         "id": "pmh:oai:nora.nerc.ac.uk:510602",
         "is_oa": true,
-        "landing_page_url": null,
+        "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/510602/1/EGU2015-12061.pdf",
         "pdf_url": "http://nora.nerc.ac.uk/id/eprint/510602/1/EGU2015-12061.pdf",
         "source": {
           "id": "https://openalex.org/S4306400758",
@@ -119448,7 +119665,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.11963911,
+        "value": 0.11950464,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -119638,7 +119855,7 @@
         {
           "id": "pmh:oai:nora.nerc.ac.uk:510602",
           "is_oa": true,
-          "landing_page_url": null,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/510602/1/EGU2015-12061.pdf",
           "pdf_url": "http://nora.nerc.ac.uk/id/eprint/510602/1/EGU2015-12061.pdf",
           "source": {
             "id": "https://openalex.org/S4306400758",
@@ -119682,7 +119899,7 @@
       "best_oa_location": {
         "id": "pmh:oai:nora.nerc.ac.uk:510602",
         "is_oa": true,
-        "landing_page_url": null,
+        "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/510602/1/EGU2015-12061.pdf",
         "pdf_url": "http://nora.nerc.ac.uk/id/eprint/510602/1/EGU2015-12061.pdf",
         "source": {
           "id": "https://openalex.org/S4306400758",
@@ -119718,8 +119935,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2174481660.pdf",
@@ -119945,7 +120162,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-08-11T07:18:39.950985",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -120423,8 +120640,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -121162,8 +121379,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -121732,8 +121949,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -122094,8 +122311,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -122423,8 +122640,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -122820,8 +123037,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -123168,8 +123385,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -123553,8 +123770,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -124035,8 +124252,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -125028,8 +125245,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -125936,8 +126153,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -126153,8 +126370,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -126575,8 +126792,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 21,
@@ -126990,8 +127207,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -127343,8 +127560,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 10,
@@ -127856,8 +128073,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -128345,8 +128562,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -128779,8 +128996,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -129214,8 +129431,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -129569,8 +129786,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -129972,8 +130189,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -130829,8 +131046,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -131063,8 +131280,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -131537,8 +131754,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -132025,8 +132242,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -132372,8 +132589,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -132796,8 +133013,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -133675,8 +133892,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4233155148.pdf",
@@ -134004,8 +134221,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -134442,8 +134659,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 9,
@@ -135142,8 +135359,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4404679327.pdf"
@@ -135984,8 +136201,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -136618,8 +136835,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -136908,8 +137125,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -137394,8 +137611,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -138052,8 +138269,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -139415,8 +139632,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -140734,8 +140951,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7138960913.pdf",
@@ -142273,8 +142490,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -142808,8 +143025,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
