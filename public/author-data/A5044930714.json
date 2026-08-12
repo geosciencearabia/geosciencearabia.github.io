@@ -455,7 +455,7 @@
     ],
     "block_key": "a memesh",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044930714",
-    "updated_date": "2026-08-08T12:19:51",
+    "updated_date": "2026-08-11T12:22:22",
     "created_date": "2018-04-24T00:00:00"
   },
   "works": [
@@ -1869,11 +1869,11 @@
         "value_usd": 11690
       },
       "apc_paid": null,
-      "fwci": 108.3136,
+      "fwci": 108.2665,
       "has_fulltext": true,
       "cited_by_count": 190,
       "citation_normalized_percentile": {
-        "value": 0.99945988,
+        "value": 0.99945996,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2607,18 +2607,33 @@
           "raw_type": "Journal article"
         },
         {
-          "id": "pmh:oai:research-repository.griffith.edu.au:10072/384894",
+          "id": "pmh:oai:pure.mpg.de:item_3052855",
           "is_oa": false,
-          "landing_page_url": "http://hdl.handle.net/10072/384894",
+          "landing_page_url": "http://hdl.handle.net/21.11116/0000-0003-FD92-B",
           "pdf_url": null,
-          "source": null,
+          "source": {
+            "id": "https://openalex.org/S4306400654",
+            "display_name": "MPG.PuRe (Max Planck Society)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I149899117",
+            "host_organization_name": "Max Planck Society",
+            "host_organization_lineage": [
+              "https://openalex.org/I149899117"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
           "license": null,
           "license_id": null,
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
           "raw_source_name": "",
-          "raw_type": "Journal article"
+          "raw_type": "info:eu-repo/semantics/article"
         },
         {
           "id": "pmh:oai:www.repository.cam.ac.uk:1810/278306",
@@ -2708,8 +2723,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -2926,7 +2941,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-11T07:18:39.950985",
+      "updated_date": "2026-08-12T07:12:00.856984",
       "created_date": "2018-04-24T00:00:00"
     },
     {
@@ -3736,11 +3751,11 @@
         "value_usd": 3520
       },
       "apc_paid": null,
-      "fwci": 26.5842,
+      "fwci": 26.5105,
       "has_fulltext": true,
       "cited_by_count": 47,
       "citation_normalized_percentile": {
-        "value": 0.99233114,
+        "value": 0.99230654,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4285,8 +4300,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6200000047683716,
           "display_name": "Life below water",
+          "score": 0.6200000047683716,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -5783,8 +5798,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5199999809265137,
           "display_name": "Life below water",
+          "score": 0.5199999809265137,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -6888,8 +6903,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -7629,13 +7644,13 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
+          "host_organization": "https://openalex.org/P4404678052",
+          "host_organization_name": "Académie des sciences",
           "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
+            "https://openalex.org/P4404678052"
           ],
           "host_organization_lineage_names": [
-            "Elsevier BV"
+            "Académie des sciences"
           ],
           "type": "journal"
         },
@@ -7654,7 +7669,7 @@
       ],
       "open_access": {
         "is_oa": true,
-        "oa_status": "gold",
+        "oa_status": "diamond",
         "oa_url": "https://doi.org/10.5802/crgeos.217",
         "any_repository_has_fulltext": true
       },
@@ -7770,21 +7785,13 @@
       "institutions_distinct_count": 0,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
-      "apc_list": {
-        "value": 1300,
-        "currency": "USD",
-        "value_usd": 1300
-      },
-      "apc_paid": {
-        "value": 1300,
-        "currency": "USD",
-        "value_usd": 1300
-      },
-      "fwci": 4.821,
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 4.8102,
       "has_fulltext": false,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.93636894,
+        "value": 0.93615492,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8086,13 +8093,13 @@
             "is_oa": true,
             "is_in_doaj": true,
             "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
+            "host_organization": "https://openalex.org/P4404678052",
+            "host_organization_name": "Académie des sciences",
             "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
+              "https://openalex.org/P4404678052"
             ],
             "host_organization_lineage_names": [
-              "Elsevier BV"
+              "Académie des sciences"
             ],
             "type": "journal"
           },
@@ -8175,13 +8182,13 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
+          "host_organization": "https://openalex.org/P4404678052",
+          "host_organization_name": "Académie des sciences",
           "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
+            "https://openalex.org/P4404678052"
           ],
           "host_organization_lineage_names": [
-            "Elsevier BV"
+            "Académie des sciences"
           ],
           "type": "journal"
         },
@@ -9118,7 +9125,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-08T01:25:22.217667",
+      "updated_date": "2026-08-12T07:12:00.856984",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9761,11 +9768,11 @@
         "value_usd": 2670
       },
       "apc_paid": null,
-      "fwci": 1.8013,
+      "fwci": 1.8004,
       "has_fulltext": true,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.83036498,
+        "value": 0.83020813,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11032,8 +11039,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5400000214576721,
           "display_name": "Life below water",
+          "score": 0.5400000214576721,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -12859,8 +12866,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
           "display_name": "Life below water",
+          "score": 0.800000011920929,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -16241,8 +16248,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "display_name": "Life below water",
+          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -17819,8 +17826,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -18495,8 +18502,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -19921,8 +19928,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
           "display_name": "Life below water",
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -20540,13 +20547,13 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
+          "host_organization": "https://openalex.org/P4404678052",
+          "host_organization_name": "Académie des sciences",
           "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
+            "https://openalex.org/P4404678052"
           ],
           "host_organization_lineage_names": [
-            "Elsevier BV"
+            "Académie des sciences"
           ],
           "type": "journal"
         },
@@ -20565,7 +20572,7 @@
       ],
       "open_access": {
         "is_oa": true,
-        "oa_status": "gold",
+        "oa_status": "diamond",
         "oa_url": "https://comptes-rendus.academie-sciences.fr/geoscience/item/10.5802/crgeos.227.pdf",
         "any_repository_has_fulltext": true
       },
@@ -20827,21 +20834,13 @@
       "institutions_distinct_count": 4,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
-      "apc_list": {
-        "value": 1300,
-        "currency": "USD",
-        "value_usd": 1300
-      },
-      "apc_paid": {
-        "value": 1300,
-        "currency": "USD",
-        "value_usd": 1300
-      },
-      "fwci": 1.8079,
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 1.8038,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.85670663,
+        "value": 0.85653952,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21169,13 +21168,13 @@
             "is_oa": true,
             "is_in_doaj": true,
             "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
+            "host_organization": "https://openalex.org/P4404678052",
+            "host_organization_name": "Académie des sciences",
             "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
+              "https://openalex.org/P4404678052"
             ],
             "host_organization_lineage_names": [
-              "Elsevier BV"
+              "Académie des sciences"
             ],
             "type": "journal"
           },
@@ -21287,13 +21286,13 @@
           "is_oa": true,
           "is_in_doaj": true,
           "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
+          "host_organization": "https://openalex.org/P4404678052",
+          "host_organization_name": "Académie des sciences",
           "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
+            "https://openalex.org/P4404678052"
           ],
           "host_organization_lineage_names": [
-            "Elsevier BV"
+            "Académie des sciences"
           ],
           "type": "journal"
         },
@@ -21987,7 +21986,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-08T01:25:22.217667",
+      "updated_date": "2026-08-12T07:12:00.856984",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -23048,11 +23047,11 @@
         "currency": "USD",
         "value_usd": 1805
       },
-      "fwci": 6.1733,
+      "fwci": 6.1484,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.9634088,
+        "value": 0.96332,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24874,8 +24873,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6899999976158142,
           "display_name": "Life below water",
+          "score": 0.6899999976158142,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -27094,8 +27093,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8700000047683716,
           "display_name": "Life below water",
+          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
