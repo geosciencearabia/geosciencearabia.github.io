@@ -798,9 +798,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
           "score": 0.8299999833106995,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
@@ -1633,11 +1633,11 @@
         "currency": "USD",
         "value_usd": 2390
       },
-      "fwci": 1.6773,
+      "fwci": 1.6669,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.81402971,
+        "value": 0.8124971,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4837,9 +4837,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.550000011920929,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],

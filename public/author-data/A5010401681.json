@@ -29696,11 +29696,11 @@
         "currency": "EUR",
         "value_usd": 2426
       },
-      "fwci": 4.0585,
+      "fwci": 4.0428,
       "has_fulltext": true,
       "cited_by_count": 25,
       "citation_normalized_percentile": {
-        "value": 0.93583105,
+        "value": 0.93539498,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -30021,9 +30021,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
+            "host_organization": "https://openalex.org/I2800397007",
+            "host_organization_name": "Qatar National Library",
+            "host_organization_lineage": [
+              "https://openalex.org/I2800397007"
+            ],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -30630,7 +30632,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-08T01:25:22.217667",
+      "updated_date": "2026-08-13T07:04:57.449891",
       "created_date": "2019-08-13T00:00:00"
     },
     {
@@ -66773,6 +66775,538 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2023307825",
+      "doi": "https://doi.org/10.1016/0899-5362(87)90047-9",
+      "title": "Petrography and stable isotope composition of baroque dolomite from the Shuaiba formation (lower cretaceous), Abu Dhabi, United Arab Emirates",
+      "display_name": "Petrography and stable isotope composition of baroque dolomite from the Shuaiba formation (lower cretaceous), Abu Dhabi, United Arab Emirates",
+      "publication_year": 1987,
+      "publication_date": "1987-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2023307825",
+        "doi": "https://doi.org/10.1016/0899-5362(87)90047-9",
+        "mag": "2023307825"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/0899-5362(87)90047-9",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/0899-5362(87)90047-9",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210170081",
+          "display_name": "Journal of African Earth Sciences (1983)",
+          "issn_l": "0731-7247",
+          "issn": [
+            "0731-7247"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Journal of African Earth Sciences (1983)",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5010401681",
+            "display_name": "Abdulrahman S. Alsharhan",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I201726411",
+              "display_name": "United Arab Emirates University",
+              "ror": "https://ror.org/01km6p862",
+              "country_code": "AE",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I201726411"
+              ]
+            }
+          ],
+          "countries": [
+            "AE"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "A.S. Alsharhan",
+          "raw_affiliation_strings": [
+            "Department of Geology, United Arab Emirates University, P.O. Box 15551, Al-Ain, United Arab Emirates"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, United Arab Emirates University, P.O. Box 15551, Al-Ain, United Arab Emirates",
+              "institution_ids": [
+                "https://openalex.org/I201726411"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5016066215",
+            "display_name": "Douglas F. Williams",
+            "orcid": "https://orcid.org/0000-0002-0399-4261"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I155781252",
+              "display_name": "University of South Carolina",
+              "ror": "https://ror.org/02b6qw903",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I155781252"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "D.F. Williams",
+          "raw_affiliation_strings": [
+            "Department of Geology, University of South Carolina, Columbia, SC 29208, U.S.A"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, University of South Carolina, Columbia, SC 29208, U.S.A",
+              "institution_ids": [
+                "https://openalex.org/I155781252"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 0.7977,
+      "has_fulltext": false,
+      "cited_by_count": 7,
+      "citation_normalized_percentile": {
+        "value": 0.71260504,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "6",
+        "issue": "6",
+        "first_page": "881",
+        "last_page": "890"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10398",
+        "display_name": "Groundwater and Isotope Geochemistry",
+        "score": 0.9911999702453613,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1906",
+          "display_name": "Geochemistry and Petrology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10398",
+          "display_name": "Groundwater and Isotope Geochemistry",
+          "score": 0.9911999702453613,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1906",
+            "display_name": "Geochemistry and Petrology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.991100013256073,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.9907000064849854,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/dolomite",
+          "display_name": "Dolomite",
+          "score": 0.9097586870193481
+        },
+        {
+          "id": "https://openalex.org/keywords/petrography",
+          "display_name": "Petrography",
+          "score": 0.8721164464950562
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.8317427635192871
+        },
+        {
+          "id": "https://openalex.org/keywords/meteoric-water",
+          "display_name": "Meteoric water",
+          "score": 0.6424372792243958
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemistry",
+          "display_name": "Geochemistry",
+          "score": 0.6290416121482849
+        },
+        {
+          "id": "https://openalex.org/keywords/halite",
+          "display_name": "Halite",
+          "score": 0.6275527477264404
+        },
+        {
+          "id": "https://openalex.org/keywords/cretaceous",
+          "display_name": "Cretaceous",
+          "score": 0.4839678108692169
+        },
+        {
+          "id": "https://openalex.org/keywords/evaporite",
+          "display_name": "Evaporite",
+          "score": 0.47929897904396057
+        },
+        {
+          "id": "https://openalex.org/keywords/mineralogy",
+          "display_name": "Mineralogy",
+          "score": 0.4592663049697876
+        },
+        {
+          "id": "https://openalex.org/keywords/fluid-inclusions",
+          "display_name": "Fluid inclusions",
+          "score": 0.4285799562931061
+        },
+        {
+          "id": "https://openalex.org/keywords/isotopes-of-oxygen",
+          "display_name": "Isotopes of oxygen",
+          "score": 0.41339829564094543
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.21050086617469788
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-rock",
+          "display_name": "Sedimentary rock",
+          "score": 0.188086599111557
+        },
+        {
+          "id": "https://openalex.org/keywords/gypsum",
+          "display_name": "Gypsum",
+          "score": 0.15657535195350647
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2780181037",
+          "wikidata": "https://www.wikidata.org/wiki/Q371542",
+          "display_name": "Dolomite",
+          "level": 2,
+          "score": 0.9097586870193481
+        },
+        {
+          "id": "https://openalex.org/C59235061",
+          "wikidata": "https://www.wikidata.org/wiki/Q289600",
+          "display_name": "Petrography",
+          "level": 2,
+          "score": 0.8721164464950562
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.8317427635192871
+        },
+        {
+          "id": "https://openalex.org/C92720285",
+          "wikidata": "https://www.wikidata.org/wiki/Q3744363",
+          "display_name": "Meteoric water",
+          "level": 3,
+          "score": 0.6424372792243958
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.6290416121482849
+        },
+        {
+          "id": "https://openalex.org/C2781113784",
+          "wikidata": "https://www.wikidata.org/wiki/Q5314",
+          "display_name": "Halite",
+          "level": 3,
+          "score": 0.6275527477264404
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.4839678108692169
+        },
+        {
+          "id": "https://openalex.org/C34221334",
+          "wikidata": "https://www.wikidata.org/wiki/Q491689",
+          "display_name": "Evaporite",
+          "level": 3,
+          "score": 0.47929897904396057
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.4592663049697876
+        },
+        {
+          "id": "https://openalex.org/C2776152364",
+          "wikidata": "https://www.wikidata.org/wiki/Q1822828",
+          "display_name": "Fluid inclusions",
+          "level": 3,
+          "score": 0.4285799562931061
+        },
+        {
+          "id": "https://openalex.org/C71468253",
+          "wikidata": "https://www.wikidata.org/wiki/Q785643",
+          "display_name": "Isotopes of oxygen",
+          "level": 2,
+          "score": 0.41339829564094543
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.21050086617469788
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.188086599111557
+        },
+        {
+          "id": "https://openalex.org/C2779229104",
+          "wikidata": "https://www.wikidata.org/wiki/Q82658",
+          "display_name": "Gypsum",
+          "level": 2,
+          "score": 0.15657535195350647
+        },
+        {
+          "id": "https://openalex.org/C2779870107",
+          "wikidata": "https://www.wikidata.org/wiki/Q43010",
+          "display_name": "Quartz",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C156622251",
+          "wikidata": "https://www.wikidata.org/wiki/Q1036221",
+          "display_name": "Hydrothermal circulation",
+          "level": 2,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/0899-5362(87)90047-9",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/0899-5362(87)90047-9",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210170081",
+            "display_name": "Journal of African Earth Sciences (1983)",
+            "issn_l": "0731-7247",
+            "issn": [
+              "0731-7247"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Journal of African Earth Sciences (1983)",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "score": 0.8899999856948853,
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 35,
+      "referenced_works": [
+        "https://openalex.org/W1481769132",
+        "https://openalex.org/W1514906424",
+        "https://openalex.org/W1971604371",
+        "https://openalex.org/W1981282580",
+        "https://openalex.org/W1994218077",
+        "https://openalex.org/W2004500747",
+        "https://openalex.org/W2009019445",
+        "https://openalex.org/W2021672131",
+        "https://openalex.org/W2029957004",
+        "https://openalex.org/W2030981575",
+        "https://openalex.org/W2054467100",
+        "https://openalex.org/W2059849751",
+        "https://openalex.org/W2080602377",
+        "https://openalex.org/W2087852549",
+        "https://openalex.org/W2106288237",
+        "https://openalex.org/W2108859763",
+        "https://openalex.org/W2110469742",
+        "https://openalex.org/W2124157627",
+        "https://openalex.org/W2132463920",
+        "https://openalex.org/W2150904667",
+        "https://openalex.org/W2162886135",
+        "https://openalex.org/W2199616194",
+        "https://openalex.org/W2230958246",
+        "https://openalex.org/W2234150695",
+        "https://openalex.org/W2246585179",
+        "https://openalex.org/W2256976171",
+        "https://openalex.org/W2980501131",
+        "https://openalex.org/W6655780067",
+        "https://openalex.org/W6670492660",
+        "https://openalex.org/W6672555048",
+        "https://openalex.org/W6676093145",
+        "https://openalex.org/W6679562683",
+        "https://openalex.org/W6690841247",
+        "https://openalex.org/W6692162305",
+        "https://openalex.org/W6769117646"
+      ],
+      "related_works": [
+        "https://openalex.org/W1969496370",
+        "https://openalex.org/W3206439899",
+        "https://openalex.org/W4378212949",
+        "https://openalex.org/W2047250853",
+        "https://openalex.org/W2031873269",
+        "https://openalex.org/W2335479849",
+        "https://openalex.org/W178397136",
+        "https://openalex.org/W3009456834",
+        "https://openalex.org/W2088838532",
+        "https://openalex.org/W2731765056"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2021,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-08-12T21:12:35.861297",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2906981774",
       "doi": "https://doi.org/10.1016/b978-044482465-3/50012-7",
       "title": "HYDROCARBON HABITAT OF THE GREATER ARABIAN BASIN",
@@ -78824,538 +79358,6 @@
         }
       ],
       "updated_date": "2026-08-04T08:18:43.703281",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2023307825",
-      "doi": "https://doi.org/10.1016/0899-5362(87)90047-9",
-      "title": "Petrography and stable isotope composition of baroque dolomite from the Shuaiba formation (lower cretaceous), Abu Dhabi, United Arab Emirates",
-      "display_name": "Petrography and stable isotope composition of baroque dolomite from the Shuaiba formation (lower cretaceous), Abu Dhabi, United Arab Emirates",
-      "publication_year": 1987,
-      "publication_date": "1987-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2023307825",
-        "doi": "https://doi.org/10.1016/0899-5362(87)90047-9",
-        "mag": "2023307825"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/0899-5362(87)90047-9",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/0899-5362(87)90047-9",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210170081",
-          "display_name": "Journal of African Earth Sciences (1983)",
-          "issn_l": "0731-7247",
-          "issn": [
-            "0731-7247"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Journal of African Earth Sciences (1983)",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5010401681",
-            "display_name": "Abdulrahman S. Alsharhan",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I201726411",
-              "display_name": "United Arab Emirates University",
-              "ror": "https://ror.org/01km6p862",
-              "country_code": "AE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I201726411"
-              ]
-            }
-          ],
-          "countries": [
-            "AE"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "A.S. Alsharhan",
-          "raw_affiliation_strings": [
-            "Department of Geology, United Arab Emirates University, P.O. Box 15551, Al-Ain, United Arab Emirates"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology, United Arab Emirates University, P.O. Box 15551, Al-Ain, United Arab Emirates",
-              "institution_ids": [
-                "https://openalex.org/I201726411"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5016066215",
-            "display_name": "Douglas F. Williams",
-            "orcid": "https://orcid.org/0000-0002-0399-4261"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I155781252",
-              "display_name": "University of South Carolina",
-              "ror": "https://ror.org/02b6qw903",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I155781252"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "D.F. Williams",
-          "raw_affiliation_strings": [
-            "Department of Geology, University of South Carolina, Columbia, SC 29208, U.S.A"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology, University of South Carolina, Columbia, SC 29208, U.S.A",
-              "institution_ids": [
-                "https://openalex.org/I155781252"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 0.797,
-      "has_fulltext": false,
-      "cited_by_count": 6,
-      "citation_normalized_percentile": {
-        "value": 0.71299944,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 94
-      },
-      "biblio": {
-        "volume": "6",
-        "issue": "6",
-        "first_page": "881",
-        "last_page": "890"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10398",
-        "display_name": "Groundwater and Isotope Geochemistry",
-        "score": 0.9911999702453613,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1906",
-          "display_name": "Geochemistry and Petrology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10398",
-          "display_name": "Groundwater and Isotope Geochemistry",
-          "score": 0.9911999702453613,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1906",
-            "display_name": "Geochemistry and Petrology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.991100013256073,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.9907000064849854,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/dolomite",
-          "display_name": "Dolomite",
-          "score": 0.9097586870193481
-        },
-        {
-          "id": "https://openalex.org/keywords/petrography",
-          "display_name": "Petrography",
-          "score": 0.8721164464950562
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.8317427635192871
-        },
-        {
-          "id": "https://openalex.org/keywords/meteoric-water",
-          "display_name": "Meteoric water",
-          "score": 0.6424372792243958
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.6290416121482849
-        },
-        {
-          "id": "https://openalex.org/keywords/halite",
-          "display_name": "Halite",
-          "score": 0.6275527477264404
-        },
-        {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.4839678108692169
-        },
-        {
-          "id": "https://openalex.org/keywords/evaporite",
-          "display_name": "Evaporite",
-          "score": 0.47929897904396057
-        },
-        {
-          "id": "https://openalex.org/keywords/mineralogy",
-          "display_name": "Mineralogy",
-          "score": 0.4592663049697876
-        },
-        {
-          "id": "https://openalex.org/keywords/fluid-inclusions",
-          "display_name": "Fluid inclusions",
-          "score": 0.4285799562931061
-        },
-        {
-          "id": "https://openalex.org/keywords/isotopes-of-oxygen",
-          "display_name": "Isotopes of oxygen",
-          "score": 0.41339829564094543
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.21050086617469788
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.188086599111557
-        },
-        {
-          "id": "https://openalex.org/keywords/gypsum",
-          "display_name": "Gypsum",
-          "score": 0.15657535195350647
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2780181037",
-          "wikidata": "https://www.wikidata.org/wiki/Q371542",
-          "display_name": "Dolomite",
-          "level": 2,
-          "score": 0.9097586870193481
-        },
-        {
-          "id": "https://openalex.org/C59235061",
-          "wikidata": "https://www.wikidata.org/wiki/Q289600",
-          "display_name": "Petrography",
-          "level": 2,
-          "score": 0.8721164464950562
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.8317427635192871
-        },
-        {
-          "id": "https://openalex.org/C92720285",
-          "wikidata": "https://www.wikidata.org/wiki/Q3744363",
-          "display_name": "Meteoric water",
-          "level": 3,
-          "score": 0.6424372792243958
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.6290416121482849
-        },
-        {
-          "id": "https://openalex.org/C2781113784",
-          "wikidata": "https://www.wikidata.org/wiki/Q5314",
-          "display_name": "Halite",
-          "level": 3,
-          "score": 0.6275527477264404
-        },
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.4839678108692169
-        },
-        {
-          "id": "https://openalex.org/C34221334",
-          "wikidata": "https://www.wikidata.org/wiki/Q491689",
-          "display_name": "Evaporite",
-          "level": 3,
-          "score": 0.47929897904396057
-        },
-        {
-          "id": "https://openalex.org/C199289684",
-          "wikidata": "https://www.wikidata.org/wiki/Q83353",
-          "display_name": "Mineralogy",
-          "level": 1,
-          "score": 0.4592663049697876
-        },
-        {
-          "id": "https://openalex.org/C2776152364",
-          "wikidata": "https://www.wikidata.org/wiki/Q1822828",
-          "display_name": "Fluid inclusions",
-          "level": 3,
-          "score": 0.4285799562931061
-        },
-        {
-          "id": "https://openalex.org/C71468253",
-          "wikidata": "https://www.wikidata.org/wiki/Q785643",
-          "display_name": "Isotopes of oxygen",
-          "level": 2,
-          "score": 0.41339829564094543
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.21050086617469788
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
-          "level": 2,
-          "score": 0.188086599111557
-        },
-        {
-          "id": "https://openalex.org/C2779229104",
-          "wikidata": "https://www.wikidata.org/wiki/Q82658",
-          "display_name": "Gypsum",
-          "level": 2,
-          "score": 0.15657535195350647
-        },
-        {
-          "id": "https://openalex.org/C2779870107",
-          "wikidata": "https://www.wikidata.org/wiki/Q43010",
-          "display_name": "Quartz",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C156622251",
-          "wikidata": "https://www.wikidata.org/wiki/Q1036221",
-          "display_name": "Hydrothermal circulation",
-          "level": 2,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/0899-5362(87)90047-9",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/0899-5362(87)90047-9",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4210170081",
-            "display_name": "Journal of African Earth Sciences (1983)",
-            "issn_l": "0731-7247",
-            "issn": [
-              "0731-7247"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Journal of African Earth Sciences (1983)",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 35,
-      "referenced_works": [
-        "https://openalex.org/W1481769132",
-        "https://openalex.org/W1514906424",
-        "https://openalex.org/W1971604371",
-        "https://openalex.org/W1981282580",
-        "https://openalex.org/W1994218077",
-        "https://openalex.org/W2004500747",
-        "https://openalex.org/W2009019445",
-        "https://openalex.org/W2021672131",
-        "https://openalex.org/W2029957004",
-        "https://openalex.org/W2030981575",
-        "https://openalex.org/W2054467100",
-        "https://openalex.org/W2059849751",
-        "https://openalex.org/W2080602377",
-        "https://openalex.org/W2087852549",
-        "https://openalex.org/W2106288237",
-        "https://openalex.org/W2108859763",
-        "https://openalex.org/W2110469742",
-        "https://openalex.org/W2124157627",
-        "https://openalex.org/W2132463920",
-        "https://openalex.org/W2150904667",
-        "https://openalex.org/W2162886135",
-        "https://openalex.org/W2199616194",
-        "https://openalex.org/W2230958246",
-        "https://openalex.org/W2234150695",
-        "https://openalex.org/W2246585179",
-        "https://openalex.org/W2256976171",
-        "https://openalex.org/W2980501131",
-        "https://openalex.org/W6655780067",
-        "https://openalex.org/W6670492660",
-        "https://openalex.org/W6672555048",
-        "https://openalex.org/W6676093145",
-        "https://openalex.org/W6679562683",
-        "https://openalex.org/W6690841247",
-        "https://openalex.org/W6692162305",
-        "https://openalex.org/W6769117646"
-      ],
-      "related_works": [
-        "https://openalex.org/W1969496370",
-        "https://openalex.org/W3206439899",
-        "https://openalex.org/W4378212949",
-        "https://openalex.org/W2047250853",
-        "https://openalex.org/W2031873269",
-        "https://openalex.org/W2335479849",
-        "https://openalex.org/W178397136",
-        "https://openalex.org/W3009456834",
-        "https://openalex.org/W2088838532",
-        "https://openalex.org/W2731765056"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2021,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-07-28T07:46:37.118299",
       "created_date": "2025-10-10T00:00:00"
     },
     {

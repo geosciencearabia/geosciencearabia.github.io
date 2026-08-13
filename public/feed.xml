@@ -4,7 +4,7 @@
     <title>Integrative Dashboard</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Wed, 12 Aug 2026 21:44:01 GMT</lastBuildDate>
+    <lastBuildDate>Thu, 13 Aug 2026 21:43:03 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Evaluation of the catalytic performance of the transition metal oxide nanoparticles (M = Mo, Ni, Co, Fe, Cu, Ce, Mn) for the hydrothermal upgrading of Ashalcha heavy crude</title>
@@ -748,6 +748,34 @@
       <description>Abstract: Understanding the degradation behavior of carbonate rocks under cyclic climatic conditions is essential for predicting their long-term durability, particularly in coastal and arid environments. This study examines the evolution of the mechanical, chemical, and microstructural properties of stylolite and burrow limestone samples from Riyadh, Saudi Arabia. The rock samples were subjected to 15 wetting-drying (WD) cycles. A combination of destructive and non-destructive tests, including computed tomography (CT) scanning, ultrasonic wave velocity analysis, unconfined compression strength (UCS), porosity measurements, and chemical composition mapping, was conducted. The results reveal differential degradation patterns linked to initial heterogeneity. Stylolite samples exhibited a nonmonotonic trend in UCS, with a peak strength loss of approximately 50% of the original strength at the 5 th cycle, followed by partial recovery. Burrow samples demonstrated a 27% gradual reduction in UCS. CT revealed concentrated pore structure degradation in stylolites at the mid-height of the sample, with severe effects observed at the 5 th and 15 th cycles. In contrast, the burrow samples experienced uniform degradation with the progression of WD. Despite the constant water absorption with WD cycles, the porosities of all the samples progressively increased. X-ray fluorescence mapping confirmed a progressive loss of calcium, accompanied by the simultaneous evolution of silicates and chlorides, parti…&#10;Topics: Burrow, Geology, Stylolite, Geotechnical engineering, Mineralogy&#10;Venue: Rock Mechanics Bulletin&#10;Year: 2026&#10;Citations: 0</description>
     </item>
     <item>
+      <title>Provenance, tectonic settings, depositional conditions, and diagenetic features of the late Cretaceous (Coniacian–Santonian) Fika Shale, Upper Benue Trough, Northeastern Nigeria: Implications for hydrocarbon potential</title>
+      <link>https://doi.org/10.1016/j.jafrearsci.2026.106142</link>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7140201938</guid>
+      <dc:creator>Abdulwahab Bello, Musa B. Usman, Shehu Mukkafa, Ibrahim A. Kwami, Usman Abubakar, Abduljamiu O. Amao, Anas M. Salisu, Khalid Al-Ramadan, Muhammad A. Ismail, Abubakar S. Maigari, Ahmed I. Haruna, Bandar D. Al-Otaibi, Yusuf A. Abdulkarim, Aliyuda Kachalla, Umar S. Umar, Olumuyiwa T. Akinsanpe, Nuru A. Nabage</dc:creator>
+      <dc:publisher>Journal of African Earth Sciences</dc:publisher>
+      <category>Geology</category>
+      <category>Diagenesis</category>
+      <category>Geochemistry</category>
+      <category>Sedimentary depositional environment</category>
+      <category>Source rock</category>
+      <description>Topics: Geology, Diagenesis, Geochemistry, Sedimentary depositional environment, Source rock&#10;Venue: Journal of African Earth Sciences&#10;Year: 2026&#10;Citations: 0</description>
+    </item>
+    <item>
+      <title>Impact of hydrothermal conversion of organic-rich carbonate rock of the Natih Formation in North Oman on organic matter characteristics and mechanism of chemical reactions</title>
+      <link>https://doi.org/10.1007/s13146-026-01254-w</link>
+      <pubDate>Tue, 24 Mar 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7140210132</guid>
+      <dc:creator>Aliia N. Khamieva, Ameen A. Al-Muntaser, Muneer A. Suwaid, Mohammed Hail Hakimi, Shadi A. Saeed, Mikhail A. Varfolomeev, Aref Lashin, S. M. Talha Qadri, Ahmed Naabi, Rashid Said Al Busaidi, Majid Hasani</dc:creator>
+      <dc:publisher>Carbonates and Evaporites</dc:publisher>
+      <category>Kerogen</category>
+      <category>Carbonate</category>
+      <category>Organic matter</category>
+      <category>Facies</category>
+      <category>Oil shale</category>
+      <description>Topics: Kerogen, Carbonate, Organic matter, Facies, Oil shale&#10;Venue: Carbonates and Evaporites&#10;Year: 2026&#10;Citations: 0</description>
+    </item>
+    <item>
       <title>Methodological workflow for assessing heterogeneity in immature organic-rich carbonate reservoirs</title>
       <link>https://doi.org/10.1016/j.mex.2026.103875</link>
       <pubDate>Fri, 20 Mar 2026 00:00:00 GMT</pubDate>
@@ -1356,33 +1384,6 @@
       <category>Geology</category>
       <category>Reservoir modeling</category>
       <description>Abstract: Summary This study presents an enhanced generative AI workflow for reservoir modelling using Pix2Geomodel.v2, an upgraded Pix2Pix-based architecture designed to predict geological and petrophysical properties under increased facies complexity and reduced data requirements. The workflow incorporates a seven-facies geological description and a streamlined 54-layer stratigraphic grid, enabling more detailed representation of heterogeneity while reducing computational effort. Property model(e.g, porosity, permeabilit, and facies) are exported from a reference reservoir model and transformed into paired 2D images for conditional GAN training. The model learns direct relationships between facies, porosity, permeability and volume of shale through property-to-property translation. Preliminary results show that Pix2Geomodel.v2 successfully captures dominant geological patterns, reproduces meaningful cross-property correlations, and maintains spatial continuity consistent with the reference model, as demonstrated by qualitative outputs and variogram analysis. These findings suggest that the enhanced framework can support data-efficient, high-fidelity reservoir characterization, offering a promising path toward reducing modelling uncertainty and accelerating geomodeling workflows&#10;Topics: Facies, Petrophysics, Workflow, Geology, Reservoir modeling&#10;Year: 2026&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Bridging Reservoir- and Pore-Scale Modeling with Pix2Pix cGANs</title>
-      <link>https://doi.org/10.3997/2214-4609.2026649005</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W7129559836</guid>
-      <dc:creator>Abdulrahman Al‐Fakih, A. Koeshidayatullah, Nabil A. Saraih, S. Kaka</dc:creator>
-      <category>Bridging (networking)</category>
-      <category>Generative grammar</category>
-      <category>Siliciclastic</category>
-      <category>Computer science</category>
-      <category>Artificial intelligence</category>
-      <description>Abstract: Summary Generative artificial intelligence offers powerful new tools for subsurface characterization, complementing traditional geostatistical methods that often fail to capture complex heterogeneity in carbonate systems. This study applies a Pix2Pix conditional generative adversarial network (cGAN) to perform image-to-image (property-to-property) translation across reservoir and pore scales. At the reservoir scale, a 7.6 million-cell dataset from the Groningen Rotliegend field was used to train a U-Net generator with a PatchGAN discriminator over 19 000 iterations. The model achieved high predictive accuracy for facies (PA 0.88; FWIoU 0.85) and water saturation (PA 0.96; FWIoU 0.95), and strong cross-property translation performance (facies → Sw: PA 0.98; FWIoU 0.97). Variogram-based validation confirmed geological realism. At the pore scale, the same framework reconstructed fine-scale heterogeneity, connectivity, and multiphase-flow pathways from coarse pore structures, reproducing ground-truth simulations. These findings demonstrate that cGAN-based translation can generalize from siliciclastic to carbonate systems, enabling scalable, data-driven modeling of heterogeneity critical to reservoir management and energy-transition applications such as geothermal, CO2 storage, and water-resource studies. The work contributes to the “Machine Learning and Digital Transformation in Carbonates” theme by showcasing a unified AI approach bridging reservoir and pore-scale characterizati…&#10;Topics: Bridging (networking), Generative grammar, Siliciclastic, Computer science, Artificial intelligence&#10;Year: 2026&#10;Citations: 0</description>
-    </item>
-    <item>
-      <title>Characterization of aquifer hydraulics and pumping well yield for supplemental paddy crop irrigation using pumping tests in Perak, Malaysia</title>
-      <link>https://doi.org/10.1007/s10333-025-01055-2</link>
-      <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W7117488147</guid>
-      <dc:creator>Naseem Akhtar, Muhammad Izzuddin Syakir, Syahidah Akmal Muhammad, Aznan Fazli Ismail, Mohamad Shaiful Md Yusuff, Leila Bouida, Hamza Mohamed Flafel, Pahmi Husain, Mohammed Benaafi, Taskin Ahmed, Mohammad Muqtada Ali Khan</dc:creator>
-      <dc:publisher>Paddy and Water Environment</dc:publisher>
-      <category>Drawdown (hydrology)</category>
-      <category>Aquifer</category>
-      <category>Environmental science</category>
-      <category>Irrigation</category>
-      <category>Groundwater</category>
-      <description>Topics: Drawdown (hydrology), Aquifer, Environmental science, Irrigation, Groundwater&#10;Venue: Paddy and Water Environment&#10;Year: 2025&#10;Citations: 1</description>
     </item>
   </channel>
 </rss>

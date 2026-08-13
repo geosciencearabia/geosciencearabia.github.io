@@ -384,7 +384,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.000225,
+        "value": 0.0002249,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -401,7 +401,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0001396,
+        "value": 0.0001395,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -418,7 +418,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0001145,
+        "value": 0.0001144,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -782,7 +782,7 @@
     ],
     "block_key": "r enay",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5084630459",
-    "updated_date": "2026-08-11T12:22:22",
+    "updated_date": "2026-08-12T12:18:22",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -4199,6 +4199,631 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W8606722",
+      "doi": "https://doi.org/10.1016/j.geobios.2006.01.003",
+      "title": "Zonation des brachiopodes du Jurassique moyen sur la marge sud de la Téthys occidentale (Maroc, Algérie occidentale)",
+      "display_name": "Zonation des brachiopodes du Jurassique moyen sur la marge sud de la Téthys occidentale (Maroc, Algérie occidentale)",
+      "publication_year": 2007,
+      "publication_date": "2007-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W8606722",
+        "doi": "https://doi.org/10.1016/j.geobios.2006.01.003",
+        "mag": "8606722"
+      },
+      "language": "fr",
+      "primary_location": {
+        "id": "doi:10.1016/j.geobios.2006.01.003",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.geobios.2006.01.003",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S19370311",
+          "display_name": "Geobios",
+          "issn_l": "0016-6995",
+          "issn": [
+            "0016-6995",
+            "1777-5728"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geobios",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5073534648",
+            "display_name": "Yves Alméras",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I100532134",
+              "display_name": "Lyon 1 Université",
+              "ror": "https://ror.org/029brtt94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I203339264"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210155927",
+              "display_name": "Laboratoire de Géologie de Lyon : Terre, Planètes et Environnement",
+              "ror": "https://ror.org/04t89f389",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I113428412",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I203339264",
+                "https://openalex.org/I203339264",
+                "https://openalex.org/I203339264",
+                "https://openalex.org/I4210155927",
+                "https://openalex.org/I4405259976"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Yves Alméras",
+          "raw_affiliation_strings": [
+            "UFR des sciences de la Terre, université Claude-Bernard Lyon 1, bâtiment Géode, 2, rue Raphaël-Dubois, Villeurbanne cedex, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "UFR des sciences de la Terre, université Claude-Bernard Lyon 1, bâtiment Géode, 2, rue Raphaël-Dubois, Villeurbanne cedex, France",
+              "institution_ids": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I4210155927"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5103919369",
+            "display_name": "Philippe Fauré",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134560555",
+              "display_name": "Université Toulouse III - Paul Sabatier",
+              "ror": "https://ror.org/02v6kpv12",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134560555"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Philippe Fauré",
+          "raw_affiliation_strings": [
+            "Laboratoire des mécanismes et transferts en géologie, université Paul-Sabatier, 14, avenue Edouard-Belin, 31400 Toulouse, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Laboratoire des mécanismes et transferts en géologie, université Paul-Sabatier, 14, avenue Edouard-Belin, 31400 Toulouse, France",
+              "institution_ids": [
+                "https://openalex.org/I134560555"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5021417075",
+            "display_name": "Serge Elmi",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I100532134",
+              "display_name": "Lyon 1 Université",
+              "ror": "https://ror.org/029brtt94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I203339264"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210155927",
+              "display_name": "Laboratoire de Géologie de Lyon : Terre, Planètes et Environnement",
+              "ror": "https://ror.org/04t89f389",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I113428412",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I203339264",
+                "https://openalex.org/I203339264",
+                "https://openalex.org/I203339264",
+                "https://openalex.org/I4210155927",
+                "https://openalex.org/I4405259976"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Serge Elmi",
+          "raw_affiliation_strings": [
+            "UFR des sciences de la Terre, université Claude-Bernard Lyon 1, bâtiment Géode, 2, rue Raphaël-Dubois, Villeurbanne cedex, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "UFR des sciences de la Terre, université Claude-Bernard Lyon 1, bâtiment Géode, 2, rue Raphaël-Dubois, Villeurbanne cedex, France",
+              "institution_ids": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I4210155927"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5084630459",
+            "display_name": "Raymond Énay",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I100532134",
+              "display_name": "Lyon 1 Université",
+              "ror": "https://ror.org/029brtt94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I203339264"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210155927",
+              "display_name": "Laboratoire de Géologie de Lyon : Terre, Planètes et Environnement",
+              "ror": "https://ror.org/04t89f389",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I113428412",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I203339264",
+                "https://openalex.org/I203339264",
+                "https://openalex.org/I203339264",
+                "https://openalex.org/I4210155927",
+                "https://openalex.org/I4405259976"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Raymond Enay",
+          "raw_affiliation_strings": [
+            "UFR des sciences de la Terre, université Claude-Bernard Lyon 1, bâtiment Géode, 2, rue Raphaël-Dubois, Villeurbanne cedex, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "UFR des sciences de la Terre, université Claude-Bernard Lyon 1, bâtiment Géode, 2, rue Raphaël-Dubois, Villeurbanne cedex, France",
+              "institution_ids": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I4210155927"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5113658841",
+            "display_name": "Charles Mangold",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I100532134",
+              "display_name": "Lyon 1 Université",
+              "ror": "https://ror.org/029brtt94",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I203339264"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210155927",
+              "display_name": "Laboratoire de Géologie de Lyon : Terre, Planètes et Environnement",
+              "ror": "https://ror.org/04t89f389",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I113428412",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I203339264",
+                "https://openalex.org/I203339264",
+                "https://openalex.org/I203339264",
+                "https://openalex.org/I4210155927",
+                "https://openalex.org/I4405259976"
+              ]
+            }
+          ],
+          "countries": [
+            "FR"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Charles Mangold",
+          "raw_affiliation_strings": [
+            "UFR des sciences de la Terre, université Claude-Bernard Lyon 1, bâtiment Géode, 2, rue Raphaël-Dubois, Villeurbanne cedex, France"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "UFR des sciences de la Terre, université Claude-Bernard Lyon 1, bâtiment Géode, 2, rue Raphaël-Dubois, Villeurbanne cedex, France",
+              "institution_ids": [
+                "https://openalex.org/I100532134",
+                "https://openalex.org/I4210155927"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5103919369"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134560555"
+      ],
+      "apc_list": {
+        "value": 2620,
+        "currency": "USD",
+        "value_usd": 2620
+      },
+      "apc_paid": null,
+      "fwci": 11.5445,
+      "has_fulltext": false,
+      "cited_by_count": 19,
+      "citation_normalized_percentile": {
+        "value": 0.97919928,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "40",
+        "issue": "1",
+        "first_page": "1",
+        "last_page": "19"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10421",
+        "display_name": "Pleistocene-Era Hominins and Archaeology",
+        "score": 0.9973999857902527,
+        "subfield": {
+          "id": "https://openalex.org/subfields/3314",
+          "display_name": "Anthropology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/33",
+          "display_name": "Social Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10421",
+          "display_name": "Pleistocene-Era Hominins and Archaeology",
+          "score": 0.9973999857902527,
+          "subfield": {
+            "id": "https://openalex.org/subfields/3314",
+            "display_name": "Anthropology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/33",
+            "display_name": "Social Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.995199978351593,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13205",
+          "display_name": "Geological and Geophysical Studies Worldwide",
+          "score": 0.9944000244140625,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/humanities",
+          "display_name": "Humanities",
+          "score": 0.6918236017227173
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.5171093940734863
+        },
+        {
+          "id": "https://openalex.org/keywords/art",
+          "display_name": "Art",
+          "score": 0.15105897188186646
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C15708023",
+          "wikidata": "https://www.wikidata.org/wiki/Q80083",
+          "display_name": "Humanities",
+          "level": 1,
+          "score": 0.6918236017227173
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5171093940734863
+        },
+        {
+          "id": "https://openalex.org/C142362112",
+          "wikidata": "https://www.wikidata.org/wiki/Q735",
+          "display_name": "Art",
+          "level": 0,
+          "score": 0.15105897188186646
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.geobios.2006.01.003",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.geobios.2006.01.003",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S19370311",
+            "display_name": "Geobios",
+            "issn_l": "0016-6995",
+            "issn": [
+              "0016-6995",
+              "1777-5728"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Geobios",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:HAL:hal-00172925v1",
+          "is_oa": false,
+          "landing_page_url": "https://hal.science/hal-00172925",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402512",
+            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I1294671590",
+            "host_organization_name": "Centre National de la Recherche Scientifique",
+            "host_organization_lineage": [
+              "https://openalex.org/I1294671590"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Geobios, 2007, 40, pp.1-19. &#x27E8;10.1016/j.geobios.2006.01.003&#x27E9;",
+          "raw_type": "info:eu-repo/semantics/article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 34,
+      "referenced_works": [
+        "https://openalex.org/W128654564",
+        "https://openalex.org/W386550513",
+        "https://openalex.org/W565088466",
+        "https://openalex.org/W800222835",
+        "https://openalex.org/W1129177303",
+        "https://openalex.org/W1525369366",
+        "https://openalex.org/W1810485278",
+        "https://openalex.org/W1983912107",
+        "https://openalex.org/W1987162941",
+        "https://openalex.org/W1999041155",
+        "https://openalex.org/W2022942026",
+        "https://openalex.org/W2094934562",
+        "https://openalex.org/W2322905622",
+        "https://openalex.org/W2483291255",
+        "https://openalex.org/W2491660482",
+        "https://openalex.org/W2600930298",
+        "https://openalex.org/W2729015048",
+        "https://openalex.org/W2743213576",
+        "https://openalex.org/W2751124766",
+        "https://openalex.org/W3119767119",
+        "https://openalex.org/W3170908931",
+        "https://openalex.org/W3175545374",
+        "https://openalex.org/W3202380933",
+        "https://openalex.org/W4285719527",
+        "https://openalex.org/W6615688235",
+        "https://openalex.org/W6622772916",
+        "https://openalex.org/W6631492299",
+        "https://openalex.org/W6649529954",
+        "https://openalex.org/W6719037750",
+        "https://openalex.org/W6720170746",
+        "https://openalex.org/W6721702876",
+        "https://openalex.org/W6788130192",
+        "https://openalex.org/W6797437073",
+        "https://openalex.org/W6797739851"
+      ],
+      "related_works": [
+        "https://openalex.org/W2324615561",
+        "https://openalex.org/W2086120259",
+        "https://openalex.org/W2245170124",
+        "https://openalex.org/W3186982001",
+        "https://openalex.org/W2137941439",
+        "https://openalex.org/W1984402782",
+        "https://openalex.org/W2076393078",
+        "https://openalex.org/W1999913942",
+        "https://openalex.org/W2004200960",
+        "https://openalex.org/W1999891779"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-08-13T07:04:57.449891",
+      "created_date": "2016-06-24T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2999055568",
       "doi": "https://doi.org/10.1016/j.gloplacha.2020.103127",
       "title": "Formation of microbial organic carbonates during the Late Jurassic from the Northern Tethys (Amu Darya Basin, Uzbekistan): Implications for Jurassic anoxic events",
@@ -5247,11 +5872,11 @@
         "value_usd": 3430
       },
       "apc_paid": null,
-      "fwci": 2.9375,
+      "fwci": 2.9466,
       "has_fulltext": true,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.88942525,
+        "value": 0.88983279,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5735,9 +6360,11 @@
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
+            "host_organization": "https://openalex.org/I15057530",
+            "host_organization_name": "Université de Bordeaux",
+            "host_organization_lineage": [
+              "https://openalex.org/I15057530"
+            ],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -5937,7 +6564,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-05T07:39:15.569665",
+      "updated_date": "2026-08-13T07:04:57.449891",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14496,631 +15123,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W8606722",
-      "doi": "https://doi.org/10.1016/j.geobios.2006.01.003",
-      "title": "Zonation des brachiopodes du Jurassique moyen sur la marge sud de la Téthys occidentale (Maroc, Algérie occidentale)",
-      "display_name": "Zonation des brachiopodes du Jurassique moyen sur la marge sud de la Téthys occidentale (Maroc, Algérie occidentale)",
-      "publication_year": 2007,
-      "publication_date": "2007-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W8606722",
-        "doi": "https://doi.org/10.1016/j.geobios.2006.01.003",
-        "mag": "8606722"
-      },
-      "language": "fr",
-      "primary_location": {
-        "id": "doi:10.1016/j.geobios.2006.01.003",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.geobios.2006.01.003",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S19370311",
-          "display_name": "Geobios",
-          "issn_l": "0016-6995",
-          "issn": [
-            "0016-6995",
-            "1777-5728"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geobios",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5073534648",
-            "display_name": "Yves Alméras",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Lyon 1 Université",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210155927",
-              "display_name": "Laboratoire de Géologie de Lyon : Terre, Planètes et Environnement",
-              "ror": "https://ror.org/04t89f389",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I113428412",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I203339264",
-                "https://openalex.org/I203339264",
-                "https://openalex.org/I203339264",
-                "https://openalex.org/I4210155927",
-                "https://openalex.org/I4405259976"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Yves Alméras",
-          "raw_affiliation_strings": [
-            "UFR des sciences de la Terre, université Claude-Bernard Lyon 1, bâtiment Géode, 2, rue Raphaël-Dubois, Villeurbanne cedex, France"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "UFR des sciences de la Terre, université Claude-Bernard Lyon 1, bâtiment Géode, 2, rue Raphaël-Dubois, Villeurbanne cedex, France",
-              "institution_ids": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I4210155927"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5103919369",
-            "display_name": "Philippe Fauré",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134560555",
-              "display_name": "Université Toulouse III - Paul Sabatier",
-              "ror": "https://ror.org/02v6kpv12",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134560555"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Philippe Fauré",
-          "raw_affiliation_strings": [
-            "Laboratoire des mécanismes et transferts en géologie, université Paul-Sabatier, 14, avenue Edouard-Belin, 31400 Toulouse, France"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Laboratoire des mécanismes et transferts en géologie, université Paul-Sabatier, 14, avenue Edouard-Belin, 31400 Toulouse, France",
-              "institution_ids": [
-                "https://openalex.org/I134560555"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5021417075",
-            "display_name": "Serge Elmi",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Lyon 1 Université",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210155927",
-              "display_name": "Laboratoire de Géologie de Lyon : Terre, Planètes et Environnement",
-              "ror": "https://ror.org/04t89f389",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I113428412",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I203339264",
-                "https://openalex.org/I203339264",
-                "https://openalex.org/I203339264",
-                "https://openalex.org/I4210155927",
-                "https://openalex.org/I4405259976"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Serge Elmi",
-          "raw_affiliation_strings": [
-            "UFR des sciences de la Terre, université Claude-Bernard Lyon 1, bâtiment Géode, 2, rue Raphaël-Dubois, Villeurbanne cedex, France"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "UFR des sciences de la Terre, université Claude-Bernard Lyon 1, bâtiment Géode, 2, rue Raphaël-Dubois, Villeurbanne cedex, France",
-              "institution_ids": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I4210155927"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5084630459",
-            "display_name": "Raymond Énay",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Lyon 1 Université",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210155927",
-              "display_name": "Laboratoire de Géologie de Lyon : Terre, Planètes et Environnement",
-              "ror": "https://ror.org/04t89f389",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I113428412",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I203339264",
-                "https://openalex.org/I203339264",
-                "https://openalex.org/I203339264",
-                "https://openalex.org/I4210155927",
-                "https://openalex.org/I4405259976"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Raymond Enay",
-          "raw_affiliation_strings": [
-            "UFR des sciences de la Terre, université Claude-Bernard Lyon 1, bâtiment Géode, 2, rue Raphaël-Dubois, Villeurbanne cedex, France"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "UFR des sciences de la Terre, université Claude-Bernard Lyon 1, bâtiment Géode, 2, rue Raphaël-Dubois, Villeurbanne cedex, France",
-              "institution_ids": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I4210155927"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5113658841",
-            "display_name": "Charles Mangold",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I100532134",
-              "display_name": "Lyon 1 Université",
-              "ror": "https://ror.org/029brtt94",
-              "country_code": "FR",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I203339264"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210155927",
-              "display_name": "Laboratoire de Géologie de Lyon : Terre, Planètes et Environnement",
-              "ror": "https://ror.org/04t89f389",
-              "country_code": "FR",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I113428412",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I203339264",
-                "https://openalex.org/I203339264",
-                "https://openalex.org/I203339264",
-                "https://openalex.org/I4210155927",
-                "https://openalex.org/I4405259976"
-              ]
-            }
-          ],
-          "countries": [
-            "FR"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Charles Mangold",
-          "raw_affiliation_strings": [
-            "UFR des sciences de la Terre, université Claude-Bernard Lyon 1, bâtiment Géode, 2, rue Raphaël-Dubois, Villeurbanne cedex, France"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "UFR des sciences de la Terre, université Claude-Bernard Lyon 1, bâtiment Géode, 2, rue Raphaël-Dubois, Villeurbanne cedex, France",
-              "institution_ids": [
-                "https://openalex.org/I100532134",
-                "https://openalex.org/I4210155927"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5103919369"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134560555"
-      ],
-      "apc_list": {
-        "value": 2620,
-        "currency": "USD",
-        "value_usd": 2620
-      },
-      "apc_paid": null,
-      "fwci": 11.6021,
-      "has_fulltext": false,
-      "cited_by_count": 18,
-      "citation_normalized_percentile": {
-        "value": 0.97935975,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 98
-      },
-      "biblio": {
-        "volume": "40",
-        "issue": "1",
-        "first_page": "1",
-        "last_page": "19"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10421",
-        "display_name": "Pleistocene-Era Hominins and Archaeology",
-        "score": 0.9973999857902527,
-        "subfield": {
-          "id": "https://openalex.org/subfields/3314",
-          "display_name": "Anthropology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/33",
-          "display_name": "Social Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/2",
-          "display_name": "Social Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10421",
-          "display_name": "Pleistocene-Era Hominins and Archaeology",
-          "score": 0.9973999857902527,
-          "subfield": {
-            "id": "https://openalex.org/subfields/3314",
-            "display_name": "Anthropology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/33",
-            "display_name": "Social Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.995199978351593,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13205",
-          "display_name": "Geological and Geophysical Studies Worldwide",
-          "score": 0.9944000244140625,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/humanities",
-          "display_name": "Humanities",
-          "score": 0.6918236017227173
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.5171093940734863
-        },
-        {
-          "id": "https://openalex.org/keywords/art",
-          "display_name": "Art",
-          "score": 0.15105897188186646
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C15708023",
-          "wikidata": "https://www.wikidata.org/wiki/Q80083",
-          "display_name": "Humanities",
-          "level": 1,
-          "score": 0.6918236017227173
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5171093940734863
-        },
-        {
-          "id": "https://openalex.org/C142362112",
-          "wikidata": "https://www.wikidata.org/wiki/Q735",
-          "display_name": "Art",
-          "level": 0,
-          "score": 0.15105897188186646
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.geobios.2006.01.003",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.geobios.2006.01.003",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S19370311",
-            "display_name": "Geobios",
-            "issn_l": "0016-6995",
-            "issn": [
-              "0016-6995",
-              "1777-5728"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Geobios",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:HAL:hal-00172925v1",
-          "is_oa": false,
-          "landing_page_url": "https://hal.science/hal-00172925",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
-            "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Geobios, 2007, 40, pp.1-19. &#x27E8;10.1016/j.geobios.2006.01.003&#x27E9;",
-          "raw_type": "info:eu-repo/semantics/article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 34,
-      "referenced_works": [
-        "https://openalex.org/W128654564",
-        "https://openalex.org/W386550513",
-        "https://openalex.org/W565088466",
-        "https://openalex.org/W800222835",
-        "https://openalex.org/W1129177303",
-        "https://openalex.org/W1525369366",
-        "https://openalex.org/W1810485278",
-        "https://openalex.org/W1983912107",
-        "https://openalex.org/W1987162941",
-        "https://openalex.org/W1999041155",
-        "https://openalex.org/W2022942026",
-        "https://openalex.org/W2094934562",
-        "https://openalex.org/W2322905622",
-        "https://openalex.org/W2483291255",
-        "https://openalex.org/W2491660482",
-        "https://openalex.org/W2600930298",
-        "https://openalex.org/W2729015048",
-        "https://openalex.org/W2743213576",
-        "https://openalex.org/W2751124766",
-        "https://openalex.org/W3119767119",
-        "https://openalex.org/W3170908931",
-        "https://openalex.org/W3175545374",
-        "https://openalex.org/W3202380933",
-        "https://openalex.org/W4285719527",
-        "https://openalex.org/W6615688235",
-        "https://openalex.org/W6622772916",
-        "https://openalex.org/W6631492299",
-        "https://openalex.org/W6649529954",
-        "https://openalex.org/W6719037750",
-        "https://openalex.org/W6720170746",
-        "https://openalex.org/W6721702876",
-        "https://openalex.org/W6788130192",
-        "https://openalex.org/W6797437073",
-        "https://openalex.org/W6797739851"
-      ],
-      "related_works": [
-        "https://openalex.org/W2324615561",
-        "https://openalex.org/W2086120259",
-        "https://openalex.org/W2245170124",
-        "https://openalex.org/W3186982001",
-        "https://openalex.org/W2137941439",
-        "https://openalex.org/W1984402782",
-        "https://openalex.org/W2076393078",
-        "https://openalex.org/W1999913942",
-        "https://openalex.org/W2004200960",
-        "https://openalex.org/W1999891779"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-08-05T07:39:15.569665",
-      "created_date": "2016-06-24T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W270704681",
       "doi": null,
       "title": "Integrated stratigraphy of the Oxfordian global stratotype section and point (GSSP) candidate in the Subalpine Basin (SE France)",
@@ -23317,11 +23319,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.8957,
+      "fwci": 0.9009,
       "has_fulltext": false,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.79631159,
+        "value": 0.79755831,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28443,9 +28445,9 @@
       "language": "fr",
       "primary_location": {
         "id": "doi:10.1016/s1631-0713(02)01867-9",
-        "is_oa": false,
+        "is_oa": true,
         "landing_page_url": "https://doi.org/10.1016/s1631-0713(02)01867-9",
-        "pdf_url": null,
+        "pdf_url": "https://www.sciencedirect.com/science/article/pii/S1631071302018679/pdf",
         "source": {
           "id": "https://openalex.org/S113329220",
           "display_name": "Comptes Rendus Géoscience",
@@ -28481,9 +28483,9 @@
         "doaj"
       ],
       "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://www.sciencedirect.com/science/article/pii/S1631071302018679/pdf",
         "any_repository_has_fulltext": false
       },
       "authorships": [
@@ -28721,11 +28723,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9517,
-      "has_fulltext": false,
+      "fwci": 0.9527,
+      "has_fulltext": true,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.79394449,
+        "value": 0.79420412,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28948,9 +28950,9 @@
       "locations": [
         {
           "id": "doi:10.1016/s1631-0713(02)01867-9",
-          "is_oa": false,
+          "is_oa": true,
           "landing_page_url": "https://doi.org/10.1016/s1631-0713(02)01867-9",
-          "pdf_url": null,
+          "pdf_url": "https://www.sciencedirect.com/science/article/pii/S1631071302018679/pdf",
           "source": {
             "id": "https://openalex.org/S113329220",
             "display_name": "Comptes Rendus Géoscience",
@@ -29008,15 +29010,51 @@
           "raw_type": "Text"
         }
       ],
-      "best_oa_location": null,
+      "best_oa_location": {
+        "id": "doi:10.1016/s1631-0713(02)01867-9",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/s1631-0713(02)01867-9",
+        "pdf_url": "https://www.sciencedirect.com/science/article/pii/S1631071302018679/pdf",
+        "source": {
+          "id": "https://openalex.org/S113329220",
+          "display_name": "Comptes Rendus Géoscience",
+          "issn_l": "1631-0713",
+          "issn": [
+            "1631-0713",
+            "1778-7025"
+          ],
+          "is_oa": false,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4404678052",
+          "host_organization_name": "Académie des sciences",
+          "host_organization_lineage": [
+            "https://openalex.org/P4404678052"
+          ],
+          "host_organization_lineage_names": [
+            "Académie des sciences"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Comptes Rendus. Géoscience",
+        "raw_type": "journal-article"
+      },
       "sustainable_development_goals": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "grobid_xml": true,
+        "pdf": true
       },
-      "content_urls": null,
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2022942026.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2022942026.grobid-xml"
+      },
       "referenced_works_count": 21,
       "referenced_works": [
         "https://openalex.org/W1114211",
@@ -29377,7 +29415,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-12T07:12:00.856984",
+      "updated_date": "2026-08-13T07:04:57.449891",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -34233,305 +34271,6 @@
         }
       ],
       "updated_date": "2026-08-05T07:39:15.569665",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2083490088",
-      "doi": "https://doi.org/10.1016/s0016-6995(95)80228-2",
-      "title": "Révision critique de la paléontologie Francaise d'alcide d'Orbigny. Vol. 1: Céphalopodes Jurassiques",
-      "display_name": "Révision critique de la paléontologie Francaise d'alcide d'Orbigny. Vol. 1: Céphalopodes Jurassiques",
-      "publication_year": 1995,
-      "publication_date": "1995-01-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2083490088",
-        "doi": "https://doi.org/10.1016/s0016-6995(95)80228-2",
-        "mag": "2083490088"
-      },
-      "language": "fr",
-      "primary_location": {
-        "id": "doi:10.1016/s0016-6995(95)80228-2",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/s0016-6995(95)80228-2",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S19370311",
-          "display_name": "Geobios",
-          "issn_l": "0016-6995",
-          "issn": [
-            "0016-6995",
-            "1777-5728"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geobios",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5084630459",
-            "display_name": "Raymond Énay",
-            "orcid": null
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "Raymond Enay",
-          "raw_affiliation_strings": [],
-          "raw_orcid": null,
-          "affiliations": []
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5084630459"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": {
-        "value": 2620,
-        "currency": "USD",
-        "value_usd": 2620
-      },
-      "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 8,
-      "citation_normalized_percentile": {
-        "value": 0.29497523,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 96
-      },
-      "biblio": {
-        "volume": "28",
-        "issue": "2",
-        "first_page": "208",
-        "last_page": "208"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T14149",
-        "display_name": "Historical and Literary Analyses",
-        "score": 0.0869000032544136,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1208",
-          "display_name": "Literature and Literary Theory"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/12",
-          "display_name": "Arts and Humanities"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/2",
-          "display_name": "Social Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T14149",
-          "display_name": "Historical and Literary Analyses",
-          "score": 0.0869000032544136,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1208",
-            "display_name": "Literature and Literary Theory"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/12",
-            "display_name": "Arts and Humanities"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T14469",
-          "display_name": "Renaissance Literature and Culture",
-          "score": 0.033900000154972076,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1205",
-            "display_name": "Classics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/12",
-            "display_name": "Arts and Humanities"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T13922",
-          "display_name": "Historical Art and Culture Studies",
-          "score": 0.02979999966919422,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1209",
-            "display_name": "Museology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/12",
-            "display_name": "Arts and Humanities"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/2",
-            "display_name": "Social Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.4666948616504669
-        },
-        {
-          "id": "https://openalex.org/keywords/humanities",
-          "display_name": "Humanities",
-          "score": 0.3446827530860901
-        },
-        {
-          "id": "https://openalex.org/keywords/philosophy",
-          "display_name": "Philosophy",
-          "score": 0.2736217975616455
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.4666948616504669
-        },
-        {
-          "id": "https://openalex.org/C15708023",
-          "wikidata": "https://www.wikidata.org/wiki/Q80083",
-          "display_name": "Humanities",
-          "level": 1,
-          "score": 0.3446827530860901
-        },
-        {
-          "id": "https://openalex.org/C138885662",
-          "wikidata": "https://www.wikidata.org/wiki/Q5891",
-          "display_name": "Philosophy",
-          "level": 0,
-          "score": 0.2736217975616455
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/s0016-6995(95)80228-2",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/s0016-6995(95)80228-2",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S19370311",
-            "display_name": "Geobios",
-            "issn_l": "0016-6995",
-            "issn": [
-              "0016-6995",
-              "1777-5728"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Geobios",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6100000143051147,
-          "display_name": "Life below water"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 0,
-      "referenced_works": [],
-      "related_works": [
-        "https://openalex.org/W2324615561",
-        "https://openalex.org/W2086120259",
-        "https://openalex.org/W2245170124",
-        "https://openalex.org/W2076393078",
-        "https://openalex.org/W3186982001",
-        "https://openalex.org/W2137941439",
-        "https://openalex.org/W1984402782",
-        "https://openalex.org/W2004200960",
-        "https://openalex.org/W1999891779",
-        "https://openalex.org/W2029513011"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2015,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-08-12T07:12:00.856984",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -51155,6 +50894,298 @@
         }
       ],
       "updated_date": "2026-08-08T01:25:22.217667",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2083490088",
+      "doi": "https://doi.org/10.1016/s0016-6995(95)80228-2",
+      "title": "Révision critique de la paléontologie Francaise d'alcide d'Orbigny. Vol. 1: Céphalopodes Jurassiques",
+      "display_name": "Révision critique de la paléontologie Francaise d'alcide d'Orbigny. Vol. 1: Céphalopodes Jurassiques",
+      "publication_year": 1995,
+      "publication_date": "1995-01-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2083490088",
+        "doi": "https://doi.org/10.1016/s0016-6995(95)80228-2",
+        "mag": "2083490088"
+      },
+      "language": "fr",
+      "primary_location": {
+        "id": "doi:10.1016/s0016-6995(95)80228-2",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/s0016-6995(95)80228-2",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S19370311",
+          "display_name": "Geobios",
+          "issn_l": "0016-6995",
+          "issn": [
+            "0016-6995",
+            "1777-5728"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geobios",
+        "raw_type": "journal-article"
+      },
+      "type": "book-review",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5084630459",
+            "display_name": "Raymond Énay",
+            "orcid": null
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Raymond Enay",
+          "raw_affiliation_strings": [],
+          "raw_orcid": null,
+          "affiliations": []
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5084630459"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": {
+        "value": 2620,
+        "currency": "USD",
+        "value_usd": 2620
+      },
+      "apc_paid": null,
+      "fwci": null,
+      "has_fulltext": false,
+      "cited_by_count": 8,
+      "citation_normalized_percentile": null,
+      "cited_by_percentile_year": null,
+      "biblio": {
+        "volume": "28",
+        "issue": "2",
+        "first_page": "208",
+        "last_page": "208"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T14149",
+        "display_name": "Historical and Literary Analyses",
+        "score": 0.0869000032544136,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1208",
+          "display_name": "Literature and Literary Theory"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/12",
+          "display_name": "Arts and Humanities"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/2",
+          "display_name": "Social Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T14149",
+          "display_name": "Historical and Literary Analyses",
+          "score": 0.0869000032544136,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1208",
+            "display_name": "Literature and Literary Theory"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/12",
+            "display_name": "Arts and Humanities"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T14469",
+          "display_name": "Renaissance Literature and Culture",
+          "score": 0.033900000154972076,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1205",
+            "display_name": "Classics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/12",
+            "display_name": "Arts and Humanities"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T13922",
+          "display_name": "Historical Art and Culture Studies",
+          "score": 0.02979999966919422,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1209",
+            "display_name": "Museology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/12",
+            "display_name": "Arts and Humanities"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/2",
+            "display_name": "Social Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.4666948616504669
+        },
+        {
+          "id": "https://openalex.org/keywords/humanities",
+          "display_name": "Humanities",
+          "score": 0.3446827530860901
+        },
+        {
+          "id": "https://openalex.org/keywords/philosophy",
+          "display_name": "Philosophy",
+          "score": 0.2736217975616455
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.4666948616504669
+        },
+        {
+          "id": "https://openalex.org/C15708023",
+          "wikidata": "https://www.wikidata.org/wiki/Q80083",
+          "display_name": "Humanities",
+          "level": 1,
+          "score": 0.3446827530860901
+        },
+        {
+          "id": "https://openalex.org/C138885662",
+          "wikidata": "https://www.wikidata.org/wiki/Q5891",
+          "display_name": "Philosophy",
+          "level": 0,
+          "score": 0.2736217975616455
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/s0016-6995(95)80228-2",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/s0016-6995(95)80228-2",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S19370311",
+            "display_name": "Geobios",
+            "issn_l": "0016-6995",
+            "issn": [
+              "0016-6995",
+              "1777-5728"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Geobios",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.6100000143051147,
+          "display_name": "Life below water"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 0,
+      "referenced_works": [],
+      "related_works": [
+        "https://openalex.org/W2324615561",
+        "https://openalex.org/W2086120259",
+        "https://openalex.org/W2245170124",
+        "https://openalex.org/W2076393078",
+        "https://openalex.org/W3186982001",
+        "https://openalex.org/W2137941439",
+        "https://openalex.org/W1984402782",
+        "https://openalex.org/W2004200960",
+        "https://openalex.org/W1999891779",
+        "https://openalex.org/W2029513011"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2015,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-08-13T07:04:57.449891",
       "created_date": "2025-10-10T00:00:00"
     },
     {
