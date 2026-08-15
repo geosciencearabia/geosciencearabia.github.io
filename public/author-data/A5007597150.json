@@ -4713,8 +4713,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6899999976158142
+          "score": 0.6899999976158142,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -5774,8 +5774,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -6466,8 +6466,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities",
-          "score": 0.550000011920929
+          "score": 0.550000011920929,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -7215,8 +7215,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -8490,8 +8490,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -9018,8 +9018,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -9530,8 +9530,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.45413655042648315
+          "score": 0.45413655042648315,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -10371,8 +10371,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.45413655042648315
+          "score": 0.45413655042648315,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -10785,10 +10785,12 @@
           "host_organization": "https://openalex.org/P4310320547",
           "host_organization_name": "Taylor & Francis",
           "host_organization_lineage": [
-            "https://openalex.org/P4310320547"
+            "https://openalex.org/P4310320547",
+            "https://openalex.org/P4310320449"
           ],
           "host_organization_lineage_names": [
-            "Taylor & Francis"
+            "Taylor & Francis",
+            "Informa"
           ],
           "type": "journal"
         },
@@ -11077,7 +11079,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 7,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [
         "https://openalex.org/A5091426946"
       ],
@@ -11098,7 +11100,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.71378889,
+        "value": 0.44680574,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11297,10 +11299,12 @@
             "host_organization": "https://openalex.org/P4310320547",
             "host_organization_name": "Taylor & Francis",
             "host_organization_lineage": [
-              "https://openalex.org/P4310320547"
+              "https://openalex.org/P4310320547",
+              "https://openalex.org/P4310320449"
             ],
             "host_organization_lineage_names": [
-              "Taylor & Francis"
+              "Taylor & Francis",
+              "Informa"
             ],
             "type": "journal"
           },
@@ -11387,10 +11391,12 @@
           "host_organization": "https://openalex.org/P4310320547",
           "host_organization_name": "Taylor & Francis",
           "host_organization_lineage": [
-            "https://openalex.org/P4310320547"
+            "https://openalex.org/P4310320547",
+            "https://openalex.org/P4310320449"
           ],
           "host_organization_lineage_names": [
-            "Taylor & Francis"
+            "Taylor & Francis",
+            "Informa"
           ],
           "type": "journal"
         },
@@ -11851,7 +11857,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-06-15T08:34:33.830935",
+      "updated_date": "2026-08-15T07:11:24.734988",
       "created_date": "2026-04-25T00:00:00"
     },
     {
@@ -12476,8 +12482,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5195932388305664
+          "score": 0.5195932388305664,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],

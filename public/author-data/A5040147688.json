@@ -21,7 +21,7 @@
     ],
     "full_name": "Michael  Henry Stephenson",
     "works_count": 162,
-    "cited_by_count": 3023,
+    "cited_by_count": 3024,
     "summary_stats": {
       "2yr_mean_citedness": 1.8333333333333333,
       "h_index": 31,
@@ -353,7 +353,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0002889,
+        "value": 0.0002888,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -370,7 +370,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0001143,
+        "value": 0.0001142,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -617,7 +617,7 @@
         "year": 2019,
         "works_count": 13,
         "oa_works_count": 10,
-        "cited_by_count": 602
+        "cited_by_count": 603
       },
       {
         "year": 2020,
@@ -680,7 +680,7 @@
     ],
     "block_key": "m stephenson",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5040147688",
-    "updated_date": "2026-08-13T12:28:56",
+    "updated_date": "2026-08-14T12:16:50",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -912,11 +912,11 @@
         "currency": "USD",
         "value_usd": 4540
       },
-      "fwci": 15.3044,
+      "fwci": 15.2995,
       "has_fulltext": true,
       "cited_by_count": 317,
       "citation_normalized_percentile": {
-        "value": 0.99840126,
+        "value": 0.99840138,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -10601,10 +10601,12 @@
           "host_organization": "https://openalex.org/P4310320547",
           "host_organization_name": "Taylor & Francis",
           "host_organization_lineage": [
-            "https://openalex.org/P4310320547"
+            "https://openalex.org/P4310320547",
+            "https://openalex.org/P4310320449"
           ],
           "host_organization_lineage_names": [
-            "Taylor & Francis"
+            "Taylor & Francis",
+            "Informa"
           ],
           "type": "journal"
         },
@@ -10709,11 +10711,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 42.5787,
+      "fwci": 42.8205,
       "has_fulltext": false,
       "cited_by_count": 131,
       "citation_normalized_percentile": {
-        "value": 0.99573567,
+        "value": 0.9957764,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -10953,10 +10955,12 @@
             "host_organization": "https://openalex.org/P4310320547",
             "host_organization_name": "Taylor & Francis",
             "host_organization_lineage": [
-              "https://openalex.org/P4310320547"
+              "https://openalex.org/P4310320547",
+              "https://openalex.org/P4310320449"
             ],
             "host_organization_lineage_names": [
-              "Taylor & Francis"
+              "Taylor & Francis",
+              "Informa"
             ],
             "type": "journal"
           },
@@ -11443,7 +11447,7 @@
           "cited_by_count": 7
         }
       ],
-      "updated_date": "2026-07-29T09:40:50.615796",
+      "updated_date": "2026-08-15T07:11:24.734988",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -18719,7 +18723,7 @@
       "has_fulltext": false,
       "cited_by_count": 63,
       "citation_normalized_percentile": {
-        "value": 0.73387526,
+        "value": 0.73384206,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23264,11 +23268,11 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "fwci": 2.6783,
+      "fwci": 2.678,
       "has_fulltext": true,
-      "cited_by_count": 43,
+      "cited_by_count": 42,
       "citation_normalized_percentile": {
-        "value": 0.89158624,
+        "value": 0.89156266,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24782,7 +24786,7 @@
         },
         {
           "year": 2023,
-          "cited_by_count": 10
+          "cited_by_count": 9
         },
         {
           "year": 2022,
@@ -24805,7 +24809,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-08-11T07:18:39.950985",
+      "updated_date": "2026-08-15T07:11:24.734988",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -36096,10 +36100,12 @@
           "host_organization": "https://openalex.org/P4310320547",
           "host_organization_name": "Taylor & Francis",
           "host_organization_lineage": [
-            "https://openalex.org/P4310320547"
+            "https://openalex.org/P4310320547",
+            "https://openalex.org/P4310320449"
           ],
           "host_organization_lineage_names": [
-            "Taylor & Francis"
+            "Taylor & Francis",
+            "Informa"
           ],
           "type": "journal"
         },
@@ -36237,11 +36243,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.671,
+      "fwci": 1.674,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.84591549,
+        "value": 0.84627202,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -36498,10 +36504,12 @@
             "host_organization": "https://openalex.org/P4310320547",
             "host_organization_name": "Taylor & Francis",
             "host_organization_lineage": [
-              "https://openalex.org/P4310320547"
+              "https://openalex.org/P4310320547",
+              "https://openalex.org/P4310320449"
             ],
             "host_organization_lineage_names": [
-              "Taylor & Francis"
+              "Taylor & Francis",
+              "Informa"
             ],
             "type": "journal"
           },
@@ -37207,7 +37215,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-29T09:40:50.615796",
+      "updated_date": "2026-08-15T07:11:24.734988",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -41304,11 +41312,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 4.0511,
+      "fwci": 4.0451,
       "has_fulltext": true,
       "cited_by_count": 19,
       "citation_normalized_percentile": {
-        "value": 0.9230458,
+        "value": 0.9229176,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -42521,11 +42529,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.0502,
+      "fwci": 1.0493,
       "has_fulltext": false,
-      "cited_by_count": 16,
+      "cited_by_count": 17,
       "citation_normalized_percentile": {
-        "value": 0.72496437,
+        "value": 0.72465377,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -43295,7 +43303,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
@@ -43322,7 +43330,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-11T07:18:39.950985",
+      "updated_date": "2026-08-15T07:11:24.734988",
       "created_date": "2020-06-05T00:00:00"
     },
     {
@@ -45089,10 +45097,12 @@
           "host_organization": "https://openalex.org/P4310320547",
           "host_organization_name": "Taylor & Francis",
           "host_organization_lineage": [
-            "https://openalex.org/P4310320547"
+            "https://openalex.org/P4310320547",
+            "https://openalex.org/P4310320449"
           ],
           "host_organization_lineage_names": [
-            "Taylor & Francis"
+            "Taylor & Francis",
+            "Informa"
           ],
           "type": "journal"
         },
@@ -45354,11 +45364,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.9603,
+      "fwci": 2.874,
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.90906503,
+        "value": 0.90562536,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -45713,10 +45723,12 @@
             "host_organization": "https://openalex.org/P4310320547",
             "host_organization_name": "Taylor & Francis",
             "host_organization_lineage": [
-              "https://openalex.org/P4310320547"
+              "https://openalex.org/P4310320547",
+              "https://openalex.org/P4310320449"
             ],
             "host_organization_lineage_names": [
-              "Taylor & Francis"
+              "Taylor & Francis",
+              "Informa"
             ],
             "type": "journal"
           },
@@ -46561,7 +46573,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-07-29T09:40:50.615796",
+      "updated_date": "2026-08-15T07:11:24.734988",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -87684,10 +87696,12 @@
           "host_organization": "https://openalex.org/P4310320547",
           "host_organization_name": "Taylor & Francis",
           "host_organization_lineage": [
-            "https://openalex.org/P4310320547"
+            "https://openalex.org/P4310320547",
+            "https://openalex.org/P4310320449"
           ],
           "host_organization_lineage_names": [
-            "Taylor & Francis"
+            "Taylor & Francis",
+            "Informa"
           ],
           "type": "journal"
         },
@@ -87768,11 +87782,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4574,
+      "fwci": 0.4603,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.78292231,
+        "value": 0.78450396,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -88053,10 +88067,12 @@
             "host_organization": "https://openalex.org/P4310320547",
             "host_organization_name": "Taylor & Francis",
             "host_organization_lineage": [
-              "https://openalex.org/P4310320547"
+              "https://openalex.org/P4310320547",
+              "https://openalex.org/P4310320449"
             ],
             "host_organization_lineage_names": [
-              "Taylor & Francis"
+              "Taylor & Francis",
+              "Informa"
             ],
             "type": "journal"
           },
@@ -88608,7 +88624,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-29T09:40:50.615796",
+      "updated_date": "2026-08-15T07:11:24.734988",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -95870,10 +95886,12 @@
           "host_organization": "https://openalex.org/P4310320547",
           "host_organization_name": "Taylor & Francis",
           "host_organization_lineage": [
-            "https://openalex.org/P4310320547"
+            "https://openalex.org/P4310320547",
+            "https://openalex.org/P4310320449"
           ],
           "host_organization_lineage_names": [
-            "Taylor & Francis"
+            "Taylor & Francis",
+            "Informa"
           ],
           "type": "journal"
         },
@@ -95925,6 +95943,7 @@
           "raw_affiliation_strings": [
             "British Geological Survey Keyworth, Nottingham, NG12 5GG, United Kingdom"
           ],
+          "raw_orcid": null,
           "affiliations": [
             {
               "raw_affiliation_string": "British Geological Survey Keyworth, Nottingham, NG12 5GG, United Kingdom",
@@ -95950,7 +95969,7 @@
       "has_fulltext": false,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.14990598,
+        "value": 0.13401695,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -96202,10 +96221,12 @@
             "host_organization": "https://openalex.org/P4310320547",
             "host_organization_name": "Taylor & Francis",
             "host_organization_lineage": [
-              "https://openalex.org/P4310320547"
+              "https://openalex.org/P4310320547",
+              "https://openalex.org/P4310320449"
             ],
             "host_organization_lineage_names": [
-              "Taylor & Francis"
+              "Taylor & Francis",
+              "Informa"
             ],
             "type": "journal"
           },
@@ -96624,7 +96645,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-04-21T08:09:41.155169",
+      "updated_date": "2026-08-15T07:11:24.734988",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -105506,10 +105527,12 @@
           "host_organization": "https://openalex.org/P4310320547",
           "host_organization_name": "Taylor & Francis",
           "host_organization_lineage": [
-            "https://openalex.org/P4310320547"
+            "https://openalex.org/P4310320547",
+            "https://openalex.org/P4310320449"
           ],
           "host_organization_lineage_names": [
-            "Taylor & Francis"
+            "Taylor & Francis",
+            "Informa"
           ],
           "type": "journal"
         },
@@ -105664,11 +105687,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.5164,
+      "fwci": 0.5191,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.80604498,
+        "value": 0.80716371,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -105963,10 +105986,12 @@
             "host_organization": "https://openalex.org/P4310320547",
             "host_organization_name": "Taylor & Francis",
             "host_organization_lineage": [
-              "https://openalex.org/P4310320547"
+              "https://openalex.org/P4310320547",
+              "https://openalex.org/P4310320449"
             ],
             "host_organization_lineage_names": [
-              "Taylor & Francis"
+              "Taylor & Francis",
+              "Informa"
             ],
             "type": "journal"
           },
@@ -106654,7 +106679,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-08-15T07:11:24.734988",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -133936,10 +133961,12 @@
           "host_organization": "https://openalex.org/P4310320547",
           "host_organization_name": "Taylor & Francis",
           "host_organization_lineage": [
-            "https://openalex.org/P4310320547"
+            "https://openalex.org/P4310320547",
+            "https://openalex.org/P4310320449"
           ],
           "host_organization_lineage_names": [
-            "Taylor & Francis"
+            "Taylor & Francis",
+            "Informa"
           ],
           "type": "journal"
         },
@@ -133995,7 +134022,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 0,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 0,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -134004,7 +134031,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.57848673,
+        "value": 0.55730269,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -134181,10 +134208,12 @@
             "host_organization": "https://openalex.org/P4310320547",
             "host_organization_name": "Taylor & Francis",
             "host_organization_lineage": [
-              "https://openalex.org/P4310320547"
+              "https://openalex.org/P4310320547",
+              "https://openalex.org/P4310320449"
             ],
             "host_organization_lineage_names": [
-              "Taylor & Francis"
+              "Taylor & Francis",
+              "Informa"
             ],
             "type": "journal"
           },
@@ -134228,7 +134257,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-08-15T07:11:24.734988",
       "created_date": "2025-10-10T00:00:00"
     },
     {
