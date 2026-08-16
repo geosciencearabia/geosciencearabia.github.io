@@ -7,9 +7,9 @@
       "A. A. Al-Laboun",
       "ABDULAZIZ ABDULLAH AL-LABOUN",
       "ABDULAZIZ AL-LABOUN",
+      "Abdulaziz  A. AlLaboun",
       "Abdulaziz A. AL-Laboun",
       "Abdulaziz A. Al-Laboun",
-      "Abdulaziz A. AlLaboun",
       "Abdulaziz AL-LABOUN",
       "Abdulaziz Abdullah Al-Laboun",
       "Abdulaziz Abdullah al-Laboun",
@@ -168,7 +168,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000391,
+        "value": 0.0000389,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -202,7 +202,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000211,
+        "value": 0.0000209,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -219,7 +219,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000203,
+        "value": 0.0000201,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -236,7 +236,7 @@
       {
         "id": "https://openalex.org/T12157",
         "display_name": "Geochemistry and Geologic Mapping",
-        "value": 0.0000109,
+        "value": 0.0000108,
         "subfield": {
           "id": "https://openalex.org/subfields/1702",
           "display_name": "Artificial Intelligence"
@@ -361,9 +361,9 @@
       "A. A. Al-Laboun",
       "ABDULAZIZ ABDULLAH AL-LABOUN",
       "ABDULAZIZ AL-LABOUN",
+      "Abdulaziz  A. AlLaboun",
       "Abdulaziz A. AL-Laboun",
       "Abdulaziz A. Al-Laboun",
-      "Abdulaziz A. AlLaboun",
       "Abdulaziz AL-LABOUN",
       "Abdulaziz Abdullah Al-Laboun",
       "Abdulaziz Abdullah al-Laboun",
@@ -371,7 +371,7 @@
     ],
     "block_key": "a al-laboun",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5061320565",
-    "updated_date": "2026-08-04T12:18:11",
+    "updated_date": "2026-08-15T12:17:20",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -714,8 +714,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -1508,8 +1508,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -2436,8 +2436,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2169570507.pdf",
@@ -2899,10 +2899,10 @@
         "crossref"
       ],
       "open_access": {
-        "is_oa": true,
-        "oa_status": "green",
+        "is_oa": false,
+        "oa_status": "closed",
         "oa_url": null,
-        "any_repository_has_fulltext": true
+        "any_repository_has_fulltext": false
       },
       "authorships": [
         {
@@ -3069,11 +3069,11 @@
         "value_usd": 2990
       },
       "apc_paid": null,
-      "fwci": 0.4627,
+      "fwci": 0.4637,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.6973658,
+        "value": 0.69803445,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3352,7 +3352,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 2,
+      "locations_count": 1,
       "locations": [
         {
           "id": "doi:10.1007/s12517-012-0656-9",
@@ -3389,62 +3389,9 @@
           "is_published": true,
           "raw_source_name": "Arabian Journal of Geosciences",
           "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:doi:10.5281/zenodo.18206125",
-          "is_oa": true,
-          "landing_page_url": null,
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4406922384",
-            "display_name": "Open MIND",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "JournalArticle"
         }
       ],
-      "best_oa_location": {
-        "id": "pmh:doi:10.5281/zenodo.18206125",
-        "is_oa": true,
-        "landing_page_url": null,
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4406922384",
-          "display_name": "Open MIND",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "repository"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "submittedVersion",
-        "is_accepted": false,
-        "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "JournalArticle"
-      },
+      "best_oa_location": null,
       "sustainable_development_goals": [
         {
           "score": 0.5099999904632568,
@@ -3466,8 +3413,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -3518,7 +3465,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-08-16T07:02:28.622633",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3906,8 +3853,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -5283,8 +5230,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -5885,8 +5832,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -6570,8 +6517,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 20,
@@ -7519,8 +7466,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -8535,8 +8482,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -8872,8 +8819,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9851,8 +9798,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10775,8 +10722,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11358,8 +11305,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12892,8 +12839,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

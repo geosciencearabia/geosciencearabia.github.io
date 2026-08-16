@@ -262,7 +262,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0002355,
+        "value": 0.0002346,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -279,7 +279,7 @@
       {
         "id": "https://openalex.org/T11225",
         "display_name": "Geothermal Energy Systems and Applications",
-        "value": 0.0001159,
+        "value": 0.0001156,
         "subfield": {
           "id": "https://openalex.org/subfields/2105",
           "display_name": "Renewable Energy, Sustainability and the Environment"
@@ -313,7 +313,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000519,
+        "value": 0.0000518,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -526,7 +526,7 @@
     ],
     "block_key": "a alafifi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5074794653",
-    "updated_date": "2026-08-10T12:17:52",
+    "updated_date": "2026-08-15T12:17:20",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -7211,11 +7211,11 @@
         "currency": "USD",
         "value_usd": 4540
       },
-      "fwci": 8.6763,
+      "fwci": 7.0753,
       "has_fulltext": true,
-      "cited_by_count": 82,
+      "cited_by_count": 83,
       "citation_normalized_percentile": {
-        "value": 0.98832521,
+        "value": 0.98522098,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8541,7 +8541,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 16
+          "cited_by_count": 17
         },
         {
           "year": 2025,
@@ -8552,7 +8552,7 @@
           "cited_by_count": 22
         }
       ],
-      "updated_date": "2026-07-14T08:27:34.040176",
+      "updated_date": "2026-08-16T07:02:28.622633",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16698,11 +16698,11 @@
         "currency": "EUR",
         "value_usd": 539
       },
-      "fwci": 32.3852,
+      "fwci": 32.4211,
       "has_fulltext": true,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.99689036,
+        "value": 0.99689165,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -82978,7 +82978,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 3,
+      "locations_count": 2,
       "locations": [
         {
           "id": "pmh:oai:arXiv.org:2512.00912",
@@ -83010,33 +83010,6 @@
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "text"
-        },
-        {
-          "id": "pmh:doi:10.48550/arxiv.2512.00912",
-          "is_oa": true,
-          "landing_page_url": null,
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4406922384",
-            "display_name": "Open MIND",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "Article"
         },
         {
           "id": "doi:10.48550/arxiv.2512.00912",
@@ -83591,7 +83564,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-05T07:39:15.569665",
+      "updated_date": "2026-08-16T07:02:28.622633",
       "created_date": "2025-12-03T00:00:00"
     },
     {
