@@ -863,16 +863,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8500000238418579,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 18,
@@ -1569,8 +1569,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -2360,8 +2360,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -2937,16 +2937,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5199999809265137,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -3318,8 +3318,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -3871,16 +3871,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.5799999833106995,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -4815,8 +4815,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -4862,10 +4862,10 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "pmh:oai:tuprints.ulb.tu-darmstadt.de:3416",
+        "id": "pmh:oai:tuprints.ulb.tu-darmstadt.de:3581",
         "is_oa": true,
-        "landing_page_url": "https://tuprints.ulb.tu-darmstadt.de/3416/7/Annex.zip",
-        "pdf_url": "https://tuprints.ulb.tu-darmstadt.de/3416/1/PhD%20thesis%20Al-Ajmi.pdf",
+        "landing_page_url": "https://tuprints.ulb.tu-darmstadt.de/3581/7/Annex.zip",
+        "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306401590",
           "display_name": "Technischen Universität Darmstadt",
@@ -4884,20 +4884,20 @@
         },
         "license": "cc-by-nc-nd",
         "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-        "version": "submittedVersion",
-        "is_accepted": false,
+        "version": "acceptedVersion",
+        "is_accepted": true,
         "is_published": false,
         "raw_source_name": null,
-        "raw_type": "info:eu-repo/semantics/doctoralThesis"
+        "raw_type": "info:eu-repo/semantics/book"
       },
-      "type": "dissertation",
+      "type": "book",
       "indexed_in": [
         "datacite"
       ],
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://tuprints.ulb.tu-darmstadt.de/3416/1/PhD%20thesis%20Al-Ajmi.pdf",
+        "oa_url": "https://tuprints.ulb.tu-darmstadt.de/3581/7/Annex.zip",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -4926,11 +4926,18 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": null,
+      "fwci": 0.2962,
       "has_fulltext": true,
       "cited_by_count": 2,
-      "citation_normalized_percentile": null,
-      "cited_by_percentile_year": null,
+      "citation_normalized_percentile": {
+        "value": 0.6819407,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 90,
+        "max": 94
+      },
       "biblio": {
         "volume": null,
         "issue": null,
@@ -5114,6 +5121,35 @@
       "locations_count": 5,
       "locations": [
         {
+          "id": "pmh:oai:tuprints.ulb.tu-darmstadt.de:3581",
+          "is_oa": true,
+          "landing_page_url": "https://tuprints.ulb.tu-darmstadt.de/3581/7/Annex.zip",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401590",
+            "display_name": "Technischen Universität Darmstadt",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I31512782",
+            "host_organization_name": "Technische Universität Darmstadt",
+            "host_organization_lineage": [
+              "https://openalex.org/I31512782"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "info:eu-repo/semantics/book"
+        },
+        {
           "id": "pmh:oai:tuprints.ulb.tu-darmstadt.de:3416",
           "is_oa": true,
           "landing_page_url": "https://tuprints.ulb.tu-darmstadt.de/3416/7/Annex.zip",
@@ -5141,35 +5177,6 @@
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "info:eu-repo/semantics/doctoralThesis"
-        },
-        {
-          "id": "pmh:oai:tuprints.ulb.tu-darmstadt.de:3581",
-          "is_oa": true,
-          "landing_page_url": "https://tuprints.ulb.tu-darmstadt.de/3581/7/Annex.zip",
-          "pdf_url": "https://tuprints.ulb.tu-darmstadt.de/3581/8/PhD%20thesis%20Al-Ajmi.pdf",
-          "source": {
-            "id": "https://openalex.org/S4306401590",
-            "display_name": "Technischen Universität Darmstadt",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I31512782",
-            "host_organization_name": "Technische Universität Darmstadt",
-            "host_organization_lineage": [
-              "https://openalex.org/I31512782"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "info:eu-repo/semantics/book"
         },
         {
           "id": "doi:10.26083/tuprints-00003416",
@@ -5245,10 +5252,10 @@
         }
       ],
       "best_oa_location": {
-        "id": "pmh:oai:tuprints.ulb.tu-darmstadt.de:3416",
+        "id": "pmh:oai:tuprints.ulb.tu-darmstadt.de:3581",
         "is_oa": true,
-        "landing_page_url": "https://tuprints.ulb.tu-darmstadt.de/3416/7/Annex.zip",
-        "pdf_url": "https://tuprints.ulb.tu-darmstadt.de/3416/1/PhD%20thesis%20Al-Ajmi.pdf",
+        "landing_page_url": "https://tuprints.ulb.tu-darmstadt.de/3581/7/Annex.zip",
+        "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4306401590",
           "display_name": "Technischen Universität Darmstadt",
@@ -5267,23 +5274,20 @@
         },
         "license": "cc-by-nc-nd",
         "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-        "version": "submittedVersion",
-        "is_accepted": false,
+        "version": "acceptedVersion",
+        "is_accepted": true,
         "is_published": false,
         "raw_source_name": null,
-        "raw_type": "info:eu-repo/semantics/doctoralThesis"
+        "raw_type": "info:eu-repo/semantics/book"
       },
       "sustainable_development_goals": [],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": false,
+        "grobid_xml": false
       },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W1747876392.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W1747876392.grobid-xml"
-      },
+      "content_urls": null,
       "referenced_works_count": 0,
       "referenced_works": [],
       "related_works": [
@@ -8112,7 +8116,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-14T07:06:38.338062",
+      "updated_date": "2026-08-18T07:49:30.821534",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8562,16 +8566,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.6299999952316284,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9056,8 +9060,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9211,7 +9215,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.07160494,
+        "value": 0.07534808,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9529,8 +9533,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10114,7 +10118,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-08-18T07:49:30.821534",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10462,16 +10466,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6000000238418579,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -10819,8 +10823,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11713,16 +11717,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "score": 0.6469302177429199,
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12650,8 +12654,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

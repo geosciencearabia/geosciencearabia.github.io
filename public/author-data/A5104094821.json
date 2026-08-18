@@ -840,8 +840,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 132,
@@ -1931,7 +1931,7 @@
         "id": "doi:10.1029/2020ea001432",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1029/2020ea001432",
-        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2020EA001432",
+        "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S2764679394",
           "display_name": "Earth and Space Science",
@@ -1968,7 +1968,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "gold",
-        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2020EA001432",
+        "oa_url": "https://doi.org/10.1029/2020ea001432",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -2344,11 +2344,11 @@
         "currency": "USD",
         "value_usd": 2100
       },
-      "fwci": 0.9231,
+      "fwci": 0.9185,
       "has_fulltext": true,
       "cited_by_count": 13,
       "citation_normalized_percentile": {
-        "value": 0.68846351,
+        "value": 0.68689463,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -2527,7 +2527,7 @@
           "id": "doi:10.1029/2020ea001432",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.1029/2020ea001432",
-          "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2020EA001432",
+          "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S2764679394",
             "display_name": "Earth and Space Science",
@@ -2557,6 +2557,35 @@
           "raw_type": "journal-article"
         },
         {
+          "id": "pmh:oai:pure.atira.dk:openaire_cris_publications/56e55c8a-001d-4d3a-bc88-ab9daacaf2fc",
+          "is_oa": true,
+          "landing_page_url": "https://researchprofiles.ku.dk/da/publications/56e55c8a-001d-4d3a-bc88-ab9daacaf2fc",
+          "pdf_url": "https://curis.ku.dk/ws/files/281338667/2020EA001432.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306401983",
+            "display_name": "Research at the University of Copenhagen (University of Copenhagen)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I124055696",
+            "host_organization_name": "University of Copenhagen",
+            "host_organization_lineage": [
+              "https://openalex.org/I124055696"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Hanafy , S M , Soupios , P , Stampolidis , A , Koch , C B , Al-Ramadan , K , Al-Shuhail , A , Solling , T & Argadestya , I 2021 , ' Comprehensive Geophysical Study at Wabar Crater, Rub Al-Khali Desert, Saudi Arabia ' , Earth and Space Science , vol. 8 , no. 9 , e2020EA001432 . https://doi.org/10.1029/2020EA001432",
+          "raw_type": "article"
+        },
+        {
           "id": "pmh:oai:doaj.org/article:78bbcbfe42bb4f7e93ef1a9633369499",
           "is_oa": true,
           "landing_page_url": "https://doaj.org/article/78bbcbfe42bb4f7e93ef1a9633369499",
@@ -2582,42 +2611,13 @@
           "is_published": false,
           "raw_source_name": "Earth and Space Science, Vol 8, Iss 9, Pp n/a-n/a (2021)",
           "raw_type": "article"
-        },
-        {
-          "id": "pmh:oai:pure.atira.dk:openaire_cris_publications/56e55c8a-001d-4d3a-bc88-ab9daacaf2fc",
-          "is_oa": true,
-          "landing_page_url": "https://researchprofiles.ku.dk/da/publications/56e55c8a-001d-4d3a-bc88-ab9daacaf2fc",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401983",
-            "display_name": "Research at the University of Copenhagen (University of Copenhagen)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I124055696",
-            "host_organization_name": "University of Copenhagen",
-            "host_organization_lineage": [
-              "https://openalex.org/I124055696"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-nc",
-          "license_id": "https://openalex.org/licenses/cc-by-nc",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Hanafy , S M , Soupios , P , Stampolidis , A , Koch , C B , Al-Ramadan , K , Al-Shuhail , A , Solling , T & Argadestya , I 2021 , ' Comprehensive Geophysical Study at Wabar Crater, Rub Al-Khali Desert, Saudi Arabia ' , Earth and Space Science , vol. 8 , no. 9 , e2020EA001432 . https://doi.org/10.1029/2020EA001432",
-          "raw_type": "article"
         }
       ],
       "best_oa_location": {
         "id": "doi:10.1029/2020ea001432",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1029/2020ea001432",
-        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2020EA001432",
+        "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S2764679394",
           "display_name": "Earth and Space Science",
@@ -2648,16 +2648,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.5400000214576721,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -3308,7 +3308,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-08-18T07:49:30.821534",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -3835,16 +3835,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 91,
@@ -4734,7 +4734,7 @@
         "id": "doi:10.3390/min15030317",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.3390/min15030317",
-        "pdf_url": "https://www.mdpi.com/2075-163X/15/3/317/pdf?version=1742377356",
+        "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S2737336974",
           "display_name": "Minerals",
@@ -4770,7 +4770,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "gold",
-        "oa_url": "https://www.mdpi.com/2075-163X/15/3/317/pdf?version=1742377356",
+        "oa_url": "https://doi.org/10.3390/min15030317",
         "any_repository_has_fulltext": false
       },
       "authorships": [
@@ -4949,11 +4949,11 @@
         "currency": "CHF",
         "value_usd": 2227
       },
-      "fwci": 2.3544,
+      "fwci": 2.1281,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.87422449,
+        "value": 0.85970565,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5147,7 +5147,7 @@
           "id": "doi:10.3390/min15030317",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.3390/min15030317",
-          "pdf_url": "https://www.mdpi.com/2075-163X/15/3/317/pdf?version=1742377356",
+          "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S2737336974",
             "display_name": "Minerals",
@@ -5181,7 +5181,7 @@
         "id": "doi:10.3390/min15030317",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.3390/min15030317",
-        "pdf_url": "https://www.mdpi.com/2075-163X/15/3/317/pdf?version=1742377356",
+        "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S2737336974",
           "display_name": "Minerals",
@@ -5214,12 +5214,10 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": false,
+        "grobid_xml": false
       },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W4408588305.pdf"
-      },
+      "content_urls": null,
       "referenced_works_count": 102,
       "referenced_works": [
         "https://openalex.org/W1540632399",
@@ -6062,7 +6060,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-08-18T07:49:30.821534",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6626,8 +6624,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -7553,16 +7551,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2067784425.pdf",
@@ -8729,9 +8727,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -8766,8 +8764,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 106,
@@ -9426,16 +9424,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -10060,9 +10058,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -10087,8 +10085,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 175,
@@ -11068,8 +11066,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -11502,7 +11500,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 2,
-      "institutions_distinct_count": 7,
+      "institutions_distinct_count": 2,
       "corresponding_author_ids": [
         "https://openalex.org/A5059881838"
       ],
@@ -11519,11 +11517,11 @@
         "currency": "USD",
         "value_usd": 1685
       },
-      "fwci": 0.9314,
+      "fwci": 0.6925,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.69371977,
+        "value": 0.59961892,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11822,8 +11820,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4401646659.pdf",
@@ -12630,7 +12628,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-15T08:34:33.830935",
+      "updated_date": "2026-08-18T07:49:30.821534",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13110,8 +13108,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -13898,7 +13896,7 @@
         "id": "doi:10.1029/2020ea001582",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1029/2020ea001582",
-        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2020EA001582",
+        "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S2764679394",
           "display_name": "Earth and Space Science",
@@ -13935,7 +13933,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "gold",
-        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2020EA001582",
+        "oa_url": "https://doi.org/10.1029/2020ea001582",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -14092,11 +14090,11 @@
         "currency": "USD",
         "value_usd": 2100
       },
-      "fwci": 0.2769,
+      "fwci": 0.2755,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.48860232,
+        "value": 0.48635163,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -14357,7 +14355,7 @@
           "id": "doi:10.1029/2020ea001582",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.1029/2020ea001582",
-          "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2020EA001582",
+          "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S2764679394",
             "display_name": "Earth and Space Science",
@@ -14418,7 +14416,7 @@
         "id": "doi:10.1029/2020ea001582",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1029/2020ea001582",
-        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1029/2020EA001582",
+        "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S2764679394",
           "display_name": "Earth and Space Science",
@@ -14465,8 +14463,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -15069,7 +15067,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-08-18T07:49:30.821534",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15386,11 +15384,11 @@
         "currency": "USD",
         "value_usd": 2090
       },
-      "fwci": 0.8998,
+      "fwci": 0.8188,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.64579015,
+        "value": 0.62256112,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -15718,8 +15716,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4407393621.pdf",
@@ -16360,7 +16358,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-08-18T07:49:30.821534",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16872,16 +16870,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8600000143051147,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -17744,16 +17742,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18046,8 +18044,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18531,8 +18529,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -19857,8 +19855,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 78,

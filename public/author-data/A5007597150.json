@@ -13,9 +13,9 @@
     ],
     "full_name": "Mohammed H. Al Kindi",
     "works_count": 15,
-    "cited_by_count": 27,
+    "cited_by_count": 28,
     "summary_stats": {
-      "2yr_mean_citedness": 1.1111111111111112,
+      "2yr_mean_citedness": 1.2222222222222223,
       "h_index": 3,
       "i10_index": 0
     },
@@ -306,8 +306,8 @@
       {
         "year": 2025,
         "works_count": 1,
-        "oa_works_count": 1,
-        "cited_by_count": 1
+        "oa_works_count": 0,
+        "cited_by_count": 2
       },
       {
         "year": 2026,
@@ -326,7 +326,7 @@
     ],
     "block_key": "m al kindi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5007597150",
-    "updated_date": "2026-08-15T12:17:20",
+    "updated_date": "2026-08-17T12:17:31",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -819,8 +819,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 64,
@@ -1365,6 +1365,1487 @@
         }
       ],
       "updated_date": "2026-05-25T08:39:21.599409",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4410788205",
+      "doi": "https://doi.org/10.1002/esp.70064",
+      "title": "Mineralogical characterisation of aeolian sands using multispectral satellite datasets: Implications for dune field evolution, Wahiba Dune Field, Oman",
+      "display_name": "Mineralogical characterisation of aeolian sands using multispectral satellite datasets: Implications for dune field evolution, Wahiba Dune Field, Oman",
+      "publication_year": 2025,
+      "publication_date": "2025-05-01",
+      "ids": {
+        "openalex": "https://openalex.org/W4410788205",
+        "doi": "https://doi.org/10.1002/esp.70064"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1002/esp.70064",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1002/esp.70064",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S92316360",
+          "display_name": "Earth Surface Processes and Landforms",
+          "issn_l": "0197-9337",
+          "issn": [
+            "0197-9337",
+            "0360-1269",
+            "1096-9837",
+            "1931-8065"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Earth Surface Processes and Landforms",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5063297406",
+            "display_name": "David Cousins",
+            "orcid": "https://orcid.org/0009-0005-2430-9517"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I86519309",
+              "display_name": "The University of Texas at Austin",
+              "ror": "https://ror.org/00hj54h04",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I86519309"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "David Cousins",
+          "raw_affiliation_strings": [
+            "Jackson School of Geosciences University of Texas at Austin  Austin Texas USA"
+          ],
+          "raw_orcid": "https://orcid.org/0009-0005-2430-9517",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jackson School of Geosciences University of Texas at Austin  Austin Texas USA",
+              "institution_ids": [
+                "https://openalex.org/I86519309"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5098284429",
+            "display_name": "Gary Kocurek",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I86519309",
+              "display_name": "The University of Texas at Austin",
+              "ror": "https://ror.org/00hj54h04",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I86519309"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Gary Kocurek",
+          "raw_affiliation_strings": [
+            "Jackson School of Geosciences University of Texas at Austin  Austin Texas USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Jackson School of Geosciences University of Texas at Austin  Austin Texas USA",
+              "institution_ids": [
+                "https://openalex.org/I86519309"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5007597150",
+            "display_name": "Mohammed Al Kindi",
+            "orcid": "https://orcid.org/0000-0002-8456-158X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210122910",
+              "display_name": "The Research Council",
+              "ror": "https://ror.org/03tcppy59",
+              "country_code": "OM",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210122910"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed Al Kindi",
+          "raw_affiliation_strings": [
+            "Earth Sciences Consultancy Centre  Muscat Oman"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-8456-158X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Sciences Consultancy Centre  Muscat Oman",
+              "institution_ids": [
+                "https://openalex.org/I4210122910"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5117717224",
+            "display_name": "Omer Al Mashaykhi",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210122910",
+              "display_name": "The Research Council",
+              "ror": "https://ror.org/03tcppy59",
+              "country_code": "OM",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210122910"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Omer Al Mashaykhi",
+          "raw_affiliation_strings": [
+            "Earth Sciences Consultancy Centre  Muscat Oman"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Earth Sciences Consultancy Centre  Muscat Oman",
+              "institution_ids": [
+                "https://openalex.org/I4210122910"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5030853355",
+            "display_name": "Caroline Hern",
+            "orcid": "https://orcid.org/0000-0002-2747-2548"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I7923278",
+              "display_name": "Shell (Netherlands)",
+              "ror": "https://ror.org/00b5m4j81",
+              "country_code": "NL",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I7923278"
+              ]
+            }
+          ],
+          "countries": [
+            "NL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Caroline Hern",
+          "raw_affiliation_strings": [
+            "Shell International Exploration and Production  Houston Texas USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Shell International Exploration and Production  Houston Texas USA",
+              "institution_ids": [
+                "https://openalex.org/I7923278"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5110360466",
+            "display_name": "C. I. Macaulay",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I7923278",
+              "display_name": "Shell (Netherlands)",
+              "ror": "https://ror.org/00b5m4j81",
+              "country_code": "NL",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I7923278"
+              ]
+            }
+          ],
+          "countries": [
+            "NL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Calum Macaulay",
+          "raw_affiliation_strings": [
+            "Shell International Exploration and Production  Houston Texas USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Shell International Exploration and Production  Houston Texas USA",
+              "institution_ids": [
+                "https://openalex.org/I7923278"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5081805141",
+            "display_name": "Robert M. Campbell",
+            "orcid": "https://orcid.org/0000-0003-2120-6887"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I7923278",
+              "display_name": "Shell (Netherlands)",
+              "ror": "https://ror.org/00b5m4j81",
+              "country_code": "NL",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I7923278"
+              ]
+            }
+          ],
+          "countries": [
+            "NL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Robert Campbell",
+          "raw_affiliation_strings": [
+            "Shell International Exploration and Production  Houston Texas USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Shell International Exploration and Production  Houston Texas USA",
+              "institution_ids": [
+                "https://openalex.org/I7923278"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5112513583",
+            "display_name": "M.D. Thompson",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I7923278",
+              "display_name": "Shell (Netherlands)",
+              "ror": "https://ror.org/00b5m4j81",
+              "country_code": "NL",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I7923278"
+              ]
+            }
+          ],
+          "countries": [
+            "NL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Michelle Thompson",
+          "raw_affiliation_strings": [
+            "Shell International Exploration and Production  Houston Texas USA"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Shell International Exploration and Production  Houston Texas USA",
+              "institution_ids": [
+                "https://openalex.org/I7923278"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5063297406"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I86519309"
+      ],
+      "apc_list": {
+        "value": 4840,
+        "currency": "USD",
+        "value_usd": 4840
+      },
+      "apc_paid": null,
+      "fwci": 2.1943,
+      "has_fulltext": false,
+      "cited_by_count": 2,
+      "citation_normalized_percentile": {
+        "value": 0.88720151,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 97,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "50",
+        "issue": "6",
+        "first_page": null,
+        "last_page": null
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T12157",
+        "display_name": "Geochemistry and Geologic Mapping",
+        "score": 0.9988999962806702,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1702",
+          "display_name": "Artificial Intelligence"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/17",
+          "display_name": "Computer Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T12157",
+          "display_name": "Geochemistry and Geologic Mapping",
+          "score": 0.9988999962806702,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1702",
+            "display_name": "Artificial Intelligence"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/17",
+            "display_name": "Computer Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T12383",
+          "display_name": "Aeolian processes and effects",
+          "score": 0.9833999872207642,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.9807000160217285,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.7614515423774719
+        },
+        {
+          "id": "https://openalex.org/keywords/advanced-spaceborne-thermal-emission-and-reflection-radiometer",
+          "display_name": "Advanced Spaceborne Thermal Emission and Reflection Radiometer",
+          "score": 0.6262893676757812
+        },
+        {
+          "id": "https://openalex.org/keywords/remote-sensing",
+          "display_name": "Remote sensing",
+          "score": 0.5639193058013916
+        },
+        {
+          "id": "https://openalex.org/keywords/context",
+          "display_name": "Context (archaeology)",
+          "score": 0.563889741897583
+        },
+        {
+          "id": "https://openalex.org/keywords/aeolian-processes",
+          "display_name": "Aeolian processes",
+          "score": 0.5032686591148376
+        },
+        {
+          "id": "https://openalex.org/keywords/petrography",
+          "display_name": "Petrography",
+          "score": 0.48257818818092346
+        },
+        {
+          "id": "https://openalex.org/keywords/multispectral-image",
+          "display_name": "Multispectral image",
+          "score": 0.47621235251426697
+        },
+        {
+          "id": "https://openalex.org/keywords/mineralogy",
+          "display_name": "Mineralogy",
+          "score": 0.30258849263191223
+        },
+        {
+          "id": "https://openalex.org/keywords/geomorphology",
+          "display_name": "Geomorphology",
+          "score": 0.30124861001968384
+        },
+        {
+          "id": "https://openalex.org/keywords/digital-elevation-model",
+          "display_name": "Digital elevation model",
+          "score": 0.16710448265075684
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.14745384454727173
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.7614515423774719
+        },
+        {
+          "id": "https://openalex.org/C13772937",
+          "wikidata": "https://www.wikidata.org/wiki/Q298019",
+          "display_name": "Advanced Spaceborne Thermal Emission and Reflection Radiometer",
+          "level": 3,
+          "score": 0.6262893676757812
+        },
+        {
+          "id": "https://openalex.org/C62649853",
+          "wikidata": "https://www.wikidata.org/wiki/Q199687",
+          "display_name": "Remote sensing",
+          "level": 1,
+          "score": 0.5639193058013916
+        },
+        {
+          "id": "https://openalex.org/C2779343474",
+          "wikidata": "https://www.wikidata.org/wiki/Q3109175",
+          "display_name": "Context (archaeology)",
+          "level": 2,
+          "score": 0.563889741897583
+        },
+        {
+          "id": "https://openalex.org/C180093795",
+          "wikidata": "https://www.wikidata.org/wiki/Q215839",
+          "display_name": "Aeolian processes",
+          "level": 2,
+          "score": 0.5032686591148376
+        },
+        {
+          "id": "https://openalex.org/C59235061",
+          "wikidata": "https://www.wikidata.org/wiki/Q289600",
+          "display_name": "Petrography",
+          "level": 2,
+          "score": 0.48257818818092346
+        },
+        {
+          "id": "https://openalex.org/C173163844",
+          "wikidata": "https://www.wikidata.org/wiki/Q1761440",
+          "display_name": "Multispectral image",
+          "level": 2,
+          "score": 0.47621235251426697
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.30258849263191223
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.30124861001968384
+        },
+        {
+          "id": "https://openalex.org/C181843262",
+          "wikidata": "https://www.wikidata.org/wiki/Q640492",
+          "display_name": "Digital elevation model",
+          "level": 2,
+          "score": 0.16710448265075684
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.14745384454727173
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1002/esp.70064",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1002/esp.70064",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S92316360",
+            "display_name": "Earth Surface Processes and Landforms",
+            "issn_l": "0197-9337",
+            "issn": [
+              "0197-9337",
+              "0360-1269",
+              "1096-9837",
+              "1931-8065"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320595",
+            "host_organization_name": "Wiley",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320595"
+            ],
+            "host_organization_lineage_names": [
+              "Wiley"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Earth Surface Processes and Landforms",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [
+        {
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284
+        }
+      ],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320333062",
+          "display_name": "Shell Exploration and Production Company",
+          "ror": "https://ror.org/04wedba92"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 73,
+      "referenced_works": [
+        "https://openalex.org/W1495168473",
+        "https://openalex.org/W1571958385",
+        "https://openalex.org/W1955431138",
+        "https://openalex.org/W1966393306",
+        "https://openalex.org/W1969612317",
+        "https://openalex.org/W1978124557",
+        "https://openalex.org/W1987372501",
+        "https://openalex.org/W1991253872",
+        "https://openalex.org/W1994667166",
+        "https://openalex.org/W1994725378",
+        "https://openalex.org/W1995877879",
+        "https://openalex.org/W1997849539",
+        "https://openalex.org/W1998668642",
+        "https://openalex.org/W1999436875",
+        "https://openalex.org/W2004408791",
+        "https://openalex.org/W2007602929",
+        "https://openalex.org/W2009872177",
+        "https://openalex.org/W2010319424",
+        "https://openalex.org/W2011776284",
+        "https://openalex.org/W2015558512",
+        "https://openalex.org/W2016139699",
+        "https://openalex.org/W2020526247",
+        "https://openalex.org/W2020927167",
+        "https://openalex.org/W2038886011",
+        "https://openalex.org/W2058184799",
+        "https://openalex.org/W2060571299",
+        "https://openalex.org/W2061157821",
+        "https://openalex.org/W2061593412",
+        "https://openalex.org/W2065687166",
+        "https://openalex.org/W2066793956",
+        "https://openalex.org/W2072377673",
+        "https://openalex.org/W2076372859",
+        "https://openalex.org/W2079896118",
+        "https://openalex.org/W2085019506",
+        "https://openalex.org/W2099904352",
+        "https://openalex.org/W2122550671",
+        "https://openalex.org/W2127468974",
+        "https://openalex.org/W2137411859",
+        "https://openalex.org/W2143558021",
+        "https://openalex.org/W2144374166",
+        "https://openalex.org/W2146480283",
+        "https://openalex.org/W2159525271",
+        "https://openalex.org/W2168168701",
+        "https://openalex.org/W2168909621",
+        "https://openalex.org/W2171211028",
+        "https://openalex.org/W2312997001",
+        "https://openalex.org/W2322328802",
+        "https://openalex.org/W2330935816",
+        "https://openalex.org/W2406027033",
+        "https://openalex.org/W2523551229",
+        "https://openalex.org/W2597944323",
+        "https://openalex.org/W2745963626",
+        "https://openalex.org/W2778035589",
+        "https://openalex.org/W2801087535",
+        "https://openalex.org/W2896659948",
+        "https://openalex.org/W2900544280",
+        "https://openalex.org/W2904132173",
+        "https://openalex.org/W2938243655",
+        "https://openalex.org/W2941596473",
+        "https://openalex.org/W2945318394",
+        "https://openalex.org/W2962723135",
+        "https://openalex.org/W3004443769",
+        "https://openalex.org/W3093636966",
+        "https://openalex.org/W3096851507",
+        "https://openalex.org/W3117817073",
+        "https://openalex.org/W3135935297",
+        "https://openalex.org/W3136111501",
+        "https://openalex.org/W3160228394",
+        "https://openalex.org/W4236928822",
+        "https://openalex.org/W4248150465",
+        "https://openalex.org/W4286493420",
+        "https://openalex.org/W6903639621",
+        "https://openalex.org/W7048498360"
+      ],
+      "related_works": [
+        "https://openalex.org/W2083876416",
+        "https://openalex.org/W561675821",
+        "https://openalex.org/W2063845072",
+        "https://openalex.org/W1991475175",
+        "https://openalex.org/W152258655",
+        "https://openalex.org/W2150140375",
+        "https://openalex.org/W2165230971",
+        "https://openalex.org/W1491005635",
+        "https://openalex.org/W4238946663",
+        "https://openalex.org/W2014608006"
+      ],
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "The": [
+          1,
+          128,
+          152,
+          245
+        ],
+        "Wahiba": [
+          2
+        ],
+        "Basin": [
+          3
+        ],
+        "of": [
+          4,
+          11,
+          40,
+          60,
+          70,
+          170,
+          182,
+          195,
+          200,
+          220,
+          228,
+          248,
+          261,
+          285,
+          297
+        ],
+        "NE": [
+          5
+        ],
+        "Oman": [
+          6
+        ],
+        "has": [
+          7
+        ],
+        "been": [
+          8
+        ],
+        "the": [
+          9,
+          19,
+          38,
+          41,
+          103,
+          115,
+          124,
+          167,
+          179,
+          188,
+          192,
+          209,
+          213,
+          218,
+          221,
+          225,
+          233,
+          238,
+          259,
+          262,
+          283,
+          295
+        ],
+        "focus": [
+          10
+        ],
+        "numerous": [
+          12
+        ],
+        "studies": [
+          13
+        ],
+        "involving": [
+          14
+        ],
+        "satellite": [
+          15
+        ],
+        "imagery": [
+          16
+        ],
+        "that": [
+          17,
+          160,
+          204,
+          212,
+          232,
+          257,
+          266
+        ],
+        "demonstrate": [
+          18
+        ],
+        "complex": [
+          20
+        ],
+        "interactions": [
+          21
+        ],
+        "between": [
+          22
+        ],
+        "diverse": [
+          23
+        ],
+        "source": [
+          24,
+          202
+        ],
+        "terrains": [
+          25
+        ],
+        "and": [
+          26,
+          44,
+          56,
+          63,
+          75,
+          98,
+          109,
+          119,
+          135,
+          165,
+          254,
+          268,
+          293
+        ],
+        "fluvial/marine/aeolian": [
+          27
+        ],
+        "sediment": [
+          28,
+          255,
+          291
+        ],
+        "transport": [
+          29
+        ],
+        "pathways.": [
+          30
+        ],
+        "Building": [
+          31
+        ],
+        "upon": [
+          32
+        ],
+        "previous": [
+          33
+        ],
+        "work,": [
+          34
+        ],
+        "our": [
+          35,
+          121,
+          149
+        ],
+        "study": [
+          36
+        ],
+        "resolves": [
+          37
+        ],
+        "mineralogy": [
+          39,
+          260
+        ],
+        "dune": [
+          42,
+          189,
+          222,
+          302
+        ],
+        "field": [
+          43,
+          223,
+          303
+        ],
+        "grain": [
+          45
+        ],
+        "provenance": [
+          46
+        ],
+        "utilising": [
+          47
+        ],
+        "a": [
+          48,
+          139,
+          144,
+          241
+        ],
+        "multispectral": [
+          49
+        ],
+        "dataset": [
+          50,
+          132
+        ],
+        "derived": [
+          51
+        ],
+        "from": [
+          52,
+          82
+        ],
+        "visible": [
+          53
+        ],
+        "to": [
+          54,
+          113,
+          147,
+          217,
+          289
+        ],
+        "near‐infrared": [
+          55
+        ],
+        "short‐wave": [
+          57
+        ],
+        "infrared": [
+          58,
+          68
+        ],
+        "bands": [
+          59,
+          69
+        ],
+        "Worldview‐3": [
+          61
+        ],
+        "(WV‐3)": [
+          62
+        ],
+        "Sentinel‐2,": [
+          64
+        ],
+        "alongside": [
+          65
+        ],
+        "select": [
+          66
+        ],
+        "thermal": [
+          67
+        ],
+        "Advanced": [
+          71
+        ],
+        "Spaceborne": [
+          72
+        ],
+        "Thermal": [
+          73
+        ],
+        "Emission": [
+          74
+        ],
+        "Reflection": [
+          76
+        ],
+        "Radiometer": [
+          77
+        ],
+        "(ASTER).": [
+          78
+        ],
+        "Spectral": [
+          79
+        ],
+        "signatures": [
+          80
+        ],
+        "identified": [
+          81
+        ],
+        "remote": [
+          83
+        ],
+        "sensing": [
+          84
+        ],
+        "were": [
+          85,
+          273
+        ],
+        "confirmed": [
+          86
+        ],
+        "through": [
+          87
+        ],
+        "selective": [
+          88
+        ],
+        "surface": [
+          89
+        ],
+        "sampling,": [
+          90
+        ],
+        "followed": [
+          91
+        ],
+        "by": [
+          92
+        ],
+        "petrographic": [
+          93
+        ],
+        "analysis,": [
+          94
+        ],
+        "powder": [
+          95
+        ],
+        "X‐ray": [
+          96
+        ],
+        "diffraction": [
+          97
+        ],
+        "grain‐size": [
+          99
+        ],
+        "analysis.": [
+          100
+        ],
+        "We": [
+          101,
+          207
+        ],
+        "employed": [
+          102
+        ],
+        "spectral": [
+          104
+        ],
+        "angle": [
+          105
+        ],
+        "mapper": [
+          106
+        ],
+        "algorithm": [
+          107
+        ],
+        "(SAM)": [
+          108
+        ],
+        "band": [
+          110
+        ],
+        "ratio": [
+          111
+        ],
+        "analysis": [
+          112,
+          299
+        ],
+        "classify": [
+          114
+        ],
+        "WV‐3": [
+          116,
+          131
+        ],
+        "covered": [
+          117
+        ],
+        "megadunes,": [
+          118
+        ],
+        "validate": [
+          120
+        ],
+        "scenes": [
+          122,
+          159
+        ],
+        "with": [
+          123,
+          178,
+          197
+        ],
+        "ground": [
+          125
+        ],
+        "sample": [
+          126
+        ],
+        "data.": [
+          127
+        ],
+        "spectrally": [
+          129
+        ],
+        "superior": [
+          130
+        ],
+        "was": [
+          133
+        ],
+        "resampled": [
+          134
+        ],
+        "compared,": [
+          136
+        ],
+        "pixel‐for‐pixel,": [
+          137
+        ],
+        "against": [
+          138
+        ],
+        "SAM‐classified": [
+          140
+        ],
+        "Sentinel‐2": [
+          141
+        ],
+        "scene,": [
+          142
+        ],
+        "providing": [
+          143
+        ],
+        "framework": [
+          145
+        ],
+        "necessary": [
+          146
+        ],
+        "expand": [
+          148
+        ],
+        "observations": [
+          150,
+          174,
+          281
+        ],
+        "regionally.": [
+          151
+        ],
+        "resulting": [
+          153
+        ],
+        "datasets": [
+          154
+        ],
+        "offer": [
+          155
+        ],
+        "spatially": [
+          156
+        ],
+        "expansive": [
+          157
+        ],
+        "classified": [
+          158
+        ],
+        "provide": [
+          161
+        ],
+        "mineralogical": [
+          162,
+          198,
+          280
+        ],
+        "context": [
+          163
+        ],
+        "regionally": [
+          164
+        ],
+        "at": [
+          166
+        ],
+        "fine": [
+          168
+        ],
+        "resolution": [
+          169,
+          249
+        ],
+        "individual": [
+          171
+        ],
+        "megadunes.": [
+          172
+        ],
+        "Regional": [
+          173
+        ],
+        "are": [
+          175
+        ],
+        "mostly": [
+          176
+        ],
+        "consistent": [
+          177
+        ],
+        "spatial": [
+          180
+        ],
+        "distribution": [
+          181
+        ],
+        "mineral": [
+          183
+        ],
+        "phases": [
+          184
+        ],
+        "previously": [
+          185
+        ],
+        "defined": [
+          186
+        ],
+        "across": [
+          187
+        ],
+        "field,": [
+          190
+        ],
+        "highlighting": [
+          191
+        ],
+        "contemporary": [
+          193,
+          251,
+          263,
+          286
+        ],
+        "influx": [
+          194
+        ],
+        "sand": [
+          196
+        ],
+        "affinities": [
+          199
+        ],
+        "proximal": [
+          201
+        ],
+        "regions": [
+          203
+        ],
+        "imprint": [
+          205
+        ],
+        "locally.": [
+          206
+        ],
+        "challenge": [
+          208
+        ],
+        "prevailing": [
+          210
+        ],
+        "hypothesis": [
+          211
+        ],
+        "Al": [
+          214
+        ],
+        "Hajar": [
+          215
+        ],
+        "Mountains": [
+          216
+        ],
+        "north": [
+          219
+        ],
+        "is": [
+          224,
+          240
+        ],
+        "primary": [
+          226
+        ],
+        "supplier": [
+          227
+        ],
+        "quartz,": [
+          229
+        ],
+        "proposing": [
+          230
+        ],
+        "instead": [
+          231
+        ],
+        "siliciclastic‐rich": [
+          234
+        ],
+        "Huqf": [
+          235
+        ],
+        "Arch": [
+          236
+        ],
+        "in": [
+          237,
+          300
+        ],
+        "south": [
+          239
+        ],
+        "more": [
+          242
+        ],
+        "likely": [
+          243
+        ],
+        "contributor.": [
+          244
+        ],
+        "combined": [
+          246
+        ],
+        "scales": [
+          247
+        ],
+        "reveal": [
+          250,
+          282
+        ],
+        "megadune": [
+          252
+        ],
+        "deflation": [
+          253
+        ],
+        "reworking": [
+          256
+        ],
+        "contrasts": [
+          258
+        ],
+        "flux,": [
+          264
+        ],
+        "suggesting": [
+          265
+        ],
+        "dominant": [
+          267
+        ],
+        "subordinate": [
+          269
+        ],
+        "regional": [
+          270
+        ],
+        "wind": [
+          271
+        ],
+        "trends": [
+          272
+        ],
+        "reversed": [
+          274
+        ],
+        "during": [
+          275
+        ],
+        "glacial": [
+          276
+        ],
+        "periods.": [
+          277
+        ],
+        "Our": [
+          278
+        ],
+        "detailed": [
+          279
+        ],
+        "sensitivity": [
+          284
+        ],
+        "geomorphic": [
+          287
+        ],
+        "surfaces": [
+          288
+        ],
+        "local": [
+          290
+        ],
+        "dynamics": [
+          292
+        ],
+        "highlight": [
+          294
+        ],
+        "value": [
+          296
+        ],
+        "multi‐scale": [
+          298
+        ],
+        "interpreting": [
+          301
+        ],
+        "evolution.": [
+          304
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-08-18T07:49:30.821534",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1913,8 +3394,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3107735373.pdf",
@@ -3389,8 +4870,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3010622588.pdf",
@@ -4720,8 +6201,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 75,
@@ -5512,11 +6993,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2205,
+      "fwci": 1.1854,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.82963995,
+        "value": 0.82683336,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5787,11 +7268,12 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": false
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
-        "pdf": "https://content.openalex.org/works/W4386162512.pdf"
+        "pdf": "https://content.openalex.org/works/W4386162512.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W4386162512.grobid-xml"
       },
       "referenced_works_count": 1,
       "referenced_works": [
@@ -5971,7 +7453,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-25T17:18:41.151588",
+      "updated_date": "2026-08-18T07:49:30.821534",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6473,8 +7955,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -6536,1524 +8018,6 @@
         }
       ],
       "updated_date": "2026-07-30T17:31:21.811387",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4410788205",
-      "doi": "https://doi.org/10.1002/esp.70064",
-      "title": "Mineralogical characterisation of aeolian sands using multispectral satellite datasets: Implications for dune field evolution, Wahiba Dune Field, Oman",
-      "display_name": "Mineralogical characterisation of aeolian sands using multispectral satellite datasets: Implications for dune field evolution, Wahiba Dune Field, Oman",
-      "publication_year": 2025,
-      "publication_date": "2025-05-01",
-      "ids": {
-        "openalex": "https://openalex.org/W4410788205",
-        "doi": "https://doi.org/10.1002/esp.70064"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1002/esp.70064",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1002/esp.70064",
-        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/esp.70064",
-        "source": {
-          "id": "https://openalex.org/S92316360",
-          "display_name": "Earth Surface Processes and Landforms",
-          "issn_l": "0197-9337",
-          "issn": [
-            "0197-9337",
-            "0360-1269",
-            "1096-9837",
-            "1931-8065"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320595",
-          "host_organization_name": "Wiley",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320595"
-          ],
-          "host_organization_lineage_names": [
-            "Wiley"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Earth Surface Processes and Landforms",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "bronze",
-        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/esp.70064",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5063297406",
-            "display_name": "David Cousins",
-            "orcid": "https://orcid.org/0009-0005-2430-9517"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I86519309",
-              "display_name": "The University of Texas at Austin",
-              "ror": "https://ror.org/00hj54h04",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I86519309"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "David Cousins",
-          "raw_affiliation_strings": [
-            "Jackson School of Geosciences University of Texas at Austin  Austin Texas USA"
-          ],
-          "raw_orcid": "https://orcid.org/0009-0005-2430-9517",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Jackson School of Geosciences University of Texas at Austin  Austin Texas USA",
-              "institution_ids": [
-                "https://openalex.org/I86519309"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5098284429",
-            "display_name": "Gary Kocurek",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I86519309",
-              "display_name": "The University of Texas at Austin",
-              "ror": "https://ror.org/00hj54h04",
-              "country_code": "US",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I86519309"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Gary Kocurek",
-          "raw_affiliation_strings": [
-            "Jackson School of Geosciences University of Texas at Austin  Austin Texas USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Jackson School of Geosciences University of Texas at Austin  Austin Texas USA",
-              "institution_ids": [
-                "https://openalex.org/I86519309"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5007597150",
-            "display_name": "Mohammed Al Kindi",
-            "orcid": "https://orcid.org/0000-0002-8456-158X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210122910",
-              "display_name": "The Research Council",
-              "ror": "https://ror.org/03tcppy59",
-              "country_code": "OM",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210122910"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammed Al Kindi",
-          "raw_affiliation_strings": [
-            "Earth Sciences Consultancy Centre  Muscat Oman"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-8456-158X",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Earth Sciences Consultancy Centre  Muscat Oman",
-              "institution_ids": [
-                "https://openalex.org/I4210122910"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5117717224",
-            "display_name": "Omer Al Mashaykhi",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210122910",
-              "display_name": "The Research Council",
-              "ror": "https://ror.org/03tcppy59",
-              "country_code": "OM",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I4210122910"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Omer Al Mashaykhi",
-          "raw_affiliation_strings": [
-            "Earth Sciences Consultancy Centre  Muscat Oman"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Earth Sciences Consultancy Centre  Muscat Oman",
-              "institution_ids": [
-                "https://openalex.org/I4210122910"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5030853355",
-            "display_name": "Caroline Hern",
-            "orcid": "https://orcid.org/0000-0002-2747-2548"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I7923278",
-              "display_name": "Shell (Netherlands)",
-              "ror": "https://ror.org/00b5m4j81",
-              "country_code": "NL",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I7923278"
-              ]
-            }
-          ],
-          "countries": [
-            "NL"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Caroline Hern",
-          "raw_affiliation_strings": [
-            "Shell International Exploration and Production  Houston Texas USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Shell International Exploration and Production  Houston Texas USA",
-              "institution_ids": [
-                "https://openalex.org/I7923278"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5110360466",
-            "display_name": "C. I. Macaulay",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I7923278",
-              "display_name": "Shell (Netherlands)",
-              "ror": "https://ror.org/00b5m4j81",
-              "country_code": "NL",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I7923278"
-              ]
-            }
-          ],
-          "countries": [
-            "NL"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Calum Macaulay",
-          "raw_affiliation_strings": [
-            "Shell International Exploration and Production  Houston Texas USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Shell International Exploration and Production  Houston Texas USA",
-              "institution_ids": [
-                "https://openalex.org/I7923278"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5081805141",
-            "display_name": "Robert M. Campbell",
-            "orcid": "https://orcid.org/0000-0003-2120-6887"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I7923278",
-              "display_name": "Shell (Netherlands)",
-              "ror": "https://ror.org/00b5m4j81",
-              "country_code": "NL",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I7923278"
-              ]
-            }
-          ],
-          "countries": [
-            "NL"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Robert Campbell",
-          "raw_affiliation_strings": [
-            "Shell International Exploration and Production  Houston Texas USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Shell International Exploration and Production  Houston Texas USA",
-              "institution_ids": [
-                "https://openalex.org/I7923278"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5112513583",
-            "display_name": "M.D. Thompson",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I7923278",
-              "display_name": "Shell (Netherlands)",
-              "ror": "https://ror.org/00b5m4j81",
-              "country_code": "NL",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I7923278"
-              ]
-            }
-          ],
-          "countries": [
-            "NL"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Michelle Thompson",
-          "raw_affiliation_strings": [
-            "Shell International Exploration and Production  Houston Texas USA"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Shell International Exploration and Production  Houston Texas USA",
-              "institution_ids": [
-                "https://openalex.org/I7923278"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5063297406"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I86519309"
-      ],
-      "apc_list": {
-        "value": 4840,
-        "currency": "USD",
-        "value_usd": 4840
-      },
-      "apc_paid": null,
-      "fwci": 1.2331,
-      "has_fulltext": false,
-      "cited_by_count": 1,
-      "citation_normalized_percentile": {
-        "value": 0.83691693,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 94,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "50",
-        "issue": "6",
-        "first_page": null,
-        "last_page": null
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T12157",
-        "display_name": "Geochemistry and Geologic Mapping",
-        "score": 0.9988999962806702,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1702",
-          "display_name": "Artificial Intelligence"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/17",
-          "display_name": "Computer Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T12157",
-          "display_name": "Geochemistry and Geologic Mapping",
-          "score": 0.9988999962806702,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1702",
-            "display_name": "Artificial Intelligence"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/17",
-            "display_name": "Computer Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T12383",
-          "display_name": "Aeolian processes and effects",
-          "score": 0.9833999872207642,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.9807000160217285,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.7614515423774719
-        },
-        {
-          "id": "https://openalex.org/keywords/advanced-spaceborne-thermal-emission-and-reflection-radiometer",
-          "display_name": "Advanced Spaceborne Thermal Emission and Reflection Radiometer",
-          "score": 0.6262893676757812
-        },
-        {
-          "id": "https://openalex.org/keywords/remote-sensing",
-          "display_name": "Remote sensing",
-          "score": 0.5639193058013916
-        },
-        {
-          "id": "https://openalex.org/keywords/context",
-          "display_name": "Context (archaeology)",
-          "score": 0.563889741897583
-        },
-        {
-          "id": "https://openalex.org/keywords/aeolian-processes",
-          "display_name": "Aeolian processes",
-          "score": 0.5032686591148376
-        },
-        {
-          "id": "https://openalex.org/keywords/petrography",
-          "display_name": "Petrography",
-          "score": 0.48257818818092346
-        },
-        {
-          "id": "https://openalex.org/keywords/multispectral-image",
-          "display_name": "Multispectral image",
-          "score": 0.47621235251426697
-        },
-        {
-          "id": "https://openalex.org/keywords/mineralogy",
-          "display_name": "Mineralogy",
-          "score": 0.30258849263191223
-        },
-        {
-          "id": "https://openalex.org/keywords/geomorphology",
-          "display_name": "Geomorphology",
-          "score": 0.30124861001968384
-        },
-        {
-          "id": "https://openalex.org/keywords/digital-elevation-model",
-          "display_name": "Digital elevation model",
-          "score": 0.16710448265075684
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.14745384454727173
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.7614515423774719
-        },
-        {
-          "id": "https://openalex.org/C13772937",
-          "wikidata": "https://www.wikidata.org/wiki/Q298019",
-          "display_name": "Advanced Spaceborne Thermal Emission and Reflection Radiometer",
-          "level": 3,
-          "score": 0.6262893676757812
-        },
-        {
-          "id": "https://openalex.org/C62649853",
-          "wikidata": "https://www.wikidata.org/wiki/Q199687",
-          "display_name": "Remote sensing",
-          "level": 1,
-          "score": 0.5639193058013916
-        },
-        {
-          "id": "https://openalex.org/C2779343474",
-          "wikidata": "https://www.wikidata.org/wiki/Q3109175",
-          "display_name": "Context (archaeology)",
-          "level": 2,
-          "score": 0.563889741897583
-        },
-        {
-          "id": "https://openalex.org/C180093795",
-          "wikidata": "https://www.wikidata.org/wiki/Q215839",
-          "display_name": "Aeolian processes",
-          "level": 2,
-          "score": 0.5032686591148376
-        },
-        {
-          "id": "https://openalex.org/C59235061",
-          "wikidata": "https://www.wikidata.org/wiki/Q289600",
-          "display_name": "Petrography",
-          "level": 2,
-          "score": 0.48257818818092346
-        },
-        {
-          "id": "https://openalex.org/C173163844",
-          "wikidata": "https://www.wikidata.org/wiki/Q1761440",
-          "display_name": "Multispectral image",
-          "level": 2,
-          "score": 0.47621235251426697
-        },
-        {
-          "id": "https://openalex.org/C199289684",
-          "wikidata": "https://www.wikidata.org/wiki/Q83353",
-          "display_name": "Mineralogy",
-          "level": 1,
-          "score": 0.30258849263191223
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.30124861001968384
-        },
-        {
-          "id": "https://openalex.org/C181843262",
-          "wikidata": "https://www.wikidata.org/wiki/Q640492",
-          "display_name": "Digital elevation model",
-          "level": 2,
-          "score": 0.16710448265075684
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.14745384454727173
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1002/esp.70064",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1002/esp.70064",
-          "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/esp.70064",
-          "source": {
-            "id": "https://openalex.org/S92316360",
-            "display_name": "Earth Surface Processes and Landforms",
-            "issn_l": "0197-9337",
-            "issn": [
-              "0197-9337",
-              "0360-1269",
-              "1096-9837",
-              "1931-8065"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320595",
-            "host_organization_name": "Wiley",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320595"
-            ],
-            "host_organization_lineage_names": [
-              "Wiley"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Earth Surface Processes and Landforms",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1002/esp.70064",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1002/esp.70064",
-        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/esp.70064",
-        "source": {
-          "id": "https://openalex.org/S92316360",
-          "display_name": "Earth Surface Processes and Landforms",
-          "issn_l": "0197-9337",
-          "issn": [
-            "0197-9337",
-            "0360-1269",
-            "1096-9837",
-            "1931-8065"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320595",
-          "host_organization_name": "Wiley",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320595"
-          ],
-          "host_organization_lineage_names": [
-            "Wiley"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Earth Surface Processes and Landforms",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
-        }
-      ],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320333062",
-          "display_name": "Shell Exploration and Production Company",
-          "ror": "https://ror.org/04wedba92"
-        }
-      ],
-      "has_content": {
-        "pdf": true,
-        "grobid_xml": false
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W4410788205.pdf"
-      },
-      "referenced_works_count": 73,
-      "referenced_works": [
-        "https://openalex.org/W1495168473",
-        "https://openalex.org/W1571958385",
-        "https://openalex.org/W1955431138",
-        "https://openalex.org/W1966393306",
-        "https://openalex.org/W1969612317",
-        "https://openalex.org/W1978124557",
-        "https://openalex.org/W1987372501",
-        "https://openalex.org/W1991253872",
-        "https://openalex.org/W1994667166",
-        "https://openalex.org/W1994725378",
-        "https://openalex.org/W1995877879",
-        "https://openalex.org/W1997849539",
-        "https://openalex.org/W1998668642",
-        "https://openalex.org/W1999436875",
-        "https://openalex.org/W2004408791",
-        "https://openalex.org/W2007602929",
-        "https://openalex.org/W2009872177",
-        "https://openalex.org/W2010319424",
-        "https://openalex.org/W2011776284",
-        "https://openalex.org/W2015558512",
-        "https://openalex.org/W2016139699",
-        "https://openalex.org/W2020526247",
-        "https://openalex.org/W2020927167",
-        "https://openalex.org/W2038886011",
-        "https://openalex.org/W2058184799",
-        "https://openalex.org/W2060571299",
-        "https://openalex.org/W2061157821",
-        "https://openalex.org/W2061593412",
-        "https://openalex.org/W2065687166",
-        "https://openalex.org/W2066793956",
-        "https://openalex.org/W2072377673",
-        "https://openalex.org/W2076372859",
-        "https://openalex.org/W2079896118",
-        "https://openalex.org/W2085019506",
-        "https://openalex.org/W2099904352",
-        "https://openalex.org/W2122550671",
-        "https://openalex.org/W2127468974",
-        "https://openalex.org/W2137411859",
-        "https://openalex.org/W2143558021",
-        "https://openalex.org/W2144374166",
-        "https://openalex.org/W2146480283",
-        "https://openalex.org/W2159525271",
-        "https://openalex.org/W2168168701",
-        "https://openalex.org/W2168909621",
-        "https://openalex.org/W2171211028",
-        "https://openalex.org/W2312997001",
-        "https://openalex.org/W2322328802",
-        "https://openalex.org/W2330935816",
-        "https://openalex.org/W2406027033",
-        "https://openalex.org/W2523551229",
-        "https://openalex.org/W2597944323",
-        "https://openalex.org/W2745963626",
-        "https://openalex.org/W2778035589",
-        "https://openalex.org/W2801087535",
-        "https://openalex.org/W2896659948",
-        "https://openalex.org/W2900544280",
-        "https://openalex.org/W2904132173",
-        "https://openalex.org/W2938243655",
-        "https://openalex.org/W2941596473",
-        "https://openalex.org/W2945318394",
-        "https://openalex.org/W2962723135",
-        "https://openalex.org/W3004443769",
-        "https://openalex.org/W3093636966",
-        "https://openalex.org/W3096851507",
-        "https://openalex.org/W3117817073",
-        "https://openalex.org/W3135935297",
-        "https://openalex.org/W3136111501",
-        "https://openalex.org/W3160228394",
-        "https://openalex.org/W4236928822",
-        "https://openalex.org/W4248150465",
-        "https://openalex.org/W4286493420",
-        "https://openalex.org/W6903639621",
-        "https://openalex.org/W7048498360"
-      ],
-      "related_works": [
-        "https://openalex.org/W2083876416",
-        "https://openalex.org/W561675821",
-        "https://openalex.org/W2063845072",
-        "https://openalex.org/W1991475175",
-        "https://openalex.org/W152258655",
-        "https://openalex.org/W2150140375",
-        "https://openalex.org/W2165230971",
-        "https://openalex.org/W1491005635",
-        "https://openalex.org/W4238946663",
-        "https://openalex.org/W2014608006"
-      ],
-      "abstract_inverted_index": {
-        "Abstract": [
-          0
-        ],
-        "The": [
-          1,
-          128,
-          152,
-          245
-        ],
-        "Wahiba": [
-          2
-        ],
-        "Basin": [
-          3
-        ],
-        "of": [
-          4,
-          11,
-          40,
-          60,
-          70,
-          170,
-          182,
-          195,
-          200,
-          220,
-          228,
-          248,
-          261,
-          285,
-          297
-        ],
-        "NE": [
-          5
-        ],
-        "Oman": [
-          6
-        ],
-        "has": [
-          7
-        ],
-        "been": [
-          8
-        ],
-        "the": [
-          9,
-          19,
-          38,
-          41,
-          103,
-          115,
-          124,
-          167,
-          179,
-          188,
-          192,
-          209,
-          213,
-          218,
-          221,
-          225,
-          233,
-          238,
-          259,
-          262,
-          283,
-          295
-        ],
-        "focus": [
-          10
-        ],
-        "numerous": [
-          12
-        ],
-        "studies": [
-          13
-        ],
-        "involving": [
-          14
-        ],
-        "satellite": [
-          15
-        ],
-        "imagery": [
-          16
-        ],
-        "that": [
-          17,
-          160,
-          204,
-          212,
-          232,
-          257,
-          266
-        ],
-        "demonstrate": [
-          18
-        ],
-        "complex": [
-          20
-        ],
-        "interactions": [
-          21
-        ],
-        "between": [
-          22
-        ],
-        "diverse": [
-          23
-        ],
-        "source": [
-          24,
-          202
-        ],
-        "terrains": [
-          25
-        ],
-        "and": [
-          26,
-          44,
-          56,
-          63,
-          75,
-          98,
-          109,
-          119,
-          135,
-          165,
-          254,
-          268,
-          293
-        ],
-        "fluvial/marine/aeolian": [
-          27
-        ],
-        "sediment": [
-          28,
-          255,
-          291
-        ],
-        "transport": [
-          29
-        ],
-        "pathways.": [
-          30
-        ],
-        "Building": [
-          31
-        ],
-        "upon": [
-          32
-        ],
-        "previous": [
-          33
-        ],
-        "work,": [
-          34
-        ],
-        "our": [
-          35,
-          121,
-          149
-        ],
-        "study": [
-          36
-        ],
-        "resolves": [
-          37
-        ],
-        "mineralogy": [
-          39,
-          260
-        ],
-        "dune": [
-          42,
-          189,
-          222,
-          302
-        ],
-        "field": [
-          43,
-          223,
-          303
-        ],
-        "grain": [
-          45
-        ],
-        "provenance": [
-          46
-        ],
-        "utilising": [
-          47
-        ],
-        "a": [
-          48,
-          139,
-          144,
-          241
-        ],
-        "multispectral": [
-          49
-        ],
-        "dataset": [
-          50,
-          132
-        ],
-        "derived": [
-          51
-        ],
-        "from": [
-          52,
-          82
-        ],
-        "visible": [
-          53
-        ],
-        "to": [
-          54,
-          113,
-          147,
-          217,
-          289
-        ],
-        "near‐infrared": [
-          55
-        ],
-        "short‐wave": [
-          57
-        ],
-        "infrared": [
-          58,
-          68
-        ],
-        "bands": [
-          59,
-          69
-        ],
-        "Worldview‐3": [
-          61
-        ],
-        "(WV‐3)": [
-          62
-        ],
-        "Sentinel‐2,": [
-          64
-        ],
-        "alongside": [
-          65
-        ],
-        "select": [
-          66
-        ],
-        "thermal": [
-          67
-        ],
-        "Advanced": [
-          71
-        ],
-        "Spaceborne": [
-          72
-        ],
-        "Thermal": [
-          73
-        ],
-        "Emission": [
-          74
-        ],
-        "Reflection": [
-          76
-        ],
-        "Radiometer": [
-          77
-        ],
-        "(ASTER).": [
-          78
-        ],
-        "Spectral": [
-          79
-        ],
-        "signatures": [
-          80
-        ],
-        "identified": [
-          81
-        ],
-        "remote": [
-          83
-        ],
-        "sensing": [
-          84
-        ],
-        "were": [
-          85,
-          273
-        ],
-        "confirmed": [
-          86
-        ],
-        "through": [
-          87
-        ],
-        "selective": [
-          88
-        ],
-        "surface": [
-          89
-        ],
-        "sampling,": [
-          90
-        ],
-        "followed": [
-          91
-        ],
-        "by": [
-          92
-        ],
-        "petrographic": [
-          93
-        ],
-        "analysis,": [
-          94
-        ],
-        "powder": [
-          95
-        ],
-        "X‐ray": [
-          96
-        ],
-        "diffraction": [
-          97
-        ],
-        "grain‐size": [
-          99
-        ],
-        "analysis.": [
-          100
-        ],
-        "We": [
-          101,
-          207
-        ],
-        "employed": [
-          102
-        ],
-        "spectral": [
-          104
-        ],
-        "angle": [
-          105
-        ],
-        "mapper": [
-          106
-        ],
-        "algorithm": [
-          107
-        ],
-        "(SAM)": [
-          108
-        ],
-        "band": [
-          110
-        ],
-        "ratio": [
-          111
-        ],
-        "analysis": [
-          112,
-          299
-        ],
-        "classify": [
-          114
-        ],
-        "WV‐3": [
-          116,
-          131
-        ],
-        "covered": [
-          117
-        ],
-        "megadunes,": [
-          118
-        ],
-        "validate": [
-          120
-        ],
-        "scenes": [
-          122,
-          159
-        ],
-        "with": [
-          123,
-          178,
-          197
-        ],
-        "ground": [
-          125
-        ],
-        "sample": [
-          126
-        ],
-        "data.": [
-          127
-        ],
-        "spectrally": [
-          129
-        ],
-        "superior": [
-          130
-        ],
-        "was": [
-          133
-        ],
-        "resampled": [
-          134
-        ],
-        "compared,": [
-          136
-        ],
-        "pixel‐for‐pixel,": [
-          137
-        ],
-        "against": [
-          138
-        ],
-        "SAM‐classified": [
-          140
-        ],
-        "Sentinel‐2": [
-          141
-        ],
-        "scene,": [
-          142
-        ],
-        "providing": [
-          143
-        ],
-        "framework": [
-          145
-        ],
-        "necessary": [
-          146
-        ],
-        "expand": [
-          148
-        ],
-        "observations": [
-          150,
-          174,
-          281
-        ],
-        "regionally.": [
-          151
-        ],
-        "resulting": [
-          153
-        ],
-        "datasets": [
-          154
-        ],
-        "offer": [
-          155
-        ],
-        "spatially": [
-          156
-        ],
-        "expansive": [
-          157
-        ],
-        "classified": [
-          158
-        ],
-        "provide": [
-          161
-        ],
-        "mineralogical": [
-          162,
-          198,
-          280
-        ],
-        "context": [
-          163
-        ],
-        "regionally": [
-          164
-        ],
-        "at": [
-          166
-        ],
-        "fine": [
-          168
-        ],
-        "resolution": [
-          169,
-          249
-        ],
-        "individual": [
-          171
-        ],
-        "megadunes.": [
-          172
-        ],
-        "Regional": [
-          173
-        ],
-        "are": [
-          175
-        ],
-        "mostly": [
-          176
-        ],
-        "consistent": [
-          177
-        ],
-        "spatial": [
-          180
-        ],
-        "distribution": [
-          181
-        ],
-        "mineral": [
-          183
-        ],
-        "phases": [
-          184
-        ],
-        "previously": [
-          185
-        ],
-        "defined": [
-          186
-        ],
-        "across": [
-          187
-        ],
-        "field,": [
-          190
-        ],
-        "highlighting": [
-          191
-        ],
-        "contemporary": [
-          193,
-          251,
-          263,
-          286
-        ],
-        "influx": [
-          194
-        ],
-        "sand": [
-          196
-        ],
-        "affinities": [
-          199
-        ],
-        "proximal": [
-          201
-        ],
-        "regions": [
-          203
-        ],
-        "imprint": [
-          205
-        ],
-        "locally.": [
-          206
-        ],
-        "challenge": [
-          208
-        ],
-        "prevailing": [
-          210
-        ],
-        "hypothesis": [
-          211
-        ],
-        "Al": [
-          214
-        ],
-        "Hajar": [
-          215
-        ],
-        "Mountains": [
-          216
-        ],
-        "north": [
-          219
-        ],
-        "is": [
-          224,
-          240
-        ],
-        "primary": [
-          226
-        ],
-        "supplier": [
-          227
-        ],
-        "quartz,": [
-          229
-        ],
-        "proposing": [
-          230
-        ],
-        "instead": [
-          231
-        ],
-        "siliciclastic‐rich": [
-          234
-        ],
-        "Huqf": [
-          235
-        ],
-        "Arch": [
-          236
-        ],
-        "in": [
-          237,
-          300
-        ],
-        "south": [
-          239
-        ],
-        "more": [
-          242
-        ],
-        "likely": [
-          243
-        ],
-        "contributor.": [
-          244
-        ],
-        "combined": [
-          246
-        ],
-        "scales": [
-          247
-        ],
-        "reveal": [
-          250,
-          282
-        ],
-        "megadune": [
-          252
-        ],
-        "deflation": [
-          253
-        ],
-        "reworking": [
-          256
-        ],
-        "contrasts": [
-          258
-        ],
-        "flux,": [
-          264
-        ],
-        "suggesting": [
-          265
-        ],
-        "dominant": [
-          267
-        ],
-        "subordinate": [
-          269
-        ],
-        "regional": [
-          270
-        ],
-        "wind": [
-          271
-        ],
-        "trends": [
-          272
-        ],
-        "reversed": [
-          274
-        ],
-        "during": [
-          275
-        ],
-        "glacial": [
-          276
-        ],
-        "periods.": [
-          277
-        ],
-        "Our": [
-          278
-        ],
-        "detailed": [
-          279
-        ],
-        "sensitivity": [
-          284
-        ],
-        "geomorphic": [
-          287
-        ],
-        "surfaces": [
-          288
-        ],
-        "local": [
-          290
-        ],
-        "dynamics": [
-          292
-        ],
-        "highlight": [
-          294
-        ],
-        "value": [
-          296
-        ],
-        "multi‐scale": [
-          298
-        ],
-        "interpreting": [
-          301
-        ],
-        "evolution.": [
-          304
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-07-28T07:46:37.118299",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8497,8 +8461,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -9025,8 +8989,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -9537,8 +9501,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10378,8 +10342,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11100,7 +11064,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.44746601,
+        "value": 0.44598806,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11320,7 +11284,7 @@
           "id": "pmh:oai:air.unimi.it:2434/1238619",
           "is_oa": true,
           "landing_page_url": "https://hdl.handle.net/2434/1238619",
-          "pdf_url": null,
+          "pdf_url": "https://air.unimi.it/bitstream/2434/1238619/2/Geomorphology%20of%20the%20Jebel%20Akhdar%20dome%20%20Northern%20sultanate%20of%20Oman%20%20%20tectonics%20%20surface%20processes%20and%20landscape%20evolution.pdf",
           "source": {
             "id": "https://openalex.org/S4306400516",
             "display_name": "Archivio Istituzionale della Ricerca (Universita Degli Studi Di Milano)",
@@ -11428,8 +11392,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W7155534781.pdf",
@@ -11857,7 +11821,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-15T07:11:24.734988",
+      "updated_date": "2026-08-18T07:49:30.821534",
       "created_date": "2026-04-25T00:00:00"
     },
     {
@@ -12489,8 +12453,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -13458,8 +13422,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14270,8 +14234,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
