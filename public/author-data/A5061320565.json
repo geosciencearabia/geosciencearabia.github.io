@@ -219,7 +219,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000201,
+        "value": 0.00002,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -706,16 +706,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -1500,16 +1500,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8999999761581421
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -2428,16 +2428,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
           "score": 0.5099999904632568
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2169570507.pdf",
@@ -3394,8 +3394,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
           "score": 0.5099999904632568
         }
       ],
@@ -3413,8 +3413,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -3845,16 +3845,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -5222,16 +5222,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -5824,16 +5824,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -5931,9 +5931,9 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.3906/yer-1206-2",
-        "is_oa": false,
+        "is_oa": true,
         "landing_page_url": "https://doi.org/10.3906/yer-1206-2",
-        "pdf_url": null,
+        "pdf_url": "https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=1316&context=earth",
         "source": {
           "id": "https://openalex.org/S163601337",
           "display_name": "TURKISH JOURNAL OF EARTH SCIENCES",
@@ -5965,9 +5965,9 @@
         "doaj"
       ],
       "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=1316&context=earth",
         "any_repository_has_fulltext": false
       },
       "authorships": [
@@ -5978,13 +5978,35 @@
             "display_name": "Abdulaziz A. Al-Laboun",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I28022161",
+              "display_name": "King Saud University",
+              "ror": "https://ror.org/02f81g417",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I28022161"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Abdulaziz AL-LABOUN",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Department of Geology and Geophysics , College of Science , King Saud University , Riyadh , Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology and Geophysics , College of Science , King Saud University , Riyadh , Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I28022161"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -5993,13 +6015,35 @@
             "display_name": "Abdurrahman Al-Quraishi",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1284598098",
+              "display_name": "King Abdulaziz City for Science and Technology",
+              "ror": "https://ror.org/05tdz6m39",
+              "country_code": "SA",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1284598098"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Abdurrahman AL-QURAISHI",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Oil and Gas Centre , King Abdul-Aziz City for Science and Technology , Riyadh , Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Oil and Gas Centre , King Abdul-Aziz City for Science and Technology , Riyadh , Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I1284598098"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -6008,13 +6052,35 @@
             "display_name": "Haider Zaman",
             "orcid": "https://orcid.org/0000-0002-6927-9922"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I23075662",
+              "display_name": "Taibah University",
+              "ror": "https://ror.org/01xv1nn60",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I23075662"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Haider ZAMAN",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Department of Geology , Faculty of Science , Taibah University , Madinah , Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology , Faculty of Science , Taibah University , Madinah , Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I23075662"
+              ]
+            }
+          ]
         },
         {
           "author_position": "last",
@@ -6023,27 +6089,49 @@
             "display_name": "Mohammed Benaafi",
             "orcid": "https://orcid.org/0000-0001-6246-7835"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Mohammed BENAAFI",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "King Fahd University for Petroleum and Minerals , Al-Dhahran , Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Fahd University for Petroleum and Minerals , Al-Dhahran , Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7224,
-      "has_fulltext": false,
+      "fwci": 0.7225,
+      "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.73683032,
+        "value": 0.73691756,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6390,9 +6478,9 @@
       "locations": [
         {
           "id": "doi:10.3906/yer-1206-2",
-          "is_oa": false,
+          "is_oa": true,
           "landing_page_url": "https://doi.org/10.3906/yer-1206-2",
-          "pdf_url": null,
+          "pdf_url": "https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=1316&context=earth",
           "source": {
             "id": "https://openalex.org/S163601337",
             "display_name": "TURKISH JOURNAL OF EARTH SCIENCES",
@@ -6477,21 +6565,64 @@
           "raw_type": "info:eu-repo/semantics/article"
         }
       ],
-      "best_oa_location": null,
+      "best_oa_location": {
+        "id": "doi:10.3906/yer-1206-2",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3906/yer-1206-2",
+        "pdf_url": "https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=1316&context=earth",
+        "source": {
+          "id": "https://openalex.org/S163601337",
+          "display_name": "TURKISH JOURNAL OF EARTH SCIENCES",
+          "issn_l": "1300-0985",
+          "issn": [
+            "1300-0985",
+            "1303-619X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "TURKISH JOURNAL OF EARTH SCIENCES",
+        "raw_type": "journal-article"
+      },
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
           "score": 0.4699999988079071
         }
       ],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320321145",
+          "display_name": "King Saud University",
+          "ror": "https://ror.org/02f81g417"
+        },
+        {
+          "id": "https://openalex.org/F4320322997",
+          "display_name": "King Abdulaziz City for Science and Technology",
+          "ror": "https://ror.org/05tdz6m39"
+        }
+      ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": true,
+        "grobid_xml": true
       },
-      "content_urls": null,
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2167330935.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2167330935.grobid-xml"
+      },
       "referenced_works_count": 20,
       "referenced_works": [
         "https://openalex.org/W106623456",
@@ -7047,7 +7178,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-18T07:49:30.821534",
+      "updated_date": "2026-08-19T15:00:24.278416",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -7429,16 +7560,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -8453,8 +8584,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -8782,16 +8913,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9761,16 +9892,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10685,16 +10816,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.550000011920929
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11268,16 +11399,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12802,16 +12933,16 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.4699999988079071
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

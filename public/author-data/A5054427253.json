@@ -26,6 +26,21 @@
     "affiliations": [
       {
         "institution": {
+          "id": "https://openalex.org/I2801843802",
+          "ror": "https://ror.org/0321g0743",
+          "display_name": "Institut Gustave Roussy",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I2801843802"
+          ]
+        },
+        "years": [
+          2023
+        ]
+      },
+      {
+        "institution": {
           "id": "https://openalex.org/I4210158893",
           "ror": "https://ror.org/05hnb7x64",
           "display_name": "Bureau de Recherches Géologiques et Minières",
@@ -54,6 +69,16 @@
       }
     ],
     "last_known_institutions": [
+      {
+        "id": "https://openalex.org/I2801843802",
+        "ror": "https://ror.org/0321g0743",
+        "display_name": "Institut Gustave Roussy",
+        "country_code": "FR",
+        "type": "facility",
+        "lineage": [
+          "https://openalex.org/I2801843802"
+        ]
+      },
       {
         "id": "https://openalex.org/I4210158893",
         "ror": "https://ror.org/05hnb7x64",
@@ -156,7 +181,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0001003,
+        "value": 0.0001002,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -397,7 +422,7 @@
     ],
     "block_key": "y le nindre",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5054427253",
-    "updated_date": "2026-08-17T12:17:31",
+    "updated_date": "2026-08-18T12:18:02",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -15144,16 +15169,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.4956,
+      "fwci": 2.5132,
       "has_fulltext": true,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.83657244,
+        "value": 0.8377193,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 99
       },
       "biblio": {
@@ -16400,7 +16425,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-02T14:50:37.381335",
+      "updated_date": "2026-08-19T15:00:24.278416",
       "created_date": "2025-10-10T00:00:00"
     },
     {

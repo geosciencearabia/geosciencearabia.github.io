@@ -154,7 +154,7 @@
       {
         "id": "https://openalex.org/T12543",
         "display_name": "Groundwater and Watershed Analysis",
-        "value": 0.0002144,
+        "value": 0.0002142,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -188,7 +188,7 @@
       {
         "id": "https://openalex.org/T11490",
         "display_name": "Hydrological Forecasting Using AI",
-        "value": 0.000145,
+        "value": 0.0001449,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -358,7 +358,7 @@
     ],
     "block_key": "m benaafi",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5034568196",
-    "updated_date": "2026-08-17T12:17:31",
+    "updated_date": "2026-08-18T12:18:02",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -2239,9 +2239,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.6100000143051147,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -3649,9 +3649,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.4000000059604645,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -4507,7 +4507,7 @@
       "title": "Intelligent optimization for modelling superhydrophobic ceramic membrane oil flux and oil-water separation efficiency: Evidence from wastewater treatment and experimental laboratory",
       "display_name": "Intelligent optimization for modelling superhydrophobic ceramic membrane oil flux and oil-water separation efficiency: Evidence from wastewater treatment and experimental laboratory",
       "publication_year": 2023,
-      "publication_date": "2023-04-26",
+      "publication_date": "2023-04-25",
       "ids": {
         "openalex": "https://openalex.org/W4367189127",
         "doi": "https://doi.org/10.1016/j.chemosphere.2023.138726",
@@ -4944,11 +4944,11 @@
         "value_usd": 3610
       },
       "apc_paid": null,
-      "fwci": 4.1626,
+      "fwci": 4.1298,
       "has_fulltext": false,
       "cited_by_count": 48,
       "citation_normalized_percentile": {
-        "value": 0.95128567,
+        "value": 0.95076966,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5452,9 +5452,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.8700000047683716,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -5559,7 +5559,7 @@
           "cited_by_count": 12
         }
       ],
-      "updated_date": "2026-08-11T07:18:39.950985",
+      "updated_date": "2026-08-19T15:00:24.278416",
       "created_date": "2023-04-28T00:00:00"
     },
     {
@@ -6650,9 +6650,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6299999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -12030,9 +12030,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.5899999737739563,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [
@@ -13500,9 +13500,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.41999998688697815,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [
@@ -16343,9 +16343,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -18245,9 +18245,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8500000238418579,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -19631,9 +19631,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.550000011920929,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [
@@ -20293,9 +20293,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7300000190734863,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -22253,9 +22253,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -23153,9 +23153,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 0.6200000047683716,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -24361,9 +24361,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.7599999904632568,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -27374,9 +27374,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.5,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -28291,9 +28291,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.8600000143051147,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -29513,9 +29513,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7599999904632568,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -30931,9 +30931,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7400000095367432,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -32315,9 +32315,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.6200000047683716,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -33610,9 +33610,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
           "score": 0.8100000023841858,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
@@ -34398,9 +34398,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.699999988079071,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -38906,9 +38906,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
           "score": 0.4699999988079071,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [
@@ -40547,7 +40547,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
@@ -40609,7 +40609,7 @@
             "KR",
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mahfuzur Rahman",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
@@ -41149,11 +41149,11 @@
         "currency": "AUD",
         "value_usd": 2390
       },
-      "fwci": 1.0824,
+      "fwci": 1.0764,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.76048131,
+        "value": 0.75918445,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42084,7 +42084,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-08-18T07:49:30.821534",
+      "updated_date": "2026-08-19T15:00:24.278416",
       "created_date": "2025-11-23T00:00:00"
     },
     {
@@ -42633,9 +42633,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 0.5,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -43785,9 +43785,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 0.49000000953674316,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [
@@ -45053,9 +45053,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -45782,9 +45782,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "score": 0.4300000071525574,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [
@@ -46294,9 +46294,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/2",
           "score": 0.4699999988079071,
-          "display_name": "Zero hunger"
+          "display_name": "Zero hunger",
+          "id": "https://metadata.un.org/sdg/2"
         }
       ],
       "awards": [
@@ -46859,6 +46859,609 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W4410077348",
+      "doi": "https://doi.org/10.1007/s42947-025-00552-1",
+      "title": "Analysis of Performance Grades for Polymer-Modified Asphalt: A Technical Note",
+      "display_name": "Analysis of Performance Grades for Polymer-Modified Asphalt: A Technical Note",
+      "publication_year": 2025,
+      "publication_date": "2025-05-05",
+      "ids": {
+        "openalex": "https://openalex.org/W4410077348",
+        "doi": "https://doi.org/10.1007/s42947-025-00552-1"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1007/s42947-025-00552-1",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1007/s42947-025-00552-1",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S2764903752",
+          "display_name": "International Journal of Pavement Research and Technology",
+          "issn_l": "1996-6814",
+          "issn": [
+            "1996-6814",
+            "1997-1400"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310319900",
+          "host_organization_name": "Springer Science+Business Media",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310319900",
+            "https://openalex.org/P4310319965"
+          ],
+          "host_organization_lineage_names": [
+            "Springer Science+Business Media",
+            "Springer Nature"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Journal of Pavement Research and Technology",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5080914340",
+            "display_name": "Ali Mohammed Babalghaith",
+            "orcid": "https://orcid.org/0000-0003-3736-8813"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Ali Mohammed Babalghaith",
+          "raw_affiliation_strings": [
+            "Interdisciplinary Research Center for Construction and Building Materials, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0003-3736-8813",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Construction and Building Materials, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": null,
+            "display_name": "Amr Ali Shokri",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I28022161",
+              "display_name": "King Saud University",
+              "ror": "https://ror.org/02f81g417",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I28022161"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Amr Ali Shokri",
+          "raw_affiliation_strings": [
+            "College of Engineering, King Saud University, P.O. Box 800, Riyadh, 11421, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "College of Engineering, King Saud University, P.O. Box 800, Riyadh, 11421, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I28022161"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5034568196",
+            "display_name": "Mohammed Benaafi",
+            "orcid": "https://orcid.org/0000-0001-6246-7835"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Mohammed Benaafi",
+          "raw_affiliation_strings": [
+            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5076126164",
+            "display_name": "Nur Izzi Md. Yusoff",
+            "orcid": "https://orcid.org/0000-0003-4449-4981"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I885383172",
+              "display_name": "National University of Malaysia",
+              "ror": "https://ror.org/00bw8d226",
+              "country_code": "MY",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I885383172"
+              ]
+            }
+          ],
+          "countries": [
+            "MY"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Nur Izzi Md. Yusoff",
+          "raw_affiliation_strings": [
+            "Department of Civil Engineering, Faculty of Engineering and Built Environment, Universiti Kebangsaan Malaysia, Bangi, Selangor, Malaysia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Civil Engineering, Faculty of Engineering and Built Environment, Universiti Kebangsaan Malaysia, Bangi, Selangor, Malaysia",
+              "institution_ids": [
+                "https://openalex.org/I885383172"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5036274771",
+            "display_name": "Abdalrhman Milad",
+            "orcid": "https://orcid.org/0000-0002-3336-0657"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I209803261",
+              "display_name": "University of Nizwa",
+              "ror": "https://ror.org/01pxe3r04",
+              "country_code": "OM",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I209803261"
+              ]
+            }
+          ],
+          "countries": [
+            "OM"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Abdalrhman Milad",
+          "raw_affiliation_strings": [
+            "Department of Civil and Environmental Engineering, College of Engineering and Architecture, University of Nizwa, Birkat-al-Mouz, 616, Nizwa, Sultanate of Oman"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Civil and Environmental Engineering, College of Engineering and Architecture, University of Nizwa, Birkat-al-Mouz, 616, Nizwa, Sultanate of Oman",
+              "institution_ids": [
+                "https://openalex.org/I209803261"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 4,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5080914340"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
+      "apc_list": {
+        "value": 2890,
+        "currency": "USD",
+        "value_usd": 2890
+      },
+      "apc_paid": null,
+      "fwci": 1.7426,
+      "has_fulltext": false,
+      "cited_by_count": 4,
+      "citation_normalized_percentile": {
+        "value": 0.82141873,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 95,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "19",
+        "issue": "7",
+        "first_page": "2000",
+        "last_page": "2010"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10264",
+        "display_name": "Asphalt Pavement Performance Evaluation",
+        "score": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2205",
+          "display_name": "Civil and Structural Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10264",
+          "display_name": "Asphalt Pavement Performance Evaluation",
+          "score": 1,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2205",
+            "display_name": "Civil and Structural Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11606",
+          "display_name": "Infrastructure Maintenance and Monitoring",
+          "score": 0.9987000226974487,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2205",
+            "display_name": "Civil and Structural Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T14304",
+          "display_name": "Transport Systems and Technology",
+          "score": 0.9919999837875366,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2210",
+            "display_name": "Mechanical Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/asphalt",
+          "display_name": "Asphalt",
+          "score": 0.7378407120704651
+        },
+        {
+          "id": "https://openalex.org/keywords/materials-science",
+          "display_name": "Materials science",
+          "score": 0.5985769033432007
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-material",
+          "display_name": "Structural material",
+          "score": 0.511935830116272
+        },
+        {
+          "id": "https://openalex.org/keywords/composite-material",
+          "display_name": "Composite material",
+          "score": 0.5113536715507507
+        },
+        {
+          "id": "https://openalex.org/keywords/polymer",
+          "display_name": "Polymer",
+          "score": 0.46407654881477356
+        },
+        {
+          "id": "https://openalex.org/keywords/asphalt-pavement",
+          "display_name": "Asphalt pavement",
+          "score": 0.4602009952068329
+        },
+        {
+          "id": "https://openalex.org/keywords/forensic-engineering",
+          "display_name": "Forensic engineering",
+          "score": 0.4397602677345276
+        },
+        {
+          "id": "https://openalex.org/keywords/polymer-science",
+          "display_name": "Polymer science",
+          "score": 0.3987809121608734
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.36283251643180847
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-engineering",
+          "display_name": "Structural engineering",
+          "score": 0.33299973607063293
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C168056786",
+          "wikidata": "https://www.wikidata.org/wiki/Q202251",
+          "display_name": "Asphalt",
+          "level": 2,
+          "score": 0.7378407120704651
+        },
+        {
+          "id": "https://openalex.org/C192562407",
+          "wikidata": "https://www.wikidata.org/wiki/Q228736",
+          "display_name": "Materials science",
+          "level": 0,
+          "score": 0.5985769033432007
+        },
+        {
+          "id": "https://openalex.org/C200070095",
+          "wikidata": "https://www.wikidata.org/wiki/Q1297687",
+          "display_name": "Structural material",
+          "level": 2,
+          "score": 0.511935830116272
+        },
+        {
+          "id": "https://openalex.org/C159985019",
+          "wikidata": "https://www.wikidata.org/wiki/Q181790",
+          "display_name": "Composite material",
+          "level": 1,
+          "score": 0.5113536715507507
+        },
+        {
+          "id": "https://openalex.org/C521977710",
+          "wikidata": "https://www.wikidata.org/wiki/Q81163",
+          "display_name": "Polymer",
+          "level": 2,
+          "score": 0.46407654881477356
+        },
+        {
+          "id": "https://openalex.org/C2986189917",
+          "wikidata": "https://www.wikidata.org/wiki/Q1049667",
+          "display_name": "Asphalt pavement",
+          "level": 3,
+          "score": 0.4602009952068329
+        },
+        {
+          "id": "https://openalex.org/C77595967",
+          "wikidata": "https://www.wikidata.org/wiki/Q3151013",
+          "display_name": "Forensic engineering",
+          "level": 1,
+          "score": 0.4397602677345276
+        },
+        {
+          "id": "https://openalex.org/C126348684",
+          "wikidata": "https://www.wikidata.org/wiki/Q3456979",
+          "display_name": "Polymer science",
+          "level": 1,
+          "score": 0.3987809121608734
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.36283251643180847
+        },
+        {
+          "id": "https://openalex.org/C66938386",
+          "wikidata": "https://www.wikidata.org/wiki/Q633538",
+          "display_name": "Structural engineering",
+          "level": 1,
+          "score": 0.33299973607063293
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1007/s42947-025-00552-1",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1007/s42947-025-00552-1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S2764903752",
+            "display_name": "International Journal of Pavement Research and Technology",
+            "issn_l": "1996-6814",
+            "issn": [
+              "1996-6814",
+              "1997-1400"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310319900",
+            "host_organization_name": "Springer Science+Business Media",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310319900",
+              "https://openalex.org/P4310319965"
+            ],
+            "host_organization_lineage_names": [
+              "Springer Science+Business Media",
+              "Springer Nature"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "International Journal of Pavement Research and Technology",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 43,
+      "referenced_works": [
+        "https://openalex.org/W1968645853",
+        "https://openalex.org/W1985783993",
+        "https://openalex.org/W1991203204",
+        "https://openalex.org/W1994427229",
+        "https://openalex.org/W2007307648",
+        "https://openalex.org/W2018472925",
+        "https://openalex.org/W2093218243",
+        "https://openalex.org/W2129412217",
+        "https://openalex.org/W2134143273",
+        "https://openalex.org/W2201970248",
+        "https://openalex.org/W2254359707",
+        "https://openalex.org/W2323204512",
+        "https://openalex.org/W2526217675",
+        "https://openalex.org/W2623878656",
+        "https://openalex.org/W2750451674",
+        "https://openalex.org/W2766010298",
+        "https://openalex.org/W2899292289",
+        "https://openalex.org/W2905535471",
+        "https://openalex.org/W2921465757",
+        "https://openalex.org/W2921847343",
+        "https://openalex.org/W2941425987",
+        "https://openalex.org/W2970502646",
+        "https://openalex.org/W2971537377",
+        "https://openalex.org/W2990272508",
+        "https://openalex.org/W2990687907",
+        "https://openalex.org/W2998175566",
+        "https://openalex.org/W3009990331",
+        "https://openalex.org/W3081707501",
+        "https://openalex.org/W3081934768",
+        "https://openalex.org/W3089947559",
+        "https://openalex.org/W3093508925",
+        "https://openalex.org/W3093684303",
+        "https://openalex.org/W3137835892",
+        "https://openalex.org/W3152733879",
+        "https://openalex.org/W3178139993",
+        "https://openalex.org/W3196350133",
+        "https://openalex.org/W3214086682",
+        "https://openalex.org/W4291512920",
+        "https://openalex.org/W4383877328",
+        "https://openalex.org/W4385994962",
+        "https://openalex.org/W4388657922",
+        "https://openalex.org/W4391882470",
+        "https://openalex.org/W4401893771"
+      ],
+      "related_works": [
+        "https://openalex.org/W2104687338",
+        "https://openalex.org/W209876844",
+        "https://openalex.org/W2371800141",
+        "https://openalex.org/W3095824171",
+        "https://openalex.org/W2381492307",
+        "https://openalex.org/W2607661942",
+        "https://openalex.org/W577391634",
+        "https://openalex.org/W4225254988",
+        "https://openalex.org/W1487064949",
+        "https://openalex.org/W3199312598"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-08-19T15:00:24.278416",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2592077334",
       "doi": "https://doi.org/10.1007/s12517-017-2860-0",
       "title": "Analysis of lineaments within the Wajid Group, SW Saudi Arabia, and their tectonic significance",
@@ -47341,9 +47944,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.41999998688697815,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -48067,9 +48670,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -48927,9 +49530,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7300000190734863,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -50324,9 +50927,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
           "score": 0.4099999964237213,
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12"
         }
       ],
       "awards": [],
@@ -51051,9 +51654,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6700000166893005,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -51155,609 +51758,6 @@
         }
       ],
       "updated_date": "2026-07-29T09:40:50.615796",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W4410077348",
-      "doi": "https://doi.org/10.1007/s42947-025-00552-1",
-      "title": "Analysis of Performance Grades for Polymer-Modified Asphalt: A Technical Note",
-      "display_name": "Analysis of Performance Grades for Polymer-Modified Asphalt: A Technical Note",
-      "publication_year": 2025,
-      "publication_date": "2025-05-05",
-      "ids": {
-        "openalex": "https://openalex.org/W4410077348",
-        "doi": "https://doi.org/10.1007/s42947-025-00552-1"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1007/s42947-025-00552-1",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1007/s42947-025-00552-1",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S2764903752",
-          "display_name": "International Journal of Pavement Research and Technology",
-          "issn_l": "1996-6814",
-          "issn": [
-            "1996-6814",
-            "1997-1400"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310319900",
-          "host_organization_name": "Springer Science+Business Media",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310319900",
-            "https://openalex.org/P4310319965"
-          ],
-          "host_organization_lineage_names": [
-            "Springer Science+Business Media",
-            "Springer Nature"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "International Journal of Pavement Research and Technology",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5080914340",
-            "display_name": "Ali Mohammed Babalghaith",
-            "orcid": "https://orcid.org/0000-0003-3736-8813"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Ali Mohammed Babalghaith",
-          "raw_affiliation_strings": [
-            "Interdisciplinary Research Center for Construction and Building Materials, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0003-3736-8813",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Construction and Building Materials, King Fahd University of Petroleum & Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": null,
-            "display_name": "Amr Ali Shokri",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I28022161",
-              "display_name": "King Saud University",
-              "ror": "https://ror.org/02f81g417",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I28022161"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Amr Ali Shokri",
-          "raw_affiliation_strings": [
-            "College of Engineering, King Saud University, P.O. Box 800, Riyadh, 11421, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "College of Engineering, King Saud University, P.O. Box 800, Riyadh, 11421, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I28022161"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5034568196",
-            "display_name": "Mohammed Benaafi",
-            "orcid": "https://orcid.org/0000-0001-6246-7835"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Mohammed Benaafi",
-          "raw_affiliation_strings": [
-            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-            "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Interdisciplinary Research Center for Membranes and Water Security, King Fahd University of Petroleum and Minerals, Dhahran, 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5076126164",
-            "display_name": "Nur Izzi Md. Yusoff",
-            "orcid": "https://orcid.org/0000-0003-4449-4981"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I885383172",
-              "display_name": "National University of Malaysia",
-              "ror": "https://ror.org/00bw8d226",
-              "country_code": "MY",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I885383172"
-              ]
-            }
-          ],
-          "countries": [
-            "MY"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Nur Izzi Md. Yusoff",
-          "raw_affiliation_strings": [
-            "Department of Civil Engineering, Faculty of Engineering and Built Environment, Universiti Kebangsaan Malaysia, Bangi, Selangor, Malaysia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Civil Engineering, Faculty of Engineering and Built Environment, Universiti Kebangsaan Malaysia, Bangi, Selangor, Malaysia",
-              "institution_ids": [
-                "https://openalex.org/I885383172"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5036274771",
-            "display_name": "Abdalrhman Milad",
-            "orcid": "https://orcid.org/0000-0002-3336-0657"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I209803261",
-              "display_name": "University of Nizwa",
-              "ror": "https://ror.org/01pxe3r04",
-              "country_code": "OM",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I209803261"
-              ]
-            }
-          ],
-          "countries": [
-            "OM"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Abdalrhman Milad",
-          "raw_affiliation_strings": [
-            "Department of Civil and Environmental Engineering, College of Engineering and Architecture, University of Nizwa, Birkat-al-Mouz, 616, Nizwa, Sultanate of Oman"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Civil and Environmental Engineering, College of Engineering and Architecture, University of Nizwa, Birkat-al-Mouz, 616, Nizwa, Sultanate of Oman",
-              "institution_ids": [
-                "https://openalex.org/I209803261"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 3,
-      "institutions_distinct_count": 4,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5080914340"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113"
-      ],
-      "apc_list": {
-        "value": 2890,
-        "currency": "USD",
-        "value_usd": 2890
-      },
-      "apc_paid": null,
-      "fwci": 1.4366,
-      "has_fulltext": false,
-      "cited_by_count": 3,
-      "citation_normalized_percentile": {
-        "value": 0.78650583,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 94,
-        "max": 97
-      },
-      "biblio": {
-        "volume": "19",
-        "issue": "7",
-        "first_page": "2000",
-        "last_page": "2010"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10264",
-        "display_name": "Asphalt Pavement Performance Evaluation",
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2205",
-          "display_name": "Civil and Structural Engineering"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10264",
-          "display_name": "Asphalt Pavement Performance Evaluation",
-          "score": 1,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2205",
-            "display_name": "Civil and Structural Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11606",
-          "display_name": "Infrastructure Maintenance and Monitoring",
-          "score": 0.9987000226974487,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2205",
-            "display_name": "Civil and Structural Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T14304",
-          "display_name": "Transport Systems and Technology",
-          "score": 0.9919999837875366,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2210",
-            "display_name": "Mechanical Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/asphalt",
-          "display_name": "Asphalt",
-          "score": 0.7378407120704651
-        },
-        {
-          "id": "https://openalex.org/keywords/materials-science",
-          "display_name": "Materials science",
-          "score": 0.5985769033432007
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-material",
-          "display_name": "Structural material",
-          "score": 0.511935830116272
-        },
-        {
-          "id": "https://openalex.org/keywords/composite-material",
-          "display_name": "Composite material",
-          "score": 0.5113536715507507
-        },
-        {
-          "id": "https://openalex.org/keywords/polymer",
-          "display_name": "Polymer",
-          "score": 0.46407654881477356
-        },
-        {
-          "id": "https://openalex.org/keywords/asphalt-pavement",
-          "display_name": "Asphalt pavement",
-          "score": 0.4602009952068329
-        },
-        {
-          "id": "https://openalex.org/keywords/forensic-engineering",
-          "display_name": "Forensic engineering",
-          "score": 0.4397602677345276
-        },
-        {
-          "id": "https://openalex.org/keywords/polymer-science",
-          "display_name": "Polymer science",
-          "score": 0.3987809121608734
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.36283251643180847
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-engineering",
-          "display_name": "Structural engineering",
-          "score": 0.33299973607063293
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C168056786",
-          "wikidata": "https://www.wikidata.org/wiki/Q202251",
-          "display_name": "Asphalt",
-          "level": 2,
-          "score": 0.7378407120704651
-        },
-        {
-          "id": "https://openalex.org/C192562407",
-          "wikidata": "https://www.wikidata.org/wiki/Q228736",
-          "display_name": "Materials science",
-          "level": 0,
-          "score": 0.5985769033432007
-        },
-        {
-          "id": "https://openalex.org/C200070095",
-          "wikidata": "https://www.wikidata.org/wiki/Q1297687",
-          "display_name": "Structural material",
-          "level": 2,
-          "score": 0.511935830116272
-        },
-        {
-          "id": "https://openalex.org/C159985019",
-          "wikidata": "https://www.wikidata.org/wiki/Q181790",
-          "display_name": "Composite material",
-          "level": 1,
-          "score": 0.5113536715507507
-        },
-        {
-          "id": "https://openalex.org/C521977710",
-          "wikidata": "https://www.wikidata.org/wiki/Q81163",
-          "display_name": "Polymer",
-          "level": 2,
-          "score": 0.46407654881477356
-        },
-        {
-          "id": "https://openalex.org/C2986189917",
-          "wikidata": "https://www.wikidata.org/wiki/Q1049667",
-          "display_name": "Asphalt pavement",
-          "level": 3,
-          "score": 0.4602009952068329
-        },
-        {
-          "id": "https://openalex.org/C77595967",
-          "wikidata": "https://www.wikidata.org/wiki/Q3151013",
-          "display_name": "Forensic engineering",
-          "level": 1,
-          "score": 0.4397602677345276
-        },
-        {
-          "id": "https://openalex.org/C126348684",
-          "wikidata": "https://www.wikidata.org/wiki/Q3456979",
-          "display_name": "Polymer science",
-          "level": 1,
-          "score": 0.3987809121608734
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.36283251643180847
-        },
-        {
-          "id": "https://openalex.org/C66938386",
-          "wikidata": "https://www.wikidata.org/wiki/Q633538",
-          "display_name": "Structural engineering",
-          "level": 1,
-          "score": 0.33299973607063293
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1007/s42947-025-00552-1",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1007/s42947-025-00552-1",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S2764903752",
-            "display_name": "International Journal of Pavement Research and Technology",
-            "issn_l": "1996-6814",
-            "issn": [
-              "1996-6814",
-              "1997-1400"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310319900",
-            "host_organization_name": "Springer Science+Business Media",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310319900",
-              "https://openalex.org/P4310319965"
-            ],
-            "host_organization_lineage_names": [
-              "Springer Science+Business Media",
-              "Springer Nature"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "International Journal of Pavement Research and Technology",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 43,
-      "referenced_works": [
-        "https://openalex.org/W1968645853",
-        "https://openalex.org/W1985783993",
-        "https://openalex.org/W1991203204",
-        "https://openalex.org/W1994427229",
-        "https://openalex.org/W2007307648",
-        "https://openalex.org/W2018472925",
-        "https://openalex.org/W2093218243",
-        "https://openalex.org/W2129412217",
-        "https://openalex.org/W2134143273",
-        "https://openalex.org/W2201970248",
-        "https://openalex.org/W2254359707",
-        "https://openalex.org/W2323204512",
-        "https://openalex.org/W2526217675",
-        "https://openalex.org/W2623878656",
-        "https://openalex.org/W2750451674",
-        "https://openalex.org/W2766010298",
-        "https://openalex.org/W2899292289",
-        "https://openalex.org/W2905535471",
-        "https://openalex.org/W2921465757",
-        "https://openalex.org/W2921847343",
-        "https://openalex.org/W2941425987",
-        "https://openalex.org/W2970502646",
-        "https://openalex.org/W2971537377",
-        "https://openalex.org/W2990272508",
-        "https://openalex.org/W2990687907",
-        "https://openalex.org/W2998175566",
-        "https://openalex.org/W3009990331",
-        "https://openalex.org/W3081707501",
-        "https://openalex.org/W3081934768",
-        "https://openalex.org/W3089947559",
-        "https://openalex.org/W3093508925",
-        "https://openalex.org/W3093684303",
-        "https://openalex.org/W3137835892",
-        "https://openalex.org/W3152733879",
-        "https://openalex.org/W3178139993",
-        "https://openalex.org/W3196350133",
-        "https://openalex.org/W3214086682",
-        "https://openalex.org/W4291512920",
-        "https://openalex.org/W4383877328",
-        "https://openalex.org/W4385994962",
-        "https://openalex.org/W4388657922",
-        "https://openalex.org/W4391882470",
-        "https://openalex.org/W4401893771"
-      ],
-      "related_works": [
-        "https://openalex.org/W2104687338",
-        "https://openalex.org/W209876844",
-        "https://openalex.org/W2371800141",
-        "https://openalex.org/W3095824171",
-        "https://openalex.org/W2381492307",
-        "https://openalex.org/W2607661942",
-        "https://openalex.org/W577391634",
-        "https://openalex.org/W4225254988",
-        "https://openalex.org/W1487064949",
-        "https://openalex.org/W3199312598"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-07-23T08:03:31.855105",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -52863,9 +52863,9 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.3906/yer-1206-2",
-        "is_oa": false,
+        "is_oa": true,
         "landing_page_url": "https://doi.org/10.3906/yer-1206-2",
-        "pdf_url": null,
+        "pdf_url": "https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=1316&context=earth",
         "source": {
           "id": "https://openalex.org/S163601337",
           "display_name": "TURKISH JOURNAL OF EARTH SCIENCES",
@@ -52897,9 +52897,9 @@
         "doaj"
       ],
       "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
+        "is_oa": true,
+        "oa_status": "bronze",
+        "oa_url": "https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=1316&context=earth",
         "any_repository_has_fulltext": false
       },
       "authorships": [
@@ -52910,13 +52910,35 @@
             "display_name": "Abdulaziz A. Al-Laboun",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I28022161",
+              "display_name": "King Saud University",
+              "ror": "https://ror.org/02f81g417",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I28022161"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Abdulaziz AL-LABOUN",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Department of Geology and Geophysics , College of Science , King Saud University , Riyadh , Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology and Geophysics , College of Science , King Saud University , Riyadh , Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I28022161"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -52925,13 +52947,35 @@
             "display_name": "Abdurrahman Al-Quraishi",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I1284598098",
+              "display_name": "King Abdulaziz City for Science and Technology",
+              "ror": "https://ror.org/05tdz6m39",
+              "country_code": "SA",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1284598098"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Abdurrahman AL-QURAISHI",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Oil and Gas Centre , King Abdul-Aziz City for Science and Technology , Riyadh , Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Oil and Gas Centre , King Abdul-Aziz City for Science and Technology , Riyadh , Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I1284598098"
+              ]
+            }
+          ]
         },
         {
           "author_position": "middle",
@@ -52940,13 +52984,35 @@
             "display_name": "Haider Zaman",
             "orcid": "https://orcid.org/0000-0002-6927-9922"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I23075662",
+              "display_name": "Taibah University",
+              "ror": "https://ror.org/01xv1nn60",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I23075662"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Haider ZAMAN",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Department of Geology , Faculty of Science , Taibah University , Madinah , Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology , Faculty of Science , Taibah University , Madinah , Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I23075662"
+              ]
+            }
+          ]
         },
         {
           "author_position": "last",
@@ -52955,27 +53021,49 @@
             "display_name": "Mohammed Benaafi",
             "orcid": "https://orcid.org/0000-0001-6246-7835"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Mohammed BENAAFI",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "King Fahd University for Petroleum and Minerals , Al-Dhahran , Saudi Arabia"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "King Fahd University for Petroleum and Minerals , Al-Dhahran , Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.7224,
-      "has_fulltext": false,
+      "fwci": 0.7225,
+      "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.73683032,
+        "value": 0.73691756,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -53322,9 +53410,9 @@
       "locations": [
         {
           "id": "doi:10.3906/yer-1206-2",
-          "is_oa": false,
+          "is_oa": true,
           "landing_page_url": "https://doi.org/10.3906/yer-1206-2",
-          "pdf_url": null,
+          "pdf_url": "https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=1316&context=earth",
           "source": {
             "id": "https://openalex.org/S163601337",
             "display_name": "TURKISH JOURNAL OF EARTH SCIENCES",
@@ -53409,21 +53497,64 @@
           "raw_type": "info:eu-repo/semantics/article"
         }
       ],
-      "best_oa_location": null,
+      "best_oa_location": {
+        "id": "doi:10.3906/yer-1206-2",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.3906/yer-1206-2",
+        "pdf_url": "https://journals.tubitak.gov.tr/cgi/viewcontent.cgi?article=1316&context=earth",
+        "source": {
+          "id": "https://openalex.org/S163601337",
+          "display_name": "TURKISH JOURNAL OF EARTH SCIENCES",
+          "issn_l": "1300-0985",
+          "issn": [
+            "1300-0985",
+            "1303-619X"
+          ],
+          "is_oa": false,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "TURKISH JOURNAL OF EARTH SCIENCES",
+        "raw_type": "journal-article"
+      },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 0.4699999988079071,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
-      "funders": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320321145",
+          "display_name": "King Saud University",
+          "ror": "https://ror.org/02f81g417"
+        },
+        {
+          "id": "https://openalex.org/F4320322997",
+          "display_name": "King Abdulaziz City for Science and Technology",
+          "ror": "https://ror.org/05tdz6m39"
+        }
+      ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "pdf": true,
+        "grobid_xml": true
       },
-      "content_urls": null,
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2167330935.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2167330935.grobid-xml"
+      },
       "referenced_works_count": 20,
       "referenced_works": [
         "https://openalex.org/W106623456",
@@ -53979,7 +54110,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-18T07:49:30.821534",
+      "updated_date": "2026-08-19T15:00:24.278416",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -54613,9 +54744,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/7",
           "score": 0.5899999737739563,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7"
         }
       ],
       "awards": [],
@@ -56526,9 +56657,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/2",
           "score": 0.41999998688697815,
-          "display_name": "Zero hunger"
+          "display_name": "Zero hunger",
+          "id": "https://metadata.un.org/sdg/2"
         }
       ],
       "awards": [],
@@ -57669,9 +57800,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6499999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -58755,9 +58886,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6700000166893005,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -59633,9 +59764,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -60920,9 +61051,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
           "score": 0.5099999904632568,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -62259,9 +62390,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -66820,9 +66951,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.6700000166893005,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [],
@@ -67377,9 +67508,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/2",
           "score": 0.7400000095367432,
-          "display_name": "Zero hunger"
+          "display_name": "Zero hunger",
+          "id": "https://metadata.un.org/sdg/2"
         }
       ],
       "awards": [],
@@ -68429,9 +68560,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7699999809265137,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -68869,9 +69000,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.800000011920929,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -69987,9 +70118,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8299999833106995,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -72387,9 +72518,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6299999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -77077,9 +77208,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/6",
           "score": 0.5572254657745361,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "id": "https://metadata.un.org/sdg/6"
         }
       ],
       "awards": [
@@ -81358,9 +81489,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "score": 0.5348670482635498,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
