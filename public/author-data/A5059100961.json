@@ -798,9 +798,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Affordable and clean energy",
+          "id": "https://metadata.un.org/sdg/7",
           "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/7"
+          "display_name": "Affordable and clean energy"
         }
       ],
       "awards": [],
@@ -2900,16 +2900,16 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 2990,
+        "value": 3090,
         "currency": "USD",
-        "value_usd": 2990
+        "value_usd": 3090
       },
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.06712945,
+        "value": 0.06410064,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -3285,7 +3285,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-08-21T09:56:20.448147",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4837,9 +4837,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.550000011920929,
-          "id": "https://metadata.un.org/sdg/13"
+          "display_name": "Climate action"
         }
       ],
       "awards": [],

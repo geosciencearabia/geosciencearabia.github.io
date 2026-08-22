@@ -558,16 +558,16 @@
         "https://openalex.org/I130828816"
       ],
       "apc_list": {
-        "value": 3090,
+        "value": 3840,
         "currency": "USD",
-        "value_usd": 3090
+        "value_usd": 3840
       },
       "apc_paid": null,
-      "fwci": 12.5995,
+      "fwci": 12.8701,
       "has_fulltext": true,
       "cited_by_count": 152,
       "citation_normalized_percentile": {
-        "value": 0.99343978,
+        "value": 0.9935742,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -859,9 +859,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
           "score": 0.4300000071525574,
-          "display_name": "Life in Land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -1072,7 +1072,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-18T07:49:30.821534",
+      "updated_date": "2026-08-21T09:56:20.448147",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -1232,16 +1232,16 @@
         "https://openalex.org/I130828816"
       ],
       "apc_list": {
-        "value": 3090,
+        "value": 3840,
         "currency": "USD",
-        "value_usd": 3090
+        "value_usd": 3840
       },
       "apc_paid": null,
-      "fwci": 2.8889,
+      "fwci": 2.9258,
       "has_fulltext": false,
       "cited_by_count": 73,
       "citation_normalized_percentile": {
-        "value": 0.87980707,
+        "value": 0.88164996,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1510,9 +1510,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -1676,7 +1676,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-11T07:18:39.950985",
+      "updated_date": "2026-08-21T09:56:20.448147",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2005,9 +2005,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
           "score": 0.5799999833106995,
-          "display_name": "Life in Land"
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -6839,9 +6839,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.5,
-          "display_name": "Climate action"
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -7291,9 +7291,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5899999737739563,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -10069,9 +10069,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -12429,10 +12429,10 @@
       ],
       "abstract_inverted_index": {
         "60": [
-          104
+          107
         ],
         "130": [
-          93
+          96
         ],
         "Quantitative": [
           0
@@ -12441,7 +12441,7 @@
           1,
           23,
           33,
-          113
+          117
         ],
         "prediction": [
           2,
@@ -12451,54 +12451,55 @@
           3,
           7,
           31,
-          52,
-          61,
-          64,
-          74,
+          54,
+          63,
+          66,
           76,
-          85,
-          92,
+          78,
+          88,
           95,
-          111,
-          115,
-          125,
+          98,
+          114,
+          119,
           129,
-          137,
-          148,
-          151,
-          166,
-          186,
-          188,
-          190,
-          201,
-          215,
-          219,
-          224,
-          235,
+          133,
+          141,
+          153,
+          156,
+          171,
+          193,
+          195,
+          197,
+          208,
+          223,
+          227,
+          232,
           244,
-          252,
-          266,
-          279,
-          286
+          253,
+          261,
+          276,
+          289,
+          296
         ],
         "the": [
           4,
-          65,
-          86,
-          107,
-          126,
+          67,
+          89,
+          110,
+          115,
           130,
           134,
           138,
-          161,
-          177,
-          183,
-          231,
-          242,
-          248,
-          264,
-          272,
-          282
+          142,
+          166,
+          184,
+          190,
+          240,
+          251,
+          257,
+          274,
+          282,
+          292
         ],
         "three-dimensional": [
           5
@@ -12508,7 +12509,7 @@
         ],
         "sedimentary": [
           8,
-          284
+          294
         ],
         "architectures": [
           9,
@@ -12519,15 +12520,15 @@
           16,
           19,
           38,
-          89,
-          120,
-          133,
-          164,
-          196,
-          233,
-          237,
-          240,
-          250
+          92,
+          124,
+          137,
+          169,
+          203,
+          242,
+          246,
+          249,
+          259
         ],
         "associated": [
           11
@@ -12540,37 +12541,37 @@
         ],
         "from": [
           14,
-          103,
-          176,
-          260
+          106,
+          183,
+          269
         ],
         "fluvial": [
           15,
           37,
-          121,
-          238
+          125,
+          247
         ],
         "aeolian": [
           17,
           39,
-          53,
-          119,
-          191,
-          236,
-          256
+          55,
+          123,
+          198,
+          245,
+          265
         ],
         "interactions": [
           18
         ],
         "preserved": [
           20,
-          227,
-          287
+          235,
+          297
         ],
         "as": [
           21,
-          172,
-          271
+          179,
+          281
         ],
         "accumulated": [
           22
@@ -12593,14 +12594,14 @@
         ],
         "that": [
           29,
-          269
+          279
         ],
         "3D": [
           32
         ],
         "in": [
           35,
-          80
+          82
         ],
         "subsurface": [
           36
@@ -12608,445 +12609,464 @@
         "reservoirs": [
           40
         ],
-        "challenging.&#13;\\n&#13;\\nThis": [
+        "challenging.": [
           42
         ],
-        "study": [
+        "\\n": [
           43,
-          84,
-          262
-        ],
-        "comprises": [
-          44
-        ],
-        "four": [
-          45,
-          62
-        ],
-        "discrete": [
-          46
-        ],
-        "but": [
-          47
-        ],
-        "related": [
-          48
-        ],
-        "research": [
-          49
-        ],
-        "components:": [
-          50
-        ],
-        "(1)analysis": [
-          51
-        ],
-        "dune-field": [
-          54
-        ],
-        "geomorphology": [
-          55
-        ],
-        "through": [
-          56,
-          83,
-          198
-        ],
-        "a": [
-          57,
-          149,
-          199,
-          213,
-          253
-        ],
-        "remotely": [
-          58
-        ],
-        "sensed": [
-          59
-        ],
-        "analysis": [
-          60,
-          73,
-          110,
-          124,
-          223
-        ],
-        "parts": [
-          63
-        ],
-        "Al": [
-          66
-        ],
-        "Rub’": [
-          67,
-          178
-        ],
-        "Al-Khali": [
-          68,
-          179
-        ],
-        "Desert,": [
-          69
-        ],
-        "Saudi": [
-          70
-        ],
-        "Arabia;": [
-          71
-        ],
-        "(2)": [
-          72,
-          203
-        ],
-        "types": [
-          75,
-          218
-        ],
-        "aeolian-fluvial": [
-          77,
-          168,
-          204,
-          288
-        ],
-        "system": [
-          78,
-          220
-        ],
-        "interaction": [
-          79,
-          97,
-          205
-        ],
-        "modern": [
-          81
-        ],
-        "dune-field&#13;\\nmargins": [
-          82
-        ],
-        "morphological": [
-          87
-        ],
-        "expression": [
-          88,
-          114
-        ],
-        "areal": [
-          90
-        ],
-        "distribution": [
-          91
-        ],
-        "examples": [
-          94,
-          207
-        ],
-        "fluvial-aeolian": [
-          96
-        ],
-        "mapped": [
-          98
-        ],
-        "by": [
-          99
-        ],
-        "high-resolution": [
-          100
-        ],
-        "satellite": [
-          101
-        ],
-        "imagery": [
-          102
-        ],
-        "deserts": [
-          105
-        ],
-        "around": [
-          106
-        ],
-        "world;": [
-          108
-        ],
-        "(3)": [
-          109
-        ],
-        "the&#13;\\npreserved": [
-          112
-        ],
-        "an": [
-          116,
-          225,
-          276
-        ],
-        "ancient": [
-          117,
-          226
-        ],
-        "mixed": [
-          118,
-          167
-        ],
-        "succession": [
-          122,
-          228
-        ],
-        "via": [
-          123
-        ],
-        "upper": [
-          127
-        ],
-        "part": [
-          128,
-          136
-        ],
-        "Wilmslow": [
-          131
-        ],
-        "Sandstone": [
-          132,
-          141
-        ],
-        "lower": [
-          135
-        ],
-        "overlying": [
-          139
-        ],
-        "Helsby": [
-          140
-        ],
-        "formations,": [
-          142
-        ],
-        "Sherwood&#13;\\nSandstone": [
-          143
-        ],
-        "Group,": [
-          144
-        ],
-        "UK;": [
-          145
-        ],
-        "(4)": [
-          146,
-          258
-        ],
-        "development": [
-          147,
-          249,
-          265
-        ],
-        "series": [
-          150,
-          200
-        ],
-        "predictive,": [
-          152
-        ],
-        "semiquantitative": [
-          153
-        ],
-        "facies": [
-          154,
-          267
-        ],
-        "models": [
-          155,
-          268
-        ],
-        "with": [
-          156
-        ],
-        "which": [
-          157
-        ],
-        "to": [
-          158,
-          193,
-          211
-        ],
-        "account": [
-          159
-        ],
-        "for": [
-          160,
-          274
-        ],
-        "geological": [
-          162
-        ],
-        "complexity": [
-          163
-        ],
-        "origin": [
-          165
-        ],
-        "successions.&#13;\\n&#13;\\nPrincipal": [
-          169
-        ],
-        "finding": [
-          170
-        ],
-        "are": [
-          171
-        ],
-        "follows:": [
-          173
-        ],
-        "(1)": [
-          174
-        ],
-        "observations": [
           175
         ],
-        "Desert": [
-          180
+        "\\nThis": [
+          44
         ],
-        "have": [
-          181,
-          208
+        "study": [
+          45,
+          87,
+          271
         ],
-        "enabled": [
-          182
+        "comprises": [
+          46
         ],
-        "spatial": [
-          184
+        "four": [
+          47,
+          64
         ],
-        "rate": [
+        "discrete": [
+          48
+        ],
+        "but": [
+          49
+        ],
+        "related": [
+          50
+        ],
+        "research": [
+          51
+        ],
+        "components:": [
+          52
+        ],
+        "(1)analysis": [
+          53
+        ],
+        "dune-field": [
+          56,
+          84
+        ],
+        "geomorphology": [
+          57
+        ],
+        "through": [
+          58,
+          86,
+          205
+        ],
+        "a": [
+          59,
+          154,
+          206,
+          221,
+          262
+        ],
+        "remotely": [
+          60
+        ],
+        "sensed": [
+          61
+        ],
+        "analysis": [
+          62,
+          75,
+          113,
+          128,
+          231
+        ],
+        "parts": [
+          65
+        ],
+        "Al": [
+          68
+        ],
+        "Rub’": [
+          69,
           185
         ],
-        "change": [
-          187
+        "Al-Khali": [
+          70,
+          186
         ],
-        "morphology": [
-          189
+        "Desert,": [
+          71
         ],
-        "subenvironments": [
-          192
+        "Saudi": [
+          72
         ],
-        "be": [
-          194
+        "Arabia;": [
+          73
         ],
-        "characterized": [
-          195
+        "(2)": [
+          74,
+          211
         ],
-        "described": [
-          197
+        "types": [
+          77,
+          226
         ],
-        "empirical&#13;\\nrelationships;": [
-          202
+        "aeolian-fluvial": [
+          79,
+          173,
+          212,
+          298
         ],
-        "case-study": [
-          206
+        "system": [
+          80,
+          228
         ],
-        "been": [
-          209
+        "interaction": [
+          81,
+          100,
+          213
         ],
-        "classified": [
-          210
+        "modern": [
+          83
         ],
-        "propose": [
-          212
+        "\\nmargins": [
+          85
         ],
-        "framework": [
-          214
+        "morphological": [
+          90
         ],
-        "ten": [
-          216
+        "expression": [
+          91,
+          118
         ],
-        "distinct": [
-          217
+        "areal": [
+          93
         ],
-        "interactions;(3)": [
-          221
+        "distribution": [
+          94
         ],
-        "outcrop": [
-          222
+        "examples": [
+          97,
+          215
         ],
-        "reveals": [
-          229
+        "fluvial-aeolian": [
+          99
         ],
-        "mechanisms&#13;\\nfor": [
-          230
+        "mapped": [
+          101
         ],
-        "accumulation": [
-          232
+        "by": [
+          102
         ],
-        "preservation": [
-          234,
-          251
+        "high-resolution": [
+          103
         ],
-        "successions,": [
-          239
+        "satellite": [
+          104
         ],
-        "demonstrates": [
-          241
+        "imagery": [
+          105
         ],
-        "role": [
-          243
+        "deserts": [
+          108
         ],
-        "water": [
-          245
+        "around": [
+          109
         ],
-        "table": [
-          246
+        "world;": [
+          111
         ],
-        "on": [
-          247
+        "(3)": [
+          112
         ],
-        "water-table": [
-          254
+        "\\npreserved": [
+          116
         ],
-        "influenced": [
-          255
+        "an": [
+          120,
+          233,
+          286
         ],
-        "system;": [
-          257
+        "ancient": [
+          121,
+          234
         ],
-        "results": [
-          259
+        "mixed": [
+          122,
+          172
         ],
-        "this": [
-          261
+        "succession": [
+          126,
+          236
         ],
-        "have&#13;\\nenabled": [
-          263
+        "via": [
+          127
         ],
-        "serve": [
-          270
+        "upper": [
+          131
         ],
-        "basis": [
-          273
+        "part": [
+          132,
+          140
         ],
-        "gaining": [
+        "Wilmslow": [
+          135
+        ],
+        "Sandstone": [
+          136,
+          145
+        ],
+        "lower": [
+          139
+        ],
+        "overlying": [
+          143
+        ],
+        "Helsby": [
+          144
+        ],
+        "formations,": [
+          146
+        ],
+        "Sherwood": [
+          147
+        ],
+        "\\nSandstone": [
+          148
+        ],
+        "Group,": [
+          149
+        ],
+        "UK;": [
+          150
+        ],
+        "(4)": [
+          151,
+          267
+        ],
+        "development": [
+          152,
+          258,
           275
         ],
-        "improved": [
+        "series": [
+          155,
+          207
+        ],
+        "predictive,": [
+          157
+        ],
+        "semiquantitative": [
+          158
+        ],
+        "facies": [
+          159,
           277
         ],
-        "understanding": [
+        "models": [
+          160,
           278
         ],
-        "controls": [
-          280
+        "with": [
+          161
         ],
-        "governing": [
-          281
+        "which": [
+          162
         ],
-        "detailed": [
-          283
+        "to": [
+          163,
+          200,
+          219
         ],
-        "architecture": [
-          285
+        "account": [
+          164
+        ],
+        "for": [
+          165,
+          284
+        ],
+        "geological": [
+          167
+        ],
+        "complexity": [
+          168
+        ],
+        "origin": [
+          170
         ],
         "successions.": [
-          289
+          174,
+          299
+        ],
+        "\\nPrincipal": [
+          176
+        ],
+        "finding": [
+          177
+        ],
+        "are": [
+          178
+        ],
+        "follows:": [
+          180
+        ],
+        "(1)": [
+          181
+        ],
+        "observations": [
+          182
+        ],
+        "Desert": [
+          187
+        ],
+        "have": [
+          188,
+          216,
+          272
+        ],
+        "enabled": [
+          189
+        ],
+        "spatial": [
+          191
+        ],
+        "rate": [
+          192
+        ],
+        "change": [
+          194
+        ],
+        "morphology": [
+          196
+        ],
+        "subenvironments": [
+          199
+        ],
+        "be": [
+          201
+        ],
+        "characterized": [
+          202
+        ],
+        "described": [
+          204
+        ],
+        "empirical": [
+          209
+        ],
+        "\\nrelationships;": [
+          210
+        ],
+        "case-study": [
+          214
+        ],
+        "been": [
+          217
+        ],
+        "classified": [
+          218
+        ],
+        "propose": [
+          220
+        ],
+        "framework": [
+          222
+        ],
+        "ten": [
+          224
+        ],
+        "distinct": [
+          225
+        ],
+        "interactions;(3)": [
+          229
+        ],
+        "outcrop": [
+          230
+        ],
+        "reveals": [
+          237
+        ],
+        "mechanisms": [
+          238
+        ],
+        "\\nfor": [
+          239
+        ],
+        "accumulation": [
+          241
+        ],
+        "preservation": [
+          243,
+          260
+        ],
+        "successions,": [
+          248
+        ],
+        "demonstrates": [
+          250
+        ],
+        "role": [
+          252
+        ],
+        "water": [
+          254
+        ],
+        "table": [
+          255
+        ],
+        "on": [
+          256
+        ],
+        "water-table": [
+          263
+        ],
+        "influenced": [
+          264
+        ],
+        "system;": [
+          266
+        ],
+        "results": [
+          268
+        ],
+        "this": [
+          270
+        ],
+        "\\nenabled": [
+          273
+        ],
+        "serve": [
+          280
+        ],
+        "basis": [
+          283
+        ],
+        "gaining": [
+          285
+        ],
+        "improved": [
+          287
+        ],
+        "understanding": [
+          288
+        ],
+        "controls": [
+          290
+        ],
+        "governing": [
+          291
+        ],
+        "detailed": [
+          293
+        ],
+        "architecture": [
+          295
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-11T07:18:39.950985",
+      "updated_date": "2026-08-21T09:56:20.448147",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13232,7 +13252,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.38585573,
+        "value": 0.38770282,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13429,7 +13449,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 2,
+      "locations_count": 1,
       "locations": [
         {
           "id": "doi:10.3997/2214-4609.2022627031",
@@ -13444,43 +13464,14 @@
           "is_published": true,
           "raw_source_name": "Eighth EAGE Arabian Plate Core Workshop",
           "raw_type": "proceedings-article"
-        },
-        {
-          "id": "pmh:oai:eprints.whiterose.ac.uk:231832",
-          "is_oa": false,
-          "landing_page_url": "https://orcid.org/0000-0002-8356-9889>",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400854",
-            "display_name": "White Rose Research Online (University of Leeds, The University of Sheffield, University of York)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I2800616092",
-            "host_organization_name": "White Rose University Consortium",
-            "host_organization_lineage": [
-              "https://openalex.org/I2800616092"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "acceptedVersion",
-          "is_accepted": true,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "Proceedings Paper"
         }
       ],
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -14053,7 +14044,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-08-21T09:56:20.448147",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -17490,9 +17481,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8767217397689819,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],

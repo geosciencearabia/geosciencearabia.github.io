@@ -774,16 +774,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 45,
@@ -1825,21 +1825,21 @@
         "https://openalex.org/I4210143841"
       ],
       "apc_list": {
-        "value": 4270,
+        "value": 4090,
         "currency": "USD",
-        "value_usd": 4270
+        "value_usd": 4090
       },
       "apc_paid": null,
-      "fwci": 0.405,
+      "fwci": 0.3633,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.65660804,
+        "value": 0.63752281,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 95
       },
       "biblio": {
@@ -2094,8 +2094,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -2159,7 +2159,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-06-26T08:34:08.712188",
+      "updated_date": "2026-08-21T09:56:20.448147",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2662,16 +2662,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -4487,8 +4487,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -5574,8 +5574,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6344,8 +6344,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6600,7 +6600,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.43458441,
+        "value": 0.43549373,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6873,16 +6873,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6908,555 +6908,576 @@
         ],
         "sequence": [
           2,
-          95,
-          124,
-          143,
-          162
+          103,
+          134,
+          154,
+          175
         ],
         "stratigrphy": [
           3
         ],
         "analysis": [
           4,
-          189
+          204
         ],
         "was": [
           5,
-          125,
-          204,
-          224
+          135,
+          220,
+          241
         ],
         "applied": [
           6
         ],
         "at": [
           7,
-          97
+          105
         ],
         "the": [
           8,
           12,
-          23,
-          37,
-          45,
-          49,
-          67,
-          89,
-          98,
-          101,
-          105,
-          128,
+          24,
+          39,
+          48,
+          52,
+          72,
+          95,
+          106,
+          109,
+          113,
           138,
-          146,
-          152,
-          159,
-          165,
-          173,
-          181,
-          185,
-          191,
+          149,
+          157,
+          164,
+          171,
+          178,
+          186,
           195,
+          199,
+          206,
           210,
-          217,
-          221,
+          215,
+          226,
+          234,
           238,
-          241,
-          248
+          245,
+          256,
+          259,
+          267
         ],
         "Lower": [
           9,
-          46,
-          192,
-          249
+          49,
+          207,
+          216,
+          268
         ],
         "part": [
           10,
-          47
+          50
         ],
         "of": [
           11,
-          19,
-          48,
-          100,
-          158,
-          172,
-          190,
-          209,
-          216,
-          220,
+          20,
+          51,
+          108,
+          170,
+          185,
+          205,
+          225,
+          233,
           237,
-          247
+          255,
+          266
         ],
         "Wasia": [
           13,
-          50,
-          52,
-          77,
-          193,
-          250
-        ],
-        "Formation&lt;br&gt;(Khafji,": [
-          14
-        ],
-        "Safaniya": [
-          15
-        ],
-        "and": [
-          16,
-          31,
-          74,
-          91,
-          154,
-          170
-        ],
-        "Mauddud": [
-          17
-        ],
-        "members)": [
-          18
-        ],
-        "Albian": [
-          20
-        ],
-        "age": [
-          21
-        ],
-        "in": [
-          22,
-          36,
-          55,
-          194,
-          245
-        ],
-        "offshore": [
-          24,
-          196
-        ],
-        "Saudi": [
-          25,
-          56
-        ],
-        "Arabia.": [
-          26
-        ],
-        "Core": [
-          27
-        ],
-        "analysis,&lt;br&gt;wire-line": [
-          28
-        ],
-        "logs,": [
-          29
-        ],
-        "biostratigraphy": [
-          30
-        ],
-        "fluid": [
-          32
-        ],
-        "data": [
-          33,
-          176
-        ],
-        "were": [
-          34
-        ],
-        "used": [
-          35
-        ],
-        "analysis.": [
-          38
-        ],
-        "Two": [
-          39
-        ],
-        "3rd": [
-          40
-        ],
-        "order": [
-          41
-        ],
-        "sequences": [
-          42,
-          223
-        ],
-        "were&lt;br&gt;identified": [
-          43
-        ],
-        "within": [
-          44
-        ],
-        "Formation.&lt;br&gt;The": [
-          51
+          53,
+          56,
+          82,
+          208,
+          261,
+          269
         ],
         "Formation": [
-          53
-        ],
-        "(Albian/Turonian)": [
-          54
-        ],
-        "Arabia": [
+          14,
           57
         ],
-        "is": [
-          58
+        "(Khafji,": [
+          15
         ],
-        "represented": [
-          59
+        "Safaniya": [
+          16,
+          159
         ],
-        "by": [
-          60,
+        "and": [
+          17,
+          33,
           79,
-          110,
-          151
-        ],
-        "seven": [
-          61
-        ],
-        "members;": [
-          62
-        ],
-        "from&lt;br&gt;bottom": [
-          63
-        ],
-        "to": [
-          64,
-          85,
+          98,
+          166,
           183
         ],
-        "top": [
-          65
-        ],
-        "are": [
-          66
-        ],
-        "Khafji,": [
-          68
-        ],
-        "Safaniya,": [
-          69
-        ],
-        "Mauddud,": [
-          70
-        ],
-        "Wara,": [
-          71
-        ],
-        "Ahmadi,": [
-          72
-        ],
-        "Rumaila": [
-          73
-        ],
-        "Mishrif.": [
-          75
-        ],
-        "The": [
-          76,
-          141,
-          161,
-          214
-        ],
-        "is&lt;br&gt;bounded": [
-          78
-        ],
-        "two": [
-          80,
-          222
-        ],
-        "pronounced": [
-          81
-        ],
-        "regional": [
-          82,
-          186
-        ],
-        "unconformities": [
-          83
-        ],
-        "related": [
-          84
-        ],
-        "major": [
-          86
-        ],
-        "tectonic": [
-          87,
-          233
-        ],
-        "events:": [
-          88
-        ],
-        "pre-Wasia&lt;br&gt;(Albian/Aptian)": [
-          90
-        ],
-        "pre-Aruma": [
-          92
-        ],
-        "(Campanian/Turonian).&lt;br&gt;The": [
-          93
-        ],
-        "lower": [
-          94
-        ],
-        "starts": [
-          96,
-          144
-        ],
-        "base": [
-          99
-        ],
-        "Khafji": [
-          102,
-          107,
-          112,
-          130,
-          201
-        ],
-        "member": [
-          103
-        ],
-        "with": [
-          104,
-          115,
-          127,
-          145,
-          164,
-          180,
-          231
-        ],
-        "low-stand": [
-          106,
-          147
-        ],
-        "main": [
-          108,
-          202
-        ],
-        "sand&lt;br&gt;followed": [
-          109
-        ],
-        "transgressive": [
-          111,
-          153
-        ],
-        "sand": [
-          113,
-          136,
-          203
-        ],
-        "stringers": [
-          114
-        ],
-        "a": [
-          116,
-          133
-        ],
-        "maximum": [
-          117,
-          155
-        ],
-        "flooding": [
-          118,
-          156
-        ],
-        "limestone": [
-          119
-        ],
-        "marker": [
-          120
-        ],
-        "called": [
-          121
-        ],
-        "Dair&lt;br&gt;limestone.": [
-          122
-        ],
-        "This": [
-          123
-        ],
-        "terminated": [
-          126
-        ],
-        "high-stand": [
-          129
-        ],
-        "stray": [
-          131
-        ],
-        "sands;": [
-          132
-        ],
-        "very": [
-          134
-        ],
-        "thin&lt;br&gt;continuous": [
-          135
-        ],
-        "overlaying": [
-          137
-        ],
-        "Dair": [
-          139
-        ],
-        "limestone.": [
-          140
-        ],
-        "upper": [
-          142,
-          174
-        ],
-        "Safaniya&lt;br&gt;reservoir": [
-          148
-        ],
-        "sandstone": [
-          149
-        ],
-        "followed": [
-          150
-        ],
-        "surface": [
-          157
-        ],
-        "Mauddud&lt;br&gt;limestone.": [
-          160
-        ],
-        "ends": [
-          163
-        ],
-        "high": [
-          166
-        ],
-        "stand": [
-          167
-        ],
-        "thin": [
-          168
-        ],
-        "carbonates": [
-          169
-        ],
-        "shales": [
-          171
-        ],
-        "Mauddud.&lt;br&gt;Outcrop": [
-          175
-        ],
-        "has": [
-          177,
-          243
-        ],
-        "been": [
-          178
-        ],
-        "correlated": [
-          179
-        ],
-        "subsurface": [
-          182
-        ],
-        "establish": [
-          184
-        ],
-        "framework.&lt;br&gt;Detailed": [
-          187
-        ],
-        "tectono-stratigraphic": [
-          188
-        ],
-        "fields": [
-          197
-        ],
-        "indicates": [
-          198
-        ],
-        "that": [
-          199
-        ],
-        "the&lt;br&gt;Lower": [
-          200
-        ],
-        "deposited": [
-          205
-        ],
-        "as": [
-          206
-        ],
-        "fluvial": [
-          207
-        ],
-        "filling": [
-          208
-        ],
-        "tectonically-controlled": [
+        "Mauddud": [
+          18,
+          172
+        ],
+        "members)": [
+          19
+        ],
+        "Albian": [
+          21
+        ],
+        "age": [
+          22
+        ],
+        "in": [
+          23,
+          38,
+          59,
+          209,
+          264
+        ],
+        "offshore": [
+          25,
           211
         ],
-        "irregular": [
-          212
+        "Saudi": [
+          26,
+          60
         ],
-        "basin&lt;br&gt;topography.": [
-          213
+        "Arabia.": [
+          27
         ],
-        "deposition": [
-          215
+        "Core": [
+          28
         ],
-        "remaining": [
-          218
+        "analysis,": [
+          29
         ],
-        "section": [
-          219
+        "wire-line": [
+          30
         ],
-        "primarily": [
-          225
+        "logs,": [
+          31
         ],
-        "controlled": [
-          226
+        "biostratigraphy": [
+          32
         ],
-        "by&lt;br&gt;the": [
-          227
+        "fluid": [
+          34
         ],
-        "sea": [
-          228
+        "data": [
+          35,
+          190
         ],
-        "level": [
-          229
+        "were": [
+          36,
+          45
         ],
-        "eustacy": [
-          230
+        "used": [
+          37
         ],
-        "weak": [
-          232
+        "analysis.": [
+          40
         ],
-        "imprints.": [
-          234
+        "Two": [
+          41
         ],
-        "Tertiary": [
-          235
+        "3rd": [
+          42
         ],
-        "reactivation": [
-          236
+        "order": [
+          43
         ],
-        "faults": [
-          239
-        ],
-        "cutting": [
+        "sequences": [
+          44,
           240
         ],
-        "pre-&lt;br&gt;Wasia": [
-          242
+        "identified": [
+          46
         ],
-        "resulted": [
+        "within": [
+          47
+        ],
+        "Formation.": [
+          54
+        ],
+        "The": [
+          55,
+          81,
+          101,
+          152,
+          174,
+          231
+        ],
+        "(Albian/Turonian)": [
+          58
+        ],
+        "Arabia": [
+          61
+        ],
+        "is": [
+          62,
+          83
+        ],
+        "represented": [
+          63
+        ],
+        "by": [
+          64,
+          85,
+          119,
+          163,
           244
         ],
-        "compartmentalization": [
+        "seven": [
+          65
+        ],
+        "members;": [
+          66
+        ],
+        "from": [
+          67
+        ],
+        "bottom": [
+          68
+        ],
+        "to": [
+          69,
+          91,
+          197
+        ],
+        "top": [
+          70
+        ],
+        "are": [
+          71
+        ],
+        "Khafji,": [
+          73
+        ],
+        "Safaniya,": [
+          74
+        ],
+        "Mauddud,": [
+          75
+        ],
+        "Wara,": [
+          76
+        ],
+        "Ahmadi,": [
+          77
+        ],
+        "Rumaila": [
+          78
+        ],
+        "Mishrif.": [
+          80
+        ],
+        "bounded": [
+          84
+        ],
+        "two": [
+          86,
+          239
+        ],
+        "pronounced": [
+          87
+        ],
+        "regional": [
+          88,
+          200
+        ],
+        "unconformities": [
+          89
+        ],
+        "related": [
+          90
+        ],
+        "major": [
+          92
+        ],
+        "tectonic": [
+          93,
+          251
+        ],
+        "events:": [
+          94
+        ],
+        "pre-Wasia": [
+          96
+        ],
+        "(Albian/Aptian)": [
+          97
+        ],
+        "pre-Aruma": [
+          99
+        ],
+        "(Campanian/Turonian).": [
+          100
+        ],
+        "lower": [
+          102
+        ],
+        "starts": [
+          104,
+          155
+        ],
+        "base": [
+          107
+        ],
+        "Khafji": [
+          110,
+          115,
+          121,
+          140,
+          217
+        ],
+        "member": [
+          111
+        ],
+        "with": [
+          112,
+          124,
+          137,
+          156,
+          177,
+          194,
+          249
+        ],
+        "low-stand": [
+          114,
+          158
+        ],
+        "main": [
+          116,
+          218
+        ],
+        "sand": [
+          117,
+          122,
+          147,
+          219
+        ],
+        "followed": [
+          118,
+          162
+        ],
+        "transgressive": [
+          120,
+          165
+        ],
+        "stringers": [
+          123
+        ],
+        "a": [
+          125,
+          143
+        ],
+        "maximum": [
+          126,
+          167
+        ],
+        "flooding": [
+          127,
+          168
+        ],
+        "limestone": [
+          128
+        ],
+        "marker": [
+          129
+        ],
+        "called": [
+          130
+        ],
+        "Dair": [
+          131,
+          150
+        ],
+        "limestone.": [
+          132,
+          151,
+          173
+        ],
+        "This": [
+          133
+        ],
+        "terminated": [
+          136
+        ],
+        "high-stand": [
+          139
+        ],
+        "stray": [
+          141
+        ],
+        "sands;": [
+          142
+        ],
+        "very": [
+          144
+        ],
+        "thin": [
+          145,
+          181
+        ],
+        "continuous": [
+          146
+        ],
+        "overlaying": [
+          148
+        ],
+        "upper": [
+          153,
+          187
+        ],
+        "reservoir": [
+          160
+        ],
+        "sandstone": [
+          161
+        ],
+        "surface": [
+          169
+        ],
+        "ends": [
+          176
+        ],
+        "high": [
+          179
+        ],
+        "stand": [
+          180
+        ],
+        "carbonates": [
+          182
+        ],
+        "shales": [
+          184
+        ],
+        "Mauddud.": [
+          188
+        ],
+        "Outcrop": [
+          189
+        ],
+        "has": [
+          191,
+          262
+        ],
+        "been": [
+          192
+        ],
+        "correlated": [
+          193
+        ],
+        "subsurface": [
+          196
+        ],
+        "establish": [
+          198
+        ],
+        "framework.": [
+          201
+        ],
+        "Detailed": [
+          202
+        ],
+        "tectono-stratigraphic": [
+          203
+        ],
+        "fields": [
+          212
+        ],
+        "indicates": [
+          213
+        ],
+        "that": [
+          214
+        ],
+        "deposited": [
+          221
+        ],
+        "as": [
+          222
+        ],
+        "fluvial": [
+          223
+        ],
+        "filling": [
+          224
+        ],
+        "tectonically-controlled": [
+          227
+        ],
+        "irregular": [
+          228
+        ],
+        "basin": [
+          229
+        ],
+        "topography.": [
+          230
+        ],
+        "deposition": [
+          232
+        ],
+        "remaining": [
+          235
+        ],
+        "section": [
+          236
+        ],
+        "primarily": [
+          242
+        ],
+        "controlled": [
+          243
+        ],
+        "sea": [
           246
         ],
+        "level": [
+          247
+        ],
+        "eustacy": [
+          248
+        ],
+        "weak": [
+          250
+        ],
+        "imprints.": [
+          252
+        ],
+        "Tertiary": [
+          253
+        ],
+        "reactivation": [
+          254
+        ],
+        "faults": [
+          257
+        ],
+        "cutting": [
+          258
+        ],
+        "pre-": [
+          260
+        ],
+        "resulted": [
+          263
+        ],
+        "compartmentalization": [
+          265
+        ],
         "reservoirs.": [
-          251
+          270
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-08-21T09:56:20.448147",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7551,7 +7572,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.61823924,
+        "value": 0.6192361,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7867,16 +7888,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6200000047683716
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -7909,13 +7930,13 @@
         ],
         "analysis": [
           3,
-          188
+          189
         ],
         "was": [
           4,
           133,
-          208,
-          229
+          209,
+          230
         ],
         "applied": [
           5
@@ -7942,29 +7963,30 @@
           162,
           169,
           176,
-          190,
-          194,
-          198,
-          203,
-          214,
-          222,
-          226,
-          233,
-          243,
-          246,
-          254
+          183,
+          191,
+          195,
+          199,
+          204,
+          215,
+          223,
+          227,
+          234,
+          244,
+          247,
+          255
         ],
         "lower": [
           8,
           47,
           99,
-          191,
-          255
+          192,
+          256
         ],
         "part": [
           9,
           48,
-          192
+          193
         ],
         "of": [
           10,
@@ -7973,26 +7995,26 @@
           105,
           168,
           182,
-          189,
-          193,
-          213,
-          221,
-          225,
-          242,
-          253
+          190,
+          194,
+          214,
+          222,
+          226,
+          243,
+          254
         ],
         "Wasia": [
           12,
           51,
           54,
           78,
-          195,
-          256
+          196,
+          257
         ],
         "Formation": [
           13,
           55,
-          196
+          197
         ],
         "(Khafji,": [
           14
@@ -8012,7 +8034,7 @@
         "Mauddud": [
           17,
           170,
-          184
+          185
         ],
         "members)": [
           18
@@ -8027,12 +8049,12 @@
           22,
           37,
           57,
-          197,
-          251
+          198,
+          252
         ],
         "offshore": [
           24,
-          199
+          200
         ],
         "Saudi": [
           25,
@@ -8080,7 +8102,7 @@
         ],
         "sequences": [
           42,
-          228
+          229
         ],
         "identified": [
           44
@@ -8097,7 +8119,7 @@
           98,
           150,
           172,
-          219
+          220
         ],
         "(Albian/Turonian)": [
           56
@@ -8117,7 +8139,7 @@
           81,
           116,
           161,
-          232
+          233
         ],
         "seven": [
           63
@@ -8164,7 +8186,7 @@
         ],
         "two": [
           82,
-          227
+          228
         ],
         "pronounced": [
           83
@@ -8183,14 +8205,14 @@
         ],
         "tectonic": [
           89,
-          238
+          239
         ],
         "events:": [
           90
         ],
         "pre-Wasia": [
           92,
-          247
+          248
         ],
         "(Albian/Aptian)": [
           93
@@ -8216,7 +8238,7 @@
           112,
           118,
           138,
-          205
+          206
         ],
         "Member": [
           108
@@ -8227,7 +8249,7 @@
           135,
           154,
           175,
-          236
+          237
         ],
         "lowstand": [
           111,
@@ -8235,11 +8257,11 @@
         ],
         "Main": [
           113,
-          206
+          207
         ],
         "Sand": [
           114,
-          207
+          208
         ],
         "followed": [
           115,
@@ -8316,7 +8338,8 @@
           146
         ],
         "upper": [
-          151
+          151,
+          184
         ],
         "reservoir": [
           158
@@ -8336,109 +8359,106 @@
         "shales": [
           181
         ],
-        "the&lt;br&gt;upper": [
-          183
-        ],
         "Member.": [
-          185
-        ],
-        "Detailed": [
           186
         ],
-        "tectono-stratigraphic": [
+        "Detailed": [
           187
         ],
-        "fields": [
-          200
+        "tectono-stratigraphic": [
+          188
         ],
-        "indicated": [
+        "fields": [
           201
         ],
-        "that": [
+        "indicated": [
           202
         ],
+        "that": [
+          203
+        ],
         "Lower": [
-          204
+          205
         ],
         "deposited": [
-          209
-        ],
-        "as": [
           210
         ],
-        "fluvial": [
+        "as": [
           211
         ],
-        "filling": [
+        "fluvial": [
           212
         ],
-        "tectonicallycontrolled": [
-          215
+        "filling": [
+          213
         ],
-        "irregular": [
+        "tectonicallycontrolled": [
           216
         ],
-        "basin": [
+        "irregular": [
           217
         ],
-        "topography.": [
+        "basin": [
           218
         ],
+        "topography.": [
+          219
+        ],
         "deposition": [
-          220
+          221
         ],
         "remaining": [
-          223
+          224
         ],
         "section": [
-          224,
-          248
-        ],
-        "primarily": [
-          230
-        ],
-        "controlled": [
-          231
-        ],
-        "sea-level": [
-          234
-        ],
-        "eustacy": [
-          235
-        ],
-        "weak": [
-          237
-        ],
-        "imprints.": [
-          239
-        ],
-        "Tertiary": [
-          240
-        ],
-        "reactivation": [
-          241
-        ],
-        "faults": [
-          244
-        ],
-        "cutting": [
-          245
-        ],
-        "has": [
+          225,
           249
         ],
-        "resulted": [
+        "primarily": [
+          231
+        ],
+        "controlled": [
+          232
+        ],
+        "sea-level": [
+          235
+        ],
+        "eustacy": [
+          236
+        ],
+        "weak": [
+          238
+        ],
+        "imprints.": [
+          240
+        ],
+        "Tertiary": [
+          241
+        ],
+        "reactivation": [
+          242
+        ],
+        "faults": [
+          245
+        ],
+        "cutting": [
+          246
+        ],
+        "has": [
           250
         ],
+        "resulted": [
+          251
+        ],
         "compartmentalization": [
-          252
+          253
         ],
         "reservoirs.": [
-          257
+          258
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-08-21T09:56:20.448147",
       "created_date": "2025-10-10T00:00:00"
     }
   ]

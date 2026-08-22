@@ -757,13 +757,17 @@
         "https://openalex.org/I40120149",
         "https://openalex.org/I87216513"
       ],
-      "apc_list": null,
+      "apc_list": {
+        "value": 3550,
+        "currency": "USD",
+        "value_usd": 3550
+      },
       "apc_paid": null,
-      "fwci": 1.1675,
+      "fwci": 1.1918,
       "has_fulltext": false,
       "cited_by_count": 46,
       "citation_normalized_percentile": {
-        "value": 0.77786646,
+        "value": 0.78262933,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -1060,8 +1064,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8600000143051147,
           "display_name": "Life below water",
+          "score": 0.8600000143051147,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -1084,8 +1088,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -1306,7 +1310,7 @@
         "rapid,": [
           49
         ],
-        "&gt;": [
+        ">": [
           50
         ],
         "mm/a": [
@@ -1563,7 +1567,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-15T18:14:33.161393",
+      "updated_date": "2026-08-21T09:56:20.448147",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2127,16 +2131,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8999999761581421,
           "display_name": "Life below water",
+          "score": 0.8999999761581421,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -2979,8 +2983,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2254901902.pdf",
@@ -3737,8 +3741,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "display_name": "Life below water",
+          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -3751,8 +3755,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 8,
@@ -4267,7 +4271,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.22550053,
+        "value": 0.22510823,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4566,16 +4570,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -4604,15 +4608,16 @@
         ],
         "the": [
           3,
-          28,
-          33,
-          41,
-          71,
-          97,
-          102,
-          127,
-          158,
-          161
+          30,
+          35,
+          44,
+          76,
+          104,
+          109,
+          136,
+          170,
+          173,
+          180
         ],
         "effects": [
           4
@@ -4628,7 +4633,7 @@
         ],
         "diagenesis": [
           8,
-          170
+          183
         ],
         "on": [
           9
@@ -4638,398 +4643,421 @@
         ],
         "tidal": [
           11,
-          75,
-          123,
-          186
-        ],
-        "sandstones&lt;br&gt;owing": [
-          12
-        ],
-        "to": [
-          13,
-          180
-        ],
-        "fluctuation": [
-          14
-        ],
-        "of": [
-          15,
-          22,
-          32,
-          43,
-          56,
-          73,
-          79,
-          95,
-          105,
-          122,
-          129,
-          135,
-          143,
-          146,
-          163,
-          169
-        ],
-        "relative": [
-          16
-        ],
-        "sea": [
-          17
-        ],
-        "level": [
-          18
-        ],
-        "(RSL).": [
-          19
-        ],
-        "The": [
-          20
-        ],
-        "distribution": [
-          21,
-          183
-        ],
-        "diagenetic": [
-          23
-        ],
-        "alterations": [
-          24
-        ],
-        "is": [
-          25
-        ],
-        "thus&lt;br&gt;constrained": [
-          26
-        ],
-        "within": [
-          27
-        ],
-        "sequence": [
-          29,
-          172
-        ],
-        "stratigraphic": [
-          30
-        ],
-        "framework": [
-          31
-        ],
-        "succession.": [
-          34
-        ],
-        "Initially,": [
-          35
-        ],
-        "a": [
-          36,
-          74,
-          175
-        ],
-        "rise": [
-          37
-        ],
-        "in": [
-          38,
-          40,
-          67,
-          70,
-          101,
-          111,
-          150,
-          157,
-          184
-        ],
-        "RSL&lt;br&gt;resulted": [
-          39
-        ],
-        "deposition": [
-          42
-        ],
-        "transgressive": [
-          44
-        ],
-        "systems": [
-          45,
-          81,
-          86,
-          98,
-          113,
-          152
-        ],
-        "tract": [
-          46,
-          82,
-          87
-        ],
-        "(TST)": [
-          47
-        ],
-        "sands": [
-          48,
-          94,
-          124
-        ],
-        "directly": [
-          49
-        ],
-        "onto": [
-          50
-        ],
-        "crystalline&lt;br&gt;basement.": [
-          51
-        ],
-        "These": [
-          52
+          80,
+          132,
+          200
         ],
         "sandstones": [
-          53,
-          159
-        ],
-        "display": [
-          54
-        ],
-        "evidence": [
-          55
-        ],
-        "limited": [
-          57
-        ],
-        "cementation": [
-          58
-        ],
-        "by": [
-          59,
-          119,
-          126
-        ],
-        "marine,": [
-          60
-        ],
-        "grain-fringing&lt;br&gt;dogtooth-like": [
-          61
-        ],
-        "and": [
-          62,
-          84,
-          108,
-          125,
-          165
-        ],
-        "fibrous": [
-          63
-        ],
-        "calcite.": [
-          64,
-          166
-        ],
-        "A": [
-          65
-        ],
-        "fall": [
-          66
-        ],
-        "RSL": [
-          68
-        ],
-        "resulted": [
-          69,
-          100
-        ],
-        "progradation": [
-          72
-        ],
-        "flat": [
-          76
-        ],
-        "complex": [
-          77
-        ],
-        "and&lt;br&gt;deposition": [
-          78
-        ],
-        "highstand": [
-          80
-        ],
-        "(HST)": [
-          83
-        ],
-        "lowstand": [
-          85
-        ],
-        "(braided": [
-          88
-        ],
-        "fluvial)": [
-          89
-        ],
-        "sandstones.&lt;br&gt;Contemporaneous": [
-          90
-        ],
-        "meteoric-water": [
-          91
-        ],
-        "flux": [
-          92
-        ],
-        "into": [
-          93,
-          137
-        ],
-        "all": [
-          96,
-          112,
-          151
-        ],
-        "tracts": [
-          99
-        ],
-        "dissolution&lt;br&gt;and": [
-          103
-        ],
-        "kaolinitization": [
-          104
-        ],
-        "feldspars,": [
-          106
-        ],
-        "micas": [
-          107
-        ],
-        "mud": [
-          109
-        ],
-        "intraclasts": [
-          110
-        ],
-        "tracts.": [
-          114,
-          153
-        ],
-        "Sequence": [
-          115
-        ],
-        "boundaries&lt;br&gt;(SB)": [
-          116
-        ],
-        "are": [
-          117
-        ],
-        "marked": [
-          118
-        ],
-        "fluvial": [
-          120
-        ],
-        "incision": [
-          121
-        ],
-        "development": [
-          128
-        ],
-        "palaeosols.": [
-          130
-        ],
-        "Mesogenetic&lt;br&gt;alterations": [
-          131
-        ],
-        "include": [
-          132
-        ],
-        "partial": [
-          133
-        ],
-        "transformation": [
-          134
-        ],
-        "kaolinite": [
-          136
-        ],
-        "dickite,": [
-          138
-        ],
-        "intergranular": [
-          139
-        ],
-        "pressure": [
-          140
-        ],
-        "dissolution,&lt;br&gt;and": [
-          141
-        ],
-        "formation": [
-          142,
-          162
-        ],
-        "variable": [
-          144
-        ],
-        "amounts": [
-          145
-        ],
-        "syntaxial": [
-          147
-        ],
-        "quartz": [
-          148
-        ],
-        "overgrowths": [
-          149
-        ],
-        "Telogenetic&lt;br&gt;alteration": [
-          154
-        ],
-        "(i.e.": [
-          155
-        ],
-        "weathering)": [
-          156
-        ],
-        "includes": [
-          160
-        ],
-        "goethite": [
-          164
-        ],
-        "Thus,": [
-          167
-        ],
-        "the&lt;br&gt;integration": [
-          168
-        ],
-        "with": [
-          171,
-          178
-        ],
-        "stratigraphy": [
-          173
-        ],
-        "provides": [
-          174
-        ],
-        "useful": [
-          176
-        ],
-        "tool": [
-          177
-        ],
-        "which": [
-          179
-        ],
-        "understand&lt;br&gt;reservoir": [
-          181
-        ],
-        "quality": [
+          12,
+          57,
+          171
+        ],
+        "owing": [
+          13
+        ],
+        "to": [
+          14,
+          193
+        ],
+        "fluctuation": [
+          15
+        ],
+        "of": [
+          16,
+          23,
+          34,
+          46,
+          60,
+          78,
+          85,
+          102,
+          113,
+          131,
+          138,
+          145,
+          154,
+          157,
+          175,
           182
         ],
-        "sand-dominated,": [
+        "relative": [
+          17
+        ],
+        "sea": [
+          18
+        ],
+        "level": [
+          19
+        ],
+        "(RSL).": [
+          20
+        ],
+        "The": [
+          21
+        ],
+        "distribution": [
+          22,
+          197
+        ],
+        "diagenetic": [
+          24
+        ],
+        "alterations": [
+          25,
+          141
+        ],
+        "is": [
+          26
+        ],
+        "thus": [
+          27
+        ],
+        "constrained": [
+          28
+        ],
+        "within": [
+          29
+        ],
+        "sequence": [
+          31,
           185
         ],
-        "sediments.": [
+        "stratigraphic": [
+          32
+        ],
+        "framework": [
+          33
+        ],
+        "succession.": [
+          36
+        ],
+        "Initially,": [
+          37
+        ],
+        "a": [
+          38,
+          79,
+          188
+        ],
+        "rise": [
+          39
+        ],
+        "in": [
+          40,
+          43,
+          72,
+          75,
+          108,
+          119,
+          161,
+          169,
+          198
+        ],
+        "RSL": [
+          41,
+          73
+        ],
+        "resulted": [
+          42,
+          74,
+          107
+        ],
+        "deposition": [
+          45,
+          84
+        ],
+        "transgressive": [
+          47
+        ],
+        "systems": [
+          48,
+          87,
+          92,
+          105,
+          121,
+          163
+        ],
+        "tract": [
+          49,
+          88,
+          93
+        ],
+        "(TST)": [
+          50
+        ],
+        "sands": [
+          51,
+          101,
+          133
+        ],
+        "directly": [
+          52
+        ],
+        "onto": [
+          53
+        ],
+        "crystalline": [
+          54
+        ],
+        "basement.": [
+          55
+        ],
+        "These": [
+          56
+        ],
+        "display": [
+          58
+        ],
+        "evidence": [
+          59
+        ],
+        "limited": [
+          61
+        ],
+        "cementation": [
+          62
+        ],
+        "by": [
+          63,
+          128,
+          135
+        ],
+        "marine,": [
+          64
+        ],
+        "grain-fringing": [
+          65
+        ],
+        "dogtooth-like": [
+          66
+        ],
+        "and": [
+          67,
+          83,
+          90,
+          111,
+          116,
+          134,
+          152,
+          177
+        ],
+        "fibrous": [
+          68
+        ],
+        "calcite.": [
+          69,
+          178
+        ],
+        "A": [
+          70
+        ],
+        "fall": [
+          71
+        ],
+        "progradation": [
+          77
+        ],
+        "flat": [
+          81
+        ],
+        "complex": [
+          82
+        ],
+        "highstand": [
+          86
+        ],
+        "(HST)": [
+          89
+        ],
+        "lowstand": [
+          91
+        ],
+        "(braided": [
+          94
+        ],
+        "fluvial)": [
+          95
+        ],
+        "sandstones.": [
+          96
+        ],
+        "Contemporaneous": [
+          97
+        ],
+        "meteoric-water": [
+          98
+        ],
+        "flux": [
+          99
+        ],
+        "into": [
+          100,
+          147
+        ],
+        "all": [
+          103,
+          120,
+          162
+        ],
+        "tracts": [
+          106
+        ],
+        "dissolution": [
+          110
+        ],
+        "kaolinitization": [
+          112
+        ],
+        "feldspars,": [
+          114
+        ],
+        "micas": [
+          115
+        ],
+        "mud": [
+          117
+        ],
+        "intraclasts": [
+          118
+        ],
+        "tracts.": [
+          122,
+          164
+        ],
+        "Sequence": [
+          123
+        ],
+        "boundaries": [
+          124
+        ],
+        "(SB)": [
+          125
+        ],
+        "are": [
+          126
+        ],
+        "marked": [
+          127
+        ],
+        "fluvial": [
+          129
+        ],
+        "incision": [
+          130
+        ],
+        "development": [
+          137
+        ],
+        "palaeosols.": [
+          139
+        ],
+        "Mesogenetic": [
+          140
+        ],
+        "include": [
+          142
+        ],
+        "partial": [
+          143
+        ],
+        "transformation": [
+          144
+        ],
+        "kaolinite": [
+          146
+        ],
+        "dickite,": [
+          148
+        ],
+        "intergranular": [
+          149
+        ],
+        "pressure": [
+          150
+        ],
+        "dissolution,": [
+          151
+        ],
+        "formation": [
+          153,
+          174
+        ],
+        "variable": [
+          155
+        ],
+        "amounts": [
+          156
+        ],
+        "syntaxial": [
+          158
+        ],
+        "quartz": [
+          159
+        ],
+        "overgrowths": [
+          160
+        ],
+        "Telogenetic": [
+          165
+        ],
+        "alteration": [
+          166
+        ],
+        "(i.e.": [
+          167
+        ],
+        "weathering)": [
+          168
+        ],
+        "includes": [
+          172
+        ],
+        "goethite": [
+          176
+        ],
+        "Thus,": [
+          179
+        ],
+        "integration": [
+          181
+        ],
+        "with": [
+          184,
+          191
+        ],
+        "stratigraphy": [
+          186
+        ],
+        "provides": [
           187
+        ],
+        "useful": [
+          189
+        ],
+        "tool": [
+          190
+        ],
+        "which": [
+          192
+        ],
+        "understand": [
+          194
+        ],
+        "reservoir": [
+          195
+        ],
+        "quality": [
+          196
+        ],
+        "sand-dominated,": [
+          199
+        ],
+        "sediments.": [
+          201
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-08-21T09:56:20.448147",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5471,16 +5499,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
           "display_name": "Life below water",
+          "score": 0.8299999833106995,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6572,16 +6600,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6000000238418579,
           "display_name": "Climate action",
+          "score": 0.6000000238418579,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -7103,16 +7131,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6800000071525574,
           "display_name": "Climate action",
+          "score": 0.6800000071525574,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

@@ -674,16 +674,16 @@
         "https://openalex.org/I223822909"
       ],
       "apc_list": {
-        "value": 3490,
+        "value": 3440,
         "currency": "USD",
-        "value_usd": 3490
+        "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 7.1644,
+      "fwci": 7.2431,
       "has_fulltext": false,
       "cited_by_count": 162,
       "citation_normalized_percentile": {
-        "value": 0.97256494,
+        "value": 0.97294701,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1052,16 +1052,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 119,
@@ -1261,7 +1261,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-08-15T07:11:24.734988",
+      "updated_date": "2026-08-21T09:56:20.448147",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2160,8 +2160,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 188,
@@ -3072,1287 +3072,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W4400487005",
-      "doi": "https://doi.org/10.1016/j.marpetgeo.2024.106998",
-      "title": "High-resolution analysis of 3D fracture networks from Digital Outcrop Models, correlation to plate-tectonic events and calibration of subsurface models (Jurassic, Arabian Plate)",
-      "display_name": "High-resolution analysis of 3D fracture networks from Digital Outcrop Models, correlation to plate-tectonic events and calibration of subsurface models (Jurassic, Arabian Plate)",
-      "publication_year": 2024,
-      "publication_date": "2024-07-10",
-      "ids": {
-        "openalex": "https://openalex.org/W4400487005",
-        "doi": "https://doi.org/10.1016/j.marpetgeo.2024.106998"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.marpetgeo.2024.106998",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2024.106998",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S93565542",
-          "display_name": "Marine and Petroleum Geology",
-          "issn_l": "0264-8172",
-          "issn": [
-            "0264-8172",
-            "1873-4073"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Marine and Petroleum Geology",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://doi.org/10.1016/j.marpetgeo.2024.106998",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5030077657",
-            "display_name": "Yuri Panara",
-            "orcid": "https://orcid.org/0000-0002-4829-850X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Yuri Panara",
-          "raw_affiliation_strings": [
-            "Ali I. Al-Naimi Petroleum Engineering Research Center (ANPERC), King Abdullah University of Science and Technology, Saudi Arabia"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-4829-850X",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Ali I. Al-Naimi Petroleum Engineering Research Center (ANPERC), King Abdullah University of Science and Technology, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5050985839",
-            "display_name": "Niccolò Menegoni",
-            "orcid": "https://orcid.org/0000-0003-2857-4930"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Niccolò Menegoni",
-          "raw_affiliation_strings": [
-            "Ali I. Al-Naimi Petroleum Engineering Research Center (ANPERC), King Abdullah University of Science and Technology, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Ali I. Al-Naimi Petroleum Engineering Research Center (ANPERC), King Abdullah University of Science and Technology, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5061306034",
-            "display_name": "Thomas Finkbeiner",
-            "orcid": "https://orcid.org/0000-0002-6137-6162"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Thomas Finkbeiner",
-          "raw_affiliation_strings": [
-            "Ali I. Al-Naimi Petroleum Engineering Research Center (ANPERC), King Abdullah University of Science and Technology, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Ali I. Al-Naimi Petroleum Engineering Research Center (ANPERC), King Abdullah University of Science and Technology, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5086485606",
-            "display_name": "Rainer Zühlke",
-            "orcid": "https://orcid.org/0000-0001-8629-983X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I4210143841",
-              "display_name": "Saudi Aramco (Saudi Arabia)",
-              "ror": "https://ror.org/03ypap427",
-              "country_code": "SA",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Rainer Zühlke",
-          "raw_affiliation_strings": [
-            "Saudi Aramco, EXPEC Advanced Research Centre, Geology Technology, Dhahran, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco, EXPEC Advanced Research Centre, Geology Technology, Dhahran, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I4210143841"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5058223208",
-            "display_name": "Volker Vahrenkamp",
-            "orcid": "https://orcid.org/0000-0002-2182-7993"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71920554",
-              "display_name": "King Abdullah University of Science and Technology",
-              "ror": "https://ror.org/01q3tbs38",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Volker Vahrenkamp",
-          "raw_affiliation_strings": [
-            "Ali I. Al-Naimi Petroleum Engineering Research Center (ANPERC), King Abdullah University of Science and Technology, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Ali I. Al-Naimi Petroleum Engineering Research Center (ANPERC), King Abdullah University of Science and Technology, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I71920554"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5030077657"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I71920554"
-      ],
-      "apc_list": {
-        "value": 3490,
-        "currency": "USD",
-        "value_usd": 3490
-      },
-      "apc_paid": {
-        "value": 3490,
-        "currency": "USD",
-        "value_usd": 3490
-      },
-      "fwci": 4.2925,
-      "has_fulltext": false,
-      "cited_by_count": 13,
-      "citation_normalized_percentile": {
-        "value": 0.95607353,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 98,
-        "max": 100
-      },
-      "biblio": {
-        "volume": "167",
-        "issue": null,
-        "first_page": "106998",
-        "last_page": "106998"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10271",
-        "display_name": "Seismic Imaging and Inversion Techniques",
-        "score": 0.9973999857902527,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1908",
-          "display_name": "Geophysics"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10271",
-          "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.9973999857902527,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9940000176429749,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10892",
-          "display_name": "Drilling and Well Engineering",
-          "score": 0.9927999973297119,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.9007131457328796
-        },
-        {
-          "id": "https://openalex.org/keywords/outcrop",
-          "display_name": "Outcrop",
-          "score": 0.8929978609085083
-        },
-        {
-          "id": "https://openalex.org/keywords/fracture",
-          "display_name": "Fracture (geology)",
-          "score": 0.6079362034797668
-        },
-        {
-          "id": "https://openalex.org/keywords/facies",
-          "display_name": "Facies",
-          "score": 0.5921503305435181
-        },
-        {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.559279203414917
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.4095556139945984
-        },
-        {
-          "id": "https://openalex.org/keywords/petrology",
-          "display_name": "Petrology",
-          "score": 0.37380215525627136
-        },
-        {
-          "id": "https://openalex.org/keywords/geomorphology",
-          "display_name": "Geomorphology",
-          "score": 0.34694957733154297
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.9007131457328796
-        },
-        {
-          "id": "https://openalex.org/C169212394",
-          "wikidata": "https://www.wikidata.org/wiki/Q531953",
-          "display_name": "Outcrop",
-          "level": 2,
-          "score": 0.8929978609085083
-        },
-        {
-          "id": "https://openalex.org/C43369102",
-          "wikidata": "https://www.wikidata.org/wiki/Q2307625",
-          "display_name": "Fracture (geology)",
-          "level": 2,
-          "score": 0.6079362034797668
-        },
-        {
-          "id": "https://openalex.org/C146588470",
-          "wikidata": "https://www.wikidata.org/wiki/Q742139",
-          "display_name": "Facies",
-          "level": 3,
-          "score": 0.5921503305435181
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0.559279203414917
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.4095556139945984
-        },
-        {
-          "id": "https://openalex.org/C5900021",
-          "wikidata": "https://www.wikidata.org/wiki/Q163082",
-          "display_name": "Petrology",
-          "level": 1,
-          "score": 0.37380215525627136
-        },
-        {
-          "id": "https://openalex.org/C114793014",
-          "wikidata": "https://www.wikidata.org/wiki/Q52109",
-          "display_name": "Geomorphology",
-          "level": 1,
-          "score": 0.34694957733154297
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.marpetgeo.2024.106998",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2024.106998",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S93565542",
-            "display_name": "Marine and Petroleum Geology",
-            "issn_l": "0264-8172",
-            "issn": [
-              "0264-8172",
-              "1873-4073"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Marine and Petroleum Geology",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1016/j.marpetgeo.2024.106998",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2024.106998",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S93565542",
-          "display_name": "Marine and Petroleum Geology",
-          "issn_l": "0264-8172",
-          "issn": [
-            "0264-8172",
-            "1873-4073"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Marine and Petroleum Geology",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320322320",
-          "display_name": "King Abdullah University of Science and Technology",
-          "ror": "https://ror.org/01q3tbs38"
-        }
-      ],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 107,
-      "referenced_works": [
-        "https://openalex.org/W203584942",
-        "https://openalex.org/W1932721871",
-        "https://openalex.org/W1975426167",
-        "https://openalex.org/W1978776740",
-        "https://openalex.org/W1981510474",
-        "https://openalex.org/W1982843483",
-        "https://openalex.org/W1985918674",
-        "https://openalex.org/W1998943389",
-        "https://openalex.org/W2002930284",
-        "https://openalex.org/W2008020474",
-        "https://openalex.org/W2008569965",
-        "https://openalex.org/W2015289421",
-        "https://openalex.org/W2019400639",
-        "https://openalex.org/W2020239181",
-        "https://openalex.org/W2027218073",
-        "https://openalex.org/W2029682075",
-        "https://openalex.org/W2043237179",
-        "https://openalex.org/W2043408739",
-        "https://openalex.org/W2048410163",
-        "https://openalex.org/W2051737686",
-        "https://openalex.org/W2055412159",
-        "https://openalex.org/W2074221498",
-        "https://openalex.org/W2083782534",
-        "https://openalex.org/W2085977357",
-        "https://openalex.org/W2086398360",
-        "https://openalex.org/W2088725818",
-        "https://openalex.org/W2105285489",
-        "https://openalex.org/W2114467243",
-        "https://openalex.org/W2120387501",
-        "https://openalex.org/W2137413897",
-        "https://openalex.org/W2138286550",
-        "https://openalex.org/W2140185449",
-        "https://openalex.org/W2153541316",
-        "https://openalex.org/W2155856168",
-        "https://openalex.org/W2259143025",
-        "https://openalex.org/W2279233239",
-        "https://openalex.org/W2307619706",
-        "https://openalex.org/W2501502571",
-        "https://openalex.org/W2520448327",
-        "https://openalex.org/W2523832987",
-        "https://openalex.org/W2560526849",
-        "https://openalex.org/W2560702597",
-        "https://openalex.org/W2620788485",
-        "https://openalex.org/W2746765608",
-        "https://openalex.org/W2755813755",
-        "https://openalex.org/W2757732133",
-        "https://openalex.org/W2766559441",
-        "https://openalex.org/W2768790550",
-        "https://openalex.org/W2808387936",
-        "https://openalex.org/W2857117435",
-        "https://openalex.org/W2915281136",
-        "https://openalex.org/W2915440475",
-        "https://openalex.org/W2916797767",
-        "https://openalex.org/W2922349802",
-        "https://openalex.org/W2939888277",
-        "https://openalex.org/W2950627632",
-        "https://openalex.org/W2954119218",
-        "https://openalex.org/W2960608112",
-        "https://openalex.org/W2974746525",
-        "https://openalex.org/W2991216661",
-        "https://openalex.org/W2992574358",
-        "https://openalex.org/W3011869128",
-        "https://openalex.org/W3081471891",
-        "https://openalex.org/W3111459726",
-        "https://openalex.org/W3118916760",
-        "https://openalex.org/W3129399161",
-        "https://openalex.org/W3136449441",
-        "https://openalex.org/W3137783017",
-        "https://openalex.org/W3204036956",
-        "https://openalex.org/W4281829039",
-        "https://openalex.org/W4282923745",
-        "https://openalex.org/W4286470878",
-        "https://openalex.org/W4293107522",
-        "https://openalex.org/W4296209044",
-        "https://openalex.org/W4296639626",
-        "https://openalex.org/W4307141902",
-        "https://openalex.org/W4309047199",
-        "https://openalex.org/W4311858070",
-        "https://openalex.org/W4315472881",
-        "https://openalex.org/W4316169353",
-        "https://openalex.org/W4365812892",
-        "https://openalex.org/W4366606812",
-        "https://openalex.org/W4376879793",
-        "https://openalex.org/W4385281167",
-        "https://openalex.org/W4385728002",
-        "https://openalex.org/W4386644858",
-        "https://openalex.org/W4387343746",
-        "https://openalex.org/W4387747437",
-        "https://openalex.org/W4388906768",
-        "https://openalex.org/W4395080669",
-        "https://openalex.org/W6615992125",
-        "https://openalex.org/W6651583044",
-        "https://openalex.org/W6657946687",
-        "https://openalex.org/W6662870242",
-        "https://openalex.org/W6663009336",
-        "https://openalex.org/W6668068012",
-        "https://openalex.org/W6676714678",
-        "https://openalex.org/W6680164068",
-        "https://openalex.org/W6681061235",
-        "https://openalex.org/W6687738440",
-        "https://openalex.org/W6692366473",
-        "https://openalex.org/W6745834041",
-        "https://openalex.org/W6745849369",
-        "https://openalex.org/W6770290354",
-        "https://openalex.org/W6839213567",
-        "https://openalex.org/W6846256721",
-        "https://openalex.org/W6848758149"
-      ],
-      "related_works": [
-        "https://openalex.org/W2743211649",
-        "https://openalex.org/W2986318339",
-        "https://openalex.org/W2909025569",
-        "https://openalex.org/W2514668757",
-        "https://openalex.org/W2350998809",
-        "https://openalex.org/W2379688619",
-        "https://openalex.org/W2362230233",
-        "https://openalex.org/W4365812659",
-        "https://openalex.org/W4372319801",
-        "https://openalex.org/W2333866261"
-      ],
-      "abstract_inverted_index": {
-        "The": [
-          0,
-          106,
-          140,
-          164,
-          231
-        ],
-        "performance": [
-          1
-        ],
-        "of": [
-          2,
-          16,
-          30,
-          41,
-          81,
-          99,
-          179,
-          226
-        ],
-        "different": [
-          3
-        ],
-        "reservoirs,": [
-          4
-        ],
-        "both": [
-          5
-        ],
-        "hydrocarbon": [
-          6,
-          242
-        ],
-        "and": [
-          7,
-          50,
-          58,
-          76,
-          103,
-          132,
-          183,
-          201,
-          224,
-          247,
-          251
-        ],
-        "gas": [
-          8,
-          244
-        ],
-        "storage,": [
-          9
-        ],
-        "is": [
-          10,
-          36
-        ],
-        "significantly": [
-          11
-        ],
-        "influenced": [
-          12,
-          122
-        ],
-        "by": [
-          13,
-          123
-        ],
-        "the": [
-          14,
-          34,
-          42,
-          82,
-          93,
-          116,
-          162,
-          180,
-          196,
-          202,
-          221
-        ],
-        "presence": [
-          15
-        ],
-        "natural": [
-          17,
-          78
-        ],
-        "fracture": [
-          18,
-          31,
-          79,
-          95,
-          100,
-          107,
-          134,
-          166,
-          215,
-          235
-        ],
-        "networks": [
-          19,
-          32,
-          135
-        ],
-        "mainly": [
-          20
-        ],
-        "originated": [
-          21
-        ],
-        "in": [
-          22,
-          33,
-          97,
-          145,
-          155,
-          161,
-          176,
-          228
-        ],
-        "response": [
-          23
-        ],
-        "to": [
-          24,
-          69,
-          130,
-          158,
-          188
-        ],
-        "tectonic": [
-          25,
-          190
-        ],
-        "deformation.": [
-          26
-        ],
-        "However,": [
-          27
-        ],
-        "adequate": [
-          28
-        ],
-        "characterization": [
-          29,
-          237
-        ],
-        "subsurface": [
-          35,
-          159,
-          229
-        ],
-        "often": [
-          37
-        ],
-        "difficult": [
-          38
-        ],
-        "since": [
-          39,
-          115
-        ],
-        "most": [
-          40
-        ],
-        "used": [
-          43
-        ],
-        "techniques": [
-          44,
-          119
-        ],
-        "are": [
-          45,
-          120,
-          152,
-          168
-        ],
-        "either": [
-          46
-        ],
-        "spatially": [
-          47
-        ],
-        "sparse": [
-          48
-        ],
-        "(well": [
-          49
-        ],
-        "log": [
-          51
-        ],
-        "data)": [
-          52
-        ],
-        "or": [
-          53
-        ],
-        "have": [
-          54,
-          238
-        ],
-        "limited": [
-          55
-        ],
-        "resolution": [
-          56
-        ],
-        "(seismic": [
-          57
-        ],
-        "well": [
-          59
-        ],
-        "tests).": [
-          60
-        ],
-        "In": [
-          61
-        ],
-        "this": [
-          62
-        ],
-        "study,": [
-          63
-        ],
-        "we": [
-          64
-        ],
-        "use": [
-          65
-        ],
-        "UAV-based": [
-          66
-        ],
-        "digital": [
-          67
-        ],
-        "photogrammetry": [
-          68
-        ],
-        "reconstruct": [
-          70
-        ],
-        "a": [
-          71
-        ],
-        "3D": [
-          72
-        ],
-        "Digital": [
-          73
-        ],
-        "Outcrop": [
-          74
-        ],
-        "Model": [
-          75
-        ],
-        "characterize": [
-          77
-        ],
-        "sets": [
-          80
-        ],
-        "late": [
-          83,
-          142,
-          203
-        ],
-        "Jurassic": [
-          84,
-          143
-        ],
-        "Hanifa": [
-          85
-        ],
-        "Formation": [
-          86
-        ],
-        "(Tuwaiq": [
-          87
-        ],
-        "Escarpment,": [
-          88
-        ],
-        "Saudi": [
-          89,
-          150
-        ],
-        "Arabia).": [
-          90
-        ],
-        "We": [
-          91
-        ],
-        "analyzed": [
-          92
-        ],
-        "exposed": [
-          94
-        ],
-        "patterns": [
-          96,
-          167,
-          171
-        ],
-        "terms": [
-          98
-        ],
-        "distribution,": [
-          101
-        ],
-        "intensity,": [
-          102
-        ],
-        "lateral": [
-          104
-        ],
-        "variability.": [
-          105
-        ],
-        "dataset": [
-          108
-        ],
-        "was": [
-          109
-        ],
-        "collected": [
-          110
-        ],
-        "using": [
-          111,
-          213
-        ],
-        "manual": [
-          112
-        ],
-        "sampling": [
-          113,
-          118
-        ],
-        "approaches": [
-          114
-        ],
-        "automatic": [
-          117
-        ],
-        "highly": [
-          121
-        ],
-        "outcrop": [
-          124,
-          138
-        ],
-        "morphology": [
-          125
-        ],
-        "thus": [
-          126
-        ],
-        "not": [
-          127
-        ],
-        "yet": [
-          128
-        ],
-        "reliable": [
-          129
-        ],
-        "quantify": [
-          131
-        ],
-        "interpret": [
-          133
-        ],
-        "along": [
-          136
-        ],
-        "reservoir": [
-          137
-        ],
-        "analogues.": [
-          139
-        ],
-        "well-exposed": [
-          141
-        ],
-        "outcrops": [
-          144
-        ],
-        "Wadi": [
-          146
-        ],
-        "Birk,": [
-          147
-        ],
-        "southern": [
-          148
-        ],
-        "central": [
-          149
-        ],
-        "Arabia,": [
-          151
-        ],
-        "considered": [
-          153
-        ],
-        "analogous": [
-          154
-        ],
-        "depositional": [
-          156
-        ],
-        "facies": [
-          157
-        ],
-        "reservoirs": [
-          160
-        ],
-        "region.": [
-          163
-        ],
-        "observed": [
-          165
-        ],
-        "congruent": [
-          169
-        ],
-        "with": [
-          170
-        ],
-        "reported": [
-          172
-        ],
-        "from": [
-          173
-        ],
-        "same-age": [
-          174
-        ],
-        "formations": [
-          175
-        ],
-        "other": [
-          177
-        ],
-        "parts": [
-          178
-        ],
-        "Arabian": [
-          181
-        ],
-        "Plate": [
-          182
-        ],
-        "hence": [
-          184
-        ],
-        "can": [
-          185
-        ],
-        "be": [
-          186
-        ],
-        "related": [
-          187
-        ],
-        "plate-wide": [
-          189
-        ],
-        "events": [
-          191
-        ],
-        "that": [
-          192
-        ],
-        "impacted": [
-          193
-        ],
-        "Arabia": [
-          194
-        ],
-        "during": [
-          195
-        ],
-        "Late": [
-          197
-        ],
-        "Cretaceous": [
-          198
-        ],
-        "(Alpine": [
-          199,
-          206
-        ],
-        "I)": [
-          200
-        ],
-        "Tertiary": [
-          204
-        ],
-        "Period": [
-          205
-        ],
-        "II).": [
-          207
-        ],
-        "This": [
-          208
-        ],
-        "association": [
-          209
-        ],
-        "provides": [
-          210
-        ],
-        "support": [
-          211
-        ],
-        "for": [
-          212,
-          220,
-          234,
-          241
-        ],
-        "outcrop-based": [
-          214
-        ],
-        "studies": [
-          216
-        ],
-        "as": [
-          217
-        ],
-        "analogue": [
-          218
-        ],
-        "scenarios": [
-          219
-        ],
-        "orientation,": [
-          222
-        ],
-        "distribution": [
-          223
-        ],
-        "intensity": [
-          225
-        ],
-        "fractures": [
-          227
-        ],
-        "reservoirs.": [
-          230
-        ],
-        "applied": [
-          232
-        ],
-        "methodology": [
-          233
-        ],
-        "network": [
-          236
-        ],
-        "potential": [
-          239
-        ],
-        "implications": [
-          240
-        ],
-        "development,": [
-          243
-        ],
-        "storage": [
-          245
-        ],
-        "(H2)": [
-          246
-        ],
-        "Carbon": [
-          248
-        ],
-        "Capture": [
-          249
-        ],
-        "Utilization": [
-          250
-        ],
-        "Storage": [
-          252
-        ],
-        "(CCUS).": [
-          253
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 6
-        }
-      ],
-      "updated_date": "2026-08-01T09:00:35.917206",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2008659547",
       "doi": "https://doi.org/10.1007/bf02539736",
       "title": "Anisian (middle triassic) buildups of the Northern Dolomites (Italy): The recovery of reef communities after the permian/triassic crisis",
@@ -4595,21 +3314,21 @@
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
-        "value": 3590,
+        "value": 2490,
         "currency": "USD",
-        "value_usd": 3590
+        "value_usd": 2490
       },
       "apc_paid": null,
-      "fwci": 3.8818,
+      "fwci": 3.8319,
       "has_fulltext": false,
       "cited_by_count": 126,
       "citation_normalized_percentile": {
-        "value": 0.92937988,
+        "value": 0.92782511,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 99
       },
       "biblio": {
@@ -4846,16 +3565,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -4984,7 +3703,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-29T09:40:50.615796",
+      "updated_date": "2026-08-21T09:56:20.448147",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5380,16 +4099,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.800000011920929,
           "display_name": "Life below water",
-          "score": 0.800000011920929
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -6391,21 +5110,21 @@
         "https://openalex.org/I223822909"
       ],
       "apc_list": {
-        "value": 4050,
+        "value": 4250,
         "currency": "USD",
-        "value_usd": 4050
+        "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 3.4533,
+      "fwci": 3.4646,
       "has_fulltext": false,
       "cited_by_count": 89,
       "citation_normalized_percentile": {
-        "value": 0.92147894,
+        "value": 0.92139989,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 99
       },
       "biblio": {
@@ -6636,16 +5355,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -7272,7 +5991,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-07-30T17:31:21.811387",
+      "updated_date": "2026-08-21T09:56:20.448147",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7476,21 +6195,21 @@
         "https://openalex.org/I223822909"
       ],
       "apc_list": {
-        "value": 3760,
+        "value": 3720,
         "currency": "USD",
-        "value_usd": 3760
+        "value_usd": 3720
       },
       "apc_paid": null,
-      "fwci": 4.8548,
+      "fwci": 4.8553,
       "has_fulltext": false,
       "cited_by_count": 85,
       "citation_normalized_percentile": {
-        "value": 0.94987306,
+        "value": 0.94998653,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 99
       },
       "biblio": {
@@ -7772,8 +6491,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -8245,7 +6964,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-07-30T17:31:21.811387",
+      "updated_date": "2026-08-21T09:56:20.448147",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8502,16 +7221,16 @@
         "https://openalex.org/I223822909"
       ],
       "apc_list": {
-        "value": 3490,
+        "value": 3440,
         "currency": "USD",
-        "value_usd": 3490
+        "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 0.7662,
+      "fwci": 0.7626,
       "has_fulltext": false,
       "cited_by_count": 75,
       "citation_normalized_percentile": {
-        "value": 0.70068111,
+        "value": 0.6990804,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8847,16 +7566,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 188,
@@ -9125,7 +7844,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-08-05T07:39:15.569665",
+      "updated_date": "2026-08-21T09:56:20.448147",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9606,16 +8325,16 @@
         "https://openalex.org/I1325733142"
       ],
       "apc_list": {
-        "value": 3760,
+        "value": 3720,
         "currency": "USD",
-        "value_usd": 3760
+        "value_usd": 3720
       },
       "apc_paid": null,
-      "fwci": 3.93,
+      "fwci": 3.9305,
       "has_fulltext": false,
       "cited_by_count": 66,
       "citation_normalized_percentile": {
-        "value": 0.9335602,
+        "value": 0.9336567,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9900,9 +8619,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7799999713897705,
           "display_name": "Life below water",
-          "score": 0.7799999713897705
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -9924,8 +8643,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -9970,15 +8689,6 @@
         "https://openalex.org/W2146841676"
       ],
       "abstract_inverted_index": {
-        "4": [
-          19
-        ],
-        "6": [
-          21
-        ],
-        "10": [
-          18
-        ],
         "ABSTRACT": [
           0
         ],
@@ -9993,10 +8703,10 @@
         ],
         "in": [
           4,
-          25,
-          32,
-          47,
-          179
+          21,
+          28,
+          43,
+          175
         ],
         "young": [
           5
@@ -10015,29 +8725,29 @@
         ],
         "to": [
           10,
-          36,
-          84,
-          97,
-          145
+          32,
+          80,
+          93,
+          141
         ],
         "fluctuations": [
           11,
-          80
+          76
         ],
         "of": [
           12,
-          43,
-          70
+          39,
+          66
         ],
         "the": [
           13,
-          51,
-          87,
-          110,
-          119,
-          131,
-          146,
-          188
+          47,
+          83,
+          106,
+          115,
+          127,
+          142,
+          184
         ],
         "Earth's": [
           14
@@ -10047,442 +8757,439 @@
         ],
         "on": [
           16,
-          62,
-          164
+          58,
+          160
         ],
         "a": [
           17,
-          68
-        ],
-        "−10": [
-          20
-        ],
-        "‐year": [
-          22
-        ],
-        "scale": [
-          23
-        ],
-        "which": [
-          24
-        ],
-        "turn": [
-          26
-        ],
-        "is": [
-          27,
-          50,
-          127
-        ],
-        "governed": [
-          28
-        ],
-        "by": [
-          29,
-          114
-        ],
-        "periodic": [
-          30
-        ],
-        "variations": [
-          31
-        ],
-        "solar": [
-          33
-        ],
-        "insolation": [
-          34
-        ],
-        "linked": [
-          35
-        ],
-        "orbital": [
-          37
-        ],
-        "(Milankovitch)": [
-          38
-        ],
-        "parameters.": [
-          39
-        ],
-        "A": [
-          40
-        ],
-        "spectacular": [
-          41
-        ],
-        "example": [
-          42
-        ],
-        "cyclic": [
-          44,
-          111
-        ],
-        "stratal": [
-          45
-        ],
-        "patterns": [
-          46
-        ],
-        "ancient": [
-          48
-        ],
-        "deposits": [
-          49
-        ],
-        "Middle": [
-          52
-        ],
-        "Triassic": [
-          53
-        ],
-        "Latemar": [
-          54
-        ],
-        "carbonate": [
-          55,
-          194
-        ],
-        "platform": [
-          56
-        ],
-        "(W": [
-          57
-        ],
-        "Dolomites,": [
-          58
-        ],
-        "N": [
-          59
-        ],
-        "Italy).": [
-          60
-        ],
-        "Based": [
-          61
-        ],
-        "spectral": [
-          63,
-          143,
-          153
-        ],
-        "analyses": [
           64
         ],
-        "from": [
-          65,
-          106
+        "104−106‐year": [
+          18
         ],
-        "previous": [
-          66
+        "scale": [
+          19
         ],
-        "studies,": [
-          67
+        "which": [
+          20
         ],
-        "superimposition": [
-          69
+        "turn": [
+          22
         ],
-        "precession": [
-          71
+        "is": [
+          23,
+          46,
+          123
         ],
-        "(∼20": [
-          72
+        "governed": [
+          24
         ],
-        "ka)": [
-          73,
-          77
+        "by": [
+          25,
+          110
         ],
-        "and": [
-          74,
-          135
+        "periodic": [
+          26
         ],
-        "eccentricity": [
-          75
+        "variations": [
+          27
         ],
-        "(∼100": [
-          76
+        "solar": [
+          29
         ],
-        "controlled": [
-          78
+        "insolation": [
+          30
         ],
-        "sea‐level": [
-          79
+        "linked": [
+          31
         ],
-        "has": [
-          81
+        "orbital": [
+          33
         ],
-        "been": [
-          82
+        "(Milankovitch)": [
+          34
         ],
-        "suggested": [
-          83
+        "parameters.": [
+          35
         ],
-        "account": [
-          85
+        "A": [
+          36
         ],
-        "for": [
-          86,
-          123,
-          190
+        "spectacular": [
+          37
         ],
-        "stacking": [
-          88
+        "example": [
+          38
         ],
-        "hierarchy": [
-          89
-        ],
-        "at": [
-          90
-        ],
-        "Latemar,": [
-          91
-        ],
-        "with": [
-          92,
-          181
-        ],
-        "∼20": [
-          93
-        ],
-        "ka": [
-          94
-        ],
-        "being": [
-          95
-        ],
-        "assigned": [
-          96
-        ],
-        "each": [
-          98
-        ],
-        "highest‐order": [
-          99
-        ],
-        "depositional": [
-          100
-        ],
-        "cycle.": [
-          101
-        ],
-        "Zircon": [
-          102
-        ],
-        "U–Pb": [
-          103
-        ],
-        "isotopic": [
-          104
-        ],
-        "ages": [
-          105
-        ],
-        "volcanic‐ash": [
+        "cyclic": [
+          40,
           107
         ],
-        "layers": [
-          108
+        "stratal": [
+          41
         ],
-        "within": [
-          109
+        "patterns": [
+          42
         ],
-        "succession,": [
-          112
+        "ancient": [
+          44
         ],
-        "corroborated": [
-          113
+        "deposits": [
+          45
         ],
-        "biostratigraphic": [
-          115
+        "Middle": [
+          48
         ],
-        "constraints,": [
-          116
+        "Triassic": [
+          49
         ],
-        "suggest": [
-          117
+        "Latemar": [
+          50
         ],
-        "that": [
-          118,
-          156,
-          172
+        "carbonate": [
+          51,
+          190
         ],
-        "average": [
-          120
+        "platform": [
+          52
         ],
-        "time": [
-          121
+        "(W": [
+          53
         ],
-        "interval": [
-          122
+        "Dolomites,": [
+          54
         ],
-        "every": [
-          124
+        "N": [
+          55
         ],
-        "individual": [
-          125
+        "Italy).": [
+          56
         ],
-        "cycle": [
-          126
+        "Based": [
+          57
         ],
-        "significantly": [
-          128
-        ],
-        "smaller": [
-          129
-        ],
-        "than": [
-          130
-        ],
-        "shortest": [
-          132
-        ],
-        "Milankovitch": [
-          133,
-          159
-        ],
-        "period": [
-          134
-        ],
-        "therefore": [
-          136
-        ],
-        "challenge": [
-          137
-        ],
-        "previously": [
-          138
-        ],
-        "published": [
-          139
-        ],
-        "interpretations": [
-          140
-        ],
-        "relating": [
-          141
-        ],
-        "distinct": [
-          142
-        ],
-        "peaks": [
-          144
-        ],
-        "above": [
-          147
-        ],
-        "mentioned": [
-          148
-        ],
-        "hierarchy.": [
+        "spectral": [
+          59,
+          139,
           149
         ],
-        "However,": [
-          150
+        "analyses": [
+          60
         ],
-        "our": [
-          151
+        "from": [
+          61,
+          102
         ],
-        "new": [
-          152
+        "previous": [
+          62
         ],
-        "data": [
-          154
+        "studies,": [
+          63
         ],
-        "indicate": [
-          155
+        "superimposition": [
+          65
         ],
-        "cyclicities": [
-          157
+        "precession": [
+          67
         ],
-        "resembling": [
-          158
+        "(∼20": [
+          68
         ],
-        "characteristics": [
-          160
+        "ka)": [
+          69,
+          73
         ],
-        "might": [
-          161
+        "and": [
+          70,
+          131
         ],
-        "exist,": [
-          162
+        "eccentricity": [
+          71
         ],
-        "but": [
-          163
+        "(∼100": [
+          72
         ],
-        "an": [
-          165
+        "controlled": [
+          74
         ],
-        "entirely": [
-          166
+        "sea‐level": [
+          75
         ],
-        "different": [
-          167
+        "has": [
+          77
         ],
-        "scale.": [
-          168
+        "been": [
+          78
         ],
-        "Our": [
-          169
+        "suggested": [
+          79
         ],
-        "findings": [
-          170
+        "account": [
+          81
         ],
-        "show": [
-          171
-        ],
-        "frequency": [
-          173
-        ],
-        "spectra": [
-          174
-        ],
-        "should": [
-          175
-        ],
-        "only": [
-          176
-        ],
-        "be": [
-          177
-        ],
-        "interpreted": [
-          178
-        ],
-        "combination": [
-          180
-        ],
-        "robust": [
-          182
-        ],
-        "age": [
-          183
-        ],
-        "control.": [
-          184
-        ],
-        "They": [
-          185
-        ],
-        "also": [
+        "for": [
+          82,
+          119,
           186
         ],
+        "stacking": [
+          84
+        ],
+        "hierarchy": [
+          85
+        ],
+        "at": [
+          86
+        ],
+        "Latemar,": [
+          87
+        ],
+        "with": [
+          88,
+          177
+        ],
+        "∼20": [
+          89
+        ],
+        "ka": [
+          90
+        ],
+        "being": [
+          91
+        ],
+        "assigned": [
+          92
+        ],
+        "each": [
+          94
+        ],
+        "highest‐order": [
+          95
+        ],
+        "depositional": [
+          96
+        ],
+        "cycle.": [
+          97
+        ],
+        "Zircon": [
+          98
+        ],
+        "U–Pb": [
+          99
+        ],
+        "isotopic": [
+          100
+        ],
+        "ages": [
+          101
+        ],
+        "volcanic‐ash": [
+          103
+        ],
+        "layers": [
+          104
+        ],
+        "within": [
+          105
+        ],
+        "succession,": [
+          108
+        ],
+        "corroborated": [
+          109
+        ],
+        "biostratigraphic": [
+          111
+        ],
+        "constraints,": [
+          112
+        ],
+        "suggest": [
+          113
+        ],
+        "that": [
+          114,
+          152,
+          168
+        ],
+        "average": [
+          116
+        ],
+        "time": [
+          117
+        ],
+        "interval": [
+          118
+        ],
+        "every": [
+          120
+        ],
+        "individual": [
+          121
+        ],
+        "cycle": [
+          122
+        ],
+        "significantly": [
+          124
+        ],
+        "smaller": [
+          125
+        ],
+        "than": [
+          126
+        ],
+        "shortest": [
+          128
+        ],
+        "Milankovitch": [
+          129,
+          155
+        ],
+        "period": [
+          130
+        ],
+        "therefore": [
+          132
+        ],
+        "challenge": [
+          133
+        ],
+        "previously": [
+          134
+        ],
+        "published": [
+          135
+        ],
+        "interpretations": [
+          136
+        ],
+        "relating": [
+          137
+        ],
+        "distinct": [
+          138
+        ],
+        "peaks": [
+          140
+        ],
+        "above": [
+          143
+        ],
+        "mentioned": [
+          144
+        ],
+        "hierarchy.": [
+          145
+        ],
+        "However,": [
+          146
+        ],
+        "our": [
+          147
+        ],
+        "new": [
+          148
+        ],
+        "data": [
+          150
+        ],
+        "indicate": [
+          151
+        ],
+        "cyclicities": [
+          153
+        ],
+        "resembling": [
+          154
+        ],
+        "characteristics": [
+          156
+        ],
+        "might": [
+          157
+        ],
+        "exist,": [
+          158
+        ],
+        "but": [
+          159
+        ],
+        "an": [
+          161
+        ],
+        "entirely": [
+          162
+        ],
+        "different": [
+          163
+        ],
+        "scale.": [
+          164
+        ],
+        "Our": [
+          165
+        ],
+        "findings": [
+          166
+        ],
+        "show": [
+          167
+        ],
+        "frequency": [
+          169
+        ],
+        "spectra": [
+          170
+        ],
+        "should": [
+          171
+        ],
+        "only": [
+          172
+        ],
+        "be": [
+          173
+        ],
+        "interpreted": [
+          174
+        ],
+        "combination": [
+          176
+        ],
+        "robust": [
+          178
+        ],
+        "age": [
+          179
+        ],
+        "control.": [
+          180
+        ],
+        "They": [
+          181
+        ],
+        "also": [
+          182
+        ],
         "encourage": [
-          187
+          183
         ],
         "search": [
-          189
+          185
         ],
         "complementary": [
-          191
+          187
         ],
         "mechanisms": [
-          192
+          188
         ],
         "controlling": [
-          193
+          189
         ],
         "deposition.": [
-          195
+          191
         ]
       },
       "counts_by_year": [
@@ -10539,7 +9246,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-07-30T17:31:21.811387",
+      "updated_date": "2026-08-21T09:56:20.448147",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11179,8 +9886,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -11735,16 +10442,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8199999928474426,
           "display_name": "Life below water",
-          "score": 0.8199999928474426
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -12521,8 +11228,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 43,
@@ -12596,6 +11303,1287 @@
         {
           "year": 2024,
           "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-08-21T09:56:20.448147",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W4400487005",
+      "doi": "https://doi.org/10.1016/j.marpetgeo.2024.106998",
+      "title": "High-resolution analysis of 3D fracture networks from Digital Outcrop Models, correlation to plate-tectonic events and calibration of subsurface models (Jurassic, Arabian Plate)",
+      "display_name": "High-resolution analysis of 3D fracture networks from Digital Outcrop Models, correlation to plate-tectonic events and calibration of subsurface models (Jurassic, Arabian Plate)",
+      "publication_year": 2024,
+      "publication_date": "2024-07-10",
+      "ids": {
+        "openalex": "https://openalex.org/W4400487005",
+        "doi": "https://doi.org/10.1016/j.marpetgeo.2024.106998"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.marpetgeo.2024.106998",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2024.106998",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S93565542",
+          "display_name": "Marine and Petroleum Geology",
+          "issn_l": "0264-8172",
+          "issn": [
+            "0264-8172",
+            "1873-4073"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Marine and Petroleum Geology",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1016/j.marpetgeo.2024.106998",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5030077657",
+            "display_name": "Yuri Panara",
+            "orcid": "https://orcid.org/0000-0002-4829-850X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Yuri Panara",
+          "raw_affiliation_strings": [
+            "Ali I. Al-Naimi Petroleum Engineering Research Center (ANPERC), King Abdullah University of Science and Technology, Saudi Arabia"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-4829-850X",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ali I. Al-Naimi Petroleum Engineering Research Center (ANPERC), King Abdullah University of Science and Technology, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5050985839",
+            "display_name": "Niccolò Menegoni",
+            "orcid": "https://orcid.org/0000-0003-2857-4930"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Niccolò Menegoni",
+          "raw_affiliation_strings": [
+            "Ali I. Al-Naimi Petroleum Engineering Research Center (ANPERC), King Abdullah University of Science and Technology, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ali I. Al-Naimi Petroleum Engineering Research Center (ANPERC), King Abdullah University of Science and Technology, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5061306034",
+            "display_name": "Thomas Finkbeiner",
+            "orcid": "https://orcid.org/0000-0002-6137-6162"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Thomas Finkbeiner",
+          "raw_affiliation_strings": [
+            "Ali I. Al-Naimi Petroleum Engineering Research Center (ANPERC), King Abdullah University of Science and Technology, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ali I. Al-Naimi Petroleum Engineering Research Center (ANPERC), King Abdullah University of Science and Technology, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5086485606",
+            "display_name": "Rainer Zühlke",
+            "orcid": "https://orcid.org/0000-0001-8629-983X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210143841",
+              "display_name": "Saudi Aramco (Saudi Arabia)",
+              "ror": "https://ror.org/03ypap427",
+              "country_code": "SA",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Rainer Zühlke",
+          "raw_affiliation_strings": [
+            "Saudi Aramco, EXPEC Advanced Research Centre, Geology Technology, Dhahran, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Aramco, EXPEC Advanced Research Centre, Geology Technology, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210143841"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5058223208",
+            "display_name": "Volker Vahrenkamp",
+            "orcid": "https://orcid.org/0000-0002-2182-7993"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71920554",
+              "display_name": "King Abdullah University of Science and Technology",
+              "ror": "https://ror.org/01q3tbs38",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Volker Vahrenkamp",
+          "raw_affiliation_strings": [
+            "Ali I. Al-Naimi Petroleum Engineering Research Center (ANPERC), King Abdullah University of Science and Technology, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Ali I. Al-Naimi Petroleum Engineering Research Center (ANPERC), King Abdullah University of Science and Technology, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I71920554"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5030077657"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I71920554"
+      ],
+      "apc_list": {
+        "value": 3440,
+        "currency": "USD",
+        "value_usd": 3440
+      },
+      "apc_paid": {
+        "value": 3440,
+        "currency": "USD",
+        "value_usd": 3440
+      },
+      "fwci": 4.2615,
+      "has_fulltext": false,
+      "cited_by_count": 13,
+      "citation_normalized_percentile": {
+        "value": 0.95466056,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 98,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "167",
+        "issue": null,
+        "first_page": "106998",
+        "last_page": "106998"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10271",
+        "display_name": "Seismic Imaging and Inversion Techniques",
+        "score": 0.9973999857902527,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1908",
+          "display_name": "Geophysics"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10271",
+          "display_name": "Seismic Imaging and Inversion Techniques",
+          "score": 0.9973999857902527,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9940000176429749,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10892",
+          "display_name": "Drilling and Well Engineering",
+          "score": 0.9927999973297119,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.9007131457328796
+        },
+        {
+          "id": "https://openalex.org/keywords/outcrop",
+          "display_name": "Outcrop",
+          "score": 0.8929978609085083
+        },
+        {
+          "id": "https://openalex.org/keywords/fracture",
+          "display_name": "Fracture (geology)",
+          "score": 0.6079362034797668
+        },
+        {
+          "id": "https://openalex.org/keywords/facies",
+          "display_name": "Facies",
+          "score": 0.5921503305435181
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonics",
+          "display_name": "Tectonics",
+          "score": 0.559279203414917
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.4095556139945984
+        },
+        {
+          "id": "https://openalex.org/keywords/petrology",
+          "display_name": "Petrology",
+          "score": 0.37380215525627136
+        },
+        {
+          "id": "https://openalex.org/keywords/geomorphology",
+          "display_name": "Geomorphology",
+          "score": 0.34694957733154297
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.9007131457328796
+        },
+        {
+          "id": "https://openalex.org/C169212394",
+          "wikidata": "https://www.wikidata.org/wiki/Q531953",
+          "display_name": "Outcrop",
+          "level": 2,
+          "score": 0.8929978609085083
+        },
+        {
+          "id": "https://openalex.org/C43369102",
+          "wikidata": "https://www.wikidata.org/wiki/Q2307625",
+          "display_name": "Fracture (geology)",
+          "level": 2,
+          "score": 0.6079362034797668
+        },
+        {
+          "id": "https://openalex.org/C146588470",
+          "wikidata": "https://www.wikidata.org/wiki/Q742139",
+          "display_name": "Facies",
+          "level": 3,
+          "score": 0.5921503305435181
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.559279203414917
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.4095556139945984
+        },
+        {
+          "id": "https://openalex.org/C5900021",
+          "wikidata": "https://www.wikidata.org/wiki/Q163082",
+          "display_name": "Petrology",
+          "level": 1,
+          "score": 0.37380215525627136
+        },
+        {
+          "id": "https://openalex.org/C114793014",
+          "wikidata": "https://www.wikidata.org/wiki/Q52109",
+          "display_name": "Geomorphology",
+          "level": 1,
+          "score": 0.34694957733154297
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.marpetgeo.2024.106998",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2024.106998",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S93565542",
+            "display_name": "Marine and Petroleum Geology",
+            "issn_l": "0264-8172",
+            "issn": [
+              "0264-8172",
+              "1873-4073"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Marine and Petroleum Geology",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1016/j.marpetgeo.2024.106998",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.marpetgeo.2024.106998",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S93565542",
+          "display_name": "Marine and Petroleum Geology",
+          "issn_l": "0264-8172",
+          "issn": [
+            "0264-8172",
+            "1873-4073"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Marine and Petroleum Geology",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320322320",
+          "display_name": "King Abdullah University of Science and Technology",
+          "ror": "https://ror.org/01q3tbs38"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 107,
+      "referenced_works": [
+        "https://openalex.org/W203584942",
+        "https://openalex.org/W1932721871",
+        "https://openalex.org/W1975426167",
+        "https://openalex.org/W1978776740",
+        "https://openalex.org/W1981510474",
+        "https://openalex.org/W1982843483",
+        "https://openalex.org/W1985918674",
+        "https://openalex.org/W1998943389",
+        "https://openalex.org/W2002930284",
+        "https://openalex.org/W2008020474",
+        "https://openalex.org/W2008569965",
+        "https://openalex.org/W2015289421",
+        "https://openalex.org/W2019400639",
+        "https://openalex.org/W2020239181",
+        "https://openalex.org/W2027218073",
+        "https://openalex.org/W2029682075",
+        "https://openalex.org/W2043237179",
+        "https://openalex.org/W2043408739",
+        "https://openalex.org/W2048410163",
+        "https://openalex.org/W2051737686",
+        "https://openalex.org/W2055412159",
+        "https://openalex.org/W2074221498",
+        "https://openalex.org/W2083782534",
+        "https://openalex.org/W2085977357",
+        "https://openalex.org/W2086398360",
+        "https://openalex.org/W2088725818",
+        "https://openalex.org/W2105285489",
+        "https://openalex.org/W2114467243",
+        "https://openalex.org/W2120387501",
+        "https://openalex.org/W2137413897",
+        "https://openalex.org/W2138286550",
+        "https://openalex.org/W2140185449",
+        "https://openalex.org/W2153541316",
+        "https://openalex.org/W2155856168",
+        "https://openalex.org/W2259143025",
+        "https://openalex.org/W2279233239",
+        "https://openalex.org/W2307619706",
+        "https://openalex.org/W2501502571",
+        "https://openalex.org/W2520448327",
+        "https://openalex.org/W2523832987",
+        "https://openalex.org/W2560526849",
+        "https://openalex.org/W2560702597",
+        "https://openalex.org/W2620788485",
+        "https://openalex.org/W2746765608",
+        "https://openalex.org/W2755813755",
+        "https://openalex.org/W2757732133",
+        "https://openalex.org/W2766559441",
+        "https://openalex.org/W2768790550",
+        "https://openalex.org/W2808387936",
+        "https://openalex.org/W2857117435",
+        "https://openalex.org/W2915281136",
+        "https://openalex.org/W2915440475",
+        "https://openalex.org/W2916797767",
+        "https://openalex.org/W2922349802",
+        "https://openalex.org/W2939888277",
+        "https://openalex.org/W2950627632",
+        "https://openalex.org/W2954119218",
+        "https://openalex.org/W2960608112",
+        "https://openalex.org/W2974746525",
+        "https://openalex.org/W2991216661",
+        "https://openalex.org/W2992574358",
+        "https://openalex.org/W3011869128",
+        "https://openalex.org/W3081471891",
+        "https://openalex.org/W3111459726",
+        "https://openalex.org/W3118916760",
+        "https://openalex.org/W3129399161",
+        "https://openalex.org/W3136449441",
+        "https://openalex.org/W3137783017",
+        "https://openalex.org/W3204036956",
+        "https://openalex.org/W4281829039",
+        "https://openalex.org/W4282923745",
+        "https://openalex.org/W4286470878",
+        "https://openalex.org/W4293107522",
+        "https://openalex.org/W4296209044",
+        "https://openalex.org/W4296639626",
+        "https://openalex.org/W4307141902",
+        "https://openalex.org/W4309047199",
+        "https://openalex.org/W4311858070",
+        "https://openalex.org/W4315472881",
+        "https://openalex.org/W4316169353",
+        "https://openalex.org/W4365812892",
+        "https://openalex.org/W4366606812",
+        "https://openalex.org/W4376879793",
+        "https://openalex.org/W4385281167",
+        "https://openalex.org/W4385728002",
+        "https://openalex.org/W4386644858",
+        "https://openalex.org/W4387343746",
+        "https://openalex.org/W4387747437",
+        "https://openalex.org/W4388906768",
+        "https://openalex.org/W4395080669",
+        "https://openalex.org/W6615992125",
+        "https://openalex.org/W6651583044",
+        "https://openalex.org/W6657946687",
+        "https://openalex.org/W6662870242",
+        "https://openalex.org/W6663009336",
+        "https://openalex.org/W6668068012",
+        "https://openalex.org/W6676714678",
+        "https://openalex.org/W6680164068",
+        "https://openalex.org/W6681061235",
+        "https://openalex.org/W6687738440",
+        "https://openalex.org/W6692366473",
+        "https://openalex.org/W6745834041",
+        "https://openalex.org/W6745849369",
+        "https://openalex.org/W6770290354",
+        "https://openalex.org/W6839213567",
+        "https://openalex.org/W6846256721",
+        "https://openalex.org/W6848758149"
+      ],
+      "related_works": [
+        "https://openalex.org/W2743211649",
+        "https://openalex.org/W2986318339",
+        "https://openalex.org/W2909025569",
+        "https://openalex.org/W2514668757",
+        "https://openalex.org/W2350998809",
+        "https://openalex.org/W2379688619",
+        "https://openalex.org/W2362230233",
+        "https://openalex.org/W4365812659",
+        "https://openalex.org/W4372319801",
+        "https://openalex.org/W2333866261"
+      ],
+      "abstract_inverted_index": {
+        "The": [
+          0,
+          106,
+          140,
+          164,
+          231
+        ],
+        "performance": [
+          1
+        ],
+        "of": [
+          2,
+          16,
+          30,
+          41,
+          81,
+          99,
+          179,
+          226
+        ],
+        "different": [
+          3
+        ],
+        "reservoirs,": [
+          4
+        ],
+        "both": [
+          5
+        ],
+        "hydrocarbon": [
+          6,
+          242
+        ],
+        "and": [
+          7,
+          50,
+          58,
+          76,
+          103,
+          132,
+          183,
+          201,
+          224,
+          247,
+          251
+        ],
+        "gas": [
+          8,
+          244
+        ],
+        "storage,": [
+          9
+        ],
+        "is": [
+          10,
+          36
+        ],
+        "significantly": [
+          11
+        ],
+        "influenced": [
+          12,
+          122
+        ],
+        "by": [
+          13,
+          123
+        ],
+        "the": [
+          14,
+          34,
+          42,
+          82,
+          93,
+          116,
+          162,
+          180,
+          196,
+          202,
+          221
+        ],
+        "presence": [
+          15
+        ],
+        "natural": [
+          17,
+          78
+        ],
+        "fracture": [
+          18,
+          31,
+          79,
+          95,
+          100,
+          107,
+          134,
+          166,
+          215,
+          235
+        ],
+        "networks": [
+          19,
+          32,
+          135
+        ],
+        "mainly": [
+          20
+        ],
+        "originated": [
+          21
+        ],
+        "in": [
+          22,
+          33,
+          97,
+          145,
+          155,
+          161,
+          176,
+          228
+        ],
+        "response": [
+          23
+        ],
+        "to": [
+          24,
+          69,
+          130,
+          158,
+          188
+        ],
+        "tectonic": [
+          25,
+          190
+        ],
+        "deformation.": [
+          26
+        ],
+        "However,": [
+          27
+        ],
+        "adequate": [
+          28
+        ],
+        "characterization": [
+          29,
+          237
+        ],
+        "subsurface": [
+          35,
+          159,
+          229
+        ],
+        "often": [
+          37
+        ],
+        "difficult": [
+          38
+        ],
+        "since": [
+          39,
+          115
+        ],
+        "most": [
+          40
+        ],
+        "used": [
+          43
+        ],
+        "techniques": [
+          44,
+          119
+        ],
+        "are": [
+          45,
+          120,
+          152,
+          168
+        ],
+        "either": [
+          46
+        ],
+        "spatially": [
+          47
+        ],
+        "sparse": [
+          48
+        ],
+        "(well": [
+          49
+        ],
+        "log": [
+          51
+        ],
+        "data)": [
+          52
+        ],
+        "or": [
+          53
+        ],
+        "have": [
+          54,
+          238
+        ],
+        "limited": [
+          55
+        ],
+        "resolution": [
+          56
+        ],
+        "(seismic": [
+          57
+        ],
+        "well": [
+          59
+        ],
+        "tests).": [
+          60
+        ],
+        "In": [
+          61
+        ],
+        "this": [
+          62
+        ],
+        "study,": [
+          63
+        ],
+        "we": [
+          64
+        ],
+        "use": [
+          65
+        ],
+        "UAV-based": [
+          66
+        ],
+        "digital": [
+          67
+        ],
+        "photogrammetry": [
+          68
+        ],
+        "reconstruct": [
+          70
+        ],
+        "a": [
+          71
+        ],
+        "3D": [
+          72
+        ],
+        "Digital": [
+          73
+        ],
+        "Outcrop": [
+          74
+        ],
+        "Model": [
+          75
+        ],
+        "characterize": [
+          77
+        ],
+        "sets": [
+          80
+        ],
+        "late": [
+          83,
+          142,
+          203
+        ],
+        "Jurassic": [
+          84,
+          143
+        ],
+        "Hanifa": [
+          85
+        ],
+        "Formation": [
+          86
+        ],
+        "(Tuwaiq": [
+          87
+        ],
+        "Escarpment,": [
+          88
+        ],
+        "Saudi": [
+          89,
+          150
+        ],
+        "Arabia).": [
+          90
+        ],
+        "We": [
+          91
+        ],
+        "analyzed": [
+          92
+        ],
+        "exposed": [
+          94
+        ],
+        "patterns": [
+          96,
+          167,
+          171
+        ],
+        "terms": [
+          98
+        ],
+        "distribution,": [
+          101
+        ],
+        "intensity,": [
+          102
+        ],
+        "lateral": [
+          104
+        ],
+        "variability.": [
+          105
+        ],
+        "dataset": [
+          108
+        ],
+        "was": [
+          109
+        ],
+        "collected": [
+          110
+        ],
+        "using": [
+          111,
+          213
+        ],
+        "manual": [
+          112
+        ],
+        "sampling": [
+          113,
+          118
+        ],
+        "approaches": [
+          114
+        ],
+        "automatic": [
+          117
+        ],
+        "highly": [
+          121
+        ],
+        "outcrop": [
+          124,
+          138
+        ],
+        "morphology": [
+          125
+        ],
+        "thus": [
+          126
+        ],
+        "not": [
+          127
+        ],
+        "yet": [
+          128
+        ],
+        "reliable": [
+          129
+        ],
+        "quantify": [
+          131
+        ],
+        "interpret": [
+          133
+        ],
+        "along": [
+          136
+        ],
+        "reservoir": [
+          137
+        ],
+        "analogues.": [
+          139
+        ],
+        "well-exposed": [
+          141
+        ],
+        "outcrops": [
+          144
+        ],
+        "Wadi": [
+          146
+        ],
+        "Birk,": [
+          147
+        ],
+        "southern": [
+          148
+        ],
+        "central": [
+          149
+        ],
+        "Arabia,": [
+          151
+        ],
+        "considered": [
+          153
+        ],
+        "analogous": [
+          154
+        ],
+        "depositional": [
+          156
+        ],
+        "facies": [
+          157
+        ],
+        "reservoirs": [
+          160
+        ],
+        "region.": [
+          163
+        ],
+        "observed": [
+          165
+        ],
+        "congruent": [
+          169
+        ],
+        "with": [
+          170
+        ],
+        "reported": [
+          172
+        ],
+        "from": [
+          173
+        ],
+        "same-age": [
+          174
+        ],
+        "formations": [
+          175
+        ],
+        "other": [
+          177
+        ],
+        "parts": [
+          178
+        ],
+        "Arabian": [
+          181
+        ],
+        "Plate": [
+          182
+        ],
+        "hence": [
+          184
+        ],
+        "can": [
+          185
+        ],
+        "be": [
+          186
+        ],
+        "related": [
+          187
+        ],
+        "plate-wide": [
+          189
+        ],
+        "events": [
+          191
+        ],
+        "that": [
+          192
+        ],
+        "impacted": [
+          193
+        ],
+        "Arabia": [
+          194
+        ],
+        "during": [
+          195
+        ],
+        "Late": [
+          197
+        ],
+        "Cretaceous": [
+          198
+        ],
+        "(Alpine": [
+          199,
+          206
+        ],
+        "I)": [
+          200
+        ],
+        "Tertiary": [
+          204
+        ],
+        "Period": [
+          205
+        ],
+        "II).": [
+          207
+        ],
+        "This": [
+          208
+        ],
+        "association": [
+          209
+        ],
+        "provides": [
+          210
+        ],
+        "support": [
+          211
+        ],
+        "for": [
+          212,
+          220,
+          234,
+          241
+        ],
+        "outcrop-based": [
+          214
+        ],
+        "studies": [
+          216
+        ],
+        "as": [
+          217
+        ],
+        "analogue": [
+          218
+        ],
+        "scenarios": [
+          219
+        ],
+        "orientation,": [
+          222
+        ],
+        "distribution": [
+          223
+        ],
+        "intensity": [
+          225
+        ],
+        "fractures": [
+          227
+        ],
+        "reservoirs.": [
+          230
+        ],
+        "applied": [
+          232
+        ],
+        "methodology": [
+          233
+        ],
+        "network": [
+          236
+        ],
+        "potential": [
+          239
+        ],
+        "implications": [
+          240
+        ],
+        "development,": [
+          243
+        ],
+        "storage": [
+          245
+        ],
+        "(H2)": [
+          246
+        ],
+        "Carbon": [
+          248
+        ],
+        "Capture": [
+          249
+        ],
+        "Utilization": [
+          250
+        ],
+        "Storage": [
+          252
+        ],
+        "(CCUS).": [
+          253
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 6
         }
       ],
       "updated_date": "2026-08-21T09:56:20.448147",
@@ -13041,16 +13029,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 52,
@@ -13383,16 +13371,16 @@
         "https://openalex.org/I223822909"
       ],
       "apc_list": {
-        "value": 3300,
+        "value": 3160,
         "currency": "USD",
-        "value_usd": 3300
+        "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 2.9807,
+      "fwci": 2.9582,
       "has_fulltext": false,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.90231159,
+        "value": 0.90205572,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13756,9 +13744,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -13770,8 +13758,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -13925,7 +13913,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-08-21T09:56:20.448147",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14713,9 +14701,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8199999928474426,
           "display_name": "Life below water",
-          "score": 0.8199999928474426
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -14727,8 +14715,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -16033,16 +16021,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.75,
           "display_name": "Life below water",
-          "score": 0.75
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -17282,9 +17270,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -17296,8 +17284,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -17785,8 +17773,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -19141,16 +19129,16 @@
         "https://openalex.org/I223822909"
       ],
       "apc_list": {
-        "value": 3300,
+        "value": 3160,
         "currency": "USD",
-        "value_usd": 3300
+        "value_usd": 3160
       },
       "apc_paid": null,
-      "fwci": 1.2894,
+      "fwci": 1.3303,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.76343817,
+        "value": 0.77089145,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -19488,16 +19476,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5600000023841858,
           "display_name": "Life below water",
-          "score": 0.5600000023841858
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 81,
@@ -19627,7 +19615,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-08-21T09:56:20.448147",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19891,16 +19879,16 @@
         "https://openalex.org/I887968799"
       ],
       "apc_list": {
-        "value": 3490,
+        "value": 3440,
         "currency": "USD",
-        "value_usd": 3490
+        "value_usd": 3440
       },
       "apc_paid": null,
-      "fwci": 0.7497,
+      "fwci": 0.7545,
       "has_fulltext": false,
       "cited_by_count": 15,
       "citation_normalized_percentile": {
-        "value": 0.69845502,
+        "value": 0.70015598,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20205,9 +20193,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -20219,8 +20207,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 57,
@@ -20330,7 +20318,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-01T09:00:35.917206",
+      "updated_date": "2026-08-21T09:56:20.448147",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20535,16 +20523,16 @@
         "https://openalex.org/I4210143841"
       ],
       "apc_list": {
-        "value": 4050,
+        "value": 4250,
         "currency": "USD",
-        "value_usd": 4050
+        "value_usd": 4250
       },
       "apc_paid": null,
-      "fwci": 1.2673,
+      "fwci": 1.2834,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.76183033,
+        "value": 0.76475536,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20773,9 +20761,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8799999952316284,
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -20787,8 +20775,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -21387,7 +21375,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-15T07:11:24.734988",
+      "updated_date": "2026-08-21T09:56:20.448147",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -21914,16 +21902,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
+          "score": 0.6499999761581421,
           "display_name": "Climate action",
-          "score": 0.6499999761581421
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22815,8 +22803,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23070,8 +23058,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23628,16 +23616,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24814,8 +24802,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -25272,8 +25260,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2086944217.pdf",
@@ -26080,8 +26068,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -26507,8 +26495,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -26988,16 +26976,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.5899999737739563,
           "display_name": "Life below water",
-          "score": 0.5899999737739563
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -27424,16 +27412,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -28267,16 +28255,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7900000214576721,
           "display_name": "Life below water",
-          "score": 0.7900000214576721
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -28867,16 +28855,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7699999809265137,
           "display_name": "Life below water",
-          "score": 0.7699999809265137
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -29295,16 +29283,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.49000000953674316,
           "display_name": "Life below water",
-          "score": 0.49000000953674316
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -29811,16 +29799,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.7400000095367432,
           "display_name": "Life below water",
-          "score": 0.7400000095367432
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -30738,16 +30726,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8600000143051147,
           "display_name": "Life below water",
-          "score": 0.8600000143051147
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -31559,8 +31547,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -32510,16 +32498,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8700000047683716,
           "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33072,8 +33060,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -33593,16 +33581,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8899999856948853,
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -34857,16 +34845,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/2",
+          "score": 0.47999998927116394,
           "display_name": "Zero hunger",
-          "score": 0.47999998927116394
+          "id": "https://metadata.un.org/sdg/2"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35246,8 +35234,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -35577,8 +35565,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -36046,16 +36034,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8500000238418579,
           "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -37373,8 +37361,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38292,8 +38280,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -38970,8 +38958,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -40494,9 +40482,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8669640421867371,
           "display_name": "Life below water",
-          "score": 0.8669640421867371
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -40508,8 +40496,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 61,
@@ -41002,16 +40990,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "score": 0.8427148461341858,
           "display_name": "Life below water",
-          "score": 0.8427148461341858
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 3,

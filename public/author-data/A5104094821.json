@@ -14,9 +14,9 @@
     ],
     "full_name": "Khalid A. Al‐Ramadan",
     "works_count": 19,
-    "cited_by_count": 139,
+    "cited_by_count": 140,
     "summary_stats": {
-      "2yr_mean_citedness": 4.111111111111111,
+      "2yr_mean_citedness": 4.222222222222222,
       "h_index": 8,
       "i10_index": 7
     },
@@ -332,7 +332,7 @@
         "year": 2025,
         "works_count": 7,
         "oa_works_count": 3,
-        "cited_by_count": 26
+        "cited_by_count": 27
       }
     ],
     "display_name_alternatives": [
@@ -346,7 +346,7 @@
     ],
     "block_key": "k al-ramadan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5104094821",
-    "updated_date": "2026-08-15T12:17:20",
+    "updated_date": "2026-08-21T12:17:39",
     "created_date": "2019-08-13T00:00:00"
   },
   "works": [
@@ -840,8 +840,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 132,
@@ -2656,8 +2656,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -3843,8 +3843,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 91,
@@ -4940,20 +4940,20 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 2000,
+        "value": 2400,
         "currency": "CHF",
-        "value_usd": 2227
+        "value_usd": 2896
       },
       "apc_paid": {
-        "value": 2000,
+        "value": 2400,
         "currency": "CHF",
-        "value_usd": 2227
+        "value_usd": 2896
       },
-      "fwci": 2.1281,
+      "fwci": 2.1438,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.85970565,
+        "value": 0.86058285,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -5214,8 +5214,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 102,
@@ -5760,7 +5760,7 @@
         "lower": [
           141
         ],
-        "(&lt;100": [
+        "(<100": [
           143
         ],
         "°C).": [
@@ -6060,7 +6060,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-18T07:49:30.821534",
+      "updated_date": "2026-08-21T09:56:20.448147",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6624,8 +6624,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 23,
@@ -7278,7 +7278,7 @@
       "has_fulltext": true,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.12812758,
+        "value": 0.12212644,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -7559,8 +7559,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2067784425.pdf",
@@ -7998,12 +7998,12 @@
         "(1)": [
           142
         ],
-        "&ldquo;Lithofacies": [
+        "“Lithofacies": [
           143,
           156,
           166
         ],
-        "A&rdquo;": [
+        "A”": [
           144
         ],
         "consisting": [
@@ -8032,7 +8032,7 @@
         "(2)": [
           155
         ],
-        "B&rdquo;": [
+        "B”": [
           157
         ],
         "well-bedded,": [
@@ -8051,7 +8051,7 @@
         "(3)": [
           165
         ],
-        "C&rdquo;": [
+        "C”": [
           167
         ],
         "thin-bedded,": [
@@ -8198,7 +8198,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-31T08:31:51.225901",
+      "updated_date": "2026-08-21T09:56:20.448147",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8764,8 +8764,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 106,
@@ -9068,16 +9068,16 @@
         "https://openalex.org/I134085113"
       ],
       "apc_list": {
-        "value": 2890,
+        "value": 3090,
         "currency": "USD",
-        "value_usd": 2890
+        "value_usd": 3090
       },
       "apc_paid": null,
       "fwci": 0,
       "has_fulltext": false,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.11056106,
+        "value": 0.10909421,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9432,8 +9432,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -9504,7 +9504,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-08-21T09:56:20.448147",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10085,8 +10085,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 175,
@@ -11066,8 +11066,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 62,
@@ -11517,11 +11517,11 @@
         "currency": "USD",
         "value_usd": 1935
       },
-      "fwci": 0.7044,
+      "fwci": 0.7029,
       "has_fulltext": true,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.60761337,
+        "value": 0.60696731,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -11820,8 +11820,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4401646659.pdf",
@@ -12628,7 +12628,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-08-22T07:34:49.880490",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13108,8 +13108,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -14555,8 +14555,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 78,
@@ -16003,8 +16003,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 33,
@@ -17256,8 +17256,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4407393621.pdf",
@@ -18418,8 +18418,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -19290,8 +19290,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19584,8 +19584,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20069,8 +20069,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
