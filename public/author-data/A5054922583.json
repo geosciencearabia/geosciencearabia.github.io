@@ -22,9 +22,9 @@
     ],
     "full_name": "Abdullatif Abdulrahman Al-Shuhail",
     "works_count": 171,
-    "cited_by_count": 1334,
+    "cited_by_count": 1335,
     "summary_stats": {
-      "2yr_mean_citedness": 3.5483870967741935,
+      "2yr_mean_citedness": 3.5806451612903225,
       "h_index": 21,
       "i10_index": 41
     },
@@ -33,6 +33,21 @@
       "orcid": "https://orcid.org/0000-0002-2171-0154"
     },
     "affiliations": [
+      {
+        "institution": {
+          "id": "https://openalex.org/I111483173",
+          "ror": "https://ror.org/01evb6z23",
+          "display_name": "King University",
+          "country_code": "US",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I111483173"
+          ]
+        },
+        "years": [
+          2016
+        ]
+      },
       {
         "institution": {
           "id": "https://openalex.org/I130701444",
@@ -326,7 +341,7 @@
       {
         "id": "https://openalex.org/T13018",
         "display_name": "Seismology and Earthquake Studies",
-        "value": 0.0002043,
+        "value": 0.0002042,
         "subfield": {
           "id": "https://openalex.org/subfields/1702",
           "display_name": "Artificial Intelligence"
@@ -343,7 +358,7 @@
       {
         "id": "https://openalex.org/T11757",
         "display_name": "Seismic Waves and Analysis",
-        "value": 0.0001462,
+        "value": 0.0001461,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -360,7 +375,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0001309,
+        "value": 0.0001308,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -537,7 +552,7 @@
         "year": 2024,
         "works_count": 12,
         "oa_works_count": 8,
-        "cited_by_count": 87
+        "cited_by_count": 88
       },
       {
         "year": 2025,
@@ -571,7 +586,7 @@
     ],
     "block_key": "a al-shuhail",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5054922583",
-    "updated_date": "2026-08-21T12:17:39",
+    "updated_date": "2026-08-22T12:16:56",
     "created_date": "2016-11-30T00:00:00"
   },
   "works": [
@@ -25080,11 +25095,11 @@
         "currency": "USD",
         "value_usd": 2690
       },
-      "fwci": 3.2077,
+      "fwci": 3.1972,
       "has_fulltext": true,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.91548403,
+        "value": 0.91507162,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -25382,8 +25397,8 @@
           "landing_page_url": "https://research-repository.uwa.edu.au/en/publications/b4d7fe4d-4df1-4500-92ff-36c1fd3514a0",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306402492",
-            "display_name": "UWA Profiles and Research Repository (UWA)",
+            "id": "https://openalex.org/S4306402523",
+            "display_name": "UWA Profiles and Research Repository (University of Western Australia)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
@@ -26167,7 +26182,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-08-23T07:36:19.812096",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -46798,7 +46813,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Abdullatif A. Al-Shuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -46835,7 +46850,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Abdullatif A. Al-Shuhail",
           "raw_affiliation_strings": [
             "Geosciences Department, King Fahd University of Petroleum & Minerals (KFUPM), Dhahran, Saudi Arabia"
@@ -47355,6 +47370,7 @@
       "countries_distinct_count": 1,
       "institutions_distinct_count": 1,
       "corresponding_author_ids": [
+        "https://openalex.org/A5054922583",
         "https://openalex.org/A5111604304"
       ],
       "corresponding_institution_ids": [
@@ -47366,11 +47382,11 @@
         "value_usd": 3090
       },
       "apc_paid": null,
-      "fwci": 1.5214,
+      "fwci": 1.5212,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.78264794,
+        "value": 0.78263259,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -47791,7 +47807,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-08-22T07:34:49.880490",
+      "updated_date": "2026-08-23T07:36:19.812096",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -50431,11 +50447,11 @@
         "currency": "CHF",
         "value_usd": 3137
       },
-      "fwci": 1.1195,
+      "fwci": 1.1191,
       "has_fulltext": true,
       "cited_by_count": 10,
       "citation_normalized_percentile": {
-        "value": 0.81375563,
+        "value": 0.81371603,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -51498,7 +51514,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-08-23T07:36:19.812096",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -92636,9 +92652,9 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.3997/2214-4609.20142593",
-        "is_oa": true,
+        "is_oa": false,
         "landing_page_url": "https://doi.org/10.3997/2214-4609.20142593",
-        "pdf_url": "http://eprints.kfupm.edu.sa/139094/1/Afeez_Popoola_MS_Thesis_g201003920.pdf",
+        "pdf_url": null,
         "source": {
           "id": "https://openalex.org/S4220650854",
           "display_name": "Proceedings",
@@ -92669,9 +92685,9 @@
       ],
       "open_access": {
         "is_oa": true,
-        "oa_status": "bronze",
+        "oa_status": "green",
         "oa_url": "http://eprints.kfupm.edu.sa/139094/1/Afeez_Popoola_MS_Thesis_g201003920.pdf",
-        "any_repository_has_fulltext": false
+        "any_repository_has_fulltext": true
       },
       "authorships": [
         {
@@ -92716,7 +92732,7 @@
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.12096581,
+        "value": 0.12099474,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -92977,9 +92993,9 @@
       "locations": [
         {
           "id": "doi:10.3997/2214-4609.20142593",
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://doi.org/10.3997/2214-4609.20142593",
-          "pdf_url": "http://eprints.kfupm.edu.sa/139094/1/Afeez_Popoola_MS_Thesis_g201003920.pdf",
+          "pdf_url": null,
           "source": {
             "id": "https://openalex.org/S4220650854",
             "display_name": "Proceedings",
@@ -93006,7 +93022,7 @@
         },
         {
           "id": "pmh:oai:generic.eprints.org:139094",
-          "is_oa": false,
+          "is_oa": true,
           "landing_page_url": "http://eprints.kfupm.edu.sa/139094/1/Afeez_Popoola_MS_Thesis_g201003920.pdf",
           "pdf_url": "http://eprints.kfupm.edu.sa/139094/1/Afeez_Popoola_MS_Thesis_g201003920.pdf",
           "source": {
@@ -93027,41 +93043,41 @@
           },
           "license": null,
           "license_id": null,
-          "version": "acceptedVersion",
-          "is_accepted": true,
+          "version": "submittedVersion",
+          "is_accepted": false,
           "is_published": false,
           "raw_source_name": "",
           "raw_type": "Thesis"
         }
       ],
       "best_oa_location": {
-        "id": "doi:10.3997/2214-4609.20142593",
+        "id": "pmh:oai:generic.eprints.org:139094",
         "is_oa": true,
-        "landing_page_url": "https://doi.org/10.3997/2214-4609.20142593",
+        "landing_page_url": "http://eprints.kfupm.edu.sa/139094/1/Afeez_Popoola_MS_Thesis_g201003920.pdf",
         "pdf_url": "http://eprints.kfupm.edu.sa/139094/1/Afeez_Popoola_MS_Thesis_g201003920.pdf",
         "source": {
-          "id": "https://openalex.org/S4220650854",
-          "display_name": "Proceedings",
-          "issn_l": "2214-4609",
-          "issn": [
-            "2214-4609"
-          ],
+          "id": "https://openalex.org/S4306400607",
+          "display_name": "Research Publication Repository of King Fahd University of Petroleum and Minerals (King Fahd University of Petroleum and Minerals)",
+          "issn_l": null,
+          "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
+          "is_core": false,
+          "host_organization": "https://openalex.org/I134085113",
+          "host_organization_name": "King Fahd University of Petroleum and Minerals",
+          "host_organization_lineage": [
+            "https://openalex.org/I134085113"
+          ],
           "host_organization_lineage_names": [],
-          "type": "journal"
+          "type": "repository"
         },
         "license": null,
         "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Proceedings",
-        "raw_type": "proceedings-article"
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": "",
+        "raw_type": "Thesis"
       },
       "sustainable_development_goals": [],
       "awards": [],
@@ -93384,7 +93400,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-08-23T07:36:19.812096",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -140214,7 +140230,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-08-23T07:36:19.812096",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -149004,7 +149020,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.34661746,
+        "value": 0.34282125,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -149912,7 +149928,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-08-23T07:36:19.812096",
       "created_date": "2026-04-11T00:00:00"
     },
     {
