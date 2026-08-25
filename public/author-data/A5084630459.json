@@ -7072,6 +7072,21 @@
               ]
             },
             {
+              "id": "https://openalex.org/I4387155970",
+              "display_name": "GeoRessources",
+              "ror": "https://ror.org/04mq2px33",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4387155970",
+                "https://openalex.org/I4387156182",
+                "https://openalex.org/I90183372",
+                "https://openalex.org/I90183372"
+              ]
+            },
+            {
               "id": "https://openalex.org/I9769675",
               "display_name": "École Nationale Supérieure des Mines de Nancy",
               "ror": "https://ror.org/02rzzjk74",
@@ -7096,6 +7111,7 @@
               "raw_affiliation_string": "UMR CNRS 7566, Géologie et Gestion des Ressources Minérales et Energétiques (G2R), Université de Nancy I, Vandoeuvre-lès-Nancy cedex, France",
               "institution_ids": [
                 "https://openalex.org/I1294671590",
+                "https://openalex.org/I4387155970",
                 "https://openalex.org/I9769675"
               ]
             }
@@ -7400,6 +7416,21 @@
               ]
             },
             {
+              "id": "https://openalex.org/I4387155970",
+              "display_name": "GeoRessources",
+              "ror": "https://ror.org/04mq2px33",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I4387155970",
+                "https://openalex.org/I4387156182",
+                "https://openalex.org/I90183372",
+                "https://openalex.org/I90183372"
+              ]
+            },
+            {
               "id": "https://openalex.org/I9769675",
               "display_name": "École Nationale Supérieure des Mines de Nancy",
               "ror": "https://ror.org/02rzzjk74",
@@ -7425,6 +7456,7 @@
               "raw_affiliation_string": "UMR CNRS 7566, Géologie et Gestion des Ressources Minérales et Energétiques (G2R), Université de Nancy I, BP 239, F 54506, Vandoeuvre-lès-Nancy cedex, France",
               "institution_ids": [
                 "https://openalex.org/I1294671590",
+                "https://openalex.org/I4387155970",
                 "https://openalex.org/I9769675"
               ]
             },
@@ -7432,6 +7464,7 @@
               "raw_affiliation_string": "UMR CNRS 7566, Géologie et Gestion des Ressources Minérales et Energétiques (G2R), Université de Nancy I, Vandoeuvre-lès-Nancy cedex, France",
               "institution_ids": [
                 "https://openalex.org/I1294671590",
+                "https://openalex.org/I4387155970",
                 "https://openalex.org/I9769675"
               ]
             }
@@ -7630,7 +7663,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 3,
-      "institutions_distinct_count": 10,
+      "institutions_distinct_count": 11,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
@@ -7639,11 +7672,11 @@
         "value_usd": 2490
       },
       "apc_paid": null,
-      "fwci": 5.9163,
+      "fwci": 5.9502,
       "has_fulltext": false,
       "cited_by_count": 60,
       "citation_normalized_percentile": {
-        "value": 0.95245654,
+        "value": 0.95268936,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -8066,7 +8099,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-08-25T07:29:55.448023",
       "created_date": "2016-06-24T00:00:00"
     },
     {

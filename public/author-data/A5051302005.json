@@ -947,8 +947,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
@@ -2633,8 +2633,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -4201,8 +4201,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8700000047683716
         }
       ],
@@ -4821,11 +4821,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 5.1269,
+      "fwci": 5.4482,
       "has_fulltext": false,
-      "cited_by_count": 6,
+      "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.95236467,
+        "value": 0.95773364,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -5967,14 +5967,14 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 3
+          "cited_by_count": 4
         },
         {
           "year": 2025,
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-08-25T07:29:55.448023",
       "created_date": "2025-02-27T00:00:00"
     },
     {
@@ -6536,8 +6536,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.44999998807907104
         }
       ],
@@ -7352,8 +7352,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8399999737739563
         }
       ],
@@ -8495,8 +8495,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.47999998927116394
         }
       ],
@@ -9721,8 +9721,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
@@ -10925,8 +10925,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
@@ -11669,8 +11669,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6600000262260437
         }
       ],
@@ -14831,6 +14831,1238 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W7155892393",
+      "doi": "https://doi.org/10.1016/j.gloplacha.2026.105497",
+      "title": "Global carbon cycling linked to eustatic changes in the aftermath of the early Aptian Oceanic Anoxic Event (OAE1a)",
+      "display_name": "Global carbon cycling linked to eustatic changes in the aftermath of the early Aptian Oceanic Anoxic Event (OAE1a)",
+      "publication_year": 2026,
+      "publication_date": "2026-04-27",
+      "ids": {
+        "openalex": "https://openalex.org/W7155892393",
+        "doi": "https://doi.org/10.1016/j.gloplacha.2026.105497"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.gloplacha.2026.105497",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.gloplacha.2026.105497",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S63048404",
+          "display_name": "Global and Planetary Change",
+          "issn_l": "0921-8181",
+          "issn": [
+            "0921-8181",
+            "1872-6364"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Global and Planetary Change",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1016/j.gloplacha.2026.105497",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5090251412",
+            "display_name": "Daniel Muñoz‐López",
+            "orcid": "https://orcid.org/0000-0003-2615-4166"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I169108374",
+              "display_name": "University of the Basque Country",
+              "ror": "https://ror.org/000xsnr85",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I169108374"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Daniel Muñoz-López",
+          "raw_affiliation_strings": [
+            "Department of Geology, Faculty of Science and Technology, University of the Basque Country (EHU), Barrio Sarriena s/n, 48940 Leioa, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology, Faculty of Science and Technology, University of the Basque Country (EHU), Barrio Sarriena s/n, 48940 Leioa, Spain",
+              "institution_ids": [
+                "https://openalex.org/I169108374"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5134673647",
+            "display_name": "Telm Bover-Arnal",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I71999127",
+              "display_name": "Universitat de Barcelona",
+              "ror": "https://ror.org/021018s57",
+              "country_code": "ES",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I71999127"
+              ]
+            }
+          ],
+          "countries": [
+            "ES"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Telm Bover-Arnal",
+          "raw_affiliation_strings": [
+            "Departament de Mineralogia, Petrologia i Geologia Aplicada, Facultat de Ciències de la Terra, Universitat de Barcelona, Martí i Franquès s/n, 08028 Barcelona, Spain"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Departament de Mineralogia, Petrologia i Geologia Aplicada, Facultat de Ciències de la Terra, Universitat de Barcelona, Martí i Franquès s/n, 08028 Barcelona, Spain",
+              "institution_ids": [
+                "https://openalex.org/I71999127"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5051302005",
+            "display_name": "Adhipa Herlambang",
+            "orcid": "https://orcid.org/0000-0002-0583-7438"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Adhipa Herlambang",
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5103082989",
+            "display_name": "Ardiansyah Koeshidayatullah",
+            "orcid": "https://orcid.org/0000-0003-0940-678X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Ardiansyah Koeshidayatullah",
+          "raw_affiliation_strings": [
+            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5090251412",
+        "https://openalex.org/A5103082989"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113",
+        "https://openalex.org/I169108374"
+      ],
+      "apc_list": {
+        "value": 3120,
+        "currency": "USD",
+        "value_usd": 3120
+      },
+      "apc_paid": {
+        "value": 3120,
+        "currency": "USD",
+        "value_usd": 3120
+      },
+      "fwci": 12.3085,
+      "has_fulltext": false,
+      "cited_by_count": 1,
+      "citation_normalized_percentile": {
+        "value": 0.97358247,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 94,
+        "max": 97
+      },
+      "biblio": {
+        "volume": "263",
+        "issue": null,
+        "first_page": "105497",
+        "last_page": "105497"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10109",
+        "display_name": "Paleontology and Stratigraphy of Fossils",
+        "score": 0.7720999717712402,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1911",
+          "display_name": "Paleontology"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.7720999717712402,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.09889999777078629,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10995",
+          "display_name": "Methane Hydrates and Related Phenomena",
+          "score": 0.02669999934732914,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2304",
+            "display_name": "Environmental Chemistry"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/aptian",
+          "display_name": "Aptian",
+          "score": 0.6930000185966492
+        },
+        {
+          "id": "https://openalex.org/keywords/anoxic-waters",
+          "display_name": "Anoxic waters",
+          "score": 0.660099983215332
+        },
+        {
+          "id": "https://openalex.org/keywords/event",
+          "display_name": "Event (particle physics)",
+          "score": 0.5777999758720398
+        },
+        {
+          "id": "https://openalex.org/keywords/carbon-cycle",
+          "display_name": "Carbon cycle",
+          "score": 0.5449000000953674
+        },
+        {
+          "id": "https://openalex.org/keywords/carbon-flux",
+          "display_name": "Carbon flux",
+          "score": 0.3612000048160553
+        },
+        {
+          "id": "https://openalex.org/keywords/cycling",
+          "display_name": "Cycling",
+          "score": 0.3517000079154968
+        },
+        {
+          "id": "https://openalex.org/keywords/climate-change",
+          "display_name": "Climate change",
+          "score": 0.34850001335144043
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C189473229",
+          "wikidata": "https://www.wikidata.org/wiki/Q622265",
+          "display_name": "Aptian",
+          "level": 3,
+          "score": 0.6930000185966492
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.6607000231742859
+        },
+        {
+          "id": "https://openalex.org/C108970007",
+          "wikidata": "https://www.wikidata.org/wiki/Q568324",
+          "display_name": "Anoxic waters",
+          "level": 2,
+          "score": 0.660099983215332
+        },
+        {
+          "id": "https://openalex.org/C2779662365",
+          "wikidata": "https://www.wikidata.org/wiki/Q5416694",
+          "display_name": "Event (particle physics)",
+          "level": 2,
+          "score": 0.5777999758720398
+        },
+        {
+          "id": "https://openalex.org/C6939412",
+          "wikidata": "https://www.wikidata.org/wiki/Q167751",
+          "display_name": "Carbon cycle",
+          "level": 3,
+          "score": 0.5449000000953674
+        },
+        {
+          "id": "https://openalex.org/C111368507",
+          "wikidata": "https://www.wikidata.org/wiki/Q43518",
+          "display_name": "Oceanography",
+          "level": 1,
+          "score": 0.4876999855041504
+        },
+        {
+          "id": "https://openalex.org/C2993678126",
+          "wikidata": "https://www.wikidata.org/wiki/Q167751",
+          "display_name": "Carbon flux",
+          "level": 3,
+          "score": 0.3612000048160553
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.3587999939918518
+        },
+        {
+          "id": "https://openalex.org/C541528975",
+          "wikidata": "https://www.wikidata.org/wiki/Q53121",
+          "display_name": "Cycling",
+          "level": 2,
+          "score": 0.3517000079154968
+        },
+        {
+          "id": "https://openalex.org/C132651083",
+          "wikidata": "https://www.wikidata.org/wiki/Q7942",
+          "display_name": "Climate change",
+          "level": 2,
+          "score": 0.34850001335144043
+        },
+        {
+          "id": "https://openalex.org/C140205800",
+          "wikidata": "https://www.wikidata.org/wiki/Q5860",
+          "display_name": "Carbon fibers",
+          "level": 3,
+          "score": 0.32850000262260437
+        },
+        {
+          "id": "https://openalex.org/C49204034",
+          "wikidata": "https://www.wikidata.org/wiki/Q52139",
+          "display_name": "Climatology",
+          "level": 1,
+          "score": 0.30630001425743103
+        },
+        {
+          "id": "https://openalex.org/C69131732",
+          "wikidata": "https://www.wikidata.org/wiki/Q2956049",
+          "display_name": "Abrupt climate change",
+          "level": 5,
+          "score": 0.2985000014305115
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.2922999858856201
+        },
+        {
+          "id": "https://openalex.org/C1965285",
+          "wikidata": "https://www.wikidata.org/wiki/Q8008",
+          "display_name": "Earth science",
+          "level": 1,
+          "score": 0.2849000096321106
+        },
+        {
+          "id": "https://openalex.org/C150117547",
+          "wikidata": "https://www.wikidata.org/wiki/Q188230",
+          "display_name": "Ecological succession",
+          "level": 2,
+          "score": 0.27970001101493835
+        },
+        {
+          "id": "https://openalex.org/C202783661",
+          "wikidata": "https://www.wikidata.org/wiki/Q83222",
+          "display_name": "Mesozoic",
+          "level": 3,
+          "score": 0.26649999618530273
+        },
+        {
+          "id": "https://openalex.org/C2781291010",
+          "wikidata": "https://www.wikidata.org/wiki/Q178580",
+          "display_name": "Period (music)",
+          "level": 2,
+          "score": 0.2502000033855438
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.gloplacha.2026.105497",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1016/j.gloplacha.2026.105497",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S63048404",
+            "display_name": "Global and Planetary Change",
+            "issn_l": "0921-8181",
+            "issn": [
+              "0921-8181",
+              "1872-6364"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Global and Planetary Change",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:diposit.ub.edu:2445/230286",
+          "is_oa": true,
+          "landing_page_url": "https://hdl.handle.net/2445/230286",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401653",
+            "display_name": "Dipòsit Digital de la Universitat de Barcelona (Universitat de Barcelona)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I71999127",
+            "host_organization_name": "Universitat de Barcelona",
+            "host_organization_lineage": [
+              "https://openalex.org/I71999127"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Articles publicats en revistes (Mineralogia, Petrologia i Geologia Aplicada)",
+          "raw_type": "info:eu-repo/semantics/article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1016/j.gloplacha.2026.105497",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.gloplacha.2026.105497",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S63048404",
+          "display_name": "Global and Planetary Change",
+          "issn_l": "0921-8181",
+          "issn": [
+            "0921-8181",
+            "1872-6364"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Global and Planetary Change",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
+          "score": 0.581807553768158
+        }
+      ],
+      "awards": [
+        {
+          "id": "https://openalex.org/G266909529",
+          "display_name": null,
+          "funder_award_id": "00349",
+          "funder_id": "https://openalex.org/F4320321505",
+          "funder_display_name": "Generalitat de Catalunya"
+        },
+        {
+          "id": "https://openalex.org/G5161056981",
+          "display_name": null,
+          "funder_award_id": "POS_2024_1_0059",
+          "funder_id": "https://openalex.org/F4320321705",
+          "funder_display_name": "Eusko Jaurlaritza"
+        }
+      ],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320311694",
+          "display_name": "Edge Hill University",
+          "ror": "https://ror.org/028ndzd53"
+        },
+        {
+          "id": "https://openalex.org/F4320321505",
+          "display_name": "Generalitat de Catalunya",
+          "ror": "https://ror.org/01bg62x04"
+        },
+        {
+          "id": "https://openalex.org/F4320321705",
+          "display_name": "Eusko Jaurlaritza",
+          "ror": "https://ror.org/00pz2fp31"
+        },
+        {
+          "id": "https://openalex.org/F4320321919",
+          "display_name": "Euskal Herriko Unibertsitatea",
+          "ror": "https://ror.org/000xsnr85"
+        },
+        {
+          "id": "https://openalex.org/F4320322323",
+          "display_name": "King Fahd University of Petroleum and Minerals",
+          "ror": "https://ror.org/03yez3163"
+        },
+        {
+          "id": "https://openalex.org/F4320322930",
+          "display_name": "Ministerio de Ciencia e Innovación",
+          "ror": "https://ror.org/034900433"
+        },
+        {
+          "id": "https://openalex.org/F4320323428",
+          "display_name": "Universitat de Barcelona",
+          "ror": "https://ror.org/021018s57"
+        },
+        {
+          "id": "https://openalex.org/F4320335322",
+          "display_name": "European Regional Development Fund",
+          "ror": "https://ror.org/00k4n6c32"
+        },
+        {
+          "id": "https://openalex.org/F4320335598",
+          "display_name": "Agencia Estatal de Investigación",
+          "ror": null
+        }
+      ],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 47,
+      "referenced_works": [
+        "https://openalex.org/W1639686691",
+        "https://openalex.org/W1968350273",
+        "https://openalex.org/W1969405334",
+        "https://openalex.org/W1973872479",
+        "https://openalex.org/W1974718240",
+        "https://openalex.org/W1984491575",
+        "https://openalex.org/W1994625158",
+        "https://openalex.org/W1994750320",
+        "https://openalex.org/W1997672754",
+        "https://openalex.org/W1998995868",
+        "https://openalex.org/W2019515284",
+        "https://openalex.org/W2025586462",
+        "https://openalex.org/W2030154134",
+        "https://openalex.org/W2030332954",
+        "https://openalex.org/W2051819341",
+        "https://openalex.org/W2068957815",
+        "https://openalex.org/W2069021767",
+        "https://openalex.org/W2086474951",
+        "https://openalex.org/W2091065315",
+        "https://openalex.org/W2097820932",
+        "https://openalex.org/W2098762071",
+        "https://openalex.org/W2100384649",
+        "https://openalex.org/W2108196401",
+        "https://openalex.org/W2118432836",
+        "https://openalex.org/W2126404617",
+        "https://openalex.org/W2129709602",
+        "https://openalex.org/W2148013722",
+        "https://openalex.org/W2150541755",
+        "https://openalex.org/W2151813585",
+        "https://openalex.org/W2229288588",
+        "https://openalex.org/W2460831436",
+        "https://openalex.org/W2897406111",
+        "https://openalex.org/W2903939507",
+        "https://openalex.org/W2909032402",
+        "https://openalex.org/W2943001045",
+        "https://openalex.org/W2972937562",
+        "https://openalex.org/W2980188325",
+        "https://openalex.org/W3039345230",
+        "https://openalex.org/W3100851278",
+        "https://openalex.org/W3126931996",
+        "https://openalex.org/W3201739498",
+        "https://openalex.org/W4210501028",
+        "https://openalex.org/W4281477895",
+        "https://openalex.org/W4310554238",
+        "https://openalex.org/W4386574022",
+        "https://openalex.org/W4388672749",
+        "https://openalex.org/W4407947147"
+      ],
+      "related_works": [],
+      "abstract_inverted_index": {
+        "The": [
+          0,
+          101
+        ],
+        "Aptian": [
+          1,
+          18,
+          39
+        ],
+        "experienced": [
+          2
+        ],
+        "significant": [
+          3,
+          201
+        ],
+        "carbon-cycle": [
+          4,
+          30
+        ],
+        "disruptions,": [
+          5
+        ],
+        "marked": [
+          6
+        ],
+        "by": [
+          7
+        ],
+        "notable": [
+          8
+        ],
+        "paleoclimatic": [
+          9
+        ],
+        "and": [
+          10,
+          32,
+          61,
+          74,
+          91,
+          107,
+          121,
+          134,
+          196,
+          200
+        ],
+        "paleoceanographic": [
+          11
+        ],
+        "shifts.": [
+          12
+        ],
+        "While": [
+          13
+        ],
+        "the": [
+          14,
+          17,
+          26,
+          37,
+          49,
+          89,
+          115,
+          145,
+          165,
+          171,
+          177,
+          189,
+          198,
+          204
+        ],
+        "mechanisms": [
+          15
+        ],
+        "behind": [
+          16
+        ],
+        "oceanic": [
+          19
+        ],
+        "anoxic": [
+          20
+        ],
+        "events": [
+          21
+        ],
+        "(OAE)": [
+          22
+        ],
+        "are": [
+          23
+        ],
+        "relatively": [
+          24
+        ],
+        "well-understood,": [
+          25
+        ],
+        "interplay": [
+          27
+        ],
+        "between": [
+          28,
+          70
+        ],
+        "global": [
+          29,
+          82,
+          126,
+          172
+        ],
+        "dynamics": [
+          31
+        ],
+        "sea-level": [
+          33,
+          72,
+          105,
+          119,
+          154
+        ],
+        "changes": [
+          34
+        ],
+        "immediately": [
+          35
+        ],
+        "following": [
+          36
+        ],
+        "early": [
+          38
+        ],
+        "OAE1a": [
+          40
+        ],
+        "remains": [
+          41
+        ],
+        "enigmatic.": [
+          42
+        ],
+        "By": [
+          43
+        ],
+        "analyzing": [
+          44
+        ],
+        "a": [
+          45,
+          67,
+          71,
+          75,
+          81,
+          92,
+          141,
+          184
+        ],
+        "carbonate": [
+          46
+        ],
+        "succession": [
+          47
+        ],
+        "from": [
+          48,
+          97
+        ],
+        "western": [
+          50
+        ],
+        "Tethys": [
+          51
+        ],
+        "(eastern": [
+          52
+        ],
+        "Spain),": [
+          53
+        ],
+        "dated": [
+          54
+        ],
+        "using": [
+          55
+        ],
+        "ammonite": [
+          56
+        ],
+        "biostratigraphy": [
+          57
+        ],
+        "as": [
+          58,
+          140,
+          183
+        ],
+        "Deshayesites": [
+          59
+        ],
+        "deshayesi": [
+          60
+        ],
+        "Dufrenoyia": [
+          62
+        ],
+        "furcata": [
+          63
+        ],
+        "zones,": [
+          64
+        ],
+        "we": [
+          65
+        ],
+        "identify": [
+          66
+        ],
+        "temporal": [
+          68
+        ],
+        "correlation": [
+          69
+        ],
+        "highstand": [
+          73,
+          133
+        ],
+        "subsequent": [
+          76
+        ],
+        "fall,": [
+          77
+        ],
+        "aligning": [
+          78
+        ],
+        "respectively": [
+          79
+        ],
+        "with": [
+          80
+        ],
+        "carbon-isotope": [
+          83
+        ],
+        "excursion": [
+          84
+        ],
+        "exceeding": [
+          85
+        ],
+        "+4‰,": [
+          86
+        ],
+        "unprecedented": [
+          87
+        ],
+        "in": [
+          88
+        ],
+        "Cretaceous,": [
+          90
+        ],
+        "sharp": [
+          93
+        ],
+        "negative": [
+          94
+        ],
+        "isotopic": [
+          95
+        ],
+        "shift": [
+          96
+        ],
+        "+4.3‰": [
+          98
+        ],
+        "to": [
+          99,
+          193,
+          207
+        ],
+        "−0.7‰.": [
+          100
+        ],
+        "concurrence": [
+          102
+        ],
+        "of": [
+          103,
+          118,
+          148,
+          170,
+          180,
+          186,
+          203
+        ],
+        "these": [
+          104
+        ],
+        "fluctuations": [
+          106
+        ],
+        "carbon": [
+          108,
+          127,
+          142,
+          163,
+          168,
+          187,
+          205
+        ],
+        "isotope": [
+          109
+        ],
+        "variations": [
+          110
+        ],
+        "across": [
+          111
+        ],
+        "multiple": [
+          112
+        ],
+        "regions": [
+          113
+        ],
+        "underscores": [
+          114
+        ],
+        "eustatic": [
+          116,
+          208
+        ],
+        "origin": [
+          117
+        ],
+        "change": [
+          120
+        ],
+        "its": [
+          122
+        ],
+        "profound": [
+          123
+        ],
+        "impact": [
+          124
+        ],
+        "on": [
+          125
+        ],
+        "cycling.": [
+          128
+        ],
+        "We": [
+          129
+        ],
+        "propose": [
+          130
+        ],
+        "that": [
+          131
+        ],
+        "during": [
+          132,
+          188
+        ],
+        "transgressive": [
+          135
+        ],
+        "stages,": [
+          136
+        ],
+        "sea": [
+          137
+        ],
+        "expansion": [
+          138
+        ],
+        "acted": [
+          139
+        ],
+        "sink,": [
+          143
+        ],
+        "facilitating": [
+          144
+        ],
+        "increased": [
+          146
+        ],
+        "burial": [
+          147
+        ],
+        "isotopically": [
+          149
+        ],
+        "light": [
+          150,
+          162
+        ],
+        "carbon.": [
+          151
+        ],
+        "Conversely,": [
+          152
+        ],
+        "rapid": [
+          153
+        ],
+        "falls": [
+          155
+        ],
+        "likely": [
+          156
+        ],
+        "triggered": [
+          157
+        ],
+        "sediment": [
+          158
+        ],
+        "reworking,": [
+          159
+        ],
+        "reintroducing": [
+          160
+        ],
+        "this": [
+          161
+        ],
+        "into": [
+          164
+        ],
+        "dissolved": [
+          166
+        ],
+        "inorganic": [
+          167
+        ],
+        "(DIC)": [
+          169
+        ],
+        "ocean.": [
+          173
+        ],
+        "This": [
+          174
+        ],
+        "study": [
+          175
+        ],
+        "highlights": [
+          176
+        ],
+        "overlooked": [
+          178
+        ],
+        "role": [
+          179
+        ],
+        "remobilized": [
+          181
+        ],
+        "sediments": [
+          182
+        ],
+        "source": [
+          185
+        ],
+        "Aptian,": [
+          190
+        ],
+        "commonly": [
+          191
+        ],
+        "attributed": [
+          192
+        ],
+        "volcanic": [
+          194
+        ],
+        "degassing,": [
+          195
+        ],
+        "emphasizes": [
+          197
+        ],
+        "immediate": [
+          199
+        ],
+        "response": [
+          202
+        ],
+        "cycle": [
+          206
+        ],
+        "changes.": [
+          209
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-08-25T07:29:55.448023",
+      "created_date": "2026-04-28T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W3119778467",
       "doi": "https://doi.org/10.1016/j.gca.2020.12.024",
       "title": "Combining clumped isotope and trace element analysis to constrain potential kinetic effects in calcite",
@@ -15835,8 +17067,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Responsible consumption and production",
           "id": "https://metadata.un.org/sdg/12",
+          "display_name": "Responsible consumption and production",
           "score": 0.4699999988079071
         }
       ],
@@ -17326,8 +18558,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
@@ -18383,8 +19615,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
@@ -18882,8 +20114,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.49000000953674316
         }
       ],
@@ -19582,8 +20814,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5600000023841858
         }
       ],
@@ -20991,8 +22223,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities",
           "score": 0.4399999976158142
         }
       ],
@@ -21538,8 +22770,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
@@ -22764,8 +23996,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -26135,8 +27367,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -31037,1230 +32269,6 @@
       "created_date": "2025-10-30T00:00:00"
     },
     {
-      "id": "https://openalex.org/W7155892393",
-      "doi": "https://doi.org/10.1016/j.gloplacha.2026.105497",
-      "title": "Global carbon cycling linked to eustatic changes in the aftermath of the early Aptian Oceanic Anoxic Event (OAE1a)",
-      "display_name": "Global carbon cycling linked to eustatic changes in the aftermath of the early Aptian Oceanic Anoxic Event (OAE1a)",
-      "publication_year": 2026,
-      "publication_date": "2026-04-27",
-      "ids": {
-        "openalex": "https://openalex.org/W7155892393",
-        "doi": "https://doi.org/10.1016/j.gloplacha.2026.105497"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.gloplacha.2026.105497",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.gloplacha.2026.105497",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S63048404",
-          "display_name": "Global and Planetary Change",
-          "issn_l": "0921-8181",
-          "issn": [
-            "0921-8181",
-            "1872-6364"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Global and Planetary Change",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://doi.org/10.1016/j.gloplacha.2026.105497",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5090251412",
-            "display_name": "Daniel Muñoz‐López",
-            "orcid": "https://orcid.org/0000-0003-2615-4166"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I169108374",
-              "display_name": "University of the Basque Country",
-              "ror": "https://ror.org/000xsnr85",
-              "country_code": "ES",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I169108374"
-              ]
-            }
-          ],
-          "countries": [
-            "ES"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Daniel Muñoz-López",
-          "raw_affiliation_strings": [
-            "Department of Geology, Faculty of Science and Technology, University of the Basque Country (EHU), Barrio Sarriena s/n, 48940 Leioa, Spain"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Geology, Faculty of Science and Technology, University of the Basque Country (EHU), Barrio Sarriena s/n, 48940 Leioa, Spain",
-              "institution_ids": [
-                "https://openalex.org/I169108374"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5134673647",
-            "display_name": "Telm Bover-Arnal",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I71999127",
-              "display_name": "Universitat de Barcelona",
-              "ror": "https://ror.org/021018s57",
-              "country_code": "ES",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I71999127"
-              ]
-            }
-          ],
-          "countries": [
-            "ES"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Telm Bover-Arnal",
-          "raw_affiliation_strings": [
-            "Departament de Mineralogia, Petrologia i Geologia Aplicada, Facultat de Ciències de la Terra, Universitat de Barcelona, Martí i Franquès s/n, 08028 Barcelona, Spain"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Departament de Mineralogia, Petrologia i Geologia Aplicada, Facultat de Ciències de la Terra, Universitat de Barcelona, Martí i Franquès s/n, 08028 Barcelona, Spain",
-              "institution_ids": [
-                "https://openalex.org/I71999127"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5051302005",
-            "display_name": "Adhipa Herlambang",
-            "orcid": "https://orcid.org/0000-0002-0583-7438"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Adhipa Herlambang",
-          "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5103082989",
-            "display_name": "Ardiansyah Koeshidayatullah",
-            "orcid": "https://orcid.org/0000-0003-0940-678X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I134085113",
-              "display_name": "King Fahd University of Petroleum and Minerals",
-              "ror": "https://ror.org/03yez3163",
-              "country_code": "SA",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ],
-          "countries": [
-            "SA"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Ardiansyah Koeshidayatullah",
-          "raw_affiliation_strings": [
-            "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-            "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Center for Integrative Petroleum Research, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            },
-            {
-              "raw_affiliation_string": "Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia",
-              "institution_ids": [
-                "https://openalex.org/I134085113"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5090251412",
-        "https://openalex.org/A5103082989"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I134085113",
-        "https://openalex.org/I169108374"
-      ],
-      "apc_list": {
-        "value": 3120,
-        "currency": "USD",
-        "value_usd": 3120
-      },
-      "apc_paid": {
-        "value": 3120,
-        "currency": "USD",
-        "value_usd": 3120
-      },
-      "fwci": 0,
-      "has_fulltext": false,
-      "cited_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.44682626,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": null,
-      "biblio": {
-        "volume": "263",
-        "issue": null,
-        "first_page": "105497",
-        "last_page": "105497"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10109",
-        "display_name": "Paleontology and Stratigraphy of Fossils",
-        "score": 0.7720999717712402,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1911",
-          "display_name": "Paleontology"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.7720999717712402,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.09889999777078629,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10995",
-          "display_name": "Methane Hydrates and Related Phenomena",
-          "score": 0.02669999934732914,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2304",
-            "display_name": "Environmental Chemistry"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/aptian",
-          "display_name": "Aptian",
-          "score": 0.6930000185966492
-        },
-        {
-          "id": "https://openalex.org/keywords/anoxic-waters",
-          "display_name": "Anoxic waters",
-          "score": 0.660099983215332
-        },
-        {
-          "id": "https://openalex.org/keywords/event",
-          "display_name": "Event (particle physics)",
-          "score": 0.5777999758720398
-        },
-        {
-          "id": "https://openalex.org/keywords/carbon-cycle",
-          "display_name": "Carbon cycle",
-          "score": 0.5449000000953674
-        },
-        {
-          "id": "https://openalex.org/keywords/carbon-flux",
-          "display_name": "Carbon flux",
-          "score": 0.3612000048160553
-        },
-        {
-          "id": "https://openalex.org/keywords/cycling",
-          "display_name": "Cycling",
-          "score": 0.3517000079154968
-        },
-        {
-          "id": "https://openalex.org/keywords/climate-change",
-          "display_name": "Climate change",
-          "score": 0.34850001335144043
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C189473229",
-          "wikidata": "https://www.wikidata.org/wiki/Q622265",
-          "display_name": "Aptian",
-          "level": 3,
-          "score": 0.6930000185966492
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.6607000231742859
-        },
-        {
-          "id": "https://openalex.org/C108970007",
-          "wikidata": "https://www.wikidata.org/wiki/Q568324",
-          "display_name": "Anoxic waters",
-          "level": 2,
-          "score": 0.660099983215332
-        },
-        {
-          "id": "https://openalex.org/C2779662365",
-          "wikidata": "https://www.wikidata.org/wiki/Q5416694",
-          "display_name": "Event (particle physics)",
-          "level": 2,
-          "score": 0.5777999758720398
-        },
-        {
-          "id": "https://openalex.org/C6939412",
-          "wikidata": "https://www.wikidata.org/wiki/Q167751",
-          "display_name": "Carbon cycle",
-          "level": 3,
-          "score": 0.5449000000953674
-        },
-        {
-          "id": "https://openalex.org/C111368507",
-          "wikidata": "https://www.wikidata.org/wiki/Q43518",
-          "display_name": "Oceanography",
-          "level": 1,
-          "score": 0.4876999855041504
-        },
-        {
-          "id": "https://openalex.org/C2993678126",
-          "wikidata": "https://www.wikidata.org/wiki/Q167751",
-          "display_name": "Carbon flux",
-          "level": 3,
-          "score": 0.3612000048160553
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.3587999939918518
-        },
-        {
-          "id": "https://openalex.org/C541528975",
-          "wikidata": "https://www.wikidata.org/wiki/Q53121",
-          "display_name": "Cycling",
-          "level": 2,
-          "score": 0.3517000079154968
-        },
-        {
-          "id": "https://openalex.org/C132651083",
-          "wikidata": "https://www.wikidata.org/wiki/Q7942",
-          "display_name": "Climate change",
-          "level": 2,
-          "score": 0.34850001335144043
-        },
-        {
-          "id": "https://openalex.org/C140205800",
-          "wikidata": "https://www.wikidata.org/wiki/Q5860",
-          "display_name": "Carbon fibers",
-          "level": 3,
-          "score": 0.32850000262260437
-        },
-        {
-          "id": "https://openalex.org/C49204034",
-          "wikidata": "https://www.wikidata.org/wiki/Q52139",
-          "display_name": "Climatology",
-          "level": 1,
-          "score": 0.30630001425743103
-        },
-        {
-          "id": "https://openalex.org/C69131732",
-          "wikidata": "https://www.wikidata.org/wiki/Q2956049",
-          "display_name": "Abrupt climate change",
-          "level": 5,
-          "score": 0.2985000014305115
-        },
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.2922999858856201
-        },
-        {
-          "id": "https://openalex.org/C1965285",
-          "wikidata": "https://www.wikidata.org/wiki/Q8008",
-          "display_name": "Earth science",
-          "level": 1,
-          "score": 0.2849000096321106
-        },
-        {
-          "id": "https://openalex.org/C150117547",
-          "wikidata": "https://www.wikidata.org/wiki/Q188230",
-          "display_name": "Ecological succession",
-          "level": 2,
-          "score": 0.27970001101493835
-        },
-        {
-          "id": "https://openalex.org/C202783661",
-          "wikidata": "https://www.wikidata.org/wiki/Q83222",
-          "display_name": "Mesozoic",
-          "level": 3,
-          "score": 0.26649999618530273
-        },
-        {
-          "id": "https://openalex.org/C2781291010",
-          "wikidata": "https://www.wikidata.org/wiki/Q178580",
-          "display_name": "Period (music)",
-          "level": 2,
-          "score": 0.2502000033855438
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.gloplacha.2026.105497",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1016/j.gloplacha.2026.105497",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S63048404",
-            "display_name": "Global and Planetary Change",
-            "issn_l": "0921-8181",
-            "issn": [
-              "0921-8181",
-              "1872-6364"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Global and Planetary Change",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:diposit.ub.edu:2445/230286",
-          "is_oa": true,
-          "landing_page_url": "https://hdl.handle.net/2445/230286",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306401653",
-            "display_name": "Dipòsit Digital de la Universitat de Barcelona (Universitat de Barcelona)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I71999127",
-            "host_organization_name": "Universitat de Barcelona",
-            "host_organization_lineage": [
-              "https://openalex.org/I71999127"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Articles publicats en revistes (Mineralogia, Petrologia i Geologia Aplicada)",
-          "raw_type": "info:eu-repo/semantics/article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1016/j.gloplacha.2026.105497",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1016/j.gloplacha.2026.105497",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S63048404",
-          "display_name": "Global and Planetary Change",
-          "issn_l": "0921-8181",
-          "issn": [
-            "0921-8181",
-            "1872-6364"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Global and Planetary Change",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14",
-          "score": 0.581807553768158
-        }
-      ],
-      "awards": [
-        {
-          "id": "https://openalex.org/G266909529",
-          "display_name": null,
-          "funder_award_id": "00349",
-          "funder_id": "https://openalex.org/F4320321505",
-          "funder_display_name": "Generalitat de Catalunya"
-        },
-        {
-          "id": "https://openalex.org/G5161056981",
-          "display_name": null,
-          "funder_award_id": "POS_2024_1_0059",
-          "funder_id": "https://openalex.org/F4320321705",
-          "funder_display_name": "Eusko Jaurlaritza"
-        }
-      ],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320311694",
-          "display_name": "Edge Hill University",
-          "ror": "https://ror.org/028ndzd53"
-        },
-        {
-          "id": "https://openalex.org/F4320321505",
-          "display_name": "Generalitat de Catalunya",
-          "ror": "https://ror.org/01bg62x04"
-        },
-        {
-          "id": "https://openalex.org/F4320321705",
-          "display_name": "Eusko Jaurlaritza",
-          "ror": "https://ror.org/00pz2fp31"
-        },
-        {
-          "id": "https://openalex.org/F4320321919",
-          "display_name": "Euskal Herriko Unibertsitatea",
-          "ror": "https://ror.org/000xsnr85"
-        },
-        {
-          "id": "https://openalex.org/F4320322323",
-          "display_name": "King Fahd University of Petroleum and Minerals",
-          "ror": "https://ror.org/03yez3163"
-        },
-        {
-          "id": "https://openalex.org/F4320322930",
-          "display_name": "Ministerio de Ciencia e Innovación",
-          "ror": "https://ror.org/034900433"
-        },
-        {
-          "id": "https://openalex.org/F4320323428",
-          "display_name": "Universitat de Barcelona",
-          "ror": "https://ror.org/021018s57"
-        },
-        {
-          "id": "https://openalex.org/F4320335322",
-          "display_name": "European Regional Development Fund",
-          "ror": "https://ror.org/00k4n6c32"
-        },
-        {
-          "id": "https://openalex.org/F4320335598",
-          "display_name": "Agencia Estatal de Investigación",
-          "ror": null
-        }
-      ],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 47,
-      "referenced_works": [
-        "https://openalex.org/W1639686691",
-        "https://openalex.org/W1968350273",
-        "https://openalex.org/W1969405334",
-        "https://openalex.org/W1973872479",
-        "https://openalex.org/W1974718240",
-        "https://openalex.org/W1984491575",
-        "https://openalex.org/W1994625158",
-        "https://openalex.org/W1994750320",
-        "https://openalex.org/W1997672754",
-        "https://openalex.org/W1998995868",
-        "https://openalex.org/W2019515284",
-        "https://openalex.org/W2025586462",
-        "https://openalex.org/W2030154134",
-        "https://openalex.org/W2030332954",
-        "https://openalex.org/W2051819341",
-        "https://openalex.org/W2068957815",
-        "https://openalex.org/W2069021767",
-        "https://openalex.org/W2086474951",
-        "https://openalex.org/W2091065315",
-        "https://openalex.org/W2097820932",
-        "https://openalex.org/W2098762071",
-        "https://openalex.org/W2100384649",
-        "https://openalex.org/W2108196401",
-        "https://openalex.org/W2118432836",
-        "https://openalex.org/W2126404617",
-        "https://openalex.org/W2129709602",
-        "https://openalex.org/W2148013722",
-        "https://openalex.org/W2150541755",
-        "https://openalex.org/W2151813585",
-        "https://openalex.org/W2229288588",
-        "https://openalex.org/W2460831436",
-        "https://openalex.org/W2897406111",
-        "https://openalex.org/W2903939507",
-        "https://openalex.org/W2909032402",
-        "https://openalex.org/W2943001045",
-        "https://openalex.org/W2972937562",
-        "https://openalex.org/W2980188325",
-        "https://openalex.org/W3039345230",
-        "https://openalex.org/W3100851278",
-        "https://openalex.org/W3126931996",
-        "https://openalex.org/W3201739498",
-        "https://openalex.org/W4210501028",
-        "https://openalex.org/W4281477895",
-        "https://openalex.org/W4310554238",
-        "https://openalex.org/W4386574022",
-        "https://openalex.org/W4388672749",
-        "https://openalex.org/W4407947147"
-      ],
-      "related_works": [],
-      "abstract_inverted_index": {
-        "The": [
-          0,
-          101
-        ],
-        "Aptian": [
-          1,
-          18,
-          39
-        ],
-        "experienced": [
-          2
-        ],
-        "significant": [
-          3,
-          201
-        ],
-        "carbon-cycle": [
-          4,
-          30
-        ],
-        "disruptions,": [
-          5
-        ],
-        "marked": [
-          6
-        ],
-        "by": [
-          7
-        ],
-        "notable": [
-          8
-        ],
-        "paleoclimatic": [
-          9
-        ],
-        "and": [
-          10,
-          32,
-          61,
-          74,
-          91,
-          107,
-          121,
-          134,
-          196,
-          200
-        ],
-        "paleoceanographic": [
-          11
-        ],
-        "shifts.": [
-          12
-        ],
-        "While": [
-          13
-        ],
-        "the": [
-          14,
-          17,
-          26,
-          37,
-          49,
-          89,
-          115,
-          145,
-          165,
-          171,
-          177,
-          189,
-          198,
-          204
-        ],
-        "mechanisms": [
-          15
-        ],
-        "behind": [
-          16
-        ],
-        "oceanic": [
-          19
-        ],
-        "anoxic": [
-          20
-        ],
-        "events": [
-          21
-        ],
-        "(OAE)": [
-          22
-        ],
-        "are": [
-          23
-        ],
-        "relatively": [
-          24
-        ],
-        "well-understood,": [
-          25
-        ],
-        "interplay": [
-          27
-        ],
-        "between": [
-          28,
-          70
-        ],
-        "global": [
-          29,
-          82,
-          126,
-          172
-        ],
-        "dynamics": [
-          31
-        ],
-        "sea-level": [
-          33,
-          72,
-          105,
-          119,
-          154
-        ],
-        "changes": [
-          34
-        ],
-        "immediately": [
-          35
-        ],
-        "following": [
-          36
-        ],
-        "early": [
-          38
-        ],
-        "OAE1a": [
-          40
-        ],
-        "remains": [
-          41
-        ],
-        "enigmatic.": [
-          42
-        ],
-        "By": [
-          43
-        ],
-        "analyzing": [
-          44
-        ],
-        "a": [
-          45,
-          67,
-          71,
-          75,
-          81,
-          92,
-          141,
-          184
-        ],
-        "carbonate": [
-          46
-        ],
-        "succession": [
-          47
-        ],
-        "from": [
-          48,
-          97
-        ],
-        "western": [
-          50
-        ],
-        "Tethys": [
-          51
-        ],
-        "(eastern": [
-          52
-        ],
-        "Spain),": [
-          53
-        ],
-        "dated": [
-          54
-        ],
-        "using": [
-          55
-        ],
-        "ammonite": [
-          56
-        ],
-        "biostratigraphy": [
-          57
-        ],
-        "as": [
-          58,
-          140,
-          183
-        ],
-        "Deshayesites": [
-          59
-        ],
-        "deshayesi": [
-          60
-        ],
-        "Dufrenoyia": [
-          62
-        ],
-        "furcata": [
-          63
-        ],
-        "zones,": [
-          64
-        ],
-        "we": [
-          65
-        ],
-        "identify": [
-          66
-        ],
-        "temporal": [
-          68
-        ],
-        "correlation": [
-          69
-        ],
-        "highstand": [
-          73,
-          133
-        ],
-        "subsequent": [
-          76
-        ],
-        "fall,": [
-          77
-        ],
-        "aligning": [
-          78
-        ],
-        "respectively": [
-          79
-        ],
-        "with": [
-          80
-        ],
-        "carbon-isotope": [
-          83
-        ],
-        "excursion": [
-          84
-        ],
-        "exceeding": [
-          85
-        ],
-        "+4‰,": [
-          86
-        ],
-        "unprecedented": [
-          87
-        ],
-        "in": [
-          88
-        ],
-        "Cretaceous,": [
-          90
-        ],
-        "sharp": [
-          93
-        ],
-        "negative": [
-          94
-        ],
-        "isotopic": [
-          95
-        ],
-        "shift": [
-          96
-        ],
-        "+4.3‰": [
-          98
-        ],
-        "to": [
-          99,
-          193,
-          207
-        ],
-        "−0.7‰.": [
-          100
-        ],
-        "concurrence": [
-          102
-        ],
-        "of": [
-          103,
-          118,
-          148,
-          170,
-          180,
-          186,
-          203
-        ],
-        "these": [
-          104
-        ],
-        "fluctuations": [
-          106
-        ],
-        "carbon": [
-          108,
-          127,
-          142,
-          163,
-          168,
-          187,
-          205
-        ],
-        "isotope": [
-          109
-        ],
-        "variations": [
-          110
-        ],
-        "across": [
-          111
-        ],
-        "multiple": [
-          112
-        ],
-        "regions": [
-          113
-        ],
-        "underscores": [
-          114
-        ],
-        "eustatic": [
-          116,
-          208
-        ],
-        "origin": [
-          117
-        ],
-        "change": [
-          120
-        ],
-        "its": [
-          122
-        ],
-        "profound": [
-          123
-        ],
-        "impact": [
-          124
-        ],
-        "on": [
-          125
-        ],
-        "cycling.": [
-          128
-        ],
-        "We": [
-          129
-        ],
-        "propose": [
-          130
-        ],
-        "that": [
-          131
-        ],
-        "during": [
-          132,
-          188
-        ],
-        "transgressive": [
-          135
-        ],
-        "stages,": [
-          136
-        ],
-        "sea": [
-          137
-        ],
-        "expansion": [
-          138
-        ],
-        "acted": [
-          139
-        ],
-        "sink,": [
-          143
-        ],
-        "facilitating": [
-          144
-        ],
-        "increased": [
-          146
-        ],
-        "burial": [
-          147
-        ],
-        "isotopically": [
-          149
-        ],
-        "light": [
-          150,
-          162
-        ],
-        "carbon.": [
-          151
-        ],
-        "Conversely,": [
-          152
-        ],
-        "rapid": [
-          153
-        ],
-        "falls": [
-          155
-        ],
-        "likely": [
-          156
-        ],
-        "triggered": [
-          157
-        ],
-        "sediment": [
-          158
-        ],
-        "reworking,": [
-          159
-        ],
-        "reintroducing": [
-          160
-        ],
-        "this": [
-          161
-        ],
-        "into": [
-          164
-        ],
-        "dissolved": [
-          166
-        ],
-        "inorganic": [
-          167
-        ],
-        "(DIC)": [
-          169
-        ],
-        "ocean.": [
-          173
-        ],
-        "This": [
-          174
-        ],
-        "study": [
-          175
-        ],
-        "highlights": [
-          176
-        ],
-        "overlooked": [
-          178
-        ],
-        "role": [
-          179
-        ],
-        "remobilized": [
-          181
-        ],
-        "sediments": [
-          182
-        ],
-        "source": [
-          185
-        ],
-        "Aptian,": [
-          190
-        ],
-        "commonly": [
-          191
-        ],
-        "attributed": [
-          192
-        ],
-        "volcanic": [
-          194
-        ],
-        "degassing,": [
-          195
-        ],
-        "emphasizes": [
-          197
-        ],
-        "immediate": [
-          199
-        ],
-        "response": [
-          202
-        ],
-        "cycle": [
-          206
-        ],
-        "changes.": [
-          209
-        ]
-      },
-      "counts_by_year": [],
-      "updated_date": "2026-08-21T09:56:20.448147",
-      "created_date": "2026-04-28T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W7164575895",
       "doi": "https://doi.org/10.1007/s13369-026-11417-5",
       "title": "Fluvial Heterogeneity of Upper Triassic Strata in Central Saudi Arabia: Enhancing CO₂ Storage Strategies",
@@ -35127,8 +35135,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8341094851493835
         }
       ],
@@ -35956,8 +35964,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.866797149181366
         }
       ],
