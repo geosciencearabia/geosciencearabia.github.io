@@ -181,7 +181,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0001002,
+        "value": 0.0001001,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -198,7 +198,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.000083,
+        "value": 0.0000828,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -215,7 +215,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000557,
+        "value": 0.0000556,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -232,7 +232,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000507,
+        "value": 0.0000506,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -249,7 +249,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000346,
+        "value": 0.0000345,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -738,7 +738,7 @@
               "display_name": "Institut Français",
               "ror": "https://ror.org/047hdnt12",
               "country_code": "FR",
-              "type": "funder",
+              "type": "other",
               "lineage": [
                 "https://openalex.org/I2540865"
               ]
@@ -775,7 +775,7 @@
               "display_name": "Institut Français",
               "ror": "https://ror.org/047hdnt12",
               "country_code": "FR",
-              "type": "funder",
+              "type": "other",
               "lineage": [
                 "https://openalex.org/I2540865"
               ]
@@ -998,11 +998,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 22.5385,
+      "fwci": 22.539,
       "has_fulltext": false,
       "cited_by_count": 170,
       "citation_normalized_percentile": {
-        "value": 0.99863435,
+        "value": 0.99863992,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -1447,8 +1447,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.4300000071525574,
-          "id": "https://metadata.un.org/sdg/17",
-          "display_name": "Partnerships for the goals"
+          "display_name": "Partnerships for the goals",
+          "id": "https://metadata.un.org/sdg/17"
         }
       ],
       "awards": [],
@@ -1747,7 +1747,7 @@
           "cited_by_count": 8
         }
       ],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-08-27T14:10:00.468798",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2379,8 +2379,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.47999998927116394,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -4148,8 +4148,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -5103,8 +5103,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7300000190734863,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -6309,8 +6309,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8199999928474426,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -7012,8 +7012,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -8930,17 +8930,10 @@
               "country_code": "FR",
               "type": "government",
               "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1327553481",
-                "https://openalex.org/I154202486",
-                "https://openalex.org/I2799535048",
                 "https://openalex.org/I2802818602",
-                "https://openalex.org/I4210088668",
                 "https://openalex.org/I4210090127",
-                "https://openalex.org/I4210113730",
                 "https://openalex.org/I4210131494",
-                "https://openalex.org/I4210166444",
-                "https://openalex.org/I4405257220"
+                "https://openalex.org/I4210166444"
               ]
             }
           ],
@@ -9056,11 +9049,11 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 7.65,
+      "fwci": 9.0587,
       "has_fulltext": false,
       "cited_by_count": 53,
       "citation_normalized_percentile": {
-        "value": 0.96770788,
+        "value": 0.97275635,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -9363,8 +9356,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8299999833106995,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -9545,7 +9538,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-08-27T14:10:00.468798",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10921,8 +10914,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.41999998688697815,
-          "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "id": "https://metadata.un.org/sdg/15"
         }
       ],
       "awards": [],
@@ -14121,8 +14114,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -18335,8 +18328,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7699999809265137,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -20108,20 +20101,13 @@
               "lineage": [
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1327553481",
-                "https://openalex.org/I154202486",
-                "https://openalex.org/I2799535048",
                 "https://openalex.org/I2799535048",
                 "https://openalex.org/I2802818602",
-                "https://openalex.org/I4210088668",
                 "https://openalex.org/I4210090127",
-                "https://openalex.org/I4210113730",
                 "https://openalex.org/I4210131494",
                 "https://openalex.org/I4210148025",
                 "https://openalex.org/I4210164289",
                 "https://openalex.org/I4210166444",
-                "https://openalex.org/I4405257220",
                 "https://openalex.org/I4405258862"
               ]
             },
@@ -20132,17 +20118,10 @@
               "country_code": "FR",
               "type": "government",
               "lineage": [
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1327553481",
-                "https://openalex.org/I154202486",
-                "https://openalex.org/I2799535048",
                 "https://openalex.org/I2802818602",
-                "https://openalex.org/I4210088668",
                 "https://openalex.org/I4210090127",
-                "https://openalex.org/I4210113730",
                 "https://openalex.org/I4210131494",
-                "https://openalex.org/I4210166444",
-                "https://openalex.org/I4405257220"
+                "https://openalex.org/I4210166444"
               ]
             }
           ],
@@ -20184,11 +20163,11 @@
         "value_usd": 3370
       },
       "apc_paid": null,
-      "fwci": 1.878,
+      "fwci": 2.0125,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.82059346,
+        "value": 0.8327384,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -20585,8 +20564,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8399999737739563,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -20776,7 +20755,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-26T07:47:46.906454",
+      "updated_date": "2026-08-27T14:10:00.468798",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -20856,37 +20835,23 @@
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1327553481",
-                "https://openalex.org/I1327553481",
-                "https://openalex.org/I154202486",
-                "https://openalex.org/I154202486",
                 "https://openalex.org/I187986737",
                 "https://openalex.org/I21491767",
                 "https://openalex.org/I21491767",
                 "https://openalex.org/I2746051580",
-                "https://openalex.org/I2799535048",
-                "https://openalex.org/I2799535048",
                 "https://openalex.org/I2802818602",
                 "https://openalex.org/I2802818602",
-                "https://openalex.org/I4210088668",
-                "https://openalex.org/I4210088668",
                 "https://openalex.org/I4210088668",
                 "https://openalex.org/I4210088668",
                 "https://openalex.org/I4210090127",
                 "https://openalex.org/I4210090127",
                 "https://openalex.org/I4210093025",
                 "https://openalex.org/I4210104942",
-                "https://openalex.org/I4210113730",
-                "https://openalex.org/I4210113730",
                 "https://openalex.org/I4210131494",
                 "https://openalex.org/I4210131494",
                 "https://openalex.org/I4210148025",
                 "https://openalex.org/I4210166444",
-                "https://openalex.org/I4210166444",
-                "https://openalex.org/I4405257220",
-                "https://openalex.org/I4405257220"
+                "https://openalex.org/I4210166444"
               ]
             },
             {
@@ -20968,37 +20933,23 @@
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
                 "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1294671590",
-                "https://openalex.org/I1327553481",
-                "https://openalex.org/I1327553481",
-                "https://openalex.org/I154202486",
-                "https://openalex.org/I154202486",
                 "https://openalex.org/I187986737",
                 "https://openalex.org/I21491767",
                 "https://openalex.org/I21491767",
                 "https://openalex.org/I2746051580",
-                "https://openalex.org/I2799535048",
-                "https://openalex.org/I2799535048",
                 "https://openalex.org/I2802818602",
                 "https://openalex.org/I2802818602",
-                "https://openalex.org/I4210088668",
-                "https://openalex.org/I4210088668",
                 "https://openalex.org/I4210088668",
                 "https://openalex.org/I4210088668",
                 "https://openalex.org/I4210090127",
                 "https://openalex.org/I4210090127",
                 "https://openalex.org/I4210093025",
                 "https://openalex.org/I4210104942",
-                "https://openalex.org/I4210113730",
-                "https://openalex.org/I4210113730",
                 "https://openalex.org/I4210131494",
                 "https://openalex.org/I4210131494",
                 "https://openalex.org/I4210148025",
                 "https://openalex.org/I4210166444",
-                "https://openalex.org/I4210166444",
-                "https://openalex.org/I4405257220",
-                "https://openalex.org/I4405257220"
+                "https://openalex.org/I4210166444"
               ]
             },
             {
@@ -21171,11 +21122,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4003,
+      "fwci": 0.5542,
       "has_fulltext": true,
       "cited_by_count": 16,
       "citation_normalized_percentile": {
-        "value": 0.63853745,
+        "value": 0.73861889,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -21555,8 +21506,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6499999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -22073,7 +22024,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-26T07:47:46.906454",
+      "updated_date": "2026-08-27T14:10:00.468798",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -22481,8 +22432,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -24551,8 +24502,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -26203,8 +26154,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -27258,8 +27209,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8999999761581421,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -28036,8 +27987,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -30500,8 +30451,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -31567,8 +31518,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.46000000834465027,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -32065,8 +32016,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -32932,8 +32883,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.46000000834465027,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -33291,8 +33242,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -37588,8 +37539,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -38227,8 +38178,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.699999988079071,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -41599,8 +41550,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.6600000262260437,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -44449,8 +44400,8 @@
       "sustainable_development_goals": [
         {
           "score": 0.7599999904632568,
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],

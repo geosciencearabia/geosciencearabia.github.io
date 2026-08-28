@@ -17,9 +17,9 @@
     ],
     "full_name": "Abduljamiu Olalekan Amao",
     "works_count": 144,
-    "cited_by_count": 1442,
+    "cited_by_count": 1443,
     "summary_stats": {
-      "2yr_mean_citedness": 7.744186046511628,
+      "2yr_mean_citedness": 7.767441860465116,
       "h_index": 22,
       "i10_index": 56
     },
@@ -227,7 +227,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0001124,
+        "value": 0.0001123,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -244,7 +244,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000934,
+        "value": 0.000092,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -261,7 +261,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000803,
+        "value": 0.0000801,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -278,7 +278,7 @@
       {
         "id": "https://openalex.org/T10892",
         "display_name": "Drilling and Well Engineering",
-        "value": 0.0000783,
+        "value": 0.0000782,
         "subfield": {
           "id": "https://openalex.org/subfields/2212",
           "display_name": "Ocean Engineering"
@@ -401,7 +401,7 @@
         "year": 2024,
         "works_count": 25,
         "oa_works_count": 9,
-        "cited_by_count": 258
+        "cited_by_count": 259
       },
       {
         "year": 2025,
@@ -430,7 +430,7 @@
     ],
     "block_key": "a amao",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5027197211",
-    "updated_date": "2026-08-23T12:17:19",
+    "updated_date": "2026-08-26T12:17:03",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -18678,11 +18678,11 @@
         "currency": "CHF",
         "value_usd": 2896
       },
-      "fwci": 1.735,
+      "fwci": 2.2172,
       "has_fulltext": true,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.82044897,
+        "value": 0.85948449,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -18970,7 +18970,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 4,
+      "locations_count": 3,
       "locations": [
         {
           "id": "doi:10.3390/su12104045",
@@ -19060,35 +19060,6 @@
           "is_published": false,
           "raw_source_name": "Sustainability, Vol 12, Iss 4045, p 4045 (2020)",
           "raw_type": "article"
-        },
-        {
-          "id": "pmh:oai:mdpi.com:/2071-1050/12/10/4045/",
-          "is_oa": true,
-          "landing_page_url": "http://dx.doi.org/10.3390/su12104045",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400947",
-            "display_name": "MDPI (MDPI AG)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": true,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I4210097602",
-            "host_organization_name": "Multidisciplinary Digital Publishing Institute (Switzerland)",
-            "host_organization_lineage": [
-              "https://openalex.org/I4210097602"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Sustainability",
-          "raw_type": "Text"
         }
       ],
       "best_oa_location": {
@@ -19938,7 +19909,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-08-27T14:10:00.468798",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -66052,11 +66023,11 @@
         "value_usd": 2480
       },
       "apc_paid": null,
-      "fwci": 1.1259,
+      "fwci": 1.2155,
       "has_fulltext": true,
       "cited_by_count": 9,
       "citation_normalized_percentile": {
-        "value": 0.75134668,
+        "value": 0.76961823,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -66361,17 +66332,17 @@
           "landing_page_url": "https://boris.unibe.ch/172394/",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306401747",
-            "display_name": "BORIS (University Library Bern)",
+            "id": "https://openalex.org/S4306401086",
+            "display_name": "Bern Open Repository and Information System (University of Bern)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": "https://openalex.org/I4210103840",
-            "host_organization_name": "Nakuru County Council",
+            "host_organization": "https://openalex.org/I118564535",
+            "host_organization_name": "University of Bern",
             "host_organization_lineage": [
-              "https://openalex.org/I4210103840"
+              "https://openalex.org/I118564535"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -66651,7 +66622,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-08-27T14:10:00.468798",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -71747,7 +71718,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Mohd Yusuf Khan",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management (IRC-HTCM), King Fahd University of Petroleum & Minerals, Box 5040, Dhahran, 31261, Saudi Arabia",
@@ -71791,7 +71762,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Mohd Yusuf Khan",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Hydrogen Technologies and Carbon Management (IRC-HTCM), King Fahd University of Petroleum & Minerals, Box 5040, Dhahran, 31261, Saudi Arabia",
@@ -72032,7 +72003,8 @@
       "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5017037187",
-        "https://openalex.org/A5019749261"
+        "https://openalex.org/A5019749261",
+        "https://openalex.org/A5042532738"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I134085113"
@@ -72043,11 +72015,11 @@
         "value_usd": 3730
       },
       "apc_paid": null,
-      "fwci": 0.3829,
+      "fwci": 0.4689,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.49716797,
+        "value": 0.58966357,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -72468,7 +72440,7 @@
           "cited_by_count": 4
         }
       ],
-      "updated_date": "2026-08-26T07:47:46.906454",
+      "updated_date": "2026-08-27T14:10:00.468798",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -85136,11 +85108,11 @@
         "currency": "USD",
         "value_usd": 4340
       },
-      "fwci": 1.3336,
+      "fwci": 1.3621,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.78924016,
+        "value": 0.79491463,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -86297,7 +86269,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-08-27T14:10:00.468798",
       "created_date": "2025-10-10T00:00:00"
     },
     {
