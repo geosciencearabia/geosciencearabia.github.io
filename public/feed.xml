@@ -4,7 +4,7 @@
     <title>Integrative Dashboard</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Sat, 29 Aug 2026 03:06:31 GMT</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2026 23:01:12 GMT</lastBuildDate>
     <ttl>60</ttl>
     <item>
       <title>Drowned carbonate‐rimmed margin controlling shelf‐edge delta progradation and sedimentation dynamics: Upper Cretaceous Woodbine Formation, Texas, USA</title>
@@ -32,7 +32,7 @@
       <category>Convolutional neural network</category>
       <category>Artificial neural network</category>
       <category>Pattern recognition (psychology)</category>
-      <description>Topics: Artificial intelligence, Computer science, Convolutional neural network, Artificial neural network, Pattern recognition (psychology)&#10;Venue: Applied Computing and Geosciences&#10;Year: 2026&#10;Citations: 0</description>
+      <description>Abstract: Convolutional Neural Networks (CNNs) offer powerful image classification capabilities in geology, where visual interpretation of sedimentary structures is essential for reconstructing depositional environments. However, their “black-box” nature can limit trust and slow adoption in geoscientific workflows. This study presents a CNN-based framework for classifying eleven physical and biogenic sedimentary structures from core images, while treating explainability as a core objective. Three architectures (EfficientNet-B2, MobileNet-V3, and ResNet-50) were trained and evaluated on a geologically diverse annotated dataset. EfficientNet-B2 achieved the highest overall accuracy (97.7%), followed by MobileNet-V3 (96.8%) and ResNet-50 (95.8%). Blind-test evaluation on 401 unseen images showed that the CNN models retained substantial predictive capability under domain-shift conditions, with accuracies of 79.05% for EfficientNet-B2, 78.8% for MobileNet-V3, and 78.3% for ResNet-50. These results indicate good overall generalization, while the remaining errors were mainly associated with geologically similar sedimentary structures. Explainability was assessed using Grad-CAM++ and, crucially, was evaluated quantitatively using (i) deletion-based faithfulness, measuring the drop in target-class probability after masking the most salient regions, and (ii) stability under controlled perturbations (brightness changes, noise, blur, and small spatial shifts), measuring similarity between explanat…&#10;Topics: Artificial intelligence, Computer science, Convolutional neural network, Artificial neural network, Pattern recognition (psychology)&#10;Venue: Applied Computing and Geosciences&#10;Year: 2026&#10;Citations: 0</description>
     </item>
     <item>
       <title>Structural and thermal analysis of geothermal prospectivity in the Midyan Basin, NEOM, Saudi Arabia</title>

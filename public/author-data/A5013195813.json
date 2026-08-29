@@ -309,7 +309,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0002684,
+        "value": 0.0002685,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -326,7 +326,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.000167,
+        "value": 0.0001672,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -571,7 +571,7 @@
     ],
     "block_key": "d knaust",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5013195813",
-    "updated_date": "2026-08-27T12:18:35",
+    "updated_date": "2026-08-28T12:17:32",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -32845,924 +32845,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2327099273",
-      "doi": "https://doi.org/10.1080/10420940.2015.1132211",
-      "title": "The Probable Isopod BurrowSinusichnus seilacheriisp. n. from the Middle Triassic of Germany: An Example of Behavioral Convergence",
-      "display_name": "The Probable Isopod BurrowSinusichnus seilacheriisp. n. from the Middle Triassic of Germany: An Example of Behavioral Convergence",
-      "publication_year": 2016,
-      "publication_date": "2016-01-02",
-      "ids": {
-        "openalex": "https://openalex.org/W2327099273",
-        "doi": "https://doi.org/10.1080/10420940.2015.1132211",
-        "mag": "2327099273"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1080/10420940.2015.1132211",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1080/10420940.2015.1132211",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4210170836",
-          "display_name": "Ichnos/Ichnos : an international journal for plant and animal traces",
-          "issn_l": "1026-7999",
-          "issn": [
-            "1026-7999",
-            "1042-0940",
-            "1563-5236"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320547",
-          "host_organization_name": "Taylor & Francis",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320547",
-            "https://openalex.org/P4310320449"
-          ],
-          "host_organization_lineage_names": [
-            "Taylor & Francis",
-            "Informa"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Ichnos",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "green",
-        "oa_url": "http://ruj.uj.edu.pl/xmlui/handle/item/24519",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5013195813",
-            "display_name": "Dirk Knaust",
-            "orcid": "https://orcid.org/0000-0002-1698-2489"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I49324905",
-              "display_name": "Equinor (Norway)",
-              "ror": "https://ror.org/017mte255",
-              "country_code": "NO",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I49324905"
-              ]
-            }
-          ],
-          "countries": [
-            "NO"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Dirk Knaust",
-          "raw_affiliation_strings": [
-            "Statoil ASA, Stavanger, Norway"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Statoil ASA, Stavanger, Norway",
-              "institution_ids": [
-                "https://openalex.org/I49324905"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5061347853",
-            "display_name": "Alfred Uchman",
-            "orcid": "https://orcid.org/0000-0002-0591-777X"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I126596746",
-              "display_name": "Jagiellonian University",
-              "ror": "https://ror.org/03bqmcz70",
-              "country_code": "PL",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I126596746"
-              ]
-            },
-            {
-              "id": "https://openalex.org/I4210128123",
-              "display_name": "Instytut Nauk Geologicznych",
-              "ror": "https://ror.org/02yxxe041",
-              "country_code": "PL",
-              "type": "facility",
-              "lineage": [
-                "https://openalex.org/I4210128123",
-                "https://openalex.org/I99542240"
-              ]
-            }
-          ],
-          "countries": [
-            "PL"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Alfred Uchman",
-          "raw_affiliation_strings": [
-            "Institute of Geological Sciences, Jagiellonian University, Kraków, Poland"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Institute of Geological Sciences, Jagiellonian University, Kraków, Poland",
-              "institution_ids": [
-                "https://openalex.org/I126596746",
-                "https://openalex.org/I4210128123"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5072846889",
-            "display_name": "Hans Hagdorn",
-            "orcid": "https://orcid.org/0000-0003-0804-6364"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
-          "raw_author_name": "Hans Hagdorn",
-          "raw_affiliation_strings": [
-            "Muschelkalkmuseum, Ingelfingen, Germany"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Muschelkalkmuseum, Ingelfingen, Germany",
-              "institution_ids": []
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5013195813"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I49324905"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 3.9366,
-      "has_fulltext": false,
-      "cited_by_count": 22,
-      "citation_normalized_percentile": {
-        "value": 0.91791882,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 99
-      },
-      "biblio": {
-        "volume": "23",
-        "issue": "1-2",
-        "first_page": "138",
-        "last_page": "146"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10965",
-        "display_name": "Geological formations and processes",
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1904",
-          "display_name": "Earth-Surface Processes"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 1,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9994000196456909,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.9980000257492065,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/burrow",
-          "display_name": "Burrow",
-          "score": 0.9621500372886658
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.7606363892555237
-        },
-        {
-          "id": "https://openalex.org/keywords/cretaceous",
-          "display_name": "Cretaceous",
-          "score": 0.7199719548225403
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.6476238965988159
-        },
-        {
-          "id": "https://openalex.org/keywords/crustacean",
-          "display_name": "Crustacean",
-          "score": 0.583045482635498
-        },
-        {
-          "id": "https://openalex.org/keywords/ecology",
-          "display_name": "Ecology",
-          "score": 0.18580877780914307
-        },
-        {
-          "id": "https://openalex.org/keywords/biology",
-          "display_name": "Biology",
-          "score": 0.11090978980064392
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C175422226",
-          "wikidata": "https://www.wikidata.org/wiki/Q1410542",
-          "display_name": "Burrow",
-          "level": 2,
-          "score": 0.9621500372886658
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.7606363892555237
-        },
-        {
-          "id": "https://openalex.org/C12294951",
-          "wikidata": "https://www.wikidata.org/wiki/Q44626",
-          "display_name": "Cretaceous",
-          "level": 2,
-          "score": 0.7199719548225403
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.6476238965988159
-        },
-        {
-          "id": "https://openalex.org/C84766238",
-          "wikidata": "https://www.wikidata.org/wiki/Q25364",
-          "display_name": "Crustacean",
-          "level": 2,
-          "score": 0.583045482635498
-        },
-        {
-          "id": "https://openalex.org/C18903297",
-          "wikidata": "https://www.wikidata.org/wiki/Q7150",
-          "display_name": "Ecology",
-          "level": 1,
-          "score": 0.18580877780914307
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0.11090978980064392
-        }
-      ],
-      "mesh": [],
-      "locations_count": 2,
-      "locations": [
-        {
-          "id": "doi:10.1080/10420940.2015.1132211",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1080/10420940.2015.1132211",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4210170836",
-            "display_name": "Ichnos/Ichnos : an international journal for plant and animal traces",
-            "issn_l": "1026-7999",
-            "issn": [
-              "1026-7999",
-              "1042-0940",
-              "1563-5236"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320547",
-            "host_organization_name": "Taylor & Francis",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320547",
-              "https://openalex.org/P4310320449"
-            ],
-            "host_organization_lineage_names": [
-              "Taylor & Francis",
-              "Informa"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Ichnos",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:ruj.uj.edu.pl:item/24519",
-          "is_oa": true,
-          "landing_page_url": "http://ruj.uj.edu.pl/xmlui/handle/item/24519",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400316",
-            "display_name": "Homo Politicus (Academy of Humanities and Economics in Lodz)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": "artykuł w czasopiśmie"
-        }
-      ],
-      "best_oa_location": {
-        "id": "pmh:oai:ruj.uj.edu.pl:item/24519",
-        "is_oa": true,
-        "landing_page_url": "http://ruj.uj.edu.pl/xmlui/handle/item/24519",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4306400316",
-          "display_name": "Homo Politicus (Academy of Humanities and Economics in Lodz)",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "repository"
-        },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-        "version": "submittedVersion",
-        "is_accepted": false,
-        "is_published": false,
-        "raw_source_name": null,
-        "raw_type": "artykuł w czasopiśmie"
-      },
-      "sustainable_development_goals": [
-        {
-          "display_name": "Life below water",
-          "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14"
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 28,
-      "referenced_works": [
-        "https://openalex.org/W1486668213",
-        "https://openalex.org/W1965560487",
-        "https://openalex.org/W1976946115",
-        "https://openalex.org/W1977177454",
-        "https://openalex.org/W1985809273",
-        "https://openalex.org/W1990173116",
-        "https://openalex.org/W1994157004",
-        "https://openalex.org/W2000088383",
-        "https://openalex.org/W2021396753",
-        "https://openalex.org/W2050914701",
-        "https://openalex.org/W2051547932",
-        "https://openalex.org/W2053910488",
-        "https://openalex.org/W2064067577",
-        "https://openalex.org/W2079868703",
-        "https://openalex.org/W2081206422",
-        "https://openalex.org/W2083856350",
-        "https://openalex.org/W2089277140",
-        "https://openalex.org/W2125204970",
-        "https://openalex.org/W2143285365",
-        "https://openalex.org/W2152094627",
-        "https://openalex.org/W2159607545",
-        "https://openalex.org/W2218646933",
-        "https://openalex.org/W2329251205",
-        "https://openalex.org/W2346691606",
-        "https://openalex.org/W2554003575",
-        "https://openalex.org/W2941527405",
-        "https://openalex.org/W2982550512",
-        "https://openalex.org/W4379418544"
-      ],
-      "related_works": [
-        "https://openalex.org/W2800531900",
-        "https://openalex.org/W2762997592",
-        "https://openalex.org/W1981133170",
-        "https://openalex.org/W2023531618",
-        "https://openalex.org/W3191324057",
-        "https://openalex.org/W2113750225",
-        "https://openalex.org/W1991543154",
-        "https://openalex.org/W2808650887",
-        "https://openalex.org/W2089554208",
-        "https://openalex.org/W2903674181"
-      ],
-      "abstract_inverted_index": {
-        "The": [
-          0
-        ],
-        "new": [
-          1
-        ],
-        "ichnospecies": [
-          2,
-          83
-        ],
-        "Sinusichnus": [
-          3,
-          119
-        ],
-        "seilacheri": [
-          4,
-          37,
-          73
-        ],
-        "is": [
-          5,
-          38,
-          90,
-          143
-        ],
-        "described": [
-          6
-        ],
-        "from": [
-          7,
-          33,
-          94,
-          130,
-          145
-        ],
-        "the": [
-          8,
-          23,
-          75,
-          81,
-          85,
-          95,
-          114,
-          121,
-          146,
-          152
-        ],
-        "Middle": [
-          9,
-          122,
-          147
-        ],
-        "Triassic": [
-          10,
-          148
-        ],
-        "Udelfangen": [
-          11
-        ],
-        "Formation": [
-          12
-        ],
-        "(Lower": [
-          13,
-          28
-        ],
-        "Muschelkalk,": [
-          14,
-          31
-        ],
-        "Muschelsandstein)": [
-          15
-        ],
-        "near": [
-          16
-        ],
-        "Trier,": [
-          17
-        ],
-        "Germany.": [
-          18,
-          35
-        ],
-        "It": [
-          19
-        ],
-        "occurs": [
-          20
-        ],
-        "also": [
-          21
-        ],
-        "in": [
-          22
-        ],
-        "Jena": [
-          24
-        ],
-        "and": [
-          25,
-          29,
-          47,
-          56
-        ],
-        "Meißner": [
-          26
-        ],
-        "formations": [
-          27
-        ],
-        "Upper": [
-          30
-        ],
-        "respectively)": [
-          32
-        ],
-        "Thuringia,": [
-          34
-        ],
-        "S.": [
-          36,
-          72,
-          88,
-          139,
-          141
-        ],
-        "a": [
-          39,
-          57,
-          109
-        ],
-        "horizontal,": [
-          40
-        ],
-        "slightly": [
-          41
-        ],
-        "winding,": [
-          42
-        ],
-        "sinusoidal": [
-          43
-        ],
-        "burrow": [
-          44,
-          59,
-          76
-        ],
-        "with": [
-          45,
-          61
-        ],
-        "T-": [
-          46
-        ],
-        "Y-shaped": [
-          48
-        ],
-        "branching,": [
-          49
-        ],
-        "sub-angular,": [
-          50
-        ],
-        "elliptical": [
-          51
-        ],
-        "to": [
-          52,
-          92,
-          120,
-          133,
-          138
-        ],
-        "circular": [
-          53
-        ],
-        "cross": [
-          54
-        ],
-        "section,": [
-          55
-        ],
-        "bilobate": [
-          58
-        ],
-        "floor": [
-          60
-        ],
-        "perpendicular": [
-          62
-        ],
-        "or": [
-          63
-        ],
-        "oblique": [
-          64
-        ],
-        "striations.": [
-          65
-        ],
-        "These": [
-          66,
-          100
-        ],
-        "features": [
-          67
-        ],
-        "support": [
-          68
-        ],
-        "an": [
-          69,
-          104
-        ],
-        "interpretation": [
-          70
-        ],
-        "of": [
-          71,
-          77,
-          84,
-          97,
-          106,
-          118,
-          127,
-          149
-        ],
-        "as": [
-          74
-        ],
-        "isopod": [
-          78
-        ],
-        "crustaceans,": [
-          79
-        ],
-        "while": [
-          80,
-          124
-        ],
-        "type": [
-          82
-        ],
-        "ichnogenus": [
-          86
-        ],
-        "Sinusichnus,": [
-          87
-        ],
-        "sinuosus,": [
-          89
-        ],
-        "believed": [
-          91
-        ],
-        "result": [
-          93
-        ],
-        "activity": [
-          96
-        ],
-        "decapod": [
-          98
-        ],
-        "crustaceans.": [
-          99
-        ],
-        "contrasting": [
-          101
-        ],
-        "tracemakers": [
-          102
-        ],
-        "are": [
-          103,
-          129
-        ],
-        "example": [
-          105
-        ],
-        "behavioral": [
-          107
-        ],
-        "convergence,": [
-          108
-        ],
-        "fact": [
-          110
-        ],
-        "that": [
-          111
-        ],
-        "helps": [
-          112
-        ],
-        "explain": [
-          113
-        ],
-        "extended": [
-          115
-        ],
-        "stratigraphical": [
-          116
-        ],
-        "range": [
-          117
-        ],
-        "Triassic,": [
-          123
-        ],
-        "previous": [
-          125
-        ],
-        "reports": [
-          126
-        ],
-        "it": [
-          128
-        ],
-        "Late": [
-          131
-        ],
-        "Cretaceous": [
-          132
-        ],
-        "Pliocene": [
-          134
-        ],
-        "strata.": [
-          135
-        ],
-        "In": [
-          136
-        ],
-        "addition": [
-          137
-        ],
-        "seilacheri,": [
-          140
-        ],
-        "sinuosus": [
-          142
-        ],
-        "reported": [
-          144
-        ],
-        "Germany": [
-          150
-        ],
-        "for": [
-          151
-        ],
-        "first": [
-          153
-        ],
-        "time.": [
-          154
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 1
-        }
-      ],
-      "updated_date": "2026-08-21T09:56:20.448147",
-      "created_date": "2016-06-24T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W3207939391",
       "doi": "https://doi.org/10.1016/j.marpetgeo.2021.105371",
       "title": "Computer-assisted stochastic multi-well correlation: Sedimentary facies versus well distality",
@@ -41797,6 +40879,928 @@
       ],
       "updated_date": "2026-08-21T09:56:20.448147",
       "created_date": "2025-10-10T00:00:00"
+    },
+    {
+      "id": "https://openalex.org/W2327099273",
+      "doi": "https://doi.org/10.1080/10420940.2015.1132211",
+      "title": "The Probable Isopod BurrowSinusichnus seilacheriisp. n. from the Middle Triassic of Germany: An Example of Behavioral Convergence",
+      "display_name": "The Probable Isopod BurrowSinusichnus seilacheriisp. n. from the Middle Triassic of Germany: An Example of Behavioral Convergence",
+      "publication_year": 2016,
+      "publication_date": "2016-01-02",
+      "ids": {
+        "openalex": "https://openalex.org/W2327099273",
+        "doi": "https://doi.org/10.1080/10420940.2015.1132211",
+        "mag": "2327099273"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1080/10420940.2015.1132211",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1080/10420940.2015.1132211",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4210170836",
+          "display_name": "Ichnos/Ichnos : an international journal for plant and animal traces",
+          "issn_l": "1026-7999",
+          "issn": [
+            "1026-7999",
+            "1042-0940",
+            "1563-5236"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320547",
+          "host_organization_name": "Taylor & Francis",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320547",
+            "https://openalex.org/P4310320449"
+          ],
+          "host_organization_lineage_names": [
+            "Taylor & Francis",
+            "Informa"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Ichnos",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "green",
+        "oa_url": "http://ruj.uj.edu.pl/xmlui/handle/item/24519",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5013195813",
+            "display_name": "Dirk Knaust",
+            "orcid": "https://orcid.org/0000-0002-1698-2489"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I49324905",
+              "display_name": "Equinor (Norway)",
+              "ror": "https://ror.org/017mte255",
+              "country_code": "NO",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I49324905"
+              ]
+            }
+          ],
+          "countries": [
+            "NO"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Dirk Knaust",
+          "raw_affiliation_strings": [
+            "Statoil ASA, Stavanger, Norway"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Statoil ASA, Stavanger, Norway",
+              "institution_ids": [
+                "https://openalex.org/I49324905"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5061347853",
+            "display_name": "Alfred Uchman",
+            "orcid": "https://orcid.org/0000-0002-0591-777X"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I126596746",
+              "display_name": "Jagiellonian University",
+              "ror": "https://ror.org/03bqmcz70",
+              "country_code": "PL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I126596746"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210128123",
+              "display_name": "Instytut Nauk Geologicznych",
+              "ror": "https://ror.org/02yxxe041",
+              "country_code": "PL",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I4210128123",
+                "https://openalex.org/I99542240"
+              ]
+            }
+          ],
+          "countries": [
+            "PL"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Alfred Uchman",
+          "raw_affiliation_strings": [
+            "Institute of Geological Sciences, Jagiellonian University, Kraków, Poland"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Institute of Geological Sciences, Jagiellonian University, Kraków, Poland",
+              "institution_ids": [
+                "https://openalex.org/I126596746",
+                "https://openalex.org/I4210128123"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5072846889",
+            "display_name": "Hans Hagdorn",
+            "orcid": "https://orcid.org/0000-0003-0804-6364"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": false,
+          "raw_author_name": "Hans Hagdorn",
+          "raw_affiliation_strings": [
+            "Muschelkalkmuseum, Ingelfingen, Germany"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Muschelkalkmuseum, Ingelfingen, Germany",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 3,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5013195813"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I49324905"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 4.0076,
+      "has_fulltext": false,
+      "cited_by_count": 22,
+      "citation_normalized_percentile": {
+        "value": 0.91947853,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 98
+      },
+      "biblio": {
+        "volume": "23",
+        "issue": "1-2",
+        "first_page": "138",
+        "last_page": "146"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10965",
+        "display_name": "Geological formations and processes",
+        "score": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1904",
+          "display_name": "Earth-Surface Processes"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 1,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9994000196456909,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.9980000257492065,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/burrow",
+          "display_name": "Burrow",
+          "score": 0.9621500372886658
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.7606363892555237
+        },
+        {
+          "id": "https://openalex.org/keywords/cretaceous",
+          "display_name": "Cretaceous",
+          "score": 0.7199719548225403
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.6476238965988159
+        },
+        {
+          "id": "https://openalex.org/keywords/crustacean",
+          "display_name": "Crustacean",
+          "score": 0.583045482635498
+        },
+        {
+          "id": "https://openalex.org/keywords/ecology",
+          "display_name": "Ecology",
+          "score": 0.18580877780914307
+        },
+        {
+          "id": "https://openalex.org/keywords/biology",
+          "display_name": "Biology",
+          "score": 0.11090978980064392
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C175422226",
+          "wikidata": "https://www.wikidata.org/wiki/Q1410542",
+          "display_name": "Burrow",
+          "level": 2,
+          "score": 0.9621500372886658
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.7606363892555237
+        },
+        {
+          "id": "https://openalex.org/C12294951",
+          "wikidata": "https://www.wikidata.org/wiki/Q44626",
+          "display_name": "Cretaceous",
+          "level": 2,
+          "score": 0.7199719548225403
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.6476238965988159
+        },
+        {
+          "id": "https://openalex.org/C84766238",
+          "wikidata": "https://www.wikidata.org/wiki/Q25364",
+          "display_name": "Crustacean",
+          "level": 2,
+          "score": 0.583045482635498
+        },
+        {
+          "id": "https://openalex.org/C18903297",
+          "wikidata": "https://www.wikidata.org/wiki/Q7150",
+          "display_name": "Ecology",
+          "level": 1,
+          "score": 0.18580877780914307
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0.11090978980064392
+        }
+      ],
+      "mesh": [],
+      "locations_count": 2,
+      "locations": [
+        {
+          "id": "doi:10.1080/10420940.2015.1132211",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1080/10420940.2015.1132211",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4210170836",
+            "display_name": "Ichnos/Ichnos : an international journal for plant and animal traces",
+            "issn_l": "1026-7999",
+            "issn": [
+              "1026-7999",
+              "1042-0940",
+              "1563-5236"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320547",
+            "host_organization_name": "Taylor & Francis",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320547",
+              "https://openalex.org/P4310320449"
+            ],
+            "host_organization_lineage_names": [
+              "Taylor & Francis",
+              "Informa"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Ichnos",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:ruj.uj.edu.pl:item/24519",
+          "is_oa": true,
+          "landing_page_url": "http://ruj.uj.edu.pl/xmlui/handle/item/24519",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401249",
+            "display_name": "Jagiellonian University Repository (Jagiellonian University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I126596746",
+            "host_organization_name": "Jagiellonian University",
+            "host_organization_lineage": [
+              "https://openalex.org/I126596746"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": null,
+          "raw_type": "info:eu-repo/semantics/article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "pmh:oai:ruj.uj.edu.pl:item/24519",
+        "is_oa": true,
+        "landing_page_url": "http://ruj.uj.edu.pl/xmlui/handle/item/24519",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S4306401249",
+          "display_name": "Jagiellonian University Repository (Jagiellonian University)",
+          "issn_l": null,
+          "issn": null,
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": false,
+          "host_organization": "https://openalex.org/I126596746",
+          "host_organization_name": "Jagiellonian University",
+          "host_organization_lineage": [
+            "https://openalex.org/I126596746"
+          ],
+          "host_organization_lineage_names": [],
+          "type": "repository"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "submittedVersion",
+        "is_accepted": false,
+        "is_published": false,
+        "raw_source_name": null,
+        "raw_type": "info:eu-repo/semantics/article"
+      },
+      "sustainable_development_goals": [
+        {
+          "display_name": "Life below water",
+          "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 28,
+      "referenced_works": [
+        "https://openalex.org/W1486668213",
+        "https://openalex.org/W1965560487",
+        "https://openalex.org/W1976946115",
+        "https://openalex.org/W1977177454",
+        "https://openalex.org/W1985809273",
+        "https://openalex.org/W1990173116",
+        "https://openalex.org/W1994157004",
+        "https://openalex.org/W2000088383",
+        "https://openalex.org/W2021396753",
+        "https://openalex.org/W2050914701",
+        "https://openalex.org/W2051547932",
+        "https://openalex.org/W2053910488",
+        "https://openalex.org/W2064067577",
+        "https://openalex.org/W2079868703",
+        "https://openalex.org/W2081206422",
+        "https://openalex.org/W2083856350",
+        "https://openalex.org/W2089277140",
+        "https://openalex.org/W2125204970",
+        "https://openalex.org/W2143285365",
+        "https://openalex.org/W2152094627",
+        "https://openalex.org/W2159607545",
+        "https://openalex.org/W2218646933",
+        "https://openalex.org/W2329251205",
+        "https://openalex.org/W2346691606",
+        "https://openalex.org/W2554003575",
+        "https://openalex.org/W2941527405",
+        "https://openalex.org/W2982550512",
+        "https://openalex.org/W4379418544"
+      ],
+      "related_works": [
+        "https://openalex.org/W2800531900",
+        "https://openalex.org/W2762997592",
+        "https://openalex.org/W1981133170",
+        "https://openalex.org/W2023531618",
+        "https://openalex.org/W3191324057",
+        "https://openalex.org/W2113750225",
+        "https://openalex.org/W1991543154",
+        "https://openalex.org/W2808650887",
+        "https://openalex.org/W2089554208",
+        "https://openalex.org/W2903674181"
+      ],
+      "abstract_inverted_index": {
+        "The": [
+          0
+        ],
+        "new": [
+          1
+        ],
+        "ichnospecies": [
+          2,
+          83
+        ],
+        "Sinusichnus": [
+          3,
+          119
+        ],
+        "seilacheri": [
+          4,
+          37,
+          73
+        ],
+        "is": [
+          5,
+          38,
+          90,
+          143
+        ],
+        "described": [
+          6
+        ],
+        "from": [
+          7,
+          33,
+          94,
+          130,
+          145
+        ],
+        "the": [
+          8,
+          23,
+          75,
+          81,
+          85,
+          95,
+          114,
+          121,
+          146,
+          152
+        ],
+        "Middle": [
+          9,
+          122,
+          147
+        ],
+        "Triassic": [
+          10,
+          148
+        ],
+        "Udelfangen": [
+          11
+        ],
+        "Formation": [
+          12
+        ],
+        "(Lower": [
+          13,
+          28
+        ],
+        "Muschelkalk,": [
+          14,
+          31
+        ],
+        "Muschelsandstein)": [
+          15
+        ],
+        "near": [
+          16
+        ],
+        "Trier,": [
+          17
+        ],
+        "Germany.": [
+          18,
+          35
+        ],
+        "It": [
+          19
+        ],
+        "occurs": [
+          20
+        ],
+        "also": [
+          21
+        ],
+        "in": [
+          22
+        ],
+        "Jena": [
+          24
+        ],
+        "and": [
+          25,
+          29,
+          47,
+          56
+        ],
+        "Meißner": [
+          26
+        ],
+        "formations": [
+          27
+        ],
+        "Upper": [
+          30
+        ],
+        "respectively)": [
+          32
+        ],
+        "Thuringia,": [
+          34
+        ],
+        "S.": [
+          36,
+          72,
+          88,
+          139,
+          141
+        ],
+        "a": [
+          39,
+          57,
+          109
+        ],
+        "horizontal,": [
+          40
+        ],
+        "slightly": [
+          41
+        ],
+        "winding,": [
+          42
+        ],
+        "sinusoidal": [
+          43
+        ],
+        "burrow": [
+          44,
+          59,
+          76
+        ],
+        "with": [
+          45,
+          61
+        ],
+        "T-": [
+          46
+        ],
+        "Y-shaped": [
+          48
+        ],
+        "branching,": [
+          49
+        ],
+        "sub-angular,": [
+          50
+        ],
+        "elliptical": [
+          51
+        ],
+        "to": [
+          52,
+          92,
+          120,
+          133,
+          138
+        ],
+        "circular": [
+          53
+        ],
+        "cross": [
+          54
+        ],
+        "section,": [
+          55
+        ],
+        "bilobate": [
+          58
+        ],
+        "floor": [
+          60
+        ],
+        "perpendicular": [
+          62
+        ],
+        "or": [
+          63
+        ],
+        "oblique": [
+          64
+        ],
+        "striations.": [
+          65
+        ],
+        "These": [
+          66,
+          100
+        ],
+        "features": [
+          67
+        ],
+        "support": [
+          68
+        ],
+        "an": [
+          69,
+          104
+        ],
+        "interpretation": [
+          70
+        ],
+        "of": [
+          71,
+          77,
+          84,
+          97,
+          106,
+          118,
+          127,
+          149
+        ],
+        "as": [
+          74
+        ],
+        "isopod": [
+          78
+        ],
+        "crustaceans,": [
+          79
+        ],
+        "while": [
+          80,
+          124
+        ],
+        "type": [
+          82
+        ],
+        "ichnogenus": [
+          86
+        ],
+        "Sinusichnus,": [
+          87
+        ],
+        "sinuosus,": [
+          89
+        ],
+        "believed": [
+          91
+        ],
+        "result": [
+          93
+        ],
+        "activity": [
+          96
+        ],
+        "decapod": [
+          98
+        ],
+        "crustaceans.": [
+          99
+        ],
+        "contrasting": [
+          101
+        ],
+        "tracemakers": [
+          102
+        ],
+        "are": [
+          103,
+          129
+        ],
+        "example": [
+          105
+        ],
+        "behavioral": [
+          107
+        ],
+        "convergence,": [
+          108
+        ],
+        "fact": [
+          110
+        ],
+        "that": [
+          111
+        ],
+        "helps": [
+          112
+        ],
+        "explain": [
+          113
+        ],
+        "extended": [
+          115
+        ],
+        "stratigraphical": [
+          116
+        ],
+        "range": [
+          117
+        ],
+        "Triassic,": [
+          123
+        ],
+        "previous": [
+          125
+        ],
+        "reports": [
+          126
+        ],
+        "it": [
+          128
+        ],
+        "Late": [
+          131
+        ],
+        "Cretaceous": [
+          132
+        ],
+        "Pliocene": [
+          134
+        ],
+        "strata.": [
+          135
+        ],
+        "In": [
+          136
+        ],
+        "addition": [
+          137
+        ],
+        "seilacheri,": [
+          140
+        ],
+        "sinuosus": [
+          142
+        ],
+        "reported": [
+          144
+        ],
+        "Germany": [
+          150
+        ],
+        "for": [
+          151
+        ],
+        "first": [
+          153
+        ],
+        "time.": [
+          154
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-08-29T07:29:34.045763",
+      "created_date": "2016-06-24T00:00:00"
     },
     {
       "id": "https://openalex.org/W2283168331",
@@ -61849,7 +61853,7 @@
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.87421539,
+        "value": 0.87418422,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -62079,16 +62083,18 @@
           "landing_page_url": "https://ruj.uj.edu.pl/xmlui/handle/item/287714",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306400316",
-            "display_name": "Homo Politicus (Academy of Humanities and Economics in Lodz)",
+            "id": "https://openalex.org/S4306401249",
+            "display_name": "Jagiellonian University Repository (Jagiellonian University)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
+            "host_organization": "https://openalex.org/I126596746",
+            "host_organization_name": "Jagiellonian University",
+            "host_organization_lineage": [
+              "https://openalex.org/I126596746"
+            ],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -62098,7 +62104,7 @@
           "is_accepted": false,
           "is_published": false,
           "raw_source_name": null,
-          "raw_type": "artykuł w czasopiśmie"
+          "raw_type": "info:eu-repo/semantics/article"
         }
       ],
       "best_oa_location": {
@@ -62107,16 +62113,18 @@
         "landing_page_url": "https://ruj.uj.edu.pl/xmlui/handle/item/287714",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4306400316",
-          "display_name": "Homo Politicus (Academy of Humanities and Economics in Lodz)",
+          "id": "https://openalex.org/S4306401249",
+          "display_name": "Jagiellonian University Repository (Jagiellonian University)",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
+          "host_organization": "https://openalex.org/I126596746",
+          "host_organization_name": "Jagiellonian University",
+          "host_organization_lineage": [
+            "https://openalex.org/I126596746"
+          ],
           "host_organization_lineage_names": [],
           "type": "repository"
         },
@@ -62126,7 +62134,7 @@
         "is_accepted": false,
         "is_published": false,
         "raw_source_name": null,
-        "raw_type": "artykuł w czasopiśmie"
+        "raw_type": "info:eu-repo/semantics/article"
       },
       "sustainable_development_goals": [
         {
@@ -62293,7 +62301,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-08-29T07:29:34.045763",
       "created_date": "2025-10-10T00:00:00"
     },
     {
