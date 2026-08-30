@@ -18,9 +18,9 @@
     ],
     "full_name": "Scott Andrew Whattam",
     "works_count": 254,
-    "cited_by_count": 3553,
+    "cited_by_count": 3556,
     "summary_stats": {
-      "2yr_mean_citedness": 3.441860465116279,
+      "2yr_mean_citedness": 3.4651162790697674,
       "h_index": 27,
       "i10_index": 51
     },
@@ -390,7 +390,7 @@
       {
         "id": "https://openalex.org/T10110",
         "display_name": "earthquake and tectonic studies",
-        "value": 0.0001491,
+        "value": 0.000149,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -407,7 +407,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0001247,
+        "value": 0.0001246,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -424,7 +424,7 @@
       {
         "id": "https://openalex.org/T10413",
         "display_name": "High-pressure geophysics and materials",
-        "value": 0.0001136,
+        "value": 0.0001135,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -524,7 +524,7 @@
         "year": 2011,
         "works_count": 3,
         "oa_works_count": 0,
-        "cited_by_count": 482
+        "cited_by_count": 483
       },
       {
         "year": 2012,
@@ -596,13 +596,13 @@
         "year": 2023,
         "works_count": 15,
         "oa_works_count": 8,
-        "cited_by_count": 147
+        "cited_by_count": 148
       },
       {
         "year": 2024,
         "works_count": 21,
         "oa_works_count": 10,
-        "cited_by_count": 99
+        "cited_by_count": 100
       },
       {
         "year": 2025,
@@ -632,7 +632,7 @@
     ],
     "block_key": "s whattam",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5011750653",
-    "updated_date": "2026-08-28T12:17:32",
+    "updated_date": "2026-08-29T12:19:58",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -225817,9 +225817,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "score": 0.7599999904632568,
-          "id": "https://metadata.un.org/sdg/14"
+          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -241782,9 +241782,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "score": 0.7345947027206421,
-          "id": "https://metadata.un.org/sdg/11"
+          "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],

@@ -2366,7 +2366,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2022-08-09",
     "year": 2022,
     "venue": "Marine and Petroleum Geology",
-    "citations": 35,
+    "citations": 36,
     "fwci": 3.1372,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
@@ -33512,7 +33512,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "International Journal of Hydrogen Energy",
     "citations": 5,
-    "fwci": 0.3706,
+    "fwci": 0.3702,
     "topics": [
       "Electrocatalysts for Energy Conversion",
       "Fuel Cells and Related Materials",
@@ -51181,6 +51181,44 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4416868394",
+    "doi": "https://doi.org/10.1016/j.asr.2025.11.099",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5034568196",
+    "allAuthorOpenAlexIds": [
+      "A5034568196",
+      "A5036616600",
+      "A5067256109",
+      "A5032359229",
+      "A5109707707",
+      "A5030371811"
+    ],
+    "firstAuthorLastName": "Rahman",
+    "allAuthors": [
+      "Mahfuzur Rahman",
+      "Asif Raihan",
+      "Syed Masiur Rahman",
+      "Md Anuwer Hossain",
+      "Mohammed Benaafi",
+      "Isam H. Aljundi"
+    ],
+    "title": "Groundwater science in the age of AI: emerging paradigms and challenges",
+    "publicationDate": "2025-12-01",
+    "year": 2025,
+    "venue": "Advances in Space Research",
+    "citations": 5,
+    "fwci": 1.736,
+    "topics": [
+      "Hydrological Forecasting Using AI",
+      "Groundwater and Watershed Analysis",
+      "Groundwater and Isotope Geochemistry"
+    ],
+    "institutions": [
+      "King Fahd University of Petroleum and Minerals",
+      "International University of Business Agriculture and Technology"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4411711243",
     "doi": "https://doi.org/10.1016/j.ceja.2025.100798",
     "program": "",
@@ -51219,44 +51257,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4416868394",
-    "doi": "https://doi.org/10.1016/j.asr.2025.11.099",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5034568196",
-    "allAuthorOpenAlexIds": [
-      "A5034568196",
-      "A5036616600",
-      "A5067256109",
-      "A5032359229",
-      "A5109707707",
-      "A5030371811"
-    ],
-    "firstAuthorLastName": "Rahman",
-    "allAuthors": [
-      "Mahfuzur Rahman",
-      "Asif Raihan",
-      "Syed Masiur Rahman",
-      "Md Anuwer Hossain",
-      "Mohammed Benaafi",
-      "Isam H. Aljundi"
-    ],
-    "title": "Groundwater science in the age of AI: emerging paradigms and challenges",
-    "publicationDate": "2025-12-01",
-    "year": 2025,
-    "venue": "Advances in Space Research",
-    "citations": 4,
-    "fwci": 1.5061,
-    "topics": [
-      "Hydrological Forecasting Using AI",
-      "Groundwater and Watershed Analysis",
-      "Groundwater and Isotope Geochemistry"
-    ],
-    "institutions": [
-      "King Fahd University of Petroleum and Minerals",
-      "International University of Business Agriculture and Technology"
     ]
   },
   {
@@ -51656,7 +51656,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2025,
     "venue": "Geocarto International",
     "citations": 3,
-    "fwci": 1.0439,
+    "fwci": 1.0416,
     "topics": [
       "Urban Heat Island Mitigation",
       "Plant Water Relations and Carbon Dynamics",
@@ -51771,7 +51771,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Earth Science Informatics",
     "citations": 3,
-    "fwci": 6.7723,
+    "fwci": 0.6663,
     "topics": [
       "Groundwater and Isotope Geochemistry",
       "Groundwater and Watershed Analysis",
@@ -54193,7 +54193,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2006,
     "venue": "Nature",
     "citations": 547,
-    "fwci": 194.3163,
+    "fwci": 194.2743,
     "topics": [
       "Geological Studies and Exploration",
       "Methane Hydrates and Related Phenomena",
@@ -57171,7 +57171,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2008,
     "venue": "Open Research Exeter (University of Exeter)",
     "citations": 18,
-    "fwci": 1.655,
+    "fwci": 1.6554,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Paleontology and Stratigraphy of Fossils",
@@ -58723,7 +58723,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2005,
     "venue": "Open Research Exeter (University of Exeter)",
     "citations": 10,
-    "fwci": 0.2656,
+    "fwci": 0.2722,
     "topics": [
       "Geological Formations and Processes Exploration",
       "Marine and environmental studies",
@@ -68501,7 +68501,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2006,
     "venue": "GeoArabia",
     "citations": 9,
-    "fwci": 0.4479,
+    "fwci": 0.4656,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geophysical Studies",
@@ -72989,7 +72989,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2008,
     "venue": "RENDICONTI LINCEI",
     "citations": 10,
-    "fwci": 2.5838,
+    "fwci": 4.0731,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Plant Diversity and Evolution",
@@ -77139,7 +77139,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2019,
     "venue": "International Journal of Coal Geology",
     "citations": 74,
-    "fwci": 7.0351,
+    "fwci": 7.0341,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geochemistry and Geologic Mapping",
@@ -78061,8 +78061,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2023-11-01",
     "year": 2023,
     "venue": "Episodes",
-    "citations": 13,
-    "fwci": 3.6937,
+    "citations": 14,
+    "fwci": 4.0197,
     "topics": [
       "Geological and Geophysical Studies",
       "Geological Studies and Exploration",
@@ -78307,7 +78307,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2006,
     "venue": "GeoArabia",
     "citations": 48,
-    "fwci": 6.2704,
+    "fwci": 6.5189,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Marine Biology and Ecology Research",
@@ -82691,8 +82691,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2025-05-07",
     "year": 2025,
     "venue": "Scientific Reports",
-    "citations": 4,
-    "fwci": 1.6263,
+    "citations": 5,
+    "fwci": 1.9655,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Groundwater flow and contamination studies",
@@ -88425,7 +88425,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2018,
     "venue": "Nature Ecology & Evolution",
     "citations": 190,
-    "fwci": 117.7904,
+    "fwci": 117.9738,
     "topics": [
       "Pleistocene-Era Hominins and Archaeology",
       "Forensic Anthropology and Bioarchaeology Studies",
@@ -89461,8 +89461,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2020-12-24",
     "year": 2020,
     "venue": "Earth-Science Reviews",
-    "citations": 497,
-    "fwci": 31.0092,
+    "citations": 498,
+    "fwci": 30.9979,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -90624,8 +90624,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2018-05-15",
     "year": 2018,
     "venue": "Tectonics",
-    "citations": 87,
-    "fwci": 6.099,
+    "citations": 88,
+    "fwci": 6.2932,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geochemistry and Geologic Mapping",
@@ -90704,8 +90704,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2017-07-19",
     "year": 2017,
     "venue": "Precambrian Research",
-    "citations": 77,
-    "fwci": 4.7781,
+    "citations": 78,
+    "fwci": 4.9452,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -91505,8 +91505,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2003-10-16",
     "year": 2003,
     "venue": "Tectonophysics",
-    "citations": 110,
-    "fwci": 5.4201,
+    "citations": 111,
+    "fwci": 5.539,
     "topics": [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -92115,8 +92115,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2018-07-20",
     "year": 2018,
     "venue": "Precambrian Research",
-    "citations": 80,
-    "fwci": 15.6825,
+    "citations": 81,
+    "fwci": 16.6239,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geological and Geochemical Analysis",
@@ -92816,6 +92816,40 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W2803691778",
+    "doi": "https://doi.org/10.1016/j.lithos.2018.05.026",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5046466285",
+    "allAuthorOpenAlexIds": [
+      "A5046466285",
+      "A5090122630",
+      "A5057911678",
+      "A5054002352"
+    ],
+    "firstAuthorLastName": "Gillespie",
+    "allAuthors": [
+      "Jack Gillespie",
+      "Stijn Glorie",
+      "А. К. Khudoley",
+      "Alan S. Collins"
+    ],
+    "title": "Detrital apatite U-Pb and trace element analysis as a provenance tool: Insights from the Yenisey Ridge (Siberia)",
+    "publicationDate": "2018-05-26",
+    "year": 2018,
+    "venue": "Lithos",
+    "citations": 56,
+    "fwci": 3.3214,
+    "topics": [
+      "Geological and Geochemical Analysis",
+      "Geochemistry and Geologic Mapping",
+      "High-pressure geophysics and materials"
+    ],
+    "institutions": [
+      "The University of Adelaide",
+      "St Petersburg University"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W2990866968",
     "doi": "https://doi.org/10.1016/j.gr.2019.12.006",
     "program": "",
@@ -92859,40 +92893,6 @@ export const worksTable: WorkTableRecord[] = [
       "University of Johannesburg",
       "Macquarie University",
       "Curtin University"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W2803691778",
-    "doi": "https://doi.org/10.1016/j.lithos.2018.05.026",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5046466285",
-    "allAuthorOpenAlexIds": [
-      "A5046466285",
-      "A5090122630",
-      "A5057911678",
-      "A5054002352"
-    ],
-    "firstAuthorLastName": "Gillespie",
-    "allAuthors": [
-      "Jack Gillespie",
-      "Stijn Glorie",
-      "А. К. Khudoley",
-      "Alan S. Collins"
-    ],
-    "title": "Detrital apatite U-Pb and trace element analysis as a provenance tool: Insights from the Yenisey Ridge (Siberia)",
-    "publicationDate": "2018-05-26",
-    "year": 2018,
-    "venue": "Lithos",
-    "citations": 55,
-    "fwci": 3.1953,
-    "topics": [
-      "Geological and Geochemical Analysis",
-      "Geochemistry and Geologic Mapping",
-      "High-pressure geophysics and materials"
-    ],
-    "institutions": [
-      "The University of Adelaide",
-      "St Petersburg University"
     ]
   },
   {
@@ -105306,7 +105306,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2013,
     "venue": "Technischen Universität Darmstadt",
     "citations": 2,
-    "fwci": 0.2962,
+    "fwci": 0.2982,
     "topics": [
       "Hydrocarbon exploration and reservoir analysis",
       "Geological and Geophysical Studies",
@@ -109097,7 +109097,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2014,
     "venue": "GeoArabia",
     "citations": 61,
-    "fwci": 3.8055,
+    "fwci": 3.8761,
     "topics": [
       "Geological formations and processes",
       "Hydrocarbon exploration and reservoir analysis",
@@ -117871,6 +117871,48 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
+    "workId": "https://openalex.org/W4387460619",
+    "doi": "https://doi.org/10.1111/sed.13144",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5059881838",
+    "allAuthorOpenAlexIds": [
+      "A5059881838",
+      "A5005118532",
+      "A5100325866",
+      "A5080418265",
+      "A5103153926",
+      "A5050486511"
+    ],
+    "firstAuthorLastName": "Lu",
+    "allAuthors": [
+      "Chaojin Lu",
+      "Ardiansyah Koeshidayatullah",
+      "Fei Li",
+      "Huan Cui",
+      "Huayao Zou",
+      "Peter K. Swart"
+    ],
+    "title": "A clumped isotope diagenetic framework for the Ediacaran dolomites: Insights to fabric‐specific geochemical variabilities",
+    "publicationDate": "2023-10-09",
+    "year": 2023,
+    "venue": "Sedimentology",
+    "citations": 11,
+    "fwci": 6.5993,
+    "topics": [
+      "Paleontology and Stratigraphy of Fossils",
+      "Geology and Paleoclimatology Research",
+      "Marine Biology and Ecology Research"
+    ],
+    "institutions": [
+      "University of Miami",
+      "King Fahd University of Petroleum and Minerals",
+      "Southwest Petroleum University",
+      "State Key Laboratory of Oil and Gas Reservoir Geology and Exploitation",
+      "Mississippi State University",
+      "China University of Petroleum, Beijing"
+    ]
+  },
+  {
     "workId": "https://openalex.org/W4396998748",
     "doi": "https://doi.org/10.1016/j.epsl.2024.118760",
     "program": "",
@@ -118131,48 +118173,6 @@ export const worksTable: WorkTableRecord[] = [
     ],
     "institutions": [
       "King Fahd University of Petroleum and Minerals"
-    ]
-  },
-  {
-    "workId": "https://openalex.org/W4387460619",
-    "doi": "https://doi.org/10.1111/sed.13144",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5059881838",
-    "allAuthorOpenAlexIds": [
-      "A5059881838",
-      "A5005118532",
-      "A5100325866",
-      "A5080418265",
-      "A5103153926",
-      "A5050486511"
-    ],
-    "firstAuthorLastName": "Lu",
-    "allAuthors": [
-      "Chaojin Lu",
-      "Ardiansyah Koeshidayatullah",
-      "Fei Li",
-      "Huan Cui",
-      "Huayao Zou",
-      "Peter K. Swart"
-    ],
-    "title": "A clumped isotope diagenetic framework for the Ediacaran dolomites: Insights to fabric‐specific geochemical variabilities",
-    "publicationDate": "2023-10-09",
-    "year": 2023,
-    "venue": "Sedimentology",
-    "citations": 10,
-    "fwci": 6.009,
-    "topics": [
-      "Paleontology and Stratigraphy of Fossils",
-      "Geology and Paleoclimatology Research",
-      "Marine Biology and Ecology Research"
-    ],
-    "institutions": [
-      "University of Miami",
-      "King Fahd University of Petroleum and Minerals",
-      "Southwest Petroleum University",
-      "State Key Laboratory of Oil and Gas Reservoir Geology and Exploitation",
-      "Mississippi State University",
-      "China University of Petroleum, Beijing"
     ]
   },
   {
@@ -120078,7 +120078,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Scientific Reports",
     "citations": 84,
-    "fwci": 2.9602,
+    "fwci": 2.9601,
     "topics": [
       "Oil Spill Detection and Mitigation",
       "Atmospheric and Environmental Gas Dynamics",
@@ -120173,8 +120173,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2019-01-07",
     "year": 2019,
     "venue": "Extremophiles",
-    "citations": 64,
-    "fwci": 9.0097,
+    "citations": 65,
+    "fwci": 9.0033,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geochemistry and Elemental Analysis",
@@ -122458,42 +122458,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W3207158966",
-    "doi": "https://doi.org/10.29117/quarfe.2021.0024",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5070411489",
-    "allAuthorOpenAlexIds": [
-      "A5070411489",
-      "A5079669280",
-      "A5009925314",
-      "A5029885598",
-      "A5101723975"
-    ],
-    "firstAuthorLastName": "Sadooni",
-    "allAuthors": [
-      "Fadhil Sadooni",
-      "Hamad Al-Saad Al-Kuwari",
-      "A. Sakhaee-Pour",
-      "Wael S. Matter",
-      "Indra Gunawan"
-    ],
-    "title": "Lithologic Characterization and Micropore Structures of Gas Shale Strata: An example from the Midra Shale of Western Qatar",
-    "publicationDate": "2021-10-20",
-    "year": 2021,
-    "venue": "Building Resilience at Universities: Role of Innovation and Entrepreneurship",
-    "citations": 1,
-    "fwci": 0,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Hydraulic Fracturing and Reservoir Analysis",
-      "Geological Studies and Exploration"
-    ],
-    "institutions": [
-      "University of Houston",
-      "Qatar University"
-    ]
-  },
-  {
     "workId": "https://openalex.org/W4405637401",
     "doi": "https://doi.org/10.2112/jcr-si113-039.1",
     "program": "",
@@ -122799,6 +122763,42 @@ export const worksTable: WorkTableRecord[] = [
       "Bakhtar University",
       "ExxonMobil (Qatar)",
       "University of California System"
+    ]
+  },
+  {
+    "workId": "https://openalex.org/W3207158966",
+    "doi": "https://doi.org/10.29117/quarfe.2021.0024",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5070411489",
+    "allAuthorOpenAlexIds": [
+      "A5070411489",
+      "A5079669280",
+      "A5009925314",
+      "A5029885598",
+      "A5101723975"
+    ],
+    "firstAuthorLastName": "Sadooni",
+    "allAuthors": [
+      "Fadhil Sadooni",
+      "Hamad Al-Saad Al-Kuwari",
+      "A. Sakhaee-Pour",
+      "Wael S. Matter",
+      "Indra Gunawan"
+    ],
+    "title": "Lithologic Characterization and Micropore Structures of Gas Shale Strata: An example from the Midra Shale of Western Qatar",
+    "publicationDate": "2021-10-20",
+    "year": 2021,
+    "venue": "Building Resilience at Universities: Role of Innovation and Entrepreneurship",
+    "citations": 1,
+    "fwci": 0,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Hydraulic Fracturing and Reservoir Analysis",
+      "Geological Studies and Exploration"
+    ],
+    "institutions": [
+      "University of Houston",
+      "Qatar University"
     ]
   },
   {
@@ -136500,7 +136500,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2008,
     "venue": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
     "citations": 6,
-    "fwci": 0.3601,
+    "fwci": 0.3558,
     "topics": [
       "Diatoms and Algae Research",
       "Aquatic Invertebrate Ecology and Behavior",
@@ -138835,7 +138835,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Sedimentology",
     "citations": 10,
-    "fwci": 3.0809,
+    "fwci": 3.0793,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Geology and Paleoclimatology Research",
@@ -139676,7 +139676,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2010,
     "venue": "Marine and Petroleum Geology",
     "citations": 162,
-    "fwci": 7.3695,
+    "fwci": 7.3754,
     "topics": [
       "Geological formations and processes",
       "earthquake and tectonic studies",
@@ -144898,37 +144898,6 @@ export const worksTable: WorkTableRecord[] = [
     "institutions": []
   },
   {
-    "workId": "https://openalex.org/W2248607991",
-    "doi": "https://doi.org/10.5281/zenodo.16542894",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5103098706",
-    "allAuthorOpenAlexIds": [
-      "A5103098706",
-      "A5016537835",
-      "A5031866306",
-      "A5030457651"
-    ],
-    "firstAuthorLastName": "Johnson",
-    "allAuthors": [
-      "Peter R. Johnson",
-      "Peter J. F. Davie",
-      "D. T. Neil",
-      "Ida Fellegara"
-    ],
-    "title": "Excavation, habitation and transportation of massive corals by the crab Actumnus setifer (Crustacea: Brachyura: Pilumnidae) in Moreton Bay, Queensland",
-    "publicationDate": "2008-01-01",
-    "year": 2008,
-    "venue": "Biodiversity Heritage Library (Smithsonian Institution)",
-    "citations": 2,
-    "fwci": 0,
-    "topics": [
-      "Crustacean biology and ecology",
-      "Marine Biology and Ecology Research",
-      "Fish biology, ecology, and behavior"
-    ],
-    "institutions": []
-  },
-  {
     "workId": "https://openalex.org/W2189266572",
     "doi": "",
     "program": "",
@@ -144977,6 +144946,37 @@ export const worksTable: WorkTableRecord[] = [
       "Geological and Geophysical Studies Worldwide",
       "Geochemistry and Geologic Mapping",
       "Geological and Geochemical Analysis"
+    ],
+    "institutions": []
+  },
+  {
+    "workId": "https://openalex.org/W2248607991",
+    "doi": "https://doi.org/10.5281/zenodo.16542894",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5103098706",
+    "allAuthorOpenAlexIds": [
+      "A5103098706",
+      "A5016537835",
+      "A5031866306",
+      "A5030457651"
+    ],
+    "firstAuthorLastName": "Johnson",
+    "allAuthors": [
+      "Peter R. Johnson",
+      "Peter J. F. Davie",
+      "D. T. Neil",
+      "Ida Fellegara"
+    ],
+    "title": "Excavation, habitation and transportation of massive corals by the crab Actumnus setifer (Crustacea: Brachyura: Pilumnidae) in Moreton Bay, Queensland",
+    "publicationDate": "2008-01-01",
+    "year": 2008,
+    "venue": "Biodiversity Heritage Library (Smithsonian Institution)",
+    "citations": 2,
+    "fwci": 0,
+    "topics": [
+      "Crustacean biology and ecology",
+      "Marine Biology and Ecology Research",
+      "Fish biology, ecology, and behavior"
     ],
     "institutions": []
   },

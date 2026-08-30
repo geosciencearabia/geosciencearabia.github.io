@@ -72,7 +72,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 405,
-    "totalCitations": 19940,
+    "totalCitations": 19946,
     "hIndex": 70
   },
   {
@@ -108,7 +108,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 131,
-    "totalCitations": 3107,
+    "totalCitations": 3109,
     "hIndex": 34
   },
   {
@@ -162,7 +162,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 51,
-    "totalCitations": 1024,
+    "totalCitations": 1026,
     "hIndex": 16
   },
   {
@@ -233,7 +233,7 @@ export const authors: AuthorRecord[] = [
     "affiliate3": "",
     "email": "",
     "orcid": "",
-    "totalPublications": 24,
+    "totalPublications": 26,
     "totalCitations": 211,
     "hIndex": 10
   },
@@ -270,7 +270,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 8,
-    "totalCitations": 105,
+    "totalCitations": 106,
     "hIndex": 4
   },
   {
@@ -324,7 +324,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 162,
-    "totalCitations": 3026,
+    "totalCitations": 3027,
     "hIndex": 31
   },
   {
@@ -414,7 +414,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 144,
-    "totalCitations": 1443,
+    "totalCitations": 1444,
     "hIndex": 22
   },
   {
@@ -432,7 +432,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 171,
-    "totalCitations": 1336,
+    "totalCitations": 1340,
     "hIndex": 21
   },
   {
@@ -504,7 +504,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 34,
-    "totalCitations": 476,
+    "totalCitations": 477,
     "hIndex": 9
   },
   {
@@ -522,7 +522,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 70,
-    "totalCitations": 756,
+    "totalCitations": 757,
     "hIndex": 16
   },
   {
@@ -576,7 +576,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 437,
-    "totalCitations": 6778,
+    "totalCitations": 6777,
     "hIndex": 41
   },
   {
@@ -594,7 +594,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 254,
-    "totalCitations": 3553,
+    "totalCitations": 3556,
     "hIndex": 27
   },
   {
@@ -630,7 +630,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 49,
-    "totalCitations": 1009,
+    "totalCitations": 1010,
     "hIndex": 16
   },
   {
@@ -738,7 +738,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 122,
-    "totalCitations": 1657,
+    "totalCitations": 1661,
     "hIndex": 24
   },
   {
@@ -756,7 +756,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 43,
-    "totalCitations": 513,
+    "totalCitations": 515,
     "hIndex": 12
   },
   {
@@ -828,7 +828,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 167,
-    "totalCitations": 3835,
+    "totalCitations": 3836,
     "hIndex": 34
   },
   {
@@ -918,7 +918,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 95,
-    "totalCitations": 1055,
+    "totalCitations": 1056,
     "hIndex": 18
   },
   {
@@ -1026,7 +1026,7 @@ export const authors: AuthorRecord[] = [
     "email": "",
     "orcid": "",
     "totalPublications": 34,
-    "totalCitations": 1158,
+    "totalCitations": 1159,
     "hIndex": 15
   },
   {
@@ -1098,7 +1098,7 @@ export const authors: AuthorRecord[] = [
     "email": "heltom@ku.edu",
     "orcid": "",
     "totalPublications": 88,
-    "totalCitations": 679,
+    "totalCitations": 680,
     "hIndex": 17
   },
   {
