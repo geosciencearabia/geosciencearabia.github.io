@@ -8,11 +8,11 @@
       "Moaz Salih"
     ],
     "full_name": "Moaz Salih",
-    "works_count": 25,
-    "cited_by_count": 129,
+    "works_count": 26,
+    "cited_by_count": 136,
     "summary_stats": {
-      "2yr_mean_citedness": 1,
-      "h_index": 5,
+      "2yr_mean_citedness": 1.2307692307692308,
+      "h_index": 6,
       "i10_index": 4
     },
     "ids": {
@@ -74,7 +74,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "count": 17,
+        "count": 18,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -91,7 +91,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "count": 12,
+        "count": 13,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -108,7 +108,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "count": 8,
+        "count": 9,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -161,7 +161,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000417,
+        "value": 0.0000452,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -178,7 +178,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000367,
+        "value": 0.0000388,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -195,7 +195,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000321,
+        "value": 0.0000361,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -249,7 +249,7 @@
         "id": "127313418",
         "wikidata": "https://www.wikidata.org/wiki/Q1069",
         "display_name": "Geology",
-        "score": 0.9192104339599609
+        "score": 0.9264000058174133
       },
       {
         "id": "2780659211",
@@ -293,35 +293,35 @@
         "year": 2020,
         "works_count": 4,
         "oa_works_count": 2,
-        "cited_by_count": 60
+        "cited_by_count": 61
       },
       {
         "year": 2021,
         "works_count": 1,
         "oa_works_count": 1,
-        "cited_by_count": 17
+        "cited_by_count": 18
       },
       {
         "year": 2022,
         "works_count": 6,
         "oa_works_count": 2,
-        "cited_by_count": 12
+        "cited_by_count": 13
       },
       {
         "year": 2024,
         "works_count": 4,
         "oa_works_count": 1,
-        "cited_by_count": 9
+        "cited_by_count": 11
       },
       {
         "year": 2025,
         "works_count": 6,
         "oa_works_count": 2,
-        "cited_by_count": 3
+        "cited_by_count": 5
       },
       {
         "year": 2026,
-        "works_count": 2,
+        "works_count": 3,
         "oa_works_count": 1,
         "cited_by_count": 0
       }
@@ -332,7 +332,7 @@
     ],
     "block_key": "m salih",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5034460286",
-    "updated_date": "2026-08-28T12:17:32",
+    "updated_date": "2026-09-01T12:18:12",
     "created_date": "2025-10-10T00:00:00"
   },
   "works": [
@@ -916,8 +916,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 100,
@@ -1656,8 +1656,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 105,
@@ -2595,8 +2595,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3171403328.pdf",
@@ -3998,8 +3998,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -4662,8 +4662,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 88,
@@ -5516,8 +5516,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 72,
@@ -6276,8 +6276,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 103,
@@ -7171,8 +7171,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 134,
@@ -7955,8 +7955,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -9426,8 +9426,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -10953,8 +10953,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 54,
@@ -11670,8 +11670,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -12116,8 +12116,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12587,8 +12587,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13837,8 +13837,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -15060,8 +15060,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -16170,8 +16170,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -17045,8 +17045,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 88,
@@ -17660,8 +17660,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18655,8 +18655,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19936,8 +19936,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 53,
@@ -20420,8 +20420,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -20927,8 +20927,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21788,8 +21788,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 55,
@@ -23077,8 +23077,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23906,13 +23906,35 @@
             "display_name": "Moaz Salih",
             "orcid": "https://orcid.org/0000-0002-6155-0845"
           },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": false,
+          "institutions": [
+            {
+              "id": "https://openalex.org/I134085113",
+              "display_name": "King Fahd University of Petroleum and Minerals",
+              "ror": "https://ror.org/03yez3163",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ],
+          "countries": [
+            "SA"
+          ],
+          "is_corresponding": true,
           "raw_author_name": "Moaz Salih",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 76, 31261, Dhahran, Saudi Arabia"
+          ],
           "raw_orcid": "https://orcid.org/0000-0002-6155-0845",
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering & Geosciences, King Fahd University of Petroleum & Minerals, Building 76, 31261, Dhahran, Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            }
+          ]
         },
         {
           "author_position": "last",
@@ -23921,20 +23943,46 @@
             "display_name": "Hassan Eltom",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I146416000",
+              "display_name": "University of Kansas",
+              "ror": "https://ror.org/001tmjg57",
+              "country_code": "US",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I146416000"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Hassan Eltom",
-          "raw_affiliation_strings": [],
+          "raw_affiliation_strings": [
+            "Subsurface Dynamics Laboratory, Kansas Geological Survey, The University of Kansas, 1930 Constant Ave, Lawrence, KS 66047, United States"
+          ],
           "raw_orcid": null,
-          "affiliations": []
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Subsurface Dynamics Laboratory, Kansas Geological Survey, The University of Kansas, 1930 Constant Ave, Lawrence, KS 66047, United States",
+              "institution_ids": [
+                "https://openalex.org/I146416000"
+              ]
+            }
+          ]
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [],
+      "countries_distinct_count": 2,
+      "institutions_distinct_count": 2,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5034460286"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I134085113"
+      ],
       "apc_list": {
         "value": 3370,
         "currency": "USD",
@@ -23945,7 +23993,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.82053725,
+        "value": 0.80970733,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -24163,8 +24211,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 42,
@@ -24215,7 +24263,7 @@
       "related_works": [],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-01T08:31:24.195828",
+      "updated_date": "2026-09-02T07:38:04.252551",
       "created_date": "2026-09-01T00:00:00"
     }
   ]

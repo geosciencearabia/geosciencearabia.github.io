@@ -17,9 +17,9 @@
     ],
     "full_name": "Israa S. Abu‐Mahfouz",
     "works_count": 70,
-    "cited_by_count": 757,
+    "cited_by_count": 759,
     "summary_stats": {
-      "2yr_mean_citedness": 5.5,
+      "2yr_mean_citedness": 5.543478260869565,
       "h_index": 16,
       "i10_index": 21
     },
@@ -244,7 +244,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0001166,
+        "value": 0.0001165,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -261,7 +261,7 @@
       {
         "id": "https://openalex.org/T11225",
         "display_name": "Geothermal Energy Systems and Applications",
-        "value": 0.0000859,
+        "value": 0.0000858,
         "subfield": {
           "id": "https://openalex.org/subfields/2105",
           "display_name": "Renewable Energy, Sustainability and the Environment"
@@ -295,7 +295,7 @@
       {
         "id": "https://openalex.org/T11630",
         "display_name": "Petroleum Processing and Analysis",
-        "value": 0.0000765,
+        "value": 0.0000764,
         "subfield": {
           "id": "https://openalex.org/subfields/1602",
           "display_name": "Analytical Chemistry"
@@ -312,7 +312,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.0000743,
+        "value": 0.0000742,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -406,13 +406,13 @@
         "year": 2024,
         "works_count": 20,
         "oa_works_count": 9,
-        "cited_by_count": 189
+        "cited_by_count": 190
       },
       {
         "year": 2025,
         "works_count": 22,
         "oa_works_count": 9,
-        "cited_by_count": 64
+        "cited_by_count": 65
       },
       {
         "year": 2026,
@@ -435,7 +435,7 @@
     ],
     "block_key": "i abu-mahfouz",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5079903196",
-    "updated_date": "2026-08-29T12:19:58",
+    "updated_date": "2026-09-01T12:18:12",
     "created_date": "2025-06-21T00:00:00"
   },
   "works": [
@@ -1226,8 +1226,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
           "display_name": "Industry, innovation and infrastructure",
+          "score": 0.41999998688697815,
           "id": "https://metadata.un.org/sdg/9"
         }
       ],
@@ -4173,8 +4173,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.49000000953674316,
           "display_name": "Industry, innovation and infrastructure",
+          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/9"
         }
       ],
@@ -5936,11 +5936,11 @@
         "value_usd": 3490
       },
       "apc_paid": null,
-      "fwci": 2.556,
+      "fwci": 2.5558,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.89836006,
+        "value": 0.89839848,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -6293,7 +6293,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 2,
+      "locations_count": 3,
       "locations": [
         {
           "id": "doi:10.1016/j.marpetgeo.2022.106058",
@@ -6328,6 +6328,35 @@
           "is_published": true,
           "raw_source_name": "Marine and Petroleum Geology",
           "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:publications.rwth-aachen.de:956266",
+          "is_oa": false,
+          "landing_page_url": "https://publications.rwth-aachen.de/record/956266",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306401362",
+            "display_name": "RWTH Publications (RWTH Aachen)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I887968799",
+            "host_organization_name": "RWTH Aachen University",
+            "host_organization_lineage": [
+              "https://openalex.org/I887968799"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Marine and petroleum geology 148, 106058 (2023). doi:10.1016/j.marpetgeo.2022.106058",
+          "raw_type": "info:eu-repo/semantics/article"
         },
         {
           "id": "pmh:oai:repository.kaust.edu.sa:10754/686365",
@@ -6390,8 +6419,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "display_name": "Life below water",
+          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -6506,7 +6535,7 @@
           "cited_by_count": 5
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-02T18:50:13.731487",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7174,8 +7203,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6299999952316284,
           "display_name": "Life below water",
+          "score": 0.6299999952316284,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -8566,8 +8595,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.49000000953674316,
           "display_name": "Life below water",
+          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -12222,8 +12251,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6899999976158142,
           "display_name": "Life below water",
+          "score": 0.6899999976158142,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -13463,8 +13492,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4699999988079071,
           "display_name": "Life in Land",
+          "score": 0.4699999988079071,
           "id": "https://metadata.un.org/sdg/15"
         }
       ],
@@ -20433,8 +20462,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4300000071525574,
           "display_name": "Life in Land",
+          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/15"
         }
       ],
@@ -21977,8 +22006,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6899999976158142,
           "display_name": "Affordable and clean energy",
+          "score": 0.6899999976158142,
           "id": "https://metadata.un.org/sdg/7"
         }
       ],
@@ -22757,8 +22786,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
           "display_name": "Life below water",
+          "score": 0.8399999737739563,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -23973,8 +24002,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
           "display_name": "Life below water",
+          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -26334,8 +26363,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -29371,8 +29400,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.46000000834465027,
           "display_name": "Industry, innovation and infrastructure",
+          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/9"
         }
       ],
@@ -30879,8 +30908,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.6499999761581421,
           "display_name": "Climate action",
+          "score": 0.6499999761581421,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -33128,8 +33157,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
           "display_name": "Life in Land",
+          "score": 0.4399999976158142,
           "id": "https://metadata.un.org/sdg/15"
         }
       ],
@@ -36324,8 +36353,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.5099999904632568,
           "display_name": "Life below water",
+          "score": 0.5099999904632568,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -37599,8 +37628,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.46000000834465027,
           "display_name": "Climate action",
+          "score": 0.46000000834465027,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -38288,8 +38317,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
           "display_name": "Climate action",
+          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -39521,8 +39550,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.49000000953674316,
           "display_name": "Life below water",
+          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -40961,8 +40990,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6000000238418579,
           "display_name": "Life below water",
+          "score": 0.6000000238418579,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -42354,8 +42383,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
           "display_name": "Climate action",
+          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -48931,8 +48960,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
           "display_name": "Responsible consumption and production",
+          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/12"
         }
       ],
@@ -50779,8 +50808,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
           "display_name": "Clean water and sanitation",
+          "score": 0.44999998807907104,
           "id": "https://metadata.un.org/sdg/6"
         }
       ],
@@ -56207,8 +56236,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5299999713897705,
           "display_name": "Life below water",
+          "score": 0.5299999713897705,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -57255,8 +57284,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
           "display_name": "Life below water",
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -63420,8 +63449,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.49000000953674316,
           "display_name": "Life below water",
+          "score": 0.49000000953674316,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
@@ -65786,8 +65815,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.4099999964237213,
           "display_name": "Responsible consumption and production",
+          "score": 0.4099999964237213,
           "id": "https://metadata.un.org/sdg/12"
         }
       ],
@@ -66710,8 +66739,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5699999928474426,
           "display_name": "Climate action",
+          "score": 0.5699999928474426,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -67363,8 +67392,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5099999904632568,
           "display_name": "Climate action",
+          "score": 0.5099999904632568,
           "id": "https://metadata.un.org/sdg/13"
         }
       ],
@@ -80145,8 +80174,8 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8564205765724182,
           "display_name": "Life below water",
+          "score": 0.8564205765724182,
           "id": "https://metadata.un.org/sdg/14"
         }
       ],
