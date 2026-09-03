@@ -1132,8 +1132,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4210484148.pdf",
@@ -2193,8 +2193,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -2728,7 +2728,7 @@
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
-        "raw_source_name": "First International Meeting for Applied Geoscience &amp; Energy Expanded Abstracts",
+        "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
         "raw_type": "proceedings-article"
       },
       "type": "conference-paper",
@@ -2768,10 +2768,17 @@
           "is_corresponding": false,
           "raw_author_name": "Anton Egorov",
           "raw_affiliation_strings": [
+            "1 Aramco Innovations LLC",
             "Aramco Innovations LLC"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 Aramco Innovations LLC",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            },
             {
               "raw_affiliation_string": "Aramco Innovations LLC",
               "institution_ids": [
@@ -2806,10 +2813,17 @@
           "is_corresponding": false,
           "raw_author_name": "Marwan Charara",
           "raw_affiliation_strings": [
+            "1 Aramco Innovations LLC",
             "Aramco Innovations LLC"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 Aramco Innovations LLC",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            },
             {
               "raw_affiliation_string": "Aramco Innovations LLC",
               "institution_ids": [
@@ -2844,10 +2858,17 @@
           "is_corresponding": false,
           "raw_author_name": "Ezzedeen Alfataierge",
           "raw_affiliation_strings": [
+            "2 Saudi Aramco",
             "Saudi Aramco"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "2 Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
@@ -2882,10 +2903,17 @@
           "is_corresponding": false,
           "raw_author_name": "Andrey Bakulin",
           "raw_affiliation_strings": [
+            "2 Saudi Aramco",
             "Saudi Aramco"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "2 Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
@@ -2904,11 +2932,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 8.8098,
+      "fwci": 8.8316,
       "has_fulltext": false,
       "cited_by_count": 11,
       "citation_normalized_percentile": {
-        "value": 0.98172446,
+        "value": 0.98175865,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -2917,7 +2945,7 @@
         "max": 98
       },
       "biblio": {
-        "volume": null,
+        "volume": "1",
         "issue": null,
         "first_page": "437",
         "last_page": "441"
@@ -3288,7 +3316,7 @@
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
-          "raw_source_name": "First International Meeting for Applied Geoscience &amp; Energy Expanded Abstracts",
+          "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
           "raw_type": "proceedings-article"
         }
       ],
@@ -3297,8 +3325,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -3697,7 +3725,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-09-03T10:48:47.769340",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4292,16 +4320,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/15",
-          "display_name": "Life in Land",
-          "score": 0.4300000071525574
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -5609,16 +5637,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 0.4300000071525574
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -6244,26 +6272,13 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1190/image2022-3735875.1",
         "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4363604378",
-          "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "conference"
-        },
+        "source": null,
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
-        "raw_source_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+        "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
         "raw_type": "proceedings-article"
       },
       "type": "conference-paper",
@@ -6303,10 +6318,17 @@
           "is_corresponding": false,
           "raw_author_name": "Andrey Bakulin",
           "raw_affiliation_strings": [
+            "1 Saudi Aramco",
             "Saudi Aramco"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
@@ -6341,10 +6363,17 @@
           "is_corresponding": false,
           "raw_author_name": "Ezzedeen Alfataierge",
           "raw_affiliation_strings": [
+            "1 Saudi Aramco",
             "Saudi Aramco"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
@@ -6378,10 +6407,17 @@
           "is_corresponding": false,
           "raw_author_name": "Roman Pevzner",
           "raw_affiliation_strings": [
+            "2 Curtin University",
             "Curtin University"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "2 Curtin University",
+              "institution_ids": [
+                "https://openalex.org/I205640436"
+              ]
+            },
             {
               "raw_affiliation_string": "Curtin University",
               "institution_ids": [
@@ -6398,11 +6434,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.906,
+      "fwci": 3.9584,
       "has_fulltext": false,
       "cited_by_count": 5,
       "citation_normalized_percentile": {
-        "value": 0.92926829,
+        "value": 0.93037215,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -6411,7 +6447,7 @@
         "max": 98
       },
       "biblio": {
-        "volume": null,
+        "volume": "1",
         "issue": null,
         "first_page": "621",
         "last_page": "625"
@@ -6573,26 +6609,13 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1190/image2022-3735875.1",
           "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4363604378",
-            "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "conference"
-          },
+          "source": null,
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
-          "raw_source_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+          "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
           "raw_type": "proceedings-article"
         }
       ],
@@ -6601,8 +6624,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 14,
@@ -7060,7 +7083,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-09-03T10:48:47.769340",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7087,7 +7110,7 @@
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
-        "raw_source_name": "First International Meeting for Applied Geoscience &amp; Energy Expanded Abstracts",
+        "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
         "raw_type": "proceedings-article"
       },
       "type": "conference-paper",
@@ -7127,10 +7150,17 @@
           "is_corresponding": false,
           "raw_author_name": "Vladimir Kazei",
           "raw_affiliation_strings": [
+            "1 Aramco Services Company",
             "Aramco Services Company"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 Aramco Services Company",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            },
             {
               "raw_affiliation_string": "Aramco Services Company",
               "institution_ids": [
@@ -7165,10 +7195,17 @@
           "is_corresponding": false,
           "raw_author_name": "Konstantin Osypov",
           "raw_affiliation_strings": [
+            "1 Aramco Services Company",
             "Aramco Services Company"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 Aramco Services Company",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            },
             {
               "raw_affiliation_string": "Aramco Services Company",
               "institution_ids": [
@@ -7203,10 +7240,17 @@
           "is_corresponding": false,
           "raw_author_name": "Ezzedeen Alfataierge",
           "raw_affiliation_strings": [
+            "2 Saudi Aramco",
             "Saudi Aramco"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "2 Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
@@ -7241,10 +7285,17 @@
           "is_corresponding": false,
           "raw_author_name": "Andrey Bakulin",
           "raw_affiliation_strings": [
+            "2 Saudi Aramco",
             "Saudi Aramco"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "2 Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
@@ -7263,23 +7314,23 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 7.5513,
+      "fwci": 7.5699,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.97446111,
+        "value": 0.97450889,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 97
       },
       "biblio": {
-        "volume": null,
+        "volume": "1",
         "issue": null,
-        "first_page": null,
-        "last_page": null
+        "first_page": "412",
+        "last_page": "416"
       },
       "is_retracted": false,
       "is_paratext": false,
@@ -7516,7 +7567,7 @@
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
-          "raw_source_name": "First International Meeting for Applied Geoscience &amp; Energy Expanded Abstracts",
+          "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
           "raw_type": "proceedings-article"
         }
       ],
@@ -7525,8 +7576,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -7908,7 +7959,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-09-03T10:48:47.769340",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8362,16 +8413,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.47999998927116394,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.47999998927116394
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9381,8 +9432,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -10379,16 +10430,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6899999976158142,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6899999976158142
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 3,
@@ -11681,8 +11732,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12327,8 +12378,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -12697,790 +12748,6 @@
         {
           "year": 2025,
           "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-07-29T14:22:42.915294",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W3197016850",
-      "doi": "https://doi.org/10.1190/segam2021-3567899.1",
-      "title": "Optimal acquisition parameters for smart DAS uphole survey in a desert environment",
-      "display_name": "Optimal acquisition parameters for smart DAS uphole survey in a desert environment",
-      "publication_year": 2021,
-      "publication_date": "2021-09-01",
-      "ids": {
-        "openalex": "https://openalex.org/W3197016850",
-        "doi": "https://doi.org/10.1190/segam2021-3567899.1",
-        "mag": "3197016850"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1190/segam2021-3567899.1",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1190/segam2021-3567899.1",
-        "pdf_url": null,
-        "source": null,
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "First International Meeting for Applied Geoscience &amp; Energy Expanded Abstracts",
-        "raw_type": "proceedings-article"
-      },
-      "type": "conference-paper",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5052123503",
-            "display_name": "Ezzedeen Alfataierge",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Ezzedeen Alfataierge",
-          "raw_affiliation_strings": [
-            "Saudi Aramco"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5066312252",
-            "display_name": "Moneera Alsharif",
-            "orcid": null
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Moneera Alsharif",
-          "raw_affiliation_strings": [
-            "Saudi Aramco"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "middle",
-          "author": {
-            "id": "https://openalex.org/A5067998463",
-            "display_name": "Andrey Bakulin",
-            "orcid": "https://orcid.org/0000-0002-6638-7821"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Andrey Bakulin",
-          "raw_affiliation_strings": [
-            "Saudi Aramco"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Saudi Aramco",
-              "institution_ids": [
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5033742122",
-            "display_name": "Anton Egorov",
-            "orcid": "https://orcid.org/0000-0001-9139-6191"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I62856769",
-              "display_name": "Saudi Aramco (United States)",
-              "ror": "https://ror.org/035n7q728",
-              "country_code": "US",
-              "type": "company",
-              "lineage": [
-                "https://openalex.org/I4210143841",
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ],
-          "countries": [
-            "US"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Anton Egorov",
-          "raw_affiliation_strings": [
-            "Aramco Innovations LLC"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Aramco Innovations LLC",
-              "institution_ids": [
-                "https://openalex.org/I62856769"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I62856769"
-      ],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 1.2965,
-      "has_fulltext": false,
-      "cited_by_count": 3,
-      "citation_normalized_percentile": {
-        "value": 0.74587654,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 95
-      },
-      "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": "493",
-        "last_page": "497"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11609",
-        "display_name": "Geophysical Methods and Applications",
-        "score": 0.9991999864578247,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2212",
-          "display_name": "Ocean Engineering"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11609",
-          "display_name": "Geophysical Methods and Applications",
-          "score": 0.9991999864578247,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2212",
-            "display_name": "Ocean Engineering"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10271",
-          "display_name": "Seismic Imaging and Inversion Techniques",
-          "score": 0.9983000159263611,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T11757",
-          "display_name": "Seismic Waves and Analysis",
-          "score": 0.9925000071525574,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/computer-science",
-          "display_name": "Computer science",
-          "score": 0.561474084854126
-        },
-        {
-          "id": "https://openalex.org/keywords/desert",
-          "display_name": "Desert (philosophy)",
-          "score": 0.4997217655181885
-        },
-        {
-          "id": "https://openalex.org/keywords/political-science",
-          "display_name": "Political science",
-          "score": 0.06486046314239502
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C41008148",
-          "wikidata": "https://www.wikidata.org/wiki/Q21198",
-          "display_name": "Computer science",
-          "level": 0,
-          "score": 0.561474084854126
-        },
-        {
-          "id": "https://openalex.org/C2776130869",
-          "wikidata": "https://www.wikidata.org/wiki/Q1361649",
-          "display_name": "Desert (philosophy)",
-          "level": 2,
-          "score": 0.4997217655181885
-        },
-        {
-          "id": "https://openalex.org/C17744445",
-          "wikidata": "https://www.wikidata.org/wiki/Q36442",
-          "display_name": "Political science",
-          "level": 0,
-          "score": 0.06486046314239502
-        },
-        {
-          "id": "https://openalex.org/C199539241",
-          "wikidata": "https://www.wikidata.org/wiki/Q7748",
-          "display_name": "Law",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1190/segam2021-3567899.1",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1190/segam2021-3567899.1",
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "First International Meeting for Applied Geoscience &amp; Energy Expanded Abstracts",
-          "raw_type": "proceedings-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 14,
-      "referenced_works": [
-        "https://openalex.org/W1850977552",
-        "https://openalex.org/W1900713400",
-        "https://openalex.org/W1977392818",
-        "https://openalex.org/W1988880858",
-        "https://openalex.org/W2041778458",
-        "https://openalex.org/W2062305768",
-        "https://openalex.org/W2108802207",
-        "https://openalex.org/W2129271915",
-        "https://openalex.org/W2171328160",
-        "https://openalex.org/W2593634157",
-        "https://openalex.org/W2769680008",
-        "https://openalex.org/W2889966709",
-        "https://openalex.org/W3089972992",
-        "https://openalex.org/W3094660067"
-      ],
-      "related_works": [
-        "https://openalex.org/W4391375266",
-        "https://openalex.org/W2748952813",
-        "https://openalex.org/W4394954532",
-        "https://openalex.org/W4300110411",
-        "https://openalex.org/W3198882691",
-        "https://openalex.org/W2807379615",
-        "https://openalex.org/W2142525752",
-        "https://openalex.org/W4251533150",
-        "https://openalex.org/W4237787509",
-        "https://openalex.org/W1592798874"
-      ],
-      "abstract_inverted_index": {
-        "6": [
-          137
-        ],
-        "50": [
-          96,
-          117
-        ],
-        "300": [
-          30
-        ],
-        "We": [
-          0,
-          21,
-          33,
-          60,
-          77
-        ],
-        "conduct": [
-          1
-        ],
-        "detailed": [
-          2
-        ],
-        "modeling": [
-          3
-        ],
-        "and": [
-          4,
-          24,
-          54,
-          69,
-          74,
-          123,
-          146
-        ],
-        "evaluation": [
-          5
-        ],
-        "of": [
-          6,
-          65,
-          81,
-          87,
-          93,
-          113,
-          136,
-          142,
-          155
-        ],
-        "a": [
-          7,
-          28,
-          35,
-          42,
-          83,
-          133
-        ],
-        "smart": [
-          8
-        ],
-        "DAS": [
-          9,
-          23,
-          53,
-          66,
-          130
-        ],
-        "uphole": [
-          10
-        ],
-        "survey": [
-          11,
-          131
-        ],
-        "that": [
-          12
-        ],
-        "uses": [
-          13
-        ],
-        "Distributed": [
-          14
-        ],
-        "Acoustic": [
-          15
-        ],
-        "Sensing": [
-          16
-        ],
-        "(DAS)": [
-          17
-        ],
-        "with": [
-          18,
-          132
-        ],
-        "cemented": [
-          19
-        ],
-        "fiber.": [
-          20
-        ],
-        "simulate": [
-          22
-        ],
-        "geophone": [
-          25,
-          55
-        ],
-        "surveys": [
-          26
-        ],
-        "in": [
-          27
-        ],
-        "deep": [
-          29
-        ],
-        "m": [
-          31,
-          89,
-          118,
-          138
-        ],
-        "uphole.": [
-          32
-        ],
-        "use": [
-          34
-        ],
-        "realistic": [
-          36
-        ],
-        "elastic": [
-          37
-        ],
-        "near-surface": [
-          38
-        ],
-        "model": [
-          39,
-          153
-        ],
-        "typical": [
-          40
-        ],
-        "for": [
-          41,
-          90,
-          106,
-          150
-        ],
-        "complex": [
-          43
-        ],
-        "desert": [
-          44
-        ],
-        "environment.": [
-          45
-        ],
-        "The": [
-          46
-        ],
-        "time-depth": [
-          47
-        ],
-        "curves": [
-          48
-        ],
-        "extracted": [
-          49
-        ],
-        "from": [
-          50
-        ],
-        "the": [
-          51,
-          63,
-          79,
-          94,
-          99,
-          110,
-          114,
-          124,
-          151
-        ],
-        "simulated": [
-          52
-        ],
-        "records": [
-          56
-        ],
-        "produce": [
-          57
-        ],
-        "comparable": [
-          58
-        ],
-        "results.": [
-          59
-        ],
-        "further": [
-          61
-        ],
-        "analyze": [
-          62
-        ],
-        "effect": [
-          64
-        ],
-        "acquisition": [
-          67
-        ],
-        "parameters": [
-          68
-        ],
-        "source": [
-          70,
-          101,
-          125
-        ],
-        "offset": [
-          71,
-          102,
-          126
-        ],
-        "on": [
-          72
-        ],
-        "traveltimes": [
-          73
-        ],
-        "inverted": [
-          75
-        ],
-        "velocities.": [
-          76
-        ],
-        "show": [
-          78
-        ],
-        "importance": [
-          80
-        ],
-        "using": [
-          82
-        ],
-        "small": [
-          84
-        ],
-        "gauge": [
-          85,
-          121
-        ],
-        "length": [
-          86,
-          122
-        ],
-        "1-2": [
-          88
-        ],
-        "accurate": [
-          91,
-          140
-        ],
-        "characterization": [
-          92
-        ],
-        "shallowest": [
-          95
-        ],
-        "m.": [
-          97
-        ],
-        "Likewise,": [
-          98
-        ],
-        "smallest": [
-          100
-        ],
-        "should": [
-          103
-        ],
-        "be": [
-          104
-        ],
-        "used": [
-          105
-        ],
-        "this": [
-          107
-        ],
-        "section.": [
-          108
-        ],
-        "In": [
-          109
-        ],
-        "deeper": [
-          111
-        ],
-        "portion": [
-          112
-        ],
-        "survey,": [
-          115
-        ],
-        "below": [
-          116
-        ],
-        "depth,": [
-          119
-        ],
-        "larger": [
-          120
-        ],
-        "become": [
-          127
-        ],
-        "acceptable.": [
-          128
-        ],
-        "A": [
-          129
-        ],
-        "moderate": [
-          134
-        ],
-        "GL": [
-          135
-        ],
-        "allows": [
-          139
-        ],
-        "delineation": [
-          141
-        ],
-        "alternating": [
-          143
-        ],
-        "thin": [
-          144
-        ],
-        "high": [
-          145
-        ],
-        "low-velocity": [
-          147
-        ],
-        "layers": [
-          148
-        ],
-        "important": [
-          149
-        ],
-        "robust": [
-          152
-        ],
-        "building": [
-          154
-        ],
-        "higher-resolution": [
-          156
-        ],
-        "initial": [
-          157
-        ],
-        "models.": [
-          158
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 1
         }
       ],
       "updated_date": "2026-07-29T14:22:42.915294",
@@ -14025,16 +13292,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4300000071525574,
           "id": "https://metadata.un.org/sdg/12",
-          "display_name": "Responsible consumption and production",
-          "score": 0.4300000071525574
+          "display_name": "Responsible consumption and production"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -14949,16 +14216,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6600000262260437,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.6600000262260437
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -15182,6 +14449,818 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W3197016850",
+      "doi": "https://doi.org/10.1190/segam2021-3567899.1",
+      "title": "Optimal acquisition parameters for smart DAS uphole survey in a desert environment",
+      "display_name": "Optimal acquisition parameters for smart DAS uphole survey in a desert environment",
+      "publication_year": 2021,
+      "publication_date": "2021-09-01",
+      "ids": {
+        "openalex": "https://openalex.org/W3197016850",
+        "doi": "https://doi.org/10.1190/segam2021-3567899.1",
+        "mag": "3197016850"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1190/segam2021-3567899.1",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1190/segam2021-3567899.1",
+        "pdf_url": null,
+        "source": null,
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
+        "raw_type": "proceedings-article"
+      },
+      "type": "conference-paper",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5052123503",
+            "display_name": "Ezzedeen Alfataierge",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Ezzedeen Alfataierge",
+          "raw_affiliation_strings": [
+            "1 Saudi Aramco",
+            "Saudi Aramco"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1 Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5066312252",
+            "display_name": "Moneera Alsharif",
+            "orcid": null
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Moneera Alsharif",
+          "raw_affiliation_strings": [
+            "1 Saudi Aramco",
+            "Saudi Aramco"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1 Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "middle",
+          "author": {
+            "id": "https://openalex.org/A5067998463",
+            "display_name": "Andrey Bakulin",
+            "orcid": "https://orcid.org/0000-0002-6638-7821"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Andrey Bakulin",
+          "raw_affiliation_strings": [
+            "1 Saudi Aramco",
+            "Saudi Aramco"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "1 Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5033742122",
+            "display_name": "Anton Egorov",
+            "orcid": "https://orcid.org/0000-0001-9139-6191"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I62856769",
+              "display_name": "Saudi Aramco (United States)",
+              "ror": "https://ror.org/035n7q728",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210143841",
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ],
+          "countries": [
+            "US"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Anton Egorov",
+          "raw_affiliation_strings": [
+            "2 Aramco Innovations LLC",
+            "Aramco Innovations LLC"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "2 Aramco Innovations LLC",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Aramco Innovations LLC",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I62856769"
+      ],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 1.2981,
+      "has_fulltext": false,
+      "cited_by_count": 3,
+      "citation_normalized_percentile": {
+        "value": 0.74613186,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 94
+      },
+      "biblio": {
+        "volume": "1",
+        "issue": null,
+        "first_page": "493",
+        "last_page": "497"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11609",
+        "display_name": "Geophysical Methods and Applications",
+        "score": 0.9991999864578247,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2212",
+          "display_name": "Ocean Engineering"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11609",
+          "display_name": "Geophysical Methods and Applications",
+          "score": 0.9991999864578247,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2212",
+            "display_name": "Ocean Engineering"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10271",
+          "display_name": "Seismic Imaging and Inversion Techniques",
+          "score": 0.9983000159263611,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T11757",
+          "display_name": "Seismic Waves and Analysis",
+          "score": 0.9925000071525574,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/computer-science",
+          "display_name": "Computer science",
+          "score": 0.561474084854126
+        },
+        {
+          "id": "https://openalex.org/keywords/desert",
+          "display_name": "Desert (philosophy)",
+          "score": 0.4997217655181885
+        },
+        {
+          "id": "https://openalex.org/keywords/political-science",
+          "display_name": "Political science",
+          "score": 0.06486046314239502
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C41008148",
+          "wikidata": "https://www.wikidata.org/wiki/Q21198",
+          "display_name": "Computer science",
+          "level": 0,
+          "score": 0.561474084854126
+        },
+        {
+          "id": "https://openalex.org/C2776130869",
+          "wikidata": "https://www.wikidata.org/wiki/Q1361649",
+          "display_name": "Desert (philosophy)",
+          "level": 2,
+          "score": 0.4997217655181885
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.06486046314239502
+        },
+        {
+          "id": "https://openalex.org/C199539241",
+          "wikidata": "https://www.wikidata.org/wiki/Q7748",
+          "display_name": "Law",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1190/segam2021-3567899.1",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1190/segam2021-3567899.1",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
+          "raw_type": "proceedings-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 14,
+      "referenced_works": [
+        "https://openalex.org/W1850977552",
+        "https://openalex.org/W1900713400",
+        "https://openalex.org/W1977392818",
+        "https://openalex.org/W1988880858",
+        "https://openalex.org/W2041778458",
+        "https://openalex.org/W2062305768",
+        "https://openalex.org/W2108802207",
+        "https://openalex.org/W2129271915",
+        "https://openalex.org/W2171328160",
+        "https://openalex.org/W2593634157",
+        "https://openalex.org/W2769680008",
+        "https://openalex.org/W2889966709",
+        "https://openalex.org/W3089972992",
+        "https://openalex.org/W3094660067"
+      ],
+      "related_works": [
+        "https://openalex.org/W4391375266",
+        "https://openalex.org/W2748952813",
+        "https://openalex.org/W4394954532",
+        "https://openalex.org/W4300110411",
+        "https://openalex.org/W3198882691",
+        "https://openalex.org/W2807379615",
+        "https://openalex.org/W2142525752",
+        "https://openalex.org/W4251533150",
+        "https://openalex.org/W4237787509",
+        "https://openalex.org/W1592798874"
+      ],
+      "abstract_inverted_index": {
+        "6": [
+          137
+        ],
+        "50": [
+          96,
+          117
+        ],
+        "300": [
+          30
+        ],
+        "We": [
+          0,
+          21,
+          33,
+          60,
+          77
+        ],
+        "conduct": [
+          1
+        ],
+        "detailed": [
+          2
+        ],
+        "modeling": [
+          3
+        ],
+        "and": [
+          4,
+          24,
+          54,
+          69,
+          74,
+          123,
+          146
+        ],
+        "evaluation": [
+          5
+        ],
+        "of": [
+          6,
+          65,
+          81,
+          87,
+          93,
+          113,
+          136,
+          142,
+          155
+        ],
+        "a": [
+          7,
+          28,
+          35,
+          42,
+          83,
+          133
+        ],
+        "smart": [
+          8
+        ],
+        "DAS": [
+          9,
+          23,
+          53,
+          66,
+          130
+        ],
+        "uphole": [
+          10
+        ],
+        "survey": [
+          11,
+          131
+        ],
+        "that": [
+          12
+        ],
+        "uses": [
+          13
+        ],
+        "Distributed": [
+          14
+        ],
+        "Acoustic": [
+          15
+        ],
+        "Sensing": [
+          16
+        ],
+        "(DAS)": [
+          17
+        ],
+        "with": [
+          18,
+          132
+        ],
+        "cemented": [
+          19
+        ],
+        "fiber.": [
+          20
+        ],
+        "simulate": [
+          22
+        ],
+        "geophone": [
+          25,
+          55
+        ],
+        "surveys": [
+          26
+        ],
+        "in": [
+          27
+        ],
+        "deep": [
+          29
+        ],
+        "m": [
+          31,
+          89,
+          118,
+          138
+        ],
+        "uphole.": [
+          32
+        ],
+        "use": [
+          34
+        ],
+        "realistic": [
+          36
+        ],
+        "elastic": [
+          37
+        ],
+        "near-surface": [
+          38
+        ],
+        "model": [
+          39,
+          153
+        ],
+        "typical": [
+          40
+        ],
+        "for": [
+          41,
+          90,
+          106,
+          150
+        ],
+        "complex": [
+          43
+        ],
+        "desert": [
+          44
+        ],
+        "environment.": [
+          45
+        ],
+        "The": [
+          46
+        ],
+        "time-depth": [
+          47
+        ],
+        "curves": [
+          48
+        ],
+        "extracted": [
+          49
+        ],
+        "from": [
+          50
+        ],
+        "the": [
+          51,
+          63,
+          79,
+          94,
+          99,
+          110,
+          114,
+          124,
+          151
+        ],
+        "simulated": [
+          52
+        ],
+        "records": [
+          56
+        ],
+        "produce": [
+          57
+        ],
+        "comparable": [
+          58
+        ],
+        "results.": [
+          59
+        ],
+        "further": [
+          61
+        ],
+        "analyze": [
+          62
+        ],
+        "effect": [
+          64
+        ],
+        "acquisition": [
+          67
+        ],
+        "parameters": [
+          68
+        ],
+        "source": [
+          70,
+          101,
+          125
+        ],
+        "offset": [
+          71,
+          102,
+          126
+        ],
+        "on": [
+          72
+        ],
+        "traveltimes": [
+          73
+        ],
+        "inverted": [
+          75
+        ],
+        "velocities.": [
+          76
+        ],
+        "show": [
+          78
+        ],
+        "importance": [
+          80
+        ],
+        "using": [
+          82
+        ],
+        "small": [
+          84
+        ],
+        "gauge": [
+          85,
+          121
+        ],
+        "length": [
+          86,
+          122
+        ],
+        "1-2": [
+          88
+        ],
+        "accurate": [
+          91,
+          140
+        ],
+        "characterization": [
+          92
+        ],
+        "shallowest": [
+          95
+        ],
+        "m.": [
+          97
+        ],
+        "Likewise,": [
+          98
+        ],
+        "smallest": [
+          100
+        ],
+        "should": [
+          103
+        ],
+        "be": [
+          104
+        ],
+        "used": [
+          105
+        ],
+        "this": [
+          107
+        ],
+        "section.": [
+          108
+        ],
+        "In": [
+          109
+        ],
+        "deeper": [
+          111
+        ],
+        "portion": [
+          112
+        ],
+        "survey,": [
+          115
+        ],
+        "below": [
+          116
+        ],
+        "depth,": [
+          119
+        ],
+        "larger": [
+          120
+        ],
+        "become": [
+          127
+        ],
+        "acceptable.": [
+          128
+        ],
+        "A": [
+          129
+        ],
+        "moderate": [
+          134
+        ],
+        "GL": [
+          135
+        ],
+        "allows": [
+          139
+        ],
+        "delineation": [
+          141
+        ],
+        "alternating": [
+          143
+        ],
+        "thin": [
+          144
+        ],
+        "high": [
+          145
+        ],
+        "low-velocity": [
+          147
+        ],
+        "layers": [
+          148
+        ],
+        "important": [
+          149
+        ],
+        "robust": [
+          152
+        ],
+        "building": [
+          154
+        ],
+        "higher-resolution": [
+          156
+        ],
+        "initial": [
+          157
+        ],
+        "models.": [
+          158
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 1
+        }
+      ],
+      "updated_date": "2026-09-03T10:48:47.769340",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W4291718825",
       "doi": "https://doi.org/10.1190/image2022-3735871.1",
       "title": "Acquisition trial of deep smart DAS uphole: Evaluating high-productivity drilling with dual rotary and fiber cable deployment",
@@ -15198,26 +15277,13 @@
         "is_oa": false,
         "landing_page_url": "https://doi.org/10.1190/image2022-3735871.1",
         "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S4363604378",
-          "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "conference"
-        },
+        "source": null,
         "license": null,
         "license_id": null,
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
-        "raw_source_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+        "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
         "raw_type": "proceedings-article"
       },
       "type": "conference-paper",
@@ -15257,10 +15323,17 @@
           "is_corresponding": false,
           "raw_author_name": "Andrey Bakulin",
           "raw_affiliation_strings": [
+            "1 Saudi Aramco",
             "Saudi Aramco"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
@@ -15295,10 +15368,17 @@
           "is_corresponding": false,
           "raw_author_name": "Ezzedeen Alfataierge",
           "raw_affiliation_strings": [
+            "1 Saudi Aramco",
             "Saudi Aramco"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 Saudi Aramco",
+              "institution_ids": [
+                "https://openalex.org/I62856769"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Aramco",
               "institution_ids": [
@@ -15314,15 +15394,35 @@
             "display_name": "Richard Berquist",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210105687",
+              "display_name": "Energoservis (Czechia)",
+              "ror": "https://ror.org/01b3d1c61",
+              "country_code": "CZ",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210105687"
+              ]
+            }
+          ],
+          "countries": [
+            "CZ"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Richard Berquist",
           "raw_affiliation_strings": [
+            "2 Geoservices",
             "Geoservices"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "2 Geoservices",
+              "institution_ids": [
+                "https://openalex.org/I4210105687"
+              ]
+            },
             {
               "raw_affiliation_string": "Geoservices",
               "institution_ids": []
@@ -15336,15 +15436,35 @@
             "display_name": "Francois Hermal",
             "orcid": null
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I4210140671",
+              "display_name": "Argans (United Kingdom)",
+              "ror": "https://ror.org/04mmhym95",
+              "country_code": "GB",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210140671"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Francois Hermal",
           "raw_affiliation_strings": [
+            "3 ARGAS",
             "ARGAS"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "3 ARGAS",
+              "institution_ids": [
+                "https://openalex.org/I4210140671"
+              ]
+            },
             {
               "raw_affiliation_string": "ARGAS",
               "institution_ids": []
@@ -15353,8 +15473,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -15363,16 +15483,16 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.57497612,
+        "value": 0.57544974,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 94
       },
       "biblio": {
-        "volume": null,
+        "volume": "1",
         "issue": null,
         "first_page": "602",
         "last_page": "606"
@@ -15634,26 +15754,13 @@
           "is_oa": false,
           "landing_page_url": "https://doi.org/10.1190/image2022-3735871.1",
           "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4363604378",
-            "display_name": "Second International Meeting for Applied Geoscience &amp; Energy",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "conference"
-          },
+          "source": null,
           "license": null,
           "license_id": null,
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
-          "raw_source_name": "Second International Meeting for Applied Geoscience &amp; Energy",
+          "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
           "raw_type": "proceedings-article"
         }
       ],
@@ -15662,8 +15769,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -16101,7 +16208,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-29T14:22:42.915294",
+      "updated_date": "2026-09-03T10:48:47.769340",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16661,16 +16768,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.7200000286102295,
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities",
-          "score": 0.7200000286102295
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -17390,8 +17497,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -18352,16 +18459,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8199999928474426,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8199999928474426
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -19521,8 +19628,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19902,16 +20009,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8100000023841858,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8100000023841858
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -20519,8 +20626,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21179,8 +21286,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21944,8 +22051,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -22700,16 +22807,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6399999856948853,
           "id": "https://metadata.un.org/sdg/13",
-          "display_name": "Climate action",
-          "score": 0.6399999856948853
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -23454,16 +23561,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6299999952316284,
           "id": "https://metadata.un.org/sdg/11",
-          "display_name": "Sustainable cities and communities",
-          "score": 0.6299999952316284
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -24389,8 +24496,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 7,
@@ -25377,8 +25484,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 4,
@@ -26346,8 +26453,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -26976,16 +27083,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.4758980870246887,
           "id": "https://metadata.un.org/sdg/6",
-          "display_name": "Clean water and sanitation",
-          "score": 0.4758980870246887
+          "display_name": "Clean water and sanitation"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 13,
@@ -28185,8 +28292,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 34,

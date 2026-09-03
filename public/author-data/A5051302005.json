@@ -2556,8 +2556,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284
         }
       ],
@@ -4242,8 +4242,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -5810,8 +5810,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716
         }
       ],
@@ -6621,8 +6621,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8399999737739563
         }
       ],
@@ -7764,8 +7764,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.47999998927116394
         }
       ],
@@ -8860,8 +8860,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13",
           "score": 0.44999998807907104
         }
       ],
@@ -9721,8 +9721,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284
         }
       ],
@@ -10925,8 +10925,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284
         }
       ],
@@ -11642,8 +11642,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6600000262260437
         }
       ],
@@ -14804,6 +14804,557 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W3119778467",
+      "doi": "https://doi.org/10.1016/j.gca.2020.12.024",
+      "title": "Combining clumped isotope and trace element analysis to constrain potential kinetic effects in calcite",
+      "display_name": "Combining clumped isotope and trace element analysis to constrain potential kinetic effects in calcite",
+      "publication_year": 2021,
+      "publication_date": "2021-01-05",
+      "ids": {
+        "openalex": "https://openalex.org/W3119778467",
+        "doi": "https://doi.org/10.1016/j.gca.2020.12.024",
+        "mag": "3119778467"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1016/j.gca.2020.12.024",
+        "is_oa": false,
+        "landing_page_url": "https://doi.org/10.1016/j.gca.2020.12.024",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S7538555",
+          "display_name": "Geochimica et Cosmochimica Acta",
+          "issn_l": "0016-7037",
+          "issn": [
+            "0016-7037",
+            "1872-9533"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": null,
+        "license_id": null,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Geochimica et Cosmochimica Acta",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5051302005",
+            "display_name": "Adhipa Herlambang",
+            "orcid": "https://orcid.org/0000-0002-0583-7438"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I47508984",
+              "display_name": "Imperial College London",
+              "ror": "https://ror.org/041kmwe10",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I47508984"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Adhipa Herlambang",
+          "raw_affiliation_strings": [
+            "Department of Earth Science and Engineering, Imperial College London, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Science and Engineering, Imperial College London, UK",
+              "institution_ids": [
+                "https://openalex.org/I47508984"
+              ]
+            }
+          ]
+        },
+        {
+          "author_position": "last",
+          "author": {
+            "id": "https://openalex.org/A5081422106",
+            "display_name": "Cédric M. John",
+            "orcid": "https://orcid.org/0000-0001-9711-1548"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I47508984",
+              "display_name": "Imperial College London",
+              "ror": "https://ror.org/041kmwe10",
+              "country_code": "GB",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I47508984"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": false,
+          "raw_author_name": "Cédric M. John",
+          "raw_affiliation_strings": [
+            "Department of Earth Science and Engineering, Imperial College London, UK"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Earth Science and Engineering, Imperial College London, UK",
+              "institution_ids": [
+                "https://openalex.org/I47508984"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5051302005"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I47508984"
+      ],
+      "apc_list": {
+        "value": 3250,
+        "currency": "USD",
+        "value_usd": 3250
+      },
+      "apc_paid": null,
+      "fwci": 0.4732,
+      "has_fulltext": false,
+      "cited_by_count": 5,
+      "citation_normalized_percentile": {
+        "value": 0.55586811,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 96
+      },
+      "biblio": {
+        "volume": "296",
+        "issue": null,
+        "first_page": "117",
+        "last_page": "130"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10017",
+        "display_name": "Geology and Paleoclimatology Research",
+        "score": 0.9986000061035156,
+        "subfield": {
+          "id": "https://openalex.org/subfields/1902",
+          "display_name": "Atmospheric Science"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/19",
+          "display_name": "Earth and Planetary Sciences"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10017",
+          "display_name": "Geology and Paleoclimatology Research",
+          "score": 0.9986000061035156,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1902",
+            "display_name": "Atmospheric Science"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9984999895095825,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10001",
+          "display_name": "Geological and Geochemical Analysis",
+          "score": 0.998199999332428,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1908",
+            "display_name": "Geophysics"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/calcite",
+          "display_name": "Calcite",
+          "score": 0.9528555870056152
+        },
+        {
+          "id": "https://openalex.org/keywords/trace-element",
+          "display_name": "Trace element",
+          "score": 0.6764853000640869
+        },
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.5912471413612366
+        },
+        {
+          "id": "https://openalex.org/keywords/isotope",
+          "display_name": "Isotope",
+          "score": 0.5460196137428284
+        },
+        {
+          "id": "https://openalex.org/keywords/carbonate",
+          "display_name": "Carbonate",
+          "score": 0.5266233086585999
+        },
+        {
+          "id": "https://openalex.org/keywords/mineralogy",
+          "display_name": "Mineralogy",
+          "score": 0.47843506932258606
+        },
+        {
+          "id": "https://openalex.org/keywords/stable-isotope-ratio",
+          "display_name": "Stable isotope ratio",
+          "score": 0.4511042833328247
+        },
+        {
+          "id": "https://openalex.org/keywords/rare-earth-element",
+          "display_name": "Rare-earth element",
+          "score": 0.4398387670516968
+        },
+        {
+          "id": "https://openalex.org/keywords/isotope-fractionation",
+          "display_name": "Isotope fractionation",
+          "score": 0.42612358927726746
+        },
+        {
+          "id": "https://openalex.org/keywords/geochemistry",
+          "display_name": "Geochemistry",
+          "score": 0.3378618359565735
+        },
+        {
+          "id": "https://openalex.org/keywords/chemistry",
+          "display_name": "Chemistry",
+          "score": 0.23599863052368164
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2780191791",
+          "wikidata": "https://www.wikidata.org/wiki/Q171917",
+          "display_name": "Calcite",
+          "level": 2,
+          "score": 0.9528555870056152
+        },
+        {
+          "id": "https://openalex.org/C34682378",
+          "wikidata": "https://www.wikidata.org/wiki/Q351792",
+          "display_name": "Trace element",
+          "level": 2,
+          "score": 0.6764853000640869
+        },
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.5912471413612366
+        },
+        {
+          "id": "https://openalex.org/C164304813",
+          "wikidata": "https://www.wikidata.org/wiki/Q25276",
+          "display_name": "Isotope",
+          "level": 2,
+          "score": 0.5460196137428284
+        },
+        {
+          "id": "https://openalex.org/C2780659211",
+          "wikidata": "https://www.wikidata.org/wiki/Q181699",
+          "display_name": "Carbonate",
+          "level": 2,
+          "score": 0.5266233086585999
+        },
+        {
+          "id": "https://openalex.org/C199289684",
+          "wikidata": "https://www.wikidata.org/wiki/Q83353",
+          "display_name": "Mineralogy",
+          "level": 1,
+          "score": 0.47843506932258606
+        },
+        {
+          "id": "https://openalex.org/C22117777",
+          "wikidata": "https://www.wikidata.org/wiki/Q17148629",
+          "display_name": "Stable isotope ratio",
+          "level": 2,
+          "score": 0.4511042833328247
+        },
+        {
+          "id": "https://openalex.org/C2777615417",
+          "wikidata": "https://www.wikidata.org/wiki/Q190444",
+          "display_name": "Rare-earth element",
+          "level": 3,
+          "score": 0.4398387670516968
+        },
+        {
+          "id": "https://openalex.org/C2779334269",
+          "wikidata": "https://www.wikidata.org/wiki/Q3080293",
+          "display_name": "Isotope fractionation",
+          "level": 3,
+          "score": 0.42612358927726746
+        },
+        {
+          "id": "https://openalex.org/C17409809",
+          "wikidata": "https://www.wikidata.org/wiki/Q161764",
+          "display_name": "Geochemistry",
+          "level": 1,
+          "score": 0.3378618359565735
+        },
+        {
+          "id": "https://openalex.org/C185592680",
+          "wikidata": "https://www.wikidata.org/wiki/Q2329",
+          "display_name": "Chemistry",
+          "level": 0,
+          "score": 0.23599863052368164
+        },
+        {
+          "id": "https://openalex.org/C2983155866",
+          "wikidata": "https://www.wikidata.org/wiki/Q7294540",
+          "display_name": "Rare earth",
+          "level": 2,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C178790620",
+          "wikidata": "https://www.wikidata.org/wiki/Q11351",
+          "display_name": "Organic chemistry",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C121332964",
+          "wikidata": "https://www.wikidata.org/wiki/Q413",
+          "display_name": "Physics",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C62520636",
+          "wikidata": "https://www.wikidata.org/wiki/Q944",
+          "display_name": "Quantum mechanics",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.1016/j.gca.2020.12.024",
+          "is_oa": false,
+          "landing_page_url": "https://doi.org/10.1016/j.gca.2020.12.024",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S7538555",
+            "display_name": "Geochimica et Cosmochimica Acta",
+            "issn_l": "0016-7037",
+            "issn": [
+              "0016-7037",
+              "1872-9533"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320990",
+            "host_organization_name": "Elsevier BV",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320990"
+            ],
+            "host_organization_lineage_names": [
+              "Elsevier BV"
+            ],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Geochimica et Cosmochimica Acta",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": null,
+      "sustainable_development_goals": [],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "grobid_xml": false,
+        "pdf": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 68,
+      "referenced_works": [
+        "https://openalex.org/W121857346",
+        "https://openalex.org/W1547907389",
+        "https://openalex.org/W1913208140",
+        "https://openalex.org/W1974404118",
+        "https://openalex.org/W1980645312",
+        "https://openalex.org/W1981825598",
+        "https://openalex.org/W1981926445",
+        "https://openalex.org/W1996167059",
+        "https://openalex.org/W1998451426",
+        "https://openalex.org/W2008281306",
+        "https://openalex.org/W2014103906",
+        "https://openalex.org/W2015259745",
+        "https://openalex.org/W2017908668",
+        "https://openalex.org/W2017913935",
+        "https://openalex.org/W2019768323",
+        "https://openalex.org/W2026298114",
+        "https://openalex.org/W2028773561",
+        "https://openalex.org/W2032435490",
+        "https://openalex.org/W2033480865",
+        "https://openalex.org/W2036887905",
+        "https://openalex.org/W2039844111",
+        "https://openalex.org/W2041850463",
+        "https://openalex.org/W2047922774",
+        "https://openalex.org/W2050846974",
+        "https://openalex.org/W2057064240",
+        "https://openalex.org/W2060341446",
+        "https://openalex.org/W2061658708",
+        "https://openalex.org/W2064290524",
+        "https://openalex.org/W2076196781",
+        "https://openalex.org/W2082422470",
+        "https://openalex.org/W2083371641",
+        "https://openalex.org/W2085747978",
+        "https://openalex.org/W2089846178",
+        "https://openalex.org/W2092868494",
+        "https://openalex.org/W2094631660",
+        "https://openalex.org/W2101763605",
+        "https://openalex.org/W2102934491",
+        "https://openalex.org/W2103381555",
+        "https://openalex.org/W2106839072",
+        "https://openalex.org/W2118131194",
+        "https://openalex.org/W2121761338",
+        "https://openalex.org/W2122535176",
+        "https://openalex.org/W2129296842",
+        "https://openalex.org/W2132295818",
+        "https://openalex.org/W2133060148",
+        "https://openalex.org/W2140488683",
+        "https://openalex.org/W2141655611",
+        "https://openalex.org/W2146322720",
+        "https://openalex.org/W2151103985",
+        "https://openalex.org/W2153669645",
+        "https://openalex.org/W2157468609",
+        "https://openalex.org/W2166646125",
+        "https://openalex.org/W2237706296",
+        "https://openalex.org/W2517123774",
+        "https://openalex.org/W2518194862",
+        "https://openalex.org/W2527429662",
+        "https://openalex.org/W2605884431",
+        "https://openalex.org/W2622268643",
+        "https://openalex.org/W2887611393",
+        "https://openalex.org/W2911893008",
+        "https://openalex.org/W2916397859",
+        "https://openalex.org/W2945220907",
+        "https://openalex.org/W2947366632",
+        "https://openalex.org/W2960608112",
+        "https://openalex.org/W2979898295",
+        "https://openalex.org/W2980369384",
+        "https://openalex.org/W6882423053",
+        "https://openalex.org/W7064968112"
+      ],
+      "related_works": [
+        "https://openalex.org/W4312265279",
+        "https://openalex.org/W2887611393",
+        "https://openalex.org/W3130175605",
+        "https://openalex.org/W3202242928",
+        "https://openalex.org/W2354005919",
+        "https://openalex.org/W3125371634",
+        "https://openalex.org/W321972238",
+        "https://openalex.org/W2049102839",
+        "https://openalex.org/W2095533133",
+        "https://openalex.org/W2043471486"
+      ],
+      "abstract_inverted_index": null,
+      "counts_by_year": [
+        {
+          "year": 2024,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-08-28T12:50:07.497085",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W7155892393",
       "doi": "https://doi.org/10.1016/j.gloplacha.2026.105497",
       "title": "Global carbon cycling linked to eustatic changes in the aftermath of the early Aptian Oceanic Anoxic Event (OAE1a)",
@@ -15037,17 +15588,17 @@
         "currency": "USD",
         "value_usd": 3120
       },
-      "fwci": 11.9808,
+      "fwci": 11.7099,
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.97305274,
+        "value": 0.97231374,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
         "min": 93,
-        "max": 97
+        "max": 96
       },
       "biblio": {
         "volume": "263",
@@ -15396,8 +15947,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.581807553768158
         }
       ],
@@ -15446,7 +15997,7 @@
         {
           "id": "https://openalex.org/F4320322930",
           "display_name": "Ministerio de Ciencia e Innovación",
-          "ror": "https://ror.org/034900433"
+          "ror": null
         },
         {
           "id": "https://openalex.org/F4320323428",
@@ -16032,559 +16583,8 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-29T07:29:34.045763",
+      "updated_date": "2026-09-03T10:48:47.769340",
       "created_date": "2026-04-28T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W3119778467",
-      "doi": "https://doi.org/10.1016/j.gca.2020.12.024",
-      "title": "Combining clumped isotope and trace element analysis to constrain potential kinetic effects in calcite",
-      "display_name": "Combining clumped isotope and trace element analysis to constrain potential kinetic effects in calcite",
-      "publication_year": 2021,
-      "publication_date": "2021-01-05",
-      "ids": {
-        "openalex": "https://openalex.org/W3119778467",
-        "doi": "https://doi.org/10.1016/j.gca.2020.12.024",
-        "mag": "3119778467"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1016/j.gca.2020.12.024",
-        "is_oa": false,
-        "landing_page_url": "https://doi.org/10.1016/j.gca.2020.12.024",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S7538555",
-          "display_name": "Geochimica et Cosmochimica Acta",
-          "issn_l": "0016-7037",
-          "issn": [
-            "0016-7037",
-            "1872-9533"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320990",
-          "host_organization_name": "Elsevier BV",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320990"
-          ],
-          "host_organization_lineage_names": [
-            "Elsevier BV"
-          ],
-          "type": "journal"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Geochimica et Cosmochimica Acta",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5051302005",
-            "display_name": "Adhipa Herlambang",
-            "orcid": "https://orcid.org/0000-0002-0583-7438"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I47508984",
-              "display_name": "Imperial College London",
-              "ror": "https://ror.org/041kmwe10",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I47508984"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Adhipa Herlambang",
-          "raw_affiliation_strings": [
-            "Department of Earth Science and Engineering, Imperial College London, UK"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Science and Engineering, Imperial College London, UK",
-              "institution_ids": [
-                "https://openalex.org/I47508984"
-              ]
-            }
-          ]
-        },
-        {
-          "author_position": "last",
-          "author": {
-            "id": "https://openalex.org/A5081422106",
-            "display_name": "Cédric M. John",
-            "orcid": "https://orcid.org/0000-0001-9711-1548"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I47508984",
-              "display_name": "Imperial College London",
-              "ror": "https://ror.org/041kmwe10",
-              "country_code": "GB",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I47508984"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": false,
-          "raw_author_name": "Cédric M. John",
-          "raw_affiliation_strings": [
-            "Department of Earth Science and Engineering, Imperial College London, UK"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Department of Earth Science and Engineering, Imperial College London, UK",
-              "institution_ids": [
-                "https://openalex.org/I47508984"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5051302005"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I47508984"
-      ],
-      "apc_list": {
-        "value": 3250,
-        "currency": "USD",
-        "value_usd": 3250
-      },
-      "apc_paid": null,
-      "fwci": 0.4732,
-      "has_fulltext": false,
-      "cited_by_count": 5,
-      "citation_normalized_percentile": {
-        "value": 0.55586811,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 96
-      },
-      "biblio": {
-        "volume": "296",
-        "issue": null,
-        "first_page": "117",
-        "last_page": "130"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10017",
-        "display_name": "Geology and Paleoclimatology Research",
-        "score": 0.9986000061035156,
-        "subfield": {
-          "id": "https://openalex.org/subfields/1902",
-          "display_name": "Atmospheric Science"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/19",
-          "display_name": "Earth and Planetary Sciences"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10017",
-          "display_name": "Geology and Paleoclimatology Research",
-          "score": 0.9986000061035156,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1902",
-            "display_name": "Atmospheric Science"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9984999895095825,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10001",
-          "display_name": "Geological and Geochemical Analysis",
-          "score": 0.998199999332428,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1908",
-            "display_name": "Geophysics"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/calcite",
-          "display_name": "Calcite",
-          "score": 0.9528555870056152
-        },
-        {
-          "id": "https://openalex.org/keywords/trace-element",
-          "display_name": "Trace element",
-          "score": 0.6764853000640869
-        },
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.5912471413612366
-        },
-        {
-          "id": "https://openalex.org/keywords/isotope",
-          "display_name": "Isotope",
-          "score": 0.5460196137428284
-        },
-        {
-          "id": "https://openalex.org/keywords/carbonate",
-          "display_name": "Carbonate",
-          "score": 0.5266233086585999
-        },
-        {
-          "id": "https://openalex.org/keywords/mineralogy",
-          "display_name": "Mineralogy",
-          "score": 0.47843506932258606
-        },
-        {
-          "id": "https://openalex.org/keywords/stable-isotope-ratio",
-          "display_name": "Stable isotope ratio",
-          "score": 0.4511042833328247
-        },
-        {
-          "id": "https://openalex.org/keywords/rare-earth-element",
-          "display_name": "Rare-earth element",
-          "score": 0.4398387670516968
-        },
-        {
-          "id": "https://openalex.org/keywords/isotope-fractionation",
-          "display_name": "Isotope fractionation",
-          "score": 0.42612358927726746
-        },
-        {
-          "id": "https://openalex.org/keywords/geochemistry",
-          "display_name": "Geochemistry",
-          "score": 0.3378618359565735
-        },
-        {
-          "id": "https://openalex.org/keywords/chemistry",
-          "display_name": "Chemistry",
-          "score": 0.23599863052368164
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2780191791",
-          "wikidata": "https://www.wikidata.org/wiki/Q171917",
-          "display_name": "Calcite",
-          "level": 2,
-          "score": 0.9528555870056152
-        },
-        {
-          "id": "https://openalex.org/C34682378",
-          "wikidata": "https://www.wikidata.org/wiki/Q351792",
-          "display_name": "Trace element",
-          "level": 2,
-          "score": 0.6764853000640869
-        },
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.5912471413612366
-        },
-        {
-          "id": "https://openalex.org/C164304813",
-          "wikidata": "https://www.wikidata.org/wiki/Q25276",
-          "display_name": "Isotope",
-          "level": 2,
-          "score": 0.5460196137428284
-        },
-        {
-          "id": "https://openalex.org/C2780659211",
-          "wikidata": "https://www.wikidata.org/wiki/Q181699",
-          "display_name": "Carbonate",
-          "level": 2,
-          "score": 0.5266233086585999
-        },
-        {
-          "id": "https://openalex.org/C199289684",
-          "wikidata": "https://www.wikidata.org/wiki/Q83353",
-          "display_name": "Mineralogy",
-          "level": 1,
-          "score": 0.47843506932258606
-        },
-        {
-          "id": "https://openalex.org/C22117777",
-          "wikidata": "https://www.wikidata.org/wiki/Q17148629",
-          "display_name": "Stable isotope ratio",
-          "level": 2,
-          "score": 0.4511042833328247
-        },
-        {
-          "id": "https://openalex.org/C2777615417",
-          "wikidata": "https://www.wikidata.org/wiki/Q190444",
-          "display_name": "Rare-earth element",
-          "level": 3,
-          "score": 0.4398387670516968
-        },
-        {
-          "id": "https://openalex.org/C2779334269",
-          "wikidata": "https://www.wikidata.org/wiki/Q3080293",
-          "display_name": "Isotope fractionation",
-          "level": 3,
-          "score": 0.42612358927726746
-        },
-        {
-          "id": "https://openalex.org/C17409809",
-          "wikidata": "https://www.wikidata.org/wiki/Q161764",
-          "display_name": "Geochemistry",
-          "level": 1,
-          "score": 0.3378618359565735
-        },
-        {
-          "id": "https://openalex.org/C185592680",
-          "wikidata": "https://www.wikidata.org/wiki/Q2329",
-          "display_name": "Chemistry",
-          "level": 0,
-          "score": 0.23599863052368164
-        },
-        {
-          "id": "https://openalex.org/C2983155866",
-          "wikidata": "https://www.wikidata.org/wiki/Q7294540",
-          "display_name": "Rare earth",
-          "level": 2,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C178790620",
-          "wikidata": "https://www.wikidata.org/wiki/Q11351",
-          "display_name": "Organic chemistry",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C121332964",
-          "wikidata": "https://www.wikidata.org/wiki/Q413",
-          "display_name": "Physics",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C62520636",
-          "wikidata": "https://www.wikidata.org/wiki/Q944",
-          "display_name": "Quantum mechanics",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.1016/j.gca.2020.12.024",
-          "is_oa": false,
-          "landing_page_url": "https://doi.org/10.1016/j.gca.2020.12.024",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S7538555",
-            "display_name": "Geochimica et Cosmochimica Acta",
-            "issn_l": "0016-7037",
-            "issn": [
-              "0016-7037",
-              "1872-9533"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320990",
-            "host_organization_name": "Elsevier BV",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320990"
-            ],
-            "host_organization_lineage_names": [
-              "Elsevier BV"
-            ],
-            "type": "journal"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Geochimica et Cosmochimica Acta",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": null,
-      "sustainable_development_goals": [],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "grobid_xml": false,
-        "pdf": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 68,
-      "referenced_works": [
-        "https://openalex.org/W121857346",
-        "https://openalex.org/W1547907389",
-        "https://openalex.org/W1913208140",
-        "https://openalex.org/W1974404118",
-        "https://openalex.org/W1980645312",
-        "https://openalex.org/W1981825598",
-        "https://openalex.org/W1981926445",
-        "https://openalex.org/W1996167059",
-        "https://openalex.org/W1998451426",
-        "https://openalex.org/W2008281306",
-        "https://openalex.org/W2014103906",
-        "https://openalex.org/W2015259745",
-        "https://openalex.org/W2017908668",
-        "https://openalex.org/W2017913935",
-        "https://openalex.org/W2019768323",
-        "https://openalex.org/W2026298114",
-        "https://openalex.org/W2028773561",
-        "https://openalex.org/W2032435490",
-        "https://openalex.org/W2033480865",
-        "https://openalex.org/W2036887905",
-        "https://openalex.org/W2039844111",
-        "https://openalex.org/W2041850463",
-        "https://openalex.org/W2047922774",
-        "https://openalex.org/W2050846974",
-        "https://openalex.org/W2057064240",
-        "https://openalex.org/W2060341446",
-        "https://openalex.org/W2061658708",
-        "https://openalex.org/W2064290524",
-        "https://openalex.org/W2076196781",
-        "https://openalex.org/W2082422470",
-        "https://openalex.org/W2083371641",
-        "https://openalex.org/W2085747978",
-        "https://openalex.org/W2089846178",
-        "https://openalex.org/W2092868494",
-        "https://openalex.org/W2094631660",
-        "https://openalex.org/W2101763605",
-        "https://openalex.org/W2102934491",
-        "https://openalex.org/W2103381555",
-        "https://openalex.org/W2106839072",
-        "https://openalex.org/W2118131194",
-        "https://openalex.org/W2121761338",
-        "https://openalex.org/W2122535176",
-        "https://openalex.org/W2129296842",
-        "https://openalex.org/W2132295818",
-        "https://openalex.org/W2133060148",
-        "https://openalex.org/W2140488683",
-        "https://openalex.org/W2141655611",
-        "https://openalex.org/W2146322720",
-        "https://openalex.org/W2151103985",
-        "https://openalex.org/W2153669645",
-        "https://openalex.org/W2157468609",
-        "https://openalex.org/W2166646125",
-        "https://openalex.org/W2237706296",
-        "https://openalex.org/W2517123774",
-        "https://openalex.org/W2518194862",
-        "https://openalex.org/W2527429662",
-        "https://openalex.org/W2605884431",
-        "https://openalex.org/W2622268643",
-        "https://openalex.org/W2887611393",
-        "https://openalex.org/W2911893008",
-        "https://openalex.org/W2916397859",
-        "https://openalex.org/W2945220907",
-        "https://openalex.org/W2947366632",
-        "https://openalex.org/W2960608112",
-        "https://openalex.org/W2979898295",
-        "https://openalex.org/W2980369384",
-        "https://openalex.org/W6882423053",
-        "https://openalex.org/W7064968112"
-      ],
-      "related_works": [
-        "https://openalex.org/W4312265279",
-        "https://openalex.org/W2887611393",
-        "https://openalex.org/W3130175605",
-        "https://openalex.org/W3202242928",
-        "https://openalex.org/W2354005919",
-        "https://openalex.org/W3125371634",
-        "https://openalex.org/W321972238",
-        "https://openalex.org/W2049102839",
-        "https://openalex.org/W2095533133",
-        "https://openalex.org/W2043471486"
-      ],
-      "abstract_inverted_index": null,
-      "counts_by_year": [
-        {
-          "year": 2024,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-08-28T12:50:07.497085",
-      "created_date": "2025-10-10T00:00:00"
     },
     {
       "id": "https://openalex.org/W4412018459",
@@ -17207,8 +17207,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284
         }
       ],
@@ -17777,8 +17777,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
+          "id": "https://metadata.un.org/sdg/12",
           "score": 0.4699999988079071
         }
       ],
@@ -19588,8 +19588,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284
         }
       ],
@@ -20087,8 +20087,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.49000000953674316
         }
       ],
@@ -20787,8 +20787,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5600000023841858
         }
       ],
@@ -22196,8 +22196,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.4399999976158142
         }
       ],
@@ -22743,8 +22743,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284
         }
       ],
@@ -23969,8 +23969,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -27340,8 +27340,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853
         }
       ],
@@ -35108,8 +35108,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8341094851493835
         }
       ],
@@ -35937,8 +35937,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.866797149181366
         }
       ],
