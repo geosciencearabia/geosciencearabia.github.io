@@ -6430,7 +6430,7 @@
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
-        "raw_source_name": "Third International Meeting for Applied Geoscience &amp; Energy Expanded Abstracts",
+        "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
         "raw_type": "proceedings-article"
       },
       "type": "conference-paper",
@@ -6469,10 +6469,17 @@
           "is_corresponding": false,
           "raw_author_name": "Rayan Kanfar",
           "raw_affiliation_strings": [
+            "1 Stanford University;",
             "Stanford University;"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 Stanford University;",
+              "institution_ids": [
+                "https://openalex.org/I97018004"
+              ]
+            },
             {
               "raw_affiliation_string": "Stanford University;",
               "institution_ids": [
@@ -6499,18 +6506,50 @@
                 "https://openalex.org/I4210101890",
                 "https://openalex.org/I923382979"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4210115133",
+              "display_name": "ExxonMobil (United Kingdom)",
+              "ror": "https://ror.org/023g45t05",
+              "country_code": "GB",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210115133",
+                "https://openalex.org/I923382979"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I923382979",
+              "display_name": "ExxonMobil (United States)",
+              "ror": "https://ror.org/01xcepn55",
+              "country_code": "US",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I923382979"
+              ]
             }
           ],
           "countries": [
-            "DE"
+            "DE",
+            "GB",
+            "US"
           ],
           "is_corresponding": false,
           "raw_author_name": "Charles Breithaupt",
           "raw_affiliation_strings": [
+            "2 ExxonMobil",
             "ExxonMobil"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "2 ExxonMobil",
+              "institution_ids": [
+                "https://openalex.org/I4210101890",
+                "https://openalex.org/I4210115133",
+                "https://openalex.org/I923382979"
+              ]
+            },
             {
               "raw_affiliation_string": "ExxonMobil",
               "institution_ids": [
@@ -6544,10 +6583,17 @@
           "is_corresponding": false,
           "raw_author_name": "Tapan Mukerji",
           "raw_affiliation_strings": [
+            "1 Stanford University;",
             "Stanford University;"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "1 Stanford University;",
+              "institution_ids": [
+                "https://openalex.org/I97018004"
+              ]
+            },
             {
               "raw_affiliation_string": "Stanford University;",
               "institution_ids": [
@@ -6558,8 +6604,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
@@ -6568,13 +6614,13 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.4233871,
+        "value": 0.41689806,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": null,
       "biblio": {
-        "volume": "34",
+        "volume": "1",
         "issue": null,
         "first_page": "1044",
         "last_page": "1048"
@@ -6826,7 +6872,7 @@
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
-          "raw_source_name": "Third International Meeting for Applied Geoscience &amp; Energy Expanded Abstracts",
+          "raw_source_name": "International Meeting for Applied Geoscience &amp; Energy",
           "raw_type": "proceedings-article"
         }
       ],
@@ -7091,7 +7137,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-04T10:56:28.161419",
       "created_date": "2025-10-10T00:00:00"
     },
     {
