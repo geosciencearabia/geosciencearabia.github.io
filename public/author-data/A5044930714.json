@@ -265,7 +265,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000401,
+        "value": 0.00004,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -282,7 +282,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000348,
+        "value": 0.0000347,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -331,20 +331,20 @@
         }
       },
       {
-        "id": "https://openalex.org/T10421",
-        "display_name": "Pleistocene-Era Hominins and Archaeology",
-        "value": 0.0000152,
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "value": 0.0000151,
         "subfield": {
-          "id": "https://openalex.org/subfields/3314",
-          "display_name": "Anthropology"
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
         },
         "field": {
-          "id": "https://openalex.org/fields/33",
-          "display_name": "Social Sciences"
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
         },
         "domain": {
-          "id": "https://openalex.org/domains/2",
-          "display_name": "Social Sciences"
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
         }
       }
     ],
@@ -1884,11 +1884,11 @@
         "value_usd": 12690
       },
       "apc_paid": null,
-      "fwci": 115.2054,
+      "fwci": 115.7096,
       "has_fulltext": true,
       "cited_by_count": 190,
       "citation_normalized_percentile": {
-        "value": 0.99949451,
+        "value": 0.99949559,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2392,35 +2392,6 @@
           "raw_type": "Journal Article"
         },
         {
-          "id": "pmh:oai:openresearch-repository.anu.edu.au:1885/251554",
-          "is_oa": false,
-          "landing_page_url": "https://openresearch-repository.anu.edu.au/bitstream/1885/251554/3/01_Groucutt_Homo_sapiens_in_Arabia_by_2018.pdf.jpg",
-          "pdf_url": "https://openresearch-repository.anu.edu.au/bitstream/1885/251554/3/01_Groucutt_Homo_sapiens_in_Arabia_by_2018.pdf.jpg",
-          "source": {
-            "id": "https://openalex.org/S4306402539",
-            "display_name": "ANU Open Research (Australian National University)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I118347636",
-            "host_organization_name": "Australian National University",
-            "host_organization_lineage": [
-              "https://openalex.org/I118347636"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Nature Ecology &amp; Evolution",
-          "raw_type": "Journal article"
-        },
-        {
           "id": "pmh:oai:kar.kent.ac.uk:66671",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.1038/s41559-018-0518-2>)",
@@ -2653,6 +2624,35 @@
           "raw_type": "Journal article"
         },
         {
+          "id": "pmh:oai:pure.mpg.de:item_3052855",
+          "is_oa": false,
+          "landing_page_url": "http://hdl.handle.net/21.11116/0000-0003-FD92-B",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400654",
+            "display_name": "MPG.PuRe (Max Planck Society)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I149899117",
+            "host_organization_name": "Max Planck Society",
+            "host_organization_lineage": [
+              "https://openalex.org/I149899117"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
           "id": "pmh:oai:www.repository.cam.ac.uk:1810/278306",
           "is_oa": false,
           "landing_page_url": "https://www.repository.cam.ac.uk/handle/1810/278306",
@@ -2740,9 +2740,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -2799,8 +2799,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2797614480.pdf",
@@ -2961,7 +2961,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-03T10:48:47.769340",
+      "updated_date": "2026-09-05T08:02:43.246662",
       "created_date": "2018-04-24T00:00:00"
     },
     {
@@ -4333,9 +4333,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6200000047683716,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -4360,8 +4360,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2399942965.pdf",
@@ -5231,16 +5231,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5199999809265137,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -6336,16 +6336,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -7664,8 +7664,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 32,
@@ -9832,8 +9832,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 49,
@@ -10481,9 +10481,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5400000214576721,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -10495,8 +10495,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4254410303.pdf",
@@ -11512,8 +11512,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -11913,11 +11913,11 @@
         "currency": "EUR",
         "value_usd": 841
       },
-      "fwci": 0.0923,
+      "fwci": 0.0947,
       "has_fulltext": true,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.39053082,
+        "value": 0.40495603,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -12308,9 +12308,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.800000011920929,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -12349,8 +12349,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3203435426.pdf",
@@ -12848,7 +12848,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-22T07:51:19.307946",
+      "updated_date": "2026-09-05T08:02:43.246662",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13506,8 +13506,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 80,
@@ -14886,16 +14886,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8500000238418579,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -16464,9 +16464,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -16478,8 +16478,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -17140,16 +17140,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 50,
@@ -18566,9 +18566,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -18580,8 +18580,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3146973300.pdf",
@@ -19853,8 +19853,8 @@
         }
       ],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 77,
@@ -20505,16 +20505,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6899999976158142,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 29,
@@ -20893,8 +20893,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21286,13 +21286,13 @@
           },
           "institutions": [
             {
-              "id": "https://openalex.org/I2801843802",
-              "display_name": "Institut Gustave Roussy",
-              "ror": "https://ror.org/0321g0743",
-              "country_code": "FR",
-              "type": "facility",
+              "id": "https://openalex.org/I129774422",
+              "display_name": "University of Vienna",
+              "ror": "https://ror.org/03prydq77",
+              "country_code": "AT",
+              "type": "education",
               "lineage": [
-                "https://openalex.org/I2801843802"
+                "https://openalex.org/I129774422"
               ]
             },
             {
@@ -21307,21 +21307,21 @@
             }
           ],
           "countries": [
+            "AT",
             "FR"
           ],
           "is_corresponding": false,
           "raw_author_name": "Yves-Michel Le Nindre",
           "raw_affiliation_strings": [
-            "Geo-consultant (BRGM retired), 58 Rue Gustave Flaubert 45100, Orlans, France",
+            "UZA II) 1090 Vienna (retired ), Austria",
             "Geo-consultant (BRGM retired), 58 Rue Gustave Flaubert 45100, Orléans, France"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Geo-consultant (BRGM retired), 58 Rue Gustave Flaubert 45100, Orlans, France",
+              "raw_affiliation_string": "UZA II) 1090 Vienna (retired ), Austria",
               "institution_ids": [
-                "https://openalex.org/I2801843802",
-                "https://openalex.org/I4210158893"
+                "https://openalex.org/I129774422"
               ]
             },
             {
@@ -21350,23 +21350,41 @@
                 "https://openalex.org/I4210093967",
                 "https://openalex.org/I4210157192"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4210158893",
+              "display_name": "Bureau de Recherches Géologiques et Minières",
+              "ror": "https://ror.org/05hnb7x64",
+              "country_code": "FR",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I4210158893"
+              ]
             }
           ],
           "countries": [
+            "FR",
             "GB"
           ],
           "is_corresponding": false,
           "raw_author_name": "Roger Brett Davies",
           "raw_affiliation_strings": [
-            "Davies Geoconsulting (retired), Wintergreen House, Queen's Road, Harrogate, North Yorkshire, HG2 0HB, UK",
+            "Davies Geoconsulting (retired) , Wintergreen House , Queen's Road , Harrogate , North Yorkshire , HG2 0HB , UK",
+            "Geo-consultant (BRGM retired) , 58 Rue Gustave Flaubert 45100 , Orléans , France",
             "Davies Geoconsulting (retired) (United Kingdom)"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Davies Geoconsulting (retired), Wintergreen House, Queen's Road, Harrogate, North Yorkshire, HG2 0HB, UK",
+              "raw_affiliation_string": "Davies Geoconsulting (retired) , Wintergreen House , Queen's Road , Harrogate , North Yorkshire , HG2 0HB , UK",
               "institution_ids": [
                 "https://openalex.org/I4210093967"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Geo-consultant (BRGM retired) , 58 Rue Gustave Flaubert 45100 , Orléans , France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
               ]
             },
             {
@@ -21400,10 +21418,22 @@
           "is_corresponding": false,
           "raw_author_name": "Benoit Issautier",
           "raw_affiliation_strings": [
+            "BRGM , 3, Avenue Claude Guillemin , B.P. 36009 , 45060 , Orléans Cedex 2 , France",
+            "Comptes Rendus Géoscience Sciences de la Planète",
             "BRGM - Bureau de Recherches Géologiques et Minières (BRGM) (France)"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "BRGM , 3, Avenue Claude Guillemin , B.P. 36009 , 45060 , Orléans Cedex 2 , France",
+              "institution_ids": [
+                "https://openalex.org/I4210158893"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Comptes Rendus Géoscience Sciences de la Planète",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "BRGM - Bureau de Recherches Géologiques et Minières (BRGM) (France)",
               "institution_ids": [
@@ -21448,11 +21478,18 @@
           "is_corresponding": false,
           "raw_author_name": "Leopold Krystyn",
           "raw_affiliation_strings": [
+            "Dept. of Palaeontology (Geozentrum) , University of Vienna , Althanstrasse 14 , Josef-Holaubek-Platz 2 (",
             "Department of Palaeontology (Geozentrum Vienna) (Austria)",
             "University of Vienna [Vienna] (Universitätsring 1,  1010 Wien - Austria)"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Dept. of Palaeontology (Geozentrum) , University of Vienna , Althanstrasse 14 , Josef-Holaubek-Platz 2 (",
+              "institution_ids": [
+                "https://openalex.org/I129774422"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Palaeontology (Geozentrum Vienna) (Austria)",
               "institution_ids": [
@@ -21502,13 +21539,13 @@
           "is_corresponding": false,
           "raw_author_name": "Denis Vaslet",
           "raw_affiliation_strings": [
-            "Geo-consultant (BRGM retired), 275 Route Royale, 33240 La Lande de Pomerol, France",
+            "Geo-consultant (BRGM retired) , 275 Route Royale , 33240 La Lande de Pomerol , France",
             "BRGM - Bureau de Recherches Géologiques et Minières (BRGM) (France)"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Geo-consultant (BRGM retired), 275 Route Royale, 33240 La Lande de Pomerol, France",
+              "raw_affiliation_string": "Geo-consultant (BRGM retired) , 275 Route Royale , 33240 La Lande de Pomerol , France",
               "institution_ids": [
                 "https://openalex.org/I4210158893",
                 "https://openalex.org/I4693666"
@@ -21553,6 +21590,16 @@
                 "https://openalex.org/I4210097099",
                 "https://openalex.org/I4210148025"
               ]
+            },
+            {
+              "id": "https://openalex.org/I68947357",
+              "display_name": "Université de Strasbourg",
+              "ror": "https://ror.org/00pg6eq24",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I68947357"
+              ]
             }
           ],
           "countries": [
@@ -21561,16 +21608,22 @@
           "is_corresponding": false,
           "raw_author_name": "Bruno Vrielynck",
           "raw_affiliation_strings": [
-            "Institut des Sciences de la Terre de Paris (UMR 7193), Universit Pierre et Marie Curie (UPMC) (retired), France",
+            "François Chabaux (Institut Terre Environnement de Strasbourg ( UMR 7063-Unistra-CNRS-ENGEES) , Université de Strasbourg)",
+            "Institut des Sciences de la Terre de Paris ( UMR 7193) , Université Pierre et Marie Curie (UPMC) (retired) , France",
             "iSTeP - Institut des Sciences de la Terre de Paris (4, place Jussieu BP CC129 75252 PARIS CEDEX 05 - France)"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Institut des Sciences de la Terre de Paris (UMR 7193), Universit Pierre et Marie Curie (UPMC) (retired), France",
+              "raw_affiliation_string": "François Chabaux (Institut Terre Environnement de Strasbourg ( UMR 7063-Unistra-CNRS-ENGEES) , Université de Strasbourg)",
               "institution_ids": [
-                "https://openalex.org/I39804081",
-                "https://openalex.org/I4210097099"
+                "https://openalex.org/I68947357"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Institut des Sciences de la Terre de Paris ( UMR 7193) , Université Pierre et Marie Curie (UPMC) (retired) , France",
+              "institution_ids": [
+                "https://openalex.org/I39804081"
               ]
             },
             {
@@ -21590,6 +21643,30 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I39804081",
+              "display_name": "Sorbonne Université",
+              "ror": "https://ror.org/02en5vm52",
+              "country_code": "FR",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I39804081"
+              ]
+            },
+            {
+              "id": "https://openalex.org/I4210097099",
+              "display_name": "Institut des Sciences de la Terre de Paris",
+              "ror": "https://ror.org/00xagyq07",
+              "country_code": "FR",
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I1294671590",
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210097099",
+                "https://openalex.org/I4210148025"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210109070",
               "display_name": "Prince Mohammed bin Abdulaziz Hospital",
               "ror": "https://ror.org/01j5awv26",
@@ -21601,18 +21678,27 @@
             }
           ],
           "countries": [
+            "FR",
             "SA"
           ],
           "is_corresponding": false,
           "raw_author_name": "Abdullah Memesh",
           "raw_affiliation_strings": [
-            "Saudi Geological Survey, 54141, Ahmed bin Mohammed Al Ashab St., Jeddah 21514, Saudi Arabia",
+            "Institut des Sciences de la Terre -Paris (ISTeP) , Sorbonne Université) , Éric Calais (École normale supérieure , Département de Géosciences , Paris ) and",
+            "Saudi Geological Survey , 54141 , Ahmed bin Mohammed Al Ashab St. , Jeddah 21514 , Saudi Arabia",
             "SGS - Saudi Geological Survey (Jeddah - Saudi Arabia)"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Saudi Geological Survey, 54141, Ahmed bin Mohammed Al Ashab St., Jeddah 21514, Saudi Arabia",
+              "raw_affiliation_string": "Institut des Sciences de la Terre -Paris (ISTeP) , Sorbonne Université) , Éric Calais (École normale supérieure , Département de Géosciences , Paris ) and",
+              "institution_ids": [
+                "https://openalex.org/I39804081",
+                "https://openalex.org/I4210097099"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Saudi Geological Survey , 54141 , Ahmed bin Mohammed Al Ashab St. , Jeddah 21514 , Saudi Arabia",
               "institution_ids": [
                 "https://openalex.org/I4210109070"
               ]
@@ -21631,11 +21717,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.7931,
+      "fwci": 1.7867,
       "has_fulltext": true,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.85714286,
+        "value": 0.85701638,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -22136,8 +22222,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4385358246.pdf",
@@ -22809,7 +22895,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-02T18:50:13.731487",
+      "updated_date": "2026-09-05T08:02:43.246662",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -24693,8 +24779,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4416430946.pdf",
@@ -25768,8 +25854,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -26695,16 +26781,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -28061,8 +28147,8 @@
         }
       ],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415609376.pdf",
@@ -29319,8 +29405,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4415698517.pdf",
@@ -30184,8 +30270,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,

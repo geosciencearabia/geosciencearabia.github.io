@@ -12,9 +12,9 @@
     ],
     "full_name": "ABDULLAH MOHAMMED ALQUBALEE",
     "works_count": 52,
-    "cited_by_count": 471,
+    "cited_by_count": 472,
     "summary_stats": {
-      "2yr_mean_citedness": 2.888888888888889,
+      "2yr_mean_citedness": 2.9444444444444446,
       "h_index": 14,
       "i10_index": 19
     },
@@ -44,6 +44,21 @@
           2020,
           2019,
           2017
+        ]
+      },
+      {
+        "institution": {
+          "id": "https://openalex.org/I4210118538",
+          "ror": "https://ror.org/02em1tr51",
+          "display_name": "University of Petroleum",
+          "country_code": "ID",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I4210118538"
+          ]
+        },
+        "years": [
+          2020
         ]
       }
     ],
@@ -150,7 +165,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000669,
+        "value": 0.0000668,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -167,7 +182,7 @@
       {
         "id": "https://openalex.org/T11740",
         "display_name": "Geochemistry and Elemental Analysis",
-        "value": 0.0000417,
+        "value": 0.0000416,
         "subfield": {
           "id": "https://openalex.org/subfields/1906",
           "display_name": "Geochemistry and Petrology"
@@ -218,7 +233,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000361,
+        "value": 0.000036,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -312,7 +327,7 @@
         "year": 2024,
         "works_count": 8,
         "oa_works_count": 4,
-        "cited_by_count": 51
+        "cited_by_count": 52
       },
       {
         "year": 2025,
@@ -336,7 +351,7 @@
     ],
     "block_key": "a alqubalee",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5035537771",
-    "updated_date": "2026-09-01T12:18:12",
+    "updated_date": "2026-09-04T12:18:09",
     "created_date": "2019-08-13T00:00:00"
   },
   "works": [
