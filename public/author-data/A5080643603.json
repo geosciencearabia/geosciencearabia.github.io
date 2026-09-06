@@ -12,7 +12,7 @@
     ],
     "full_name": "Septriandi Asmaidi Chan",
     "works_count": 34,
-    "cited_by_count": 477,
+    "cited_by_count": 480,
     "summary_stats": {
       "2yr_mean_citedness": 1.8333333333333333,
       "h_index": 9,
@@ -183,7 +183,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0000389,
+        "value": 0.0000388,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -200,7 +200,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0000361,
+        "value": 0.000036,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -251,7 +251,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.0000186,
+        "value": 0.0000185,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -339,13 +339,13 @@
         "year": 2018,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 10
+        "cited_by_count": 11
       },
       {
         "year": 2019,
         "works_count": 1,
         "oa_works_count": 0,
-        "cited_by_count": 12
+        "cited_by_count": 13
       },
       {
         "year": 2020,
@@ -363,7 +363,7 @@
         "year": 2022,
         "works_count": 4,
         "oa_works_count": 2,
-        "cited_by_count": 47
+        "cited_by_count": 48
       },
       {
         "year": 2023,
@@ -399,7 +399,7 @@
     ],
     "block_key": "s chan",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5080643603",
-    "updated_date": "2026-08-29T12:19:58",
+    "updated_date": "2026-09-05T12:17:44",
     "created_date": "2018-12-11T00:00:00"
   },
   "works": [
@@ -21274,7 +21274,7 @@
         "raw_source_name": "Geological Society of America Abstracts with Programs",
         "raw_type": "proceedings-article"
       },
-      "type": "conference-paper",
+      "type": "conference-abstract",
       "indexed_in": [
         "crossref"
       ],
@@ -21352,11 +21352,18 @@
           "is_corresponding": false,
           "raw_author_name": "Aviandy W. Ismanto",
           "raw_affiliation_strings": [
+            "Geosciences Department , College of Petroleum Engineering and Geosciences , King Fahd University of Petroleum & Minerals. Dhahran , 31261 , Saudi Arabia",
             "Center of Integrative Petroleum Research, King Fahd University of Petroleum & Minerals. Dhahran, 31261, Saudi Arabia",
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals. Dhahran, 31261, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department , College of Petroleum Engineering and Geosciences , King Fahd University of Petroleum & Minerals. Dhahran , 31261 , Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
             {
               "raw_affiliation_string": "Center of Integrative Petroleum Research, King Fahd University of Petroleum & Minerals. Dhahran, 31261, Saudi Arabia",
               "institution_ids": [
@@ -21388,18 +21395,43 @@
               "lineage": [
                 "https://openalex.org/I134085113"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4210167079",
+              "display_name": "Nano Carbon (Poland)",
+              "ror": "https://ror.org/05v34hx56",
+              "country_code": "PL",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I4210167079"
+              ]
             }
           ],
           "countries": [
+            "PL",
             "SA"
           ],
           "is_corresponding": false,
           "raw_author_name": "Septriandi A. Chan",
           "raw_affiliation_strings": [
+            "Geosciences Department , College of Petroleum Engineering and Geosciences , King Fahd University of Petroleum & Minerals. Dhahran , 31261 , Saudi Arabia",
+            "Microfacies and Depositional Environments of the Bathonian-Bajocian Middle Dhruma Carbonates , Central Saudi Arabia",
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals. Dhahran, 31261, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department , College of Petroleum Engineering and Geosciences , King Fahd University of Petroleum & Minerals. Dhahran , 31261 , Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Microfacies and Depositional Environments of the Bathonian-Bajocian Middle Dhruma Carbonates , Central Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210167079"
+              ]
+            },
             {
               "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals. Dhahran, 31261, Saudi Arabia",
               "institution_ids": [
@@ -21433,10 +21465,17 @@
           "is_corresponding": false,
           "raw_author_name": "Osman M. Abdullatif",
           "raw_affiliation_strings": [
+            "Geosciences Department , College of Petroleum Engineering and Geosciences , King Fahd University of Petroleum & Minerals. Dhahran , 31261 , Saudi Arabia",
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals. Dhahran, 31261, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department , College of Petroleum Engineering and Geosciences , King Fahd University of Petroleum & Minerals. Dhahran , 31261 , Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
             {
               "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals. Dhahran, 31261, Saudi Arabia",
               "institution_ids": [
@@ -21470,10 +21509,17 @@
           "is_corresponding": false,
           "raw_author_name": "Michael A. Kaminski",
           "raw_affiliation_strings": [
+            "Geosciences Department , College of Petroleum Engineering and Geosciences , King Fahd University of Petroleum & Minerals. Dhahran , 31261 , Saudi Arabia",
             "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals. Dhahran, 31261, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Geosciences Department , College of Petroleum Engineering and Geosciences , King Fahd University of Petroleum & Minerals. Dhahran , 31261 , Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I134085113"
+              ]
+            },
             {
               "raw_affiliation_string": "Geosciences Department, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum & Minerals. Dhahran, 31261, Saudi Arabia",
               "institution_ids": [
@@ -21484,20 +21530,16 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 2,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 3,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0,
-      "has_fulltext": false,
+      "fwci": null,
+      "has_fulltext": true,
       "cited_by_count": 0,
-      "citation_normalized_percentile": {
-        "value": 0.14942298,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
+      "citation_normalized_percentile": null,
       "cited_by_percentile_year": null,
       "biblio": {
         "volume": null,
@@ -22306,7 +22348,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-01T09:00:35.917206",
+      "updated_date": "2026-09-06T09:10:53.072986",
       "created_date": "2018-12-11T00:00:00"
     },
     {

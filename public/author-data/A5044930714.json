@@ -60,6 +60,40 @@
       },
       {
         "institution": {
+          "id": "https://openalex.org/I39804081",
+          "ror": "https://ror.org/02en5vm52",
+          "display_name": "Sorbonne Université",
+          "country_code": "FR",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I39804081"
+          ]
+        },
+        "years": [
+          2023
+        ]
+      },
+      {
+        "institution": {
+          "id": "https://openalex.org/I4210097099",
+          "ror": "https://ror.org/00xagyq07",
+          "display_name": "Institut des Sciences de la Terre de Paris",
+          "country_code": "FR",
+          "type": "facility",
+          "lineage": [
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I1294671590",
+            "https://openalex.org/I39804081",
+            "https://openalex.org/I4210097099",
+            "https://openalex.org/I4210148025"
+          ]
+        },
+        "years": [
+          2023
+        ]
+      },
+      {
+        "institution": {
           "id": "https://openalex.org/I4210109070",
           "ror": "https://ror.org/01j5awv26",
           "display_name": "Prince Mohammed bin Abdulaziz Hospital",
@@ -470,7 +504,7 @@
     ],
     "block_key": "a memesh",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5044930714",
-    "updated_date": "2026-09-03T12:17:32",
+    "updated_date": "2026-09-05T12:17:44",
     "created_date": "2018-04-24T00:00:00"
   },
   "works": [
@@ -1884,11 +1918,11 @@
         "value_usd": 12690
       },
       "apc_paid": null,
-      "fwci": 115.7096,
+      "fwci": 118.4563,
       "has_fulltext": true,
       "cited_by_count": 190,
       "citation_normalized_percentile": {
-        "value": 0.99949559,
+        "value": 0.99953259,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2325,7 +2359,7 @@
           "is_major_topic": true
         }
       ],
-      "locations_count": 13,
+      "locations_count": 12,
       "locations": [
         {
           "id": "doi:10.1038/s41559-018-0518-2",
@@ -2566,35 +2600,6 @@
           "raw_type": "info:eu-repo/semantics/article"
         },
         {
-          "id": "pmh:oai:espace.library.uq.edu.au:UQ:727411",
-          "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306402388",
-            "display_name": "Queensland's institutional digital repository (The University of Queensland)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I165143802",
-            "host_organization_name": "The University of Queensland",
-            "host_organization_lineage": [
-              "https://openalex.org/I165143802"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "",
-          "raw_type": "Journal Article"
-        },
-        {
           "id": "pmh:oai:ora.ox.ac.uk:uuid:e7587218-86e7-4c57-8583-5de875a07843",
           "is_oa": false,
           "landing_page_url": "https://ora.ox.ac.uk/objects/uuid:e7587218-86e7-4c57-8583-5de875a07843",
@@ -2740,9 +2745,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -2961,7 +2966,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-05T08:02:43.246662",
+      "updated_date": "2026-09-06T09:10:53.072986",
       "created_date": "2018-04-24T00:00:00"
     },
     {
@@ -4333,9 +4338,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6200000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -5231,9 +5236,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5199999809265137,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -6336,9 +6341,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -10024,10 +10029,17 @@
           "is_corresponding": true,
           "raw_author_name": "M.H. ALJAHDALI",
           "raw_affiliation_strings": [
+            "Marine Geology Department , Faculty of Marine Sciences , King Abdulaziz University , P. O. Box 80200 , Jeddah 21589 , Saudi Arabia",
             "Marine Geology Department, Faculty of Marine Sciences, King Abdulaziz University, P. O. Box 80200, Jeddah 21589, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Marine Geology Department , Faculty of Marine Sciences , King Abdulaziz University , P. O. Box 80200 , Jeddah 21589 , Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I185163786"
+              ]
+            },
             {
               "raw_affiliation_string": "Marine Geology Department, Faculty of Marine Sciences, King Abdulaziz University, P. O. Box 80200, Jeddah 21589, Saudi Arabia",
               "institution_ids": [
@@ -10243,6 +10255,17 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I4210135230",
+              "display_name": "Geological Survey of Japan",
+              "ror": "https://ror.org/02wzg6d13",
+              "country_code": "JP",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I4210135230",
+                "https://openalex.org/I73613424"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4210143841",
               "display_name": "Saudi Aramco (Saudi Arabia)",
               "ror": "https://ror.org/03ypap427",
@@ -10251,18 +10274,43 @@
               "lineage": [
                 "https://openalex.org/I4210143841"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4210165529",
+              "display_name": "University of Business and Technology",
+              "ror": "https://ror.org/05tcr1n44",
+              "country_code": "SA",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I4210165529"
+              ]
             }
           ],
           "countries": [
+            "JP",
             "SA"
           ],
           "is_corresponding": false,
           "raw_author_name": "S. ALSOUBHI",
           "raw_affiliation_strings": [
+            "Saudi Geological Survey , Department of Paleontology , Jeddah , Saudi Arabia",
+            "Saudi Geological Survey , Department of Sedimentary Geology , Jeddah , Saudi Arabia",
             "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Saudi Geological Survey , Department of Paleontology , Jeddah , Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210165529"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Saudi Geological Survey , Department of Sedimentary Geology , Jeddah , Saudi Arabia",
+              "institution_ids": [
+                "https://openalex.org/I4210135230"
+              ]
+            },
             {
               "raw_affiliation_string": "Saudi Geological Survey, Department of Paleontology, Jeddah, Saudi Arabia",
               "institution_ids": [
@@ -10288,8 +10336,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 5,
       "corresponding_author_ids": [
         "https://openalex.org/A5032633264"
       ],
@@ -10298,11 +10346,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.2063,
+      "fwci": 1.2882,
       "has_fulltext": true,
       "cited_by_count": 14,
       "citation_normalized_percentile": {
-        "value": 0.84491098,
+        "value": 0.8545506,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -10481,9 +10529,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5400000214576721,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -10554,22 +10602,19 @@
       ],
       "abstract_inverted_index": {
         "2": [
-          190
+          182
         ],
         "3": [
-          192
+          184
         ],
         "21": [
-          74
+          71
         ],
         "44": [
-          70
+          67
         ],
         "The": [
-          0,
-          21,
-          43,
-          124
+          0
         ],
         "current": [
           1
@@ -10586,85 +10631,85 @@
         "the": [
           5,
           12,
-          33,
-          47,
-          51,
-          60,
-          84,
-          90,
-          97,
-          115,
-          134,
+          32,
+          45,
+          49,
+          58,
+          80,
+          86,
+          93,
+          110,
+          128,
+          132,
           138,
-          144,
-          148,
-          168,
-          180,
+          142,
+          161,
+          172,
+          178,
           186,
-          194,
-          204
+          196
         ],
         "first": [
           6
         ],
         "calcareous": [
           7,
-          176
+          168
         ],
         "nannofossil": [
           8,
-          41,
-          66,
-          177
+          40,
+          63,
+          169
         ],
         "biostratigraphic": [
           9,
-          67
+          64
         ],
         "record": [
           10
         ],
         "of": [
           11,
-          50,
-          86,
-          92,
-          119,
-          128,
-          140,
-          157,
-          172,
-          193
+          48,
+          82,
+          88,
+          114,
+          122,
+          134,
+          150,
+          165,
+          185
         ],
         "upper": [
           13
         ],
         "Eocene": [
           14,
-          26,
-          122
+          25,
+          117
         ],
         "Rashrashiyah": [
           15,
-          22,
-          44,
-          181
+          21,
+          42,
+          173
         ],
         "Formation": [
           16,
-          23,
-          45,
-          54,
-          182,
-          197
+          22,
+          43,
+          52,
+          174,
+          189
         ],
         "in": [
           17,
-          94,
-          114,
-          147,
-          198,
-          203
+          90,
+          109,
+          141,
+          190,
+          195
         ],
         "northern": [
           18
@@ -10672,374 +10717,361 @@
         "Saudi": [
           19
         ],
-        "Arabia.": [
+        "Arabia.The": [
           20
         ],
         "is": [
-          24,
-          56
+          23,
+          54
         ],
         "an": [
-          25
+          24
         ],
         "carbonate": [
-          27
+          26
         ],
         "sedimentary": [
-          28
+          27
         ],
         "unit,": [
-          29
+          28
         ],
         "exposed": [
-          30
+          29
         ],
         "adjacent": [
-          31
+          30
         ],
         "to": [
-          32,
-          73
+          31,
+          70
         ],
         "Jordanian": [
-          34
+          33
         ],
         "border,": [
-          35
+          34
         ],
         "and": [
-          36,
-          39,
-          55,
-          89,
+          35,
+          38,
+          53,
+          85,
+          100,
           105,
-          110,
-          153,
-          165,
-          191
-        ],
-        "yielded": [
-          37
-        ],
-        "rich": [
-          38
-        ],
-        "diverse": [
-          40
-        ],
-        "assemblages.": [
-          42
-        ],
-        "overlies": [
-          46
-        ],
-        "Paleogene": [
-          48
-        ],
-        "rocks": [
-          49
-        ],
-        "Umm": [
-          52
-        ],
-        "Wu'al": [
-          53
-        ],
-        "unconformably": [
-          57
-        ],
-        "topped": [
-          58
-        ],
-        "by": [
-          59
-        ],
-        "Neogene": [
-          61
-        ],
-        "(Miocene)": [
-          62
-        ],
-        "Sirhan": [
-          63
-        ],
-        "Formation.": [
-          64
-        ],
-        "Our": [
-          65,
-          175
-        ],
-        "data": [
-          68
-        ],
-        "recognized": [
-          69,
-          113
-        ],
-        "species": [
-          71
-        ],
-        "belonging": [
-          72
-        ],
-        "genera.": [
-          75
-        ],
-        "These": [
-          76
-        ],
-        "taxa": [
-          77
-        ],
-        "indicate": [
-          78
-        ],
-        "a": [
-          79,
-          120
-        ],
-        "Priabonian": [
-          80,
-          99
-        ],
-        "age": [
-          81
-        ],
-        "based": [
-          82
-        ],
-        "on": [
-          83
-        ],
-        "presence": [
-          85
-        ],
-        "Chiasmolithus": [
-          87,
-          141
-        ],
-        "oamaruensis,": [
-          88
-        ],
-        "recognition": [
-          91
-        ],
-        "bioevents": [
-          93
-        ],
-        "concordance": [
-          95
-        ],
-        "with": [
-          96,
-          185
-        ],
-        "global": [
-          98
-        ],
-        "zonations.": [
-          100
-        ],
-        "Three": [
-          101
-        ],
-        "comparable": [
-          102
-        ],
-        "major": [
-          103
-        ],
-        "zones": [
-          104
-        ],
-        "zonal": [
-          106
-        ],
-        "boundaries": [
-          107
-        ],
-        "(CP14b/CP15,": [
-          108
-        ],
-        "NP18,": [
-          109
-        ],
-        "CNE17)": [
-          111
-        ],
-        "were": [
-          112
-        ],
-        "study": [
-          116
-        ],
-        "section": [
-          117
-        ],
-        "indicative": [
-          118
-        ],
-        "late": [
-          121
-        ],
-        "age.": [
-          123
-        ],
-        "Base": [
-          125
-        ],
-        "common": [
-          126
-        ],
-        "(Bc)": [
-          127
-        ],
-        "Reticulofenestra": [
-          129
-        ],
-        "erbae": [
-          130
-        ],
-        "was": [
-          131,
-          160
-        ],
-        "detected": [
-          132
-        ],
-        "at": [
-          133,
-          167
-        ],
-        "same": [
-          135
-        ],
-        "level": [
-          136
-        ],
-        "as": [
-          137
-        ],
-        "top": [
-          139
-        ],
-        "grandis,": [
-          142
-        ],
-        "supporting": [
-          143
-        ],
-        "bioevent": [
-          145
-        ],
-        "reliability": [
-          146
-        ],
-        "Tethys": [
-          149
-        ],
-        "realm.": [
-          150
-        ],
-        "A": [
-          151
-        ],
-        "single": [
-          152
-        ],
-        "more": [
-          154
-        ],
-        "isolated": [
-          155
-        ],
-        "occurrence": [
-          156
-        ],
-        "Isthmolithus": [
-          158
-        ],
-        "recurvus": [
-          159
-        ],
-        "observed": [
-          161
-        ],
-        "within": [
-          162
-        ],
-        "Zones": [
-          163
-        ],
-        "CP15": [
-          164
-        ],
-        "NP18": [
-          166
-        ],
-        "maximum": [
-          169
-        ],
-        "increase": [
-          170
-        ],
-        "abundance": [
-          171
-        ],
-        "R.": [
-          173
-        ],
-        "erbae.": [
-          174
-        ],
-        "biostratigraphy": [
-          178
-        ],
-        "from": [
-          179
-        ],
-        "has": [
+          146,
+          158,
           183
         ],
+        "yielded": [
+          36
+        ],
+        "rich": [
+          37
+        ],
+        "diverse": [
+          39
+        ],
+        "assemblages.The": [
+          41
+        ],
+        "overlies": [
+          44
+        ],
+        "Paleogene": [
+          46
+        ],
+        "rocks": [
+          47
+        ],
+        "Umm": [
+          50
+        ],
+        "Wu'al": [
+          51
+        ],
+        "unconformably": [
+          55
+        ],
+        "topped": [
+          56
+        ],
+        "by": [
+          57
+        ],
+        "Neogene": [
+          59
+        ],
+        "(Miocene)": [
+          60
+        ],
+        "Sirhan": [
+          61
+        ],
+        "Formation.Our": [
+          62
+        ],
+        "data": [
+          65
+        ],
+        "recognized": [
+          66,
+          108
+        ],
+        "species": [
+          68
+        ],
+        "belonging": [
+          69
+        ],
+        "genera.These": [
+          72
+        ],
+        "taxa": [
+          73
+        ],
+        "indicate": [
+          74
+        ],
+        "a": [
+          75,
+          115
+        ],
+        "Priabonian": [
+          76,
+          95
+        ],
+        "age": [
+          77
+        ],
+        "based": [
+          78
+        ],
+        "on": [
+          79
+        ],
+        "presence": [
+          81
+        ],
+        "Chiasmolithus": [
+          83,
+          135
+        ],
+        "oamaruensis,": [
+          84
+        ],
+        "recognition": [
+          87
+        ],
+        "bioevents": [
+          89
+        ],
+        "concordance": [
+          91
+        ],
+        "with": [
+          92,
+          177
+        ],
+        "global": [
+          94
+        ],
+        "zonations.Three": [
+          96
+        ],
+        "comparable": [
+          97
+        ],
+        "major": [
+          98
+        ],
+        "zones": [
+          99
+        ],
+        "zonal": [
+          101
+        ],
+        "boundaries": [
+          102
+        ],
+        "(CP14b/CP15,": [
+          103
+        ],
+        "NP18,": [
+          104
+        ],
+        "CNE17)": [
+          106
+        ],
+        "were": [
+          107
+        ],
+        "study": [
+          111
+        ],
+        "section": [
+          112
+        ],
+        "indicative": [
+          113
+        ],
+        "late": [
+          116
+        ],
+        "age.The": [
+          118
+        ],
+        "Base": [
+          119
+        ],
+        "common": [
+          120
+        ],
+        "(Bc)": [
+          121
+        ],
+        "Reticulofenestra": [
+          123
+        ],
+        "erbae": [
+          124
+        ],
+        "was": [
+          125,
+          153
+        ],
+        "detected": [
+          126
+        ],
+        "at": [
+          127,
+          160
+        ],
+        "same": [
+          129
+        ],
+        "level": [
+          130
+        ],
+        "as": [
+          131
+        ],
+        "top": [
+          133
+        ],
+        "grandis,": [
+          136
+        ],
+        "supporting": [
+          137
+        ],
+        "bioevent": [
+          139
+        ],
+        "reliability": [
+          140
+        ],
+        "Tethys": [
+          143
+        ],
+        "realm.A": [
+          144
+        ],
+        "single": [
+          145
+        ],
+        "more": [
+          147
+        ],
+        "isolated": [
+          148
+        ],
+        "occurrence": [
+          149
+        ],
+        "Isthmolithus": [
+          151
+        ],
+        "recurvus": [
+          152
+        ],
+        "observed": [
+          154
+        ],
+        "within": [
+          155
+        ],
+        "Zones": [
+          156
+        ],
+        "CP15": [
+          157
+        ],
+        "NP18": [
+          159
+        ],
+        "maximum": [
+          162
+        ],
+        "increase": [
+          163
+        ],
+        "abundance": [
+          164
+        ],
+        "R.": [
+          166
+        ],
+        "erbae.Our": [
+          167
+        ],
+        "biostratigraphy": [
+          170
+        ],
+        "from": [
+          171
+        ],
+        "has": [
+          175
+        ],
         "coincided": [
-          184
+          176
         ],
         "assignment": [
-          187
+          179
         ],
         "for": [
-          188
+          180
         ],
         "units": [
-          189
+          181
         ],
         "Wadi": [
-          195
+          187
         ],
         "Esh-Shallalah": [
-          196
+          188
         ],
         "Qa'": [
-          199
+          191
         ],
         "Faydat": [
-          200
+          192
         ],
         "ad": [
-          201
+          193
         ],
         "Dahikiya": [
-          202
+          194
         ],
         "eastern": [
-          205
+          197
         ],
         "desert": [
-          206
+          198
         ],
         "Jordan.": [
-          207
+          199
         ]
       },
       "counts_by_year": [
@@ -11068,7 +11100,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-04T08:18:43.703281",
+      "updated_date": "2026-09-06T09:10:53.072986",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -12308,9 +12340,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.800000011920929,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -14886,9 +14918,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8500000238418579,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -16464,9 +16496,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -17140,9 +17172,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -18566,9 +18598,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -20505,9 +20537,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6899999976158142,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -26781,9 +26813,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],

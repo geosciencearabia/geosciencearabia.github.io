@@ -21,7 +21,7 @@
     ],
     "full_name": "Michael  Henry Stephenson",
     "works_count": 162,
-    "cited_by_count": 3034,
+    "cited_by_count": 3035,
     "summary_stats": {
       "2yr_mean_citedness": 1.8888888888888888,
       "h_index": 31,
@@ -102,6 +102,21 @@
         },
         "years": [
           2010
+        ]
+      },
+      {
+        "institution": {
+          "id": "https://openalex.org/I189158943",
+          "ror": "https://ror.org/00wjc7c48",
+          "display_name": "University of Milan",
+          "country_code": "IT",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I189158943"
+          ]
+        },
+        "years": [
+          2022
         ]
       },
       {
@@ -366,7 +381,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.000288,
+        "value": 0.0002881,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -383,7 +398,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0001146,
+        "value": 0.0001147,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -400,7 +415,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0000914,
+        "value": 0.0000913,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -630,7 +645,7 @@
         "year": 2019,
         "works_count": 13,
         "oa_works_count": 10,
-        "cited_by_count": 607
+        "cited_by_count": 608
       },
       {
         "year": 2020,
@@ -693,7 +708,7 @@
     ],
     "block_key": "m stephenson",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5040147688",
-    "updated_date": "2026-09-04T12:18:09",
+    "updated_date": "2026-09-05T12:17:44",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -3459,8 +3474,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.4300000071525574,
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.4300000071525574
         }
       ],
       "awards": [
@@ -4752,8 +4767,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4699999988079071,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.4699999988079071
         }
       ],
       "awards": [
@@ -6308,8 +6323,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8399999737739563
         }
       ],
       "awards": [
@@ -9355,1242 +9370,6 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
-      "id": "https://openalex.org/W2159968487",
-      "doi": "https://doi.org/10.1002/ese3.96",
-      "title": "Shale gas in North America and Europe",
-      "display_name": "Shale gas in North America and Europe",
-      "publication_year": 2015,
-      "publication_date": "2015-10-26",
-      "ids": {
-        "openalex": "https://openalex.org/W2159968487",
-        "doi": "https://doi.org/10.1002/ese3.96",
-        "mag": "2159968487"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.1002/ese3.96",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1002/ese3.96",
-        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ese3.96",
-        "source": {
-          "id": "https://openalex.org/S2737327489",
-          "display_name": "Energy Science & Engineering",
-          "issn_l": "2050-0505",
-          "issn": [
-            "2050-0505"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320595",
-          "host_organization_name": "Wiley",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320595"
-          ],
-          "host_organization_lineage_names": [
-            "Wiley"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Energy Science &amp; Engineering",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref",
-        "doaj"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "gold",
-        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ese3.96",
-        "any_repository_has_fulltext": true
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5040147688",
-            "display_name": "Michael H. Stephenson",
-            "orcid": "https://orcid.org/0000-0002-9881-1578"
-          },
-          "institutions": [
-            {
-              "id": "https://openalex.org/I139290333",
-              "display_name": "British Geological Survey",
-              "ror": "https://ror.org/04a7gbp98",
-              "country_code": "GB",
-              "type": "government",
-              "lineage": [
-                "https://openalex.org/I139290333",
-                "https://openalex.org/I141816643",
-                "https://openalex.org/I4210087105"
-              ]
-            }
-          ],
-          "countries": [
-            "GB"
-          ],
-          "is_corresponding": true,
-          "raw_author_name": "Michael H. Stephenson",
-          "raw_affiliation_strings": [
-            "British Geological Survey Keyworth Nottingham NG12 5GG United Kingdom",
-            "British Geological Survey, Keyworth, Nottingham, NG12 5GG United Kingdom"
-          ],
-          "raw_orcid": "https://orcid.org/0000-0002-9881-1578",
-          "affiliations": [
-            {
-              "raw_affiliation_string": "British Geological Survey Keyworth Nottingham NG12 5GG United Kingdom",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            },
-            {
-              "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG United Kingdom",
-              "institution_ids": [
-                "https://openalex.org/I139290333"
-              ]
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 1,
-      "institutions_distinct_count": 1,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5040147688"
-      ],
-      "corresponding_institution_ids": [
-        "https://openalex.org/I139290333"
-      ],
-      "apc_list": {
-        "value": 2780,
-        "currency": "USD",
-        "value_usd": 2780
-      },
-      "apc_paid": {
-        "value": 2780,
-        "currency": "USD",
-        "value_usd": 2780
-      },
-      "fwci": 2.2019,
-      "has_fulltext": true,
-      "cited_by_count": 50,
-      "citation_normalized_percentile": {
-        "value": 0.87042499,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": false
-      },
-      "cited_by_percentile_year": {
-        "min": 91,
-        "max": 100
-      },
-      "biblio": {
-        "volume": "4",
-        "issue": "1",
-        "first_page": "4",
-        "last_page": "13"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T11588",
-        "display_name": "Atmospheric and Environmental Gas Dynamics",
-        "score": 1,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2306",
-          "display_name": "Global and Planetary Change"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/23",
-          "display_name": "Environmental Science"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T11588",
-          "display_name": "Atmospheric and Environmental Gas Dynamics",
-          "score": 1,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2306",
-            "display_name": "Global and Planetary Change"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/23",
-            "display_name": "Environmental Science"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9851999878883362,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T14224",
-          "display_name": "Oil, Gas, and Environmental Issues",
-          "score": 0.95660001039505,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2105",
-            "display_name": "Renewable Energy, Sustainability and the Environment"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/21",
-            "display_name": "Energy"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/hydraulic-fracturing",
-          "display_name": "Hydraulic fracturing",
-          "score": 0.7904137372970581
-        },
-        {
-          "id": "https://openalex.org/keywords/government",
-          "display_name": "Government (linguistics)",
-          "score": 0.5491507053375244
-        },
-        {
-          "id": "https://openalex.org/keywords/population",
-          "display_name": "Population",
-          "score": 0.5349681973457336
-        },
-        {
-          "id": "https://openalex.org/keywords/china",
-          "display_name": "China",
-          "score": 0.5312502384185791
-        },
-        {
-          "id": "https://openalex.org/keywords/license",
-          "display_name": "License",
-          "score": 0.5104683637619019
-        },
-        {
-          "id": "https://openalex.org/keywords/business",
-          "display_name": "Business",
-          "score": 0.5013511180877686
-        },
-        {
-          "id": "https://openalex.org/keywords/shale-gas",
-          "display_name": "Shale gas",
-          "score": 0.4749234616756439
-        },
-        {
-          "id": "https://openalex.org/keywords/oil-shale",
-          "display_name": "Oil shale",
-          "score": 0.43379783630371094
-        },
-        {
-          "id": "https://openalex.org/keywords/natural-resource-economics",
-          "display_name": "Natural resource economics",
-          "score": 0.4310040771961212
-        },
-        {
-          "id": "https://openalex.org/keywords/unconventional-oil",
-          "display_name": "Unconventional oil",
-          "score": 0.41919466853141785
-        },
-        {
-          "id": "https://openalex.org/keywords/international-trade",
-          "display_name": "International trade",
-          "score": 0.35795581340789795
-        },
-        {
-          "id": "https://openalex.org/keywords/economy",
-          "display_name": "Economy",
-          "score": 0.3324689269065857
-        },
-        {
-          "id": "https://openalex.org/keywords/engineering",
-          "display_name": "Engineering",
-          "score": 0.2811717689037323
-        },
-        {
-          "id": "https://openalex.org/keywords/economics",
-          "display_name": "Economics",
-          "score": 0.2325262427330017
-        },
-        {
-          "id": "https://openalex.org/keywords/petroleum-engineering",
-          "display_name": "Petroleum engineering",
-          "score": 0.22917011380195618
-        },
-        {
-          "id": "https://openalex.org/keywords/political-science",
-          "display_name": "Political science",
-          "score": 0.20096394419670105
-        },
-        {
-          "id": "https://openalex.org/keywords/waste-management",
-          "display_name": "Waste management",
-          "score": 0.1757873296737671
-        },
-        {
-          "id": "https://openalex.org/keywords/law",
-          "display_name": "Law",
-          "score": 0.11187183856964111
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C2779096232",
-          "wikidata": "https://www.wikidata.org/wiki/Q890794",
-          "display_name": "Hydraulic fracturing",
-          "level": 2,
-          "score": 0.7904137372970581
-        },
-        {
-          "id": "https://openalex.org/C2778137410",
-          "wikidata": "https://www.wikidata.org/wiki/Q2732820",
-          "display_name": "Government (linguistics)",
-          "level": 2,
-          "score": 0.5491507053375244
-        },
-        {
-          "id": "https://openalex.org/C2908647359",
-          "wikidata": "https://www.wikidata.org/wiki/Q2625603",
-          "display_name": "Population",
-          "level": 2,
-          "score": 0.5349681973457336
-        },
-        {
-          "id": "https://openalex.org/C191935318",
-          "wikidata": "https://www.wikidata.org/wiki/Q148",
-          "display_name": "China",
-          "level": 2,
-          "score": 0.5312502384185791
-        },
-        {
-          "id": "https://openalex.org/C2780560020",
-          "wikidata": "https://www.wikidata.org/wiki/Q79719",
-          "display_name": "License",
-          "level": 2,
-          "score": 0.5104683637619019
-        },
-        {
-          "id": "https://openalex.org/C144133560",
-          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
-          "display_name": "Business",
-          "level": 0,
-          "score": 0.5013511180877686
-        },
-        {
-          "id": "https://openalex.org/C2993020645",
-          "wikidata": "https://www.wikidata.org/wiki/Q564726",
-          "display_name": "Shale gas",
-          "level": 3,
-          "score": 0.4749234616756439
-        },
-        {
-          "id": "https://openalex.org/C153127940",
-          "wikidata": "https://www.wikidata.org/wiki/Q221378",
-          "display_name": "Oil shale",
-          "level": 2,
-          "score": 0.43379783630371094
-        },
-        {
-          "id": "https://openalex.org/C175605778",
-          "wikidata": "https://www.wikidata.org/wiki/Q3299701",
-          "display_name": "Natural resource economics",
-          "level": 1,
-          "score": 0.4310040771961212
-        },
-        {
-          "id": "https://openalex.org/C24345647",
-          "wikidata": "https://www.wikidata.org/wiki/Q1147488",
-          "display_name": "Unconventional oil",
-          "level": 3,
-          "score": 0.41919466853141785
-        },
-        {
-          "id": "https://openalex.org/C155202549",
-          "wikidata": "https://www.wikidata.org/wiki/Q178803",
-          "display_name": "International trade",
-          "level": 1,
-          "score": 0.35795581340789795
-        },
-        {
-          "id": "https://openalex.org/C136264566",
-          "wikidata": "https://www.wikidata.org/wiki/Q159810",
-          "display_name": "Economy",
-          "level": 1,
-          "score": 0.3324689269065857
-        },
-        {
-          "id": "https://openalex.org/C127413603",
-          "wikidata": "https://www.wikidata.org/wiki/Q11023",
-          "display_name": "Engineering",
-          "level": 0,
-          "score": 0.2811717689037323
-        },
-        {
-          "id": "https://openalex.org/C162324750",
-          "wikidata": "https://www.wikidata.org/wiki/Q8134",
-          "display_name": "Economics",
-          "level": 0,
-          "score": 0.2325262427330017
-        },
-        {
-          "id": "https://openalex.org/C78762247",
-          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
-          "display_name": "Petroleum engineering",
-          "level": 1,
-          "score": 0.22917011380195618
-        },
-        {
-          "id": "https://openalex.org/C17744445",
-          "wikidata": "https://www.wikidata.org/wiki/Q36442",
-          "display_name": "Political science",
-          "level": 0,
-          "score": 0.20096394419670105
-        },
-        {
-          "id": "https://openalex.org/C548081761",
-          "wikidata": "https://www.wikidata.org/wiki/Q180388",
-          "display_name": "Waste management",
-          "level": 1,
-          "score": 0.1757873296737671
-        },
-        {
-          "id": "https://openalex.org/C199539241",
-          "wikidata": "https://www.wikidata.org/wiki/Q7748",
-          "display_name": "Law",
-          "level": 1,
-          "score": 0.11187183856964111
-        },
-        {
-          "id": "https://openalex.org/C144024400",
-          "wikidata": "https://www.wikidata.org/wiki/Q21201",
-          "display_name": "Sociology",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C149923435",
-          "wikidata": "https://www.wikidata.org/wiki/Q37732",
-          "display_name": "Demography",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C138885662",
-          "wikidata": "https://www.wikidata.org/wiki/Q5891",
-          "display_name": "Philosophy",
-          "level": 0,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C41895202",
-          "wikidata": "https://www.wikidata.org/wiki/Q8162",
-          "display_name": "Linguistics",
-          "level": 1,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 3,
-      "locations": [
-        {
-          "id": "doi:10.1002/ese3.96",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.1002/ese3.96",
-          "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ese3.96",
-          "source": {
-            "id": "https://openalex.org/S2737327489",
-            "display_name": "Energy Science & Engineering",
-            "issn_l": "2050-0505",
-            "issn": [
-              "2050-0505"
-            ],
-            "is_oa": true,
-            "is_in_doaj": true,
-            "is_core": true,
-            "host_organization": "https://openalex.org/P4310320595",
-            "host_organization_name": "Wiley",
-            "host_organization_lineage": [
-              "https://openalex.org/P4310320595"
-            ],
-            "host_organization_lineage_names": [
-              "Wiley"
-            ],
-            "type": "journal"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Energy Science &amp; Engineering",
-          "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:nora.nerc.ac.uk:512129",
-          "is_oa": false,
-          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/512129/1/Stephenson-2016-Energy_Science_%26_Engineering.pdf",
-          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/512129/1/Stephenson-2016-Energy_Science_%26_Engineering.pdf",
-          "source": {
-            "id": "https://openalex.org/S4306400758",
-            "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I141816643",
-            "host_organization_name": "Natural Environment Research Council",
-            "host_organization_lineage": [
-              "https://openalex.org/I141816643"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "acceptedVersion",
-          "is_accepted": true,
-          "is_published": false,
-          "raw_source_name": "",
-          "raw_type": "Publication - Article"
-        },
-        {
-          "id": "pmh:oai:dnet:scipediaopen::4d62b84e55ba247bd77c35cc84c53d1b",
-          "is_oa": true,
-          "landing_page_url": "https://www.scipedia.com/public/Stephenson_2015a",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306402641",
-            "display_name": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I4383465926",
-            "host_organization_name": "LA Referencia",
-            "host_organization_lineage": [
-              "https://openalex.org/I4383465926"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "",
-          "raw_type": "info:eu-repo/semantics/article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.1002/ese3.96",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1002/ese3.96",
-        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ese3.96",
-        "source": {
-          "id": "https://openalex.org/S2737327489",
-          "display_name": "Energy Science & Engineering",
-          "issn_l": "2050-0505",
-          "issn": [
-            "2050-0505"
-          ],
-          "is_oa": true,
-          "is_in_doaj": true,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310320595",
-          "host_organization_name": "Wiley",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310320595"
-          ],
-          "host_organization_lineage_names": [
-            "Wiley"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "Energy Science &amp; Engineering",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/9",
-          "score": 0.46000000834465027,
-          "display_name": "Industry, innovation and infrastructure"
-        }
-      ],
-      "awards": [],
-      "funders": [
-        {
-          "id": "https://openalex.org/F4320321464",
-          "display_name": "British Geological Survey",
-          "ror": "https://ror.org/04a7gbp98"
-        }
-      ],
-      "has_content": {
-        "grobid_xml": true,
-        "pdf": true
-      },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2159968487.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W2159968487.grobid-xml"
-      },
-      "referenced_works_count": 25,
-      "referenced_works": [
-        "https://openalex.org/W184749996",
-        "https://openalex.org/W1513896494",
-        "https://openalex.org/W1601843412",
-        "https://openalex.org/W1994903352",
-        "https://openalex.org/W1999551220",
-        "https://openalex.org/W2004216675",
-        "https://openalex.org/W2061206676",
-        "https://openalex.org/W2103445883",
-        "https://openalex.org/W2114908003",
-        "https://openalex.org/W2139010298",
-        "https://openalex.org/W2156092401",
-        "https://openalex.org/W2161219510",
-        "https://openalex.org/W2162643797",
-        "https://openalex.org/W2164951101",
-        "https://openalex.org/W2165837811",
-        "https://openalex.org/W2166083971",
-        "https://openalex.org/W2230423016",
-        "https://openalex.org/W2530418312",
-        "https://openalex.org/W2547615752",
-        "https://openalex.org/W2594773748",
-        "https://openalex.org/W2613660008",
-        "https://openalex.org/W2763954569",
-        "https://openalex.org/W2766450630",
-        "https://openalex.org/W2907804913",
-        "https://openalex.org/W2946970740"
-      ],
-      "related_works": [
-        "https://openalex.org/W2212321314",
-        "https://openalex.org/W2110866113",
-        "https://openalex.org/W2499711229",
-        "https://openalex.org/W657477992",
-        "https://openalex.org/W4295253203",
-        "https://openalex.org/W2791869118",
-        "https://openalex.org/W2069597045",
-        "https://openalex.org/W3124762147",
-        "https://openalex.org/W2782955101",
-        "https://openalex.org/W2827619762"
-      ],
-      "abstract_inverted_index": {
-        "Abstract": [
-          0
-        ],
-        "According": [
-          1
-        ],
-        "to": [
-          2,
-          37,
-          142,
-          151,
-          213,
-          223
-        ],
-        "the": [
-          3,
-          14,
-          31,
-          67,
-          101,
-          115,
-          123,
-          211,
-          227
-        ],
-        "U.S.": [
-          4
-        ],
-        "Energy": [
-          5
-        ],
-        "Information": [
-          6
-        ],
-        "Administration,": [
-          7
-        ],
-        "shale": [
-          8,
-          70,
-          86,
-          137,
-          179
-        ],
-        "gas": [
-          9,
-          18,
-          36,
-          71,
-          87,
-          138,
-          197
-        ],
-        "will": [
-          10
-        ],
-        "provide": [
-          11
-        ],
-        "half": [
-          12
-        ],
-        "of": [
-          13,
-          30,
-          35,
-          47,
-          49,
-          62,
-          84,
-          105,
-          148,
-          183
-        ],
-        "United": [
-          15,
-          22,
-          116,
-          124
-        ],
-        "States’": [
-          16
-        ],
-        "domestic": [
-          17
-        ],
-        "by": [
-          19
-        ],
-        "2035.": [
-          20
-        ],
-        "The": [
-          21,
-          103,
-          199
-        ],
-        "States": [
-          23,
-          117
-        ],
-        "has": [
-          24,
-          73
-        ],
-        "already": [
-          25
-        ],
-        "moved": [
-          26
-        ],
-        "from": [
-          27
-        ],
-        "being": [
-          28,
-          38,
-          120
-        ],
-        "one": [
-          29
-        ],
-        "world's": [
-          32
-        ],
-        "largest": [
-          33
-        ],
-        "importers": [
-          34
-        ],
-        "self‐sufficient": [
-          39
-        ],
-        "in": [
-          40,
-          60,
-          69,
-          93,
-          114,
-          127,
-          174,
-          187,
-          202
-        ],
-        "less": [
-          41
-        ],
-        "than": [
-          42,
-          172
-        ],
-        "a": [
-          43,
-          96,
-          169,
-          215
-        ],
-        "decade,": [
-          44
-        ],
-        "bringing": [
-          45
-        ],
-        "hundreds": [
-          46
-        ],
-        "thousands": [
-          48
-        ],
-        "jobs": [
-          50
-        ],
-        "and": [
-          51,
-          89,
-          92,
-          108,
-          130,
-          163,
-          165,
-          189,
-          218,
-          221,
-          229
-        ],
-        "attracting": [
-          52
-        ],
-        "back": [
-          53
-        ],
-        "companies": [
-          54
-        ],
-        "that": [
-          55,
-          111,
-          192
-        ],
-        "long": [
-          56
-        ],
-        "ago": [
-          57
-        ],
-        "left": [
-          58
-        ],
-        "America": [
-          59
-        ],
-        "search": [
-          61
-        ],
-        "cheap": [
-          63
-        ],
-        "manufacturing": [
-          64
-        ],
-        "costs.": [
-          65
-        ],
-        "But": [
-          66
-        ],
-        "increase": [
-          68
-        ],
-        "extraction": [
-          72
-        ],
-        "also": [
-          74
-        ],
-        "had": [
-          75
-        ],
-        "an": [
-          76
-        ],
-        "environmental": [
-          77
-        ],
-        "cost.": [
-          78
-        ],
-        "There": [
-          79,
-          132
-        ],
-        "is": [
-          80,
-          118,
-          205
-        ],
-        "clear": [
-          81,
-          134
-        ],
-        "scientific": [
-          82
-        ],
-        "evidence": [
-          83
-        ],
-        "leaking": [
-          85
-        ],
-        "wells": [
-          88
-        ],
-        "induced": [
-          90
-        ],
-        "earthquakes,": [
-          91
-        ],
-        "some": [
-          94,
-          152
-        ],
-        "areas": [
-          95,
-          182
-        ],
-        "population": [
-          97,
-          185
-        ],
-        "increasingly": [
-          98
-        ],
-        "turning": [
-          99
-        ],
-        "against": [
-          100
-        ],
-        "industry.": [
-          102
-        ],
-        "technology": [
-          104
-        ],
-        "horizontal": [
-          106
-        ],
-        "drilling": [
-          107
-        ],
-        "hydraulic": [
-          109
-        ],
-        "fracturing": [
-          110
-        ],
-        "was": [
-          112
-        ],
-        "developed": [
-          113
-        ],
-        "now": [
-          119
-        ],
-        "tried": [
-          121
-        ],
-        "outside": [
-          122
-        ],
-        "States,": [
-          125
-        ],
-        "including": [
-          126
-        ],
-        "Europe,": [
-          128,
-          188
-        ],
-        "Argentina,": [
-          129
-        ],
-        "China.": [
-          131
-        ],
-        "are": [
-          133,
-          193
-        ],
-        "reasons": [
-          135
-        ],
-        "why": [
-          136
-        ],
-        "might": [
-          139
-        ],
-        "be": [
-          140,
-          224
-        ],
-        "attractive": [
-          141
-        ],
-        "Europe.": [
-          143
-        ],
-        "It": [
-          144
-        ],
-        "may": [
-          145
-        ],
-        "offer": [
-          146
-        ],
-        "security": [
-          147
-        ],
-        "energy": [
-          149
-        ],
-        "supply": [
-          150,
-          168
-        ],
-        "countries": [
-          153
-        ],
-        "particularly": [
-          154
-        ],
-        "dependent": [
-          155
-        ],
-        "on": [
-          156
-        ],
-        "Russian": [
-          157
-        ],
-        "gas;": [
-          158
-        ],
-        "it": [
-          159,
-          166
-        ],
-        "could": [
-          160,
-          167
-        ],
-        "stimulate": [
-          161
-        ],
-        "growth": [
-          162
-        ],
-        "jobs;": [
-          164
-        ],
-        "cleaner": [
-          170
-        ],
-        "fuel": [
-          171
-        ],
-        "coal": [
-          173
-        ],
-        "power": [
-          175
-        ],
-        "stations.": [
-          176
-        ],
-        "However,": [
-          177
-        ],
-        "prospective": [
-          178
-        ],
-        "often": [
-          180
-        ],
-        "underlies": [
-          181
-        ],
-        "high": [
-          184
-        ],
-        "density": [
-          186
-        ],
-        "moreover,": [
-          190
-        ],
-        "populations": [
-          191
-        ],
-        "unfamiliar": [
-          194
-        ],
-        "with": [
-          195
-        ],
-        "onshore": [
-          196
-        ],
-        "operations.": [
-          198
-        ],
-        "main": [
-          200
-        ],
-        "challenge": [
-          201
-        ],
-        "Europe": [
-          203
-        ],
-        "therefore": [
-          204
-        ],
-        "not": [
-          206
-        ],
-        "mainly": [
-          207
-        ],
-        "technological": [
-          208
-        ],
-        "but": [
-          209
-        ],
-        "for": [
-          210,
-          219
-        ],
-        "industry": [
-          212
-        ],
-        "achieve": [
-          214
-        ],
-        "“social": [
-          216
-        ],
-        "license”": [
-          217
-        ],
-        "Government": [
-          220
-        ],
-        "regulations": [
-          222
-        ],
-        "manifestly": [
-          225
-        ],
-        "protecting": [
-          226
-        ],
-        "public": [
-          228
-        ],
-        "property.": [
-          230
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2025,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 7
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 8
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 14
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 2
-        }
-      ],
-      "updated_date": "2026-08-21T09:56:20.448147",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
       "id": "https://openalex.org/W2152587843",
       "doi": "https://doi.org/10.1080/03637750128051",
       "title": "Sensation seeking, perceived message sensation value, personal involvement, and processing of anti-marijuana PSAs",
@@ -10998,8 +9777,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/3",
-          "score": 0.8399999737739563,
-          "display_name": "Good health and well-being"
+          "display_name": "Good health and well-being",
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],
@@ -12002,8 +10781,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6399999856948853,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6399999856948853
         }
       ],
       "awards": [],
@@ -12961,8 +11740,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -14636,8 +13415,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -16678,8 +15457,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -17913,8 +16692,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6700000166893005,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6700000166893005
         }
       ],
       "awards": [
@@ -19067,8 +17846,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -20725,8 +19504,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.47999998927116394,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.47999998927116394
         }
       ],
       "awards": [
@@ -22108,8 +20887,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -22954,6 +21733,1242 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2159968487",
+      "doi": "https://doi.org/10.1002/ese3.96",
+      "title": "Shale gas in North America and Europe",
+      "display_name": "Shale gas in North America and Europe",
+      "publication_year": 2015,
+      "publication_date": "2015-10-26",
+      "ids": {
+        "openalex": "https://openalex.org/W2159968487",
+        "doi": "https://doi.org/10.1002/ese3.96",
+        "mag": "2159968487"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.1002/ese3.96",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1002/ese3.96",
+        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ese3.96",
+        "source": {
+          "id": "https://openalex.org/S2737327489",
+          "display_name": "Energy Science & Engineering",
+          "issn_l": "2050-0505",
+          "issn": [
+            "2050-0505"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Energy Science &amp; Engineering",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref",
+        "doaj"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "gold",
+        "oa_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ese3.96",
+        "any_repository_has_fulltext": true
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5040147688",
+            "display_name": "Michael H. Stephenson",
+            "orcid": "https://orcid.org/0000-0002-9881-1578"
+          },
+          "institutions": [
+            {
+              "id": "https://openalex.org/I139290333",
+              "display_name": "British Geological Survey",
+              "ror": "https://ror.org/04a7gbp98",
+              "country_code": "GB",
+              "type": "government",
+              "lineage": [
+                "https://openalex.org/I139290333",
+                "https://openalex.org/I141816643",
+                "https://openalex.org/I4210087105"
+              ]
+            }
+          ],
+          "countries": [
+            "GB"
+          ],
+          "is_corresponding": true,
+          "raw_author_name": "Michael H. Stephenson",
+          "raw_affiliation_strings": [
+            "British Geological Survey Keyworth Nottingham NG12 5GG United Kingdom",
+            "British Geological Survey, Keyworth, Nottingham, NG12 5GG United Kingdom"
+          ],
+          "raw_orcid": "https://orcid.org/0000-0002-9881-1578",
+          "affiliations": [
+            {
+              "raw_affiliation_string": "British Geological Survey Keyworth Nottingham NG12 5GG United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            },
+            {
+              "raw_affiliation_string": "British Geological Survey, Keyworth, Nottingham, NG12 5GG United Kingdom",
+              "institution_ids": [
+                "https://openalex.org/I139290333"
+              ]
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 1,
+      "institutions_distinct_count": 1,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5040147688"
+      ],
+      "corresponding_institution_ids": [
+        "https://openalex.org/I139290333"
+      ],
+      "apc_list": {
+        "value": 2780,
+        "currency": "USD",
+        "value_usd": 2780
+      },
+      "apc_paid": {
+        "value": 2780,
+        "currency": "USD",
+        "value_usd": 2780
+      },
+      "fwci": 2.2233,
+      "has_fulltext": true,
+      "cited_by_count": 50,
+      "citation_normalized_percentile": {
+        "value": 0.87191443,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": false
+      },
+      "cited_by_percentile_year": {
+        "min": 91,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "4",
+        "issue": "1",
+        "first_page": "4",
+        "last_page": "13"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T11588",
+        "display_name": "Atmospheric and Environmental Gas Dynamics",
+        "score": 1,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2306",
+          "display_name": "Global and Planetary Change"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/23",
+          "display_name": "Environmental Science"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T11588",
+          "display_name": "Atmospheric and Environmental Gas Dynamics",
+          "score": 1,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2306",
+            "display_name": "Global and Planetary Change"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/23",
+            "display_name": "Environmental Science"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9851999878883362,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T14224",
+          "display_name": "Oil, Gas, and Environmental Issues",
+          "score": 0.95660001039505,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2105",
+            "display_name": "Renewable Energy, Sustainability and the Environment"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/21",
+            "display_name": "Energy"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/hydraulic-fracturing",
+          "display_name": "Hydraulic fracturing",
+          "score": 0.7904137372970581
+        },
+        {
+          "id": "https://openalex.org/keywords/government",
+          "display_name": "Government (linguistics)",
+          "score": 0.5491507053375244
+        },
+        {
+          "id": "https://openalex.org/keywords/population",
+          "display_name": "Population",
+          "score": 0.5349681973457336
+        },
+        {
+          "id": "https://openalex.org/keywords/china",
+          "display_name": "China",
+          "score": 0.5312502384185791
+        },
+        {
+          "id": "https://openalex.org/keywords/license",
+          "display_name": "License",
+          "score": 0.5104683637619019
+        },
+        {
+          "id": "https://openalex.org/keywords/business",
+          "display_name": "Business",
+          "score": 0.5013511180877686
+        },
+        {
+          "id": "https://openalex.org/keywords/shale-gas",
+          "display_name": "Shale gas",
+          "score": 0.4749234616756439
+        },
+        {
+          "id": "https://openalex.org/keywords/oil-shale",
+          "display_name": "Oil shale",
+          "score": 0.43379783630371094
+        },
+        {
+          "id": "https://openalex.org/keywords/natural-resource-economics",
+          "display_name": "Natural resource economics",
+          "score": 0.4310040771961212
+        },
+        {
+          "id": "https://openalex.org/keywords/unconventional-oil",
+          "display_name": "Unconventional oil",
+          "score": 0.41919466853141785
+        },
+        {
+          "id": "https://openalex.org/keywords/international-trade",
+          "display_name": "International trade",
+          "score": 0.35795581340789795
+        },
+        {
+          "id": "https://openalex.org/keywords/economy",
+          "display_name": "Economy",
+          "score": 0.3324689269065857
+        },
+        {
+          "id": "https://openalex.org/keywords/engineering",
+          "display_name": "Engineering",
+          "score": 0.2811717689037323
+        },
+        {
+          "id": "https://openalex.org/keywords/economics",
+          "display_name": "Economics",
+          "score": 0.2325262427330017
+        },
+        {
+          "id": "https://openalex.org/keywords/petroleum-engineering",
+          "display_name": "Petroleum engineering",
+          "score": 0.22917011380195618
+        },
+        {
+          "id": "https://openalex.org/keywords/political-science",
+          "display_name": "Political science",
+          "score": 0.20096394419670105
+        },
+        {
+          "id": "https://openalex.org/keywords/waste-management",
+          "display_name": "Waste management",
+          "score": 0.1757873296737671
+        },
+        {
+          "id": "https://openalex.org/keywords/law",
+          "display_name": "Law",
+          "score": 0.11187183856964111
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C2779096232",
+          "wikidata": "https://www.wikidata.org/wiki/Q890794",
+          "display_name": "Hydraulic fracturing",
+          "level": 2,
+          "score": 0.7904137372970581
+        },
+        {
+          "id": "https://openalex.org/C2778137410",
+          "wikidata": "https://www.wikidata.org/wiki/Q2732820",
+          "display_name": "Government (linguistics)",
+          "level": 2,
+          "score": 0.5491507053375244
+        },
+        {
+          "id": "https://openalex.org/C2908647359",
+          "wikidata": "https://www.wikidata.org/wiki/Q2625603",
+          "display_name": "Population",
+          "level": 2,
+          "score": 0.5349681973457336
+        },
+        {
+          "id": "https://openalex.org/C191935318",
+          "wikidata": "https://www.wikidata.org/wiki/Q148",
+          "display_name": "China",
+          "level": 2,
+          "score": 0.5312502384185791
+        },
+        {
+          "id": "https://openalex.org/C2780560020",
+          "wikidata": "https://www.wikidata.org/wiki/Q79719",
+          "display_name": "License",
+          "level": 2,
+          "score": 0.5104683637619019
+        },
+        {
+          "id": "https://openalex.org/C144133560",
+          "wikidata": "https://www.wikidata.org/wiki/Q4830453",
+          "display_name": "Business",
+          "level": 0,
+          "score": 0.5013511180877686
+        },
+        {
+          "id": "https://openalex.org/C2993020645",
+          "wikidata": "https://www.wikidata.org/wiki/Q564726",
+          "display_name": "Shale gas",
+          "level": 3,
+          "score": 0.4749234616756439
+        },
+        {
+          "id": "https://openalex.org/C153127940",
+          "wikidata": "https://www.wikidata.org/wiki/Q221378",
+          "display_name": "Oil shale",
+          "level": 2,
+          "score": 0.43379783630371094
+        },
+        {
+          "id": "https://openalex.org/C175605778",
+          "wikidata": "https://www.wikidata.org/wiki/Q3299701",
+          "display_name": "Natural resource economics",
+          "level": 1,
+          "score": 0.4310040771961212
+        },
+        {
+          "id": "https://openalex.org/C24345647",
+          "wikidata": "https://www.wikidata.org/wiki/Q1147488",
+          "display_name": "Unconventional oil",
+          "level": 3,
+          "score": 0.41919466853141785
+        },
+        {
+          "id": "https://openalex.org/C155202549",
+          "wikidata": "https://www.wikidata.org/wiki/Q178803",
+          "display_name": "International trade",
+          "level": 1,
+          "score": 0.35795581340789795
+        },
+        {
+          "id": "https://openalex.org/C136264566",
+          "wikidata": "https://www.wikidata.org/wiki/Q159810",
+          "display_name": "Economy",
+          "level": 1,
+          "score": 0.3324689269065857
+        },
+        {
+          "id": "https://openalex.org/C127413603",
+          "wikidata": "https://www.wikidata.org/wiki/Q11023",
+          "display_name": "Engineering",
+          "level": 0,
+          "score": 0.2811717689037323
+        },
+        {
+          "id": "https://openalex.org/C162324750",
+          "wikidata": "https://www.wikidata.org/wiki/Q8134",
+          "display_name": "Economics",
+          "level": 0,
+          "score": 0.2325262427330017
+        },
+        {
+          "id": "https://openalex.org/C78762247",
+          "wikidata": "https://www.wikidata.org/wiki/Q1273174",
+          "display_name": "Petroleum engineering",
+          "level": 1,
+          "score": 0.22917011380195618
+        },
+        {
+          "id": "https://openalex.org/C17744445",
+          "wikidata": "https://www.wikidata.org/wiki/Q36442",
+          "display_name": "Political science",
+          "level": 0,
+          "score": 0.20096394419670105
+        },
+        {
+          "id": "https://openalex.org/C548081761",
+          "wikidata": "https://www.wikidata.org/wiki/Q180388",
+          "display_name": "Waste management",
+          "level": 1,
+          "score": 0.1757873296737671
+        },
+        {
+          "id": "https://openalex.org/C199539241",
+          "wikidata": "https://www.wikidata.org/wiki/Q7748",
+          "display_name": "Law",
+          "level": 1,
+          "score": 0.11187183856964111
+        },
+        {
+          "id": "https://openalex.org/C144024400",
+          "wikidata": "https://www.wikidata.org/wiki/Q21201",
+          "display_name": "Sociology",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C149923435",
+          "wikidata": "https://www.wikidata.org/wiki/Q37732",
+          "display_name": "Demography",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C138885662",
+          "wikidata": "https://www.wikidata.org/wiki/Q5891",
+          "display_name": "Philosophy",
+          "level": 0,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C41895202",
+          "wikidata": "https://www.wikidata.org/wiki/Q8162",
+          "display_name": "Linguistics",
+          "level": 1,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 3,
+      "locations": [
+        {
+          "id": "doi:10.1002/ese3.96",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1002/ese3.96",
+          "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ese3.96",
+          "source": {
+            "id": "https://openalex.org/S2737327489",
+            "display_name": "Energy Science & Engineering",
+            "issn_l": "2050-0505",
+            "issn": [
+              "2050-0505"
+            ],
+            "is_oa": true,
+            "is_in_doaj": true,
+            "is_core": true,
+            "host_organization": "https://openalex.org/P4310320595",
+            "host_organization_name": "Wiley",
+            "host_organization_lineage": [
+              "https://openalex.org/P4310320595"
+            ],
+            "host_organization_lineage_names": [
+              "Wiley"
+            ],
+            "type": "journal"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "Energy Science &amp; Engineering",
+          "raw_type": "journal-article"
+        },
+        {
+          "id": "pmh:oai:nora.nerc.ac.uk:512129",
+          "is_oa": false,
+          "landing_page_url": "http://nora.nerc.ac.uk/id/eprint/512129/1/Stephenson-2016-Energy_Science_%26_Engineering.pdf",
+          "pdf_url": "http://nora.nerc.ac.uk/id/eprint/512129/1/Stephenson-2016-Energy_Science_%26_Engineering.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306400758",
+            "display_name": "NERC Open Research Archive (Natural Environment Research Council)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I141816643",
+            "host_organization_name": "Natural Environment Research Council",
+            "host_organization_lineage": [
+              "https://openalex.org/I141816643"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "Publication - Article"
+        },
+        {
+          "id": "pmh:oai:dnet:scipediaopen::4d62b84e55ba247bd77c35cc84c53d1b",
+          "is_oa": true,
+          "landing_page_url": "https://www.scipedia.com/public/Stephenson_2015a",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402641",
+            "display_name": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I4383465926",
+            "host_organization_name": "LA Referencia",
+            "host_organization_lineage": [
+              "https://openalex.org/I4383465926"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "",
+          "raw_type": "info:eu-repo/semantics/article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.1002/ese3.96",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1002/ese3.96",
+        "pdf_url": "https://onlinelibrary.wiley.com/doi/pdfdirect/10.1002/ese3.96",
+        "source": {
+          "id": "https://openalex.org/S2737327489",
+          "display_name": "Energy Science & Engineering",
+          "issn_l": "2050-0505",
+          "issn": [
+            "2050-0505"
+          ],
+          "is_oa": true,
+          "is_in_doaj": true,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Energy Science &amp; Engineering",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "id": "https://metadata.un.org/sdg/9",
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.46000000834465027
+        }
+      ],
+      "awards": [],
+      "funders": [
+        {
+          "id": "https://openalex.org/F4320321464",
+          "display_name": "British Geological Survey",
+          "ror": "https://ror.org/04a7gbp98"
+        }
+      ],
+      "has_content": {
+        "grobid_xml": true,
+        "pdf": true
+      },
+      "content_urls": {
+        "pdf": "https://content.openalex.org/works/W2159968487.pdf",
+        "grobid_xml": "https://content.openalex.org/works/W2159968487.grobid-xml"
+      },
+      "referenced_works_count": 25,
+      "referenced_works": [
+        "https://openalex.org/W184749996",
+        "https://openalex.org/W1513896494",
+        "https://openalex.org/W1601843412",
+        "https://openalex.org/W1994903352",
+        "https://openalex.org/W1999551220",
+        "https://openalex.org/W2004216675",
+        "https://openalex.org/W2061206676",
+        "https://openalex.org/W2103445883",
+        "https://openalex.org/W2114908003",
+        "https://openalex.org/W2139010298",
+        "https://openalex.org/W2156092401",
+        "https://openalex.org/W2161219510",
+        "https://openalex.org/W2162643797",
+        "https://openalex.org/W2164951101",
+        "https://openalex.org/W2165837811",
+        "https://openalex.org/W2166083971",
+        "https://openalex.org/W2230423016",
+        "https://openalex.org/W2530418312",
+        "https://openalex.org/W2547615752",
+        "https://openalex.org/W2594773748",
+        "https://openalex.org/W2613660008",
+        "https://openalex.org/W2763954569",
+        "https://openalex.org/W2766450630",
+        "https://openalex.org/W2907804913",
+        "https://openalex.org/W2946970740"
+      ],
+      "related_works": [
+        "https://openalex.org/W2212321314",
+        "https://openalex.org/W2110866113",
+        "https://openalex.org/W2499711229",
+        "https://openalex.org/W657477992",
+        "https://openalex.org/W4295253203",
+        "https://openalex.org/W2791869118",
+        "https://openalex.org/W2069597045",
+        "https://openalex.org/W3124762147",
+        "https://openalex.org/W2782955101",
+        "https://openalex.org/W2827619762"
+      ],
+      "abstract_inverted_index": {
+        "Abstract": [
+          0
+        ],
+        "According": [
+          1
+        ],
+        "to": [
+          2,
+          37,
+          142,
+          151,
+          213,
+          223
+        ],
+        "the": [
+          3,
+          14,
+          31,
+          67,
+          101,
+          115,
+          123,
+          211,
+          227
+        ],
+        "U.S.": [
+          4
+        ],
+        "Energy": [
+          5
+        ],
+        "Information": [
+          6
+        ],
+        "Administration,": [
+          7
+        ],
+        "shale": [
+          8,
+          70,
+          86,
+          137,
+          179
+        ],
+        "gas": [
+          9,
+          18,
+          36,
+          71,
+          87,
+          138,
+          197
+        ],
+        "will": [
+          10
+        ],
+        "provide": [
+          11
+        ],
+        "half": [
+          12
+        ],
+        "of": [
+          13,
+          30,
+          35,
+          47,
+          49,
+          62,
+          84,
+          105,
+          148,
+          183
+        ],
+        "United": [
+          15,
+          22,
+          116,
+          124
+        ],
+        "States’": [
+          16
+        ],
+        "domestic": [
+          17
+        ],
+        "by": [
+          19
+        ],
+        "2035.": [
+          20
+        ],
+        "The": [
+          21,
+          103,
+          199
+        ],
+        "States": [
+          23,
+          117
+        ],
+        "has": [
+          24,
+          73
+        ],
+        "already": [
+          25
+        ],
+        "moved": [
+          26
+        ],
+        "from": [
+          27
+        ],
+        "being": [
+          28,
+          38,
+          120
+        ],
+        "one": [
+          29
+        ],
+        "world's": [
+          32
+        ],
+        "largest": [
+          33
+        ],
+        "importers": [
+          34
+        ],
+        "self‐sufficient": [
+          39
+        ],
+        "in": [
+          40,
+          60,
+          69,
+          93,
+          114,
+          127,
+          174,
+          187,
+          202
+        ],
+        "less": [
+          41
+        ],
+        "than": [
+          42,
+          172
+        ],
+        "a": [
+          43,
+          96,
+          169,
+          215
+        ],
+        "decade,": [
+          44
+        ],
+        "bringing": [
+          45
+        ],
+        "hundreds": [
+          46
+        ],
+        "thousands": [
+          48
+        ],
+        "jobs": [
+          50
+        ],
+        "and": [
+          51,
+          89,
+          92,
+          108,
+          130,
+          163,
+          165,
+          189,
+          218,
+          221,
+          229
+        ],
+        "attracting": [
+          52
+        ],
+        "back": [
+          53
+        ],
+        "companies": [
+          54
+        ],
+        "that": [
+          55,
+          111,
+          192
+        ],
+        "long": [
+          56
+        ],
+        "ago": [
+          57
+        ],
+        "left": [
+          58
+        ],
+        "America": [
+          59
+        ],
+        "search": [
+          61
+        ],
+        "cheap": [
+          63
+        ],
+        "manufacturing": [
+          64
+        ],
+        "costs.": [
+          65
+        ],
+        "But": [
+          66
+        ],
+        "increase": [
+          68
+        ],
+        "extraction": [
+          72
+        ],
+        "also": [
+          74
+        ],
+        "had": [
+          75
+        ],
+        "an": [
+          76
+        ],
+        "environmental": [
+          77
+        ],
+        "cost.": [
+          78
+        ],
+        "There": [
+          79,
+          132
+        ],
+        "is": [
+          80,
+          118,
+          205
+        ],
+        "clear": [
+          81,
+          134
+        ],
+        "scientific": [
+          82
+        ],
+        "evidence": [
+          83
+        ],
+        "leaking": [
+          85
+        ],
+        "wells": [
+          88
+        ],
+        "induced": [
+          90
+        ],
+        "earthquakes,": [
+          91
+        ],
+        "some": [
+          94,
+          152
+        ],
+        "areas": [
+          95,
+          182
+        ],
+        "population": [
+          97,
+          185
+        ],
+        "increasingly": [
+          98
+        ],
+        "turning": [
+          99
+        ],
+        "against": [
+          100
+        ],
+        "industry.": [
+          102
+        ],
+        "technology": [
+          104
+        ],
+        "horizontal": [
+          106
+        ],
+        "drilling": [
+          107
+        ],
+        "hydraulic": [
+          109
+        ],
+        "fracturing": [
+          110
+        ],
+        "was": [
+          112
+        ],
+        "developed": [
+          113
+        ],
+        "now": [
+          119
+        ],
+        "tried": [
+          121
+        ],
+        "outside": [
+          122
+        ],
+        "States,": [
+          125
+        ],
+        "including": [
+          126
+        ],
+        "Europe,": [
+          128,
+          188
+        ],
+        "Argentina,": [
+          129
+        ],
+        "China.": [
+          131
+        ],
+        "are": [
+          133,
+          193
+        ],
+        "reasons": [
+          135
+        ],
+        "why": [
+          136
+        ],
+        "might": [
+          139
+        ],
+        "be": [
+          140,
+          224
+        ],
+        "attractive": [
+          141
+        ],
+        "Europe.": [
+          143
+        ],
+        "It": [
+          144
+        ],
+        "may": [
+          145
+        ],
+        "offer": [
+          146
+        ],
+        "security": [
+          147
+        ],
+        "energy": [
+          149
+        ],
+        "supply": [
+          150,
+          168
+        ],
+        "countries": [
+          153
+        ],
+        "particularly": [
+          154
+        ],
+        "dependent": [
+          155
+        ],
+        "on": [
+          156
+        ],
+        "Russian": [
+          157
+        ],
+        "gas;": [
+          158
+        ],
+        "it": [
+          159,
+          166
+        ],
+        "could": [
+          160,
+          167
+        ],
+        "stimulate": [
+          161
+        ],
+        "growth": [
+          162
+        ],
+        "jobs;": [
+          164
+        ],
+        "cleaner": [
+          170
+        ],
+        "fuel": [
+          171
+        ],
+        "coal": [
+          173
+        ],
+        "power": [
+          175
+        ],
+        "stations.": [
+          176
+        ],
+        "However,": [
+          177
+        ],
+        "prospective": [
+          178
+        ],
+        "often": [
+          180
+        ],
+        "underlies": [
+          181
+        ],
+        "high": [
+          184
+        ],
+        "density": [
+          186
+        ],
+        "moreover,": [
+          190
+        ],
+        "populations": [
+          191
+        ],
+        "unfamiliar": [
+          194
+        ],
+        "with": [
+          195
+        ],
+        "onshore": [
+          196
+        ],
+        "operations.": [
+          198
+        ],
+        "main": [
+          200
+        ],
+        "challenge": [
+          201
+        ],
+        "Europe": [
+          203
+        ],
+        "therefore": [
+          204
+        ],
+        "not": [
+          206
+        ],
+        "mainly": [
+          207
+        ],
+        "technological": [
+          208
+        ],
+        "but": [
+          209
+        ],
+        "for": [
+          210,
+          219
+        ],
+        "industry": [
+          212
+        ],
+        "achieve": [
+          214
+        ],
+        "“social": [
+          216
+        ],
+        "license”": [
+          217
+        ],
+        "Government": [
+          220
+        ],
+        "regulations": [
+          222
+        ],
+        "manifestly": [
+          225
+        ],
+        "protecting": [
+          226
+        ],
+        "public": [
+          228
+        ],
+        "property.": [
+          230
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2025,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 7
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 8
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 14
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 2
+        }
+      ],
+      "updated_date": "2026-09-06T09:10:53.072986",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2730765521",
       "doi": "https://doi.org/10.1016/j.marpetgeo.2017.06.033",
       "title": "The prospectivity of a potential shale gas play: An example from the southern Pennine Basin (central England, UK)",
@@ -23711,8 +23726,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -25152,8 +25167,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5400000214576721,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5400000214576721
         }
       ],
       "awards": [],
@@ -25984,8 +25999,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [
@@ -28503,8 +28518,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7900000214576721,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7900000214576721
         }
       ],
       "awards": [],
@@ -29900,8 +29915,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8500000238418579
         }
       ],
       "awards": [
@@ -30606,8 +30621,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.7699999809265137,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.7699999809265137
         }
       ],
       "awards": [],
@@ -31565,8 +31580,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -34565,8 +34580,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8100000023841858,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8100000023841858
         }
       ],
       "awards": [
@@ -40514,8 +40529,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5600000023841858,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5600000023841858
         }
       ],
       "awards": [],
@@ -42647,8 +42662,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -45544,8 +45559,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5099999904632568,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.5099999904632568
         }
       ],
       "awards": [],
@@ -46111,8 +46126,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -47323,8 +47338,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -48474,8 +48489,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8100000023841858,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8100000023841858
         }
       ],
       "awards": [
@@ -49548,8 +49563,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [
@@ -50210,8 +50225,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -54442,8 +54457,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [
@@ -56062,8 +56077,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -57859,8 +57874,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -58720,8 +58735,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5699999928474426,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5699999928474426
         }
       ],
       "awards": [],
@@ -59262,7 +59277,7 @@
         "id": "doi:10.1016/j.palaeo.2019.109423",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1016/j.palaeo.2019.109423",
-        "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0031018219307527/pdf",
+        "pdf_url": "https://ars.els-cdn.com/content/image/1-s2.0-S0031018219307527-fx1_lrg.jpg",
         "source": {
           "id": "https://openalex.org/S159210951",
           "display_name": "Palaeogeography Palaeoclimatology Palaeoecology",
@@ -59299,7 +59314,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "hybrid",
-        "oa_url": "https://www.sciencedirect.com/science/article/pii/S0031018219307527/pdf",
+        "oa_url": "https://ars.els-cdn.com/content/image/1-s2.0-S0031018219307527-fx1_lrg.jpg",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -59703,11 +59718,11 @@
         "currency": "USD",
         "value_usd": 3050
       },
-      "fwci": 1.6831,
+      "fwci": 1.6849,
       "has_fulltext": true,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.8151087,
+        "value": 0.81531431,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -59901,7 +59916,7 @@
           "id": "doi:10.1016/j.palaeo.2019.109423",
           "is_oa": true,
           "landing_page_url": "https://doi.org/10.1016/j.palaeo.2019.109423",
-          "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0031018219307527/pdf",
+          "pdf_url": "https://ars.els-cdn.com/content/image/1-s2.0-S0031018219307527-fx1_lrg.jpg",
           "source": {
             "id": "https://openalex.org/S159210951",
             "display_name": "Palaeogeography Palaeoclimatology Palaeoecology",
@@ -60052,7 +60067,7 @@
         "id": "doi:10.1016/j.palaeo.2019.109423",
         "is_oa": true,
         "landing_page_url": "https://doi.org/10.1016/j.palaeo.2019.109423",
-        "pdf_url": "https://www.sciencedirect.com/science/article/pii/S0031018219307527/pdf",
+        "pdf_url": "https://ars.els-cdn.com/content/image/1-s2.0-S0031018219307527-fx1_lrg.jpg",
         "source": {
           "id": "https://openalex.org/S159210951",
           "display_name": "Palaeogeography Palaeoclimatology Palaeoecology",
@@ -60085,8 +60100,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [
@@ -61264,7 +61279,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-04T10:56:28.161419",
+      "updated_date": "2026-09-06T09:10:53.072986",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -61854,8 +61869,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
@@ -64468,8 +64483,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -65649,8 +65664,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -66914,8 +66929,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8999999761581421
         }
       ],
       "awards": [
@@ -67688,8 +67703,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -68842,8 +68857,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -70195,8 +70210,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.47999998927116394,
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.47999998927116394
         }
       ],
       "awards": [
@@ -70731,8 +70746,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6700000166893005,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6700000166893005
         }
       ],
       "awards": [],
@@ -71237,8 +71252,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
@@ -75064,8 +75079,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [
@@ -75602,8 +75617,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8999999761581421
         }
       ],
       "awards": [],
@@ -77639,8 +77654,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -78893,8 +78908,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7900000214576721,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7900000214576721
         }
       ],
       "awards": [
@@ -79986,8 +80001,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.5600000023841858,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.5600000023841858
         }
       ],
       "awards": [],
@@ -81499,8 +81514,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8500000238418579,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8500000238418579
         }
       ],
       "awards": [],
@@ -82179,8 +82194,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.7200000286102295,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.7200000286102295
         }
       ],
       "awards": [],
@@ -83087,8 +83102,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [
@@ -84211,8 +84226,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8799999952316284,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -85163,8 +85178,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8199999928474426,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8199999928474426
         }
       ],
       "awards": [
@@ -86061,8 +86076,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.4099999964237213,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.4099999964237213
         }
       ],
       "awards": [],
@@ -86494,8 +86509,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.800000011920929,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
@@ -89143,8 +89158,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5799999833106995,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5799999833106995
         }
       ],
       "awards": [],
@@ -89837,8 +89852,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4300000071525574,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -92052,8 +92067,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -93747,8 +93762,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.44999998807907104,
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
@@ -96058,8 +96073,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.4699999988079071,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.4699999988079071
         }
       ],
       "awards": [],
@@ -96656,8 +96671,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [
@@ -97779,11 +97794,11 @@
         "value_usd": 3210
       },
       "apc_paid": null,
-      "fwci": 1.0961,
+      "fwci": 1.086,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.70409185,
+        "value": 0.70179357,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -97911,7 +97926,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 5,
+      "locations_count": 4,
       "locations": [
         {
           "id": "doi:10.1016/j.palaeo.2025.112929",
@@ -98004,20 +98019,6 @@
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "article"
-        },
-        {
-          "id": "pmh:ark:/13030/qt1dd6k7hp",
-          "is_oa": false,
-          "landing_page_url": null,
-          "pdf_url": null,
-          "source": null,
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": null,
-          "raw_type": null
         },
         {
           "id": "pmh:oai:zaguan.unizar.es:153681",
@@ -98326,7 +98327,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-03T10:48:47.769340",
+      "updated_date": "2026-09-06T09:10:53.072986",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -98818,8 +98819,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5699999928474426,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.5699999928474426
         }
       ],
       "awards": [],
@@ -99440,8 +99441,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8100000023841858,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8100000023841858
         }
       ],
       "awards": [],
@@ -100180,8 +100181,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6299999952316284,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6299999952316284
         }
       ],
       "awards": [],
@@ -101796,8 +101797,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -102859,8 +102860,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.6800000071525574,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.6800000071525574
         }
       ],
       "awards": [
@@ -103443,8 +103444,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -104313,8 +104314,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5299999713897705,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5299999713897705
         }
       ],
       "awards": [],
@@ -105273,8 +105274,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7799999713897705,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7799999713897705
         }
       ],
       "awards": [],
@@ -106199,8 +106200,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.699999988079071,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.699999988079071
         }
       ],
       "awards": [],
@@ -108645,8 +108646,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/1",
-          "score": 0.49000000953674316,
-          "display_name": "No poverty"
+          "display_name": "No poverty",
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
@@ -109520,8 +109521,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.800000011920929,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.800000011920929
         }
       ],
       "awards": [],
@@ -110683,8 +110684,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7799999713897705,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7799999713897705
         }
       ],
       "awards": [],
@@ -112335,8 +112336,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.75,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.75
         }
       ],
       "awards": [
@@ -113700,8 +113701,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6399999856948853,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6399999856948853
         }
       ],
       "awards": [],
@@ -114116,8 +114117,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.7300000190734863,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.7300000190734863
         }
       ],
       "awards": [],
@@ -114691,8 +114692,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/12",
-          "score": 0.41999998688697815,
-          "display_name": "Responsible consumption and production"
+          "display_name": "Responsible consumption and production",
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -115112,8 +115113,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/7",
-          "score": 0.4300000071525574,
-          "display_name": "Affordable and clean energy"
+          "display_name": "Affordable and clean energy",
+          "score": 0.4300000071525574
         }
       ],
       "awards": [],
@@ -115582,8 +115583,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/17",
-          "score": 0.44999998807907104,
-          "display_name": "Partnerships for the goals"
+          "display_name": "Partnerships for the goals",
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
@@ -116172,8 +116173,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8799999952316284,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -117286,8 +117287,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.8299999833106995,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
@@ -118032,8 +118033,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [
@@ -118905,8 +118906,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/9",
-          "score": 0.6000000238418579,
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "score": 0.6000000238418579
         }
       ],
       "awards": [],
@@ -119624,8 +119625,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -121078,8 +121079,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8100000023841858,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.8100000023841858
         }
       ],
       "awards": [],
@@ -121648,8 +121649,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.6299999952316284,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.6299999952316284
         }
       ],
       "awards": [],
@@ -122339,8 +122340,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -122736,8 +122737,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.5199999809265137,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.5199999809265137
         }
       ],
       "awards": [],
@@ -123084,8 +123085,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],
@@ -123951,8 +123952,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -124947,8 +124948,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -126494,8 +126495,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8299999833106995,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.8299999833106995
         }
       ],
       "awards": [],
@@ -126909,8 +126910,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.49000000953674316,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.49000000953674316
         }
       ],
       "awards": [],
@@ -127775,8 +127776,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.8600000143051147,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -128264,8 +128265,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6600000262260437,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.6600000262260437
         }
       ],
       "awards": [],
@@ -128698,8 +128699,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8399999737739563,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8399999737739563
         }
       ],
       "awards": [],
@@ -129133,8 +129134,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.7300000190734863,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.7300000190734863
         }
       ],
       "awards": [],
@@ -129488,8 +129489,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.47999998927116394,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.47999998927116394
         }
       ],
       "awards": [],
@@ -129891,8 +129892,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.44999998807907104,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
@@ -132291,8 +132292,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5299999713897705,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.5299999713897705
         }
       ],
       "awards": [],
@@ -132715,8 +132716,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/6",
-          "score": 0.4099999964237213,
-          "display_name": "Clean water and sanitation"
+          "display_name": "Clean water and sanitation",
+          "score": 0.4099999964237213
         }
       ],
       "awards": [],
@@ -133594,8 +133595,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.7200000286102295,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.7200000286102295
         }
       ],
       "awards": [],
@@ -133927,8 +133928,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/8",
-          "score": 0.46000000834465027,
-          "display_name": "Decent work and economic growth"
+          "display_name": "Decent work and economic growth",
+          "score": 0.46000000834465027
         }
       ],
       "awards": [],
@@ -134365,8 +134366,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.8600000143051147,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "score": 0.8600000143051147
         }
       ],
       "awards": [],
@@ -135099,8 +135100,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.5600000023841858,
-          "display_name": "Life in Land"
+          "display_name": "Life in Land",
+          "score": 0.5600000023841858
         }
       ],
       "awards": [],
@@ -135749,8 +135750,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.7400000095367432,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.7400000095367432
         }
       ],
       "awards": [],
@@ -136673,8 +136674,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.44999998807907104,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.44999998807907104
         }
       ],
       "awards": [],
@@ -137159,8 +137160,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8690484762191772,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "score": 0.8690484762191772
         }
       ],
       "awards": [],
@@ -137817,8 +137818,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.4088655114173889,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "score": 0.4088655114173889
         }
       ],
       "awards": [],
@@ -142754,8 +142755,8 @@
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/4",
-          "score": 0.7890809178352356,
-          "display_name": "Quality Education"
+          "display_name": "Quality Education",
+          "score": 0.7890809178352356
         }
       ],
       "awards": [],

@@ -994,16 +994,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -1807,8 +1807,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2400592313.pdf",
@@ -2328,13 +2328,13 @@
           "is_corresponding": false,
           "raw_author_name": "F. Talbi",
           "raw_affiliation_strings": [
-            "Facult des Sciences, Dpartement de Gologie, B.P. 524, 60000 Oujda/Maroc;",
+            "Faculté des Sciences , Département de Géologie , B.P. 524 , 60000 Oujda / Maroc ;",
             "Faculté des Sciences, Département de Géologie, Oujda"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Facult des Sciences, Dpartement de Gologie, B.P. 524, 60000 Oujda/Maroc;",
+              "raw_affiliation_string": "Faculté des Sciences , Département de Géologie , B.P. 524 , 60000 Oujda / Maroc ;",
               "institution_ids": [
                 "https://openalex.org/I3019441195"
               ]
@@ -2372,13 +2372,13 @@
           "is_corresponding": false,
           "raw_author_name": "F. Melki",
           "raw_affiliation_strings": [
-            "Facult des Sciences, Dpartement de Gologie, Tunis / Tunisie",
+            "Faculté des Sciences , Département de Géologie , Tunis / Tunisie",
             "Faculté des Sciences, Département de Géologie, Tunis"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Facult des Sciences, Dpartement de Gologie, Tunis / Tunisie",
+              "raw_affiliation_string": "Faculté des Sciences , Département de Géologie , Tunis / Tunisie",
               "institution_ids": [
                 "https://openalex.org/I108714496"
               ]
@@ -2414,13 +2414,13 @@
           "is_corresponding": false,
           "raw_author_name": "K. Ben Ismail-Lattrache",
           "raw_affiliation_strings": [
-            "Facult des Sciences, Dpartement de Gologie, Tunis / Tunisie",
+            "Faculté des Sciences , Département de Géologie , Tunis / Tunisie",
             "Faculté des Sciences, Département de Géologie, Tunis"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Facult des Sciences, Dpartement de Gologie, Tunis / Tunisie",
+              "raw_affiliation_string": "Faculté des Sciences , Département de Géologie , Tunis / Tunisie",
               "institution_ids": [
                 "https://openalex.org/I108714496"
               ]
@@ -2440,6 +2440,16 @@
           },
           "institutions": [
             {
+              "id": "https://openalex.org/I108714496",
+              "display_name": "Tunis University",
+              "ror": "https://ror.org/02q1spa57",
+              "country_code": "TN",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I108714496"
+              ]
+            },
+            {
               "id": "https://openalex.org/I179097149",
               "display_name": "University of Carthage",
               "ror": "https://ror.org/057x6za15",
@@ -2456,14 +2466,15 @@
           "is_corresponding": false,
           "raw_author_name": "R. Alouani",
           "raw_affiliation_strings": [
-            "Facult des Sciences, Dpartement de Gologie, Bizerte / Tunisie",
+            "Faculté des Sciences , Département de Géologie , Bizerte / Tunisie ",
             "Faculté des Sciences, Département de Géologie, Bizerte"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Facult des Sciences, Dpartement de Gologie, Bizerte / Tunisie",
+              "raw_affiliation_string": "Faculté des Sciences , Département de Géologie , Bizerte / Tunisie ",
               "institution_ids": [
+                "https://openalex.org/I108714496",
                 "https://openalex.org/I179097149"
               ]
             },
@@ -2498,13 +2509,13 @@
           "is_corresponding": false,
           "raw_author_name": "S. Tlig",
           "raw_affiliation_strings": [
-            "Facult des Sciences, Dpartement de Gologie, Tunis / Tunisie",
+            "Faculté des Sciences , Département de Géologie , Tunis / Tunisie",
             "Faculté des Sciences, Département de Géologie, Tunis"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Facult des Sciences, Dpartement de Gologie, Tunis / Tunisie",
+              "raw_affiliation_string": "Faculté des Sciences , Département de Géologie , Tunis / Tunisie",
               "institution_ids": [
                 "https://openalex.org/I108714496"
               ]
@@ -2518,21 +2529,21 @@
       ],
       "institutions": [],
       "countries_distinct_count": 3,
-      "institutions_distinct_count": 5,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.8036,
+      "fwci": 1.6079,
       "has_fulltext": true,
       "cited_by_count": 39,
       "citation_normalized_percentile": {
-        "value": 0.81957365,
+        "value": 0.79626412,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 98
       },
       "biblio": {
@@ -2825,16 +2836,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5600000023841858,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W176213037.pdf",
@@ -3295,7 +3306,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-06-11T09:08:48.828518",
+      "updated_date": "2026-09-06T09:10:53.072986",
       "created_date": "2016-06-24T00:00:00"
     },
     {
@@ -3897,16 +3908,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -4599,8 +4610,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1966461395.pdf",
@@ -5610,16 +5621,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.47999998927116394,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -6969,16 +6980,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5799999833106995,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -8093,16 +8104,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -8842,8 +8853,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -9194,16 +9205,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.4000000059604645,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9794,8 +9805,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10701,8 +10712,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -11258,16 +11269,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "score": 0.5699999928474426,
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -11998,16 +12009,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8100000023841858,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12411,16 +12422,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -13151,8 +13162,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3140554541.pdf",
@@ -14096,8 +14107,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -14731,16 +14742,16 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6600000262260437,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": true,
-        "grobid_xml": true
+        "grobid_xml": true,
+        "pdf": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386418130.pdf",
@@ -14762,7 +14773,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-06T09:10:53.072986",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15456,8 +15467,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "pdf": false,
-        "grobid_xml": false
+        "grobid_xml": false,
+        "pdf": false
       },
       "content_urls": null,
       "referenced_works_count": 5,

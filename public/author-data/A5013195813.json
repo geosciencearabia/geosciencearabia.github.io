@@ -15,7 +15,7 @@
     ],
     "full_name": "DIRK KNAUST",
     "works_count": 118,
-    "cited_by_count": 2947,
+    "cited_by_count": 2950,
     "summary_stats": {
       "2yr_mean_citedness": 2,
       "h_index": 31,
@@ -309,7 +309,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.000268,
+        "value": 0.0002681,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -326,7 +326,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0001667,
+        "value": 0.0001668,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -472,7 +472,7 @@
         "year": 2012,
         "works_count": 10,
         "oa_works_count": 1,
-        "cited_by_count": 522
+        "cited_by_count": 523
       },
       {
         "year": 2013,
@@ -502,7 +502,7 @@
         "year": 2017,
         "works_count": 10,
         "oa_works_count": 0,
-        "cited_by_count": 250
+        "cited_by_count": 252
       },
       {
         "year": 2018,
@@ -571,7 +571,7 @@
     ],
     "block_key": "d knaust",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5013195813",
-    "updated_date": "2026-09-04T12:18:09",
+    "updated_date": "2026-09-05T12:17:44",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -928,8 +928,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.5299999713897705
         }
       ],
@@ -1418,8 +1418,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8999999761581421
         }
       ],
@@ -2153,8 +2153,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8600000143051147
         }
       ],
@@ -5504,8 +5504,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8999999761581421
         }
       ],
@@ -5977,8 +5977,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5899999737739563
         }
       ],
@@ -7628,8 +7628,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -8730,8 +8730,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.49000000953674316
         }
       ],
@@ -9413,8 +9413,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -10494,8 +10494,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -11790,8 +11790,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5899999737739563
         }
       ],
@@ -12367,8 +12367,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8700000047683716
         }
       ],
@@ -13348,10 +13348,17 @@
           "is_corresponding": false,
           "raw_author_name": "Max Wisshak",
           "raw_affiliation_strings": [
+            "Ma rine Re search De part ment , Senckenberg am Meer , 26446 Wilhelmshaven , Ger many ;",
             "Ma rine Re search De part ment, Senckenberg am Meer, 26446 Wilhelmshaven, Ger many;"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Ma rine Re search De part ment , Senckenberg am Meer , 26446 Wilhelmshaven , Ger many ;",
+              "institution_ids": [
+                "https://openalex.org/I4210141534"
+              ]
+            },
             {
               "raw_affiliation_string": "Ma rine Re search De part ment, Senckenberg am Meer, 26446 Wilhelmshaven, Ger many;",
               "institution_ids": [
@@ -13367,15 +13374,35 @@
             "display_name": "Andreas Kroh",
             "orcid": "https://orcid.org/0000-0002-8566-8848"
           },
-          "institutions": [],
-          "countries": [],
+          "institutions": [
+            {
+              "id": "https://openalex.org/I3132875200",
+              "display_name": "Viña del Mar University",
+              "ror": "https://ror.org/00txsqk22",
+              "country_code": "CL",
+              "type": "education",
+              "lineage": [
+                "https://openalex.org/I3132875200"
+              ]
+            }
+          ],
+          "countries": [
+            "CL"
+          ],
           "is_corresponding": false,
           "raw_author_name": "Andreas Kroh",
           "raw_affiliation_strings": [
+            "Nat u ral His tory Mu seum Vi enna , 1010 Vi enna , Aus tria ;",
             "Nat u ral His tory Mu seum Vi enna, 1010 Vi enna, Aus tria;"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Nat u ral His tory Mu seum Vi enna , 1010 Vi enna , Aus tria ;",
+              "institution_ids": [
+                "https://openalex.org/I3132875200"
+              ]
+            },
             {
               "raw_affiliation_string": "Nat u ral His tory Mu seum Vi enna, 1010 Vi enna, Aus tria;",
               "institution_ids": []
@@ -13399,34 +13426,23 @@
               "lineage": [
                 "https://openalex.org/I22465464"
               ]
-            },
-            {
-              "id": "https://openalex.org/I4210097701",
-              "display_name": "Swedish Institute for Studies in Education and Research",
-              "ror": "https://ror.org/00vyw7j44",
-              "country_code": "SE",
-              "type": "education",
-              "lineage": [
-                "https://openalex.org/I4210097701"
-              ]
             }
           ],
           "countries": [
-            "DE",
-            "SE"
+            "DE"
           ],
           "is_corresponding": false,
           "raw_author_name": "Markus Bertling",
           "raw_affiliation_strings": [
-            "Geomuseum of the Uni ver sity of Mnster, 48149 Mnster, Ger many;",
+            "Geomuseum of the Uni ver sity of Münster , 48149 Münster , Ger many ;",
             "Geomuseum of the Uni ver sity of Münster, 48149 Münster, Ger many;"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Geomuseum of the Uni ver sity of Mnster, 48149 Mnster, Ger many;",
+              "raw_affiliation_string": "Geomuseum of the Uni ver sity of Münster , 48149 Münster , Ger many ;",
               "institution_ids": [
-                "https://openalex.org/I4210097701"
+                "https://openalex.org/I22465464"
               ]
             },
             {
@@ -13462,10 +13478,17 @@
           "is_corresponding": false,
           "raw_author_name": "Dirk Knaust",
           "raw_affiliation_strings": [
+            "Statoil ASA , 4035 Stavanger , Nor way ;",
             "Statoil ASA, 4035 Stavanger, Nor way;"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Statoil ASA , 4035 Stavanger , Nor way ;",
+              "institution_ids": [
+                "https://openalex.org/I49324905"
+              ]
+            },
             {
               "raw_affiliation_string": "Statoil ASA, 4035 Stavanger, Nor way;",
               "institution_ids": [
@@ -13546,10 +13569,17 @@
           "is_corresponding": false,
           "raw_author_name": "John Jagt",
           "raw_affiliation_strings": [
+            "Natuurhistorisch Mu seum Maastricht , 6211 KJ Maastricht , the Neth er lands ;",
             "Natuurhistorisch Mu seum Maastricht, 6211 KJ Maastricht, the Neth er lands;"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Natuurhistorisch Mu seum Maastricht , 6211 KJ Maastricht , the Neth er lands ;",
+              "institution_ids": [
+                "https://openalex.org/I2800363616"
+              ]
+            },
             {
               "raw_affiliation_string": "Natuurhistorisch Mu seum Maastricht, 6211 KJ Maastricht, the Neth er lands;",
               "institution_ids": [
@@ -13585,13 +13615,13 @@
           "is_corresponding": false,
           "raw_author_name": "Christian Neumann",
           "raw_affiliation_strings": [
-            "Mu seum fr Naturkunde, Leibniz Institute for Evolution and Biodiversity Science, 10115 Berlin, Ger many;",
+            "Mu seum für Naturkunde , Leibniz Institute for Evolution and Biodiversity Science , 10115 Berlin , Ger many ;",
             "Mu seum für Naturkunde, Leibniz Institute for Evolution and Biodiversity Science, 10115 Berlin, Ger many;"
           ],
           "raw_orcid": null,
           "affiliations": [
             {
-              "raw_affiliation_string": "Mu seum fr Naturkunde, Leibniz Institute for Evolution and Biodiversity Science, 10115 Berlin, Ger many;",
+              "raw_affiliation_string": "Mu seum für Naturkunde , Leibniz Institute for Evolution and Biodiversity Science , 10115 Berlin , Ger many ;",
               "institution_ids": [
                 "https://openalex.org/I1313606977"
               ]
@@ -13634,16 +13664,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 12.446,
+      "fwci": 13.6419,
       "has_fulltext": true,
       "cited_by_count": 63,
       "citation_normalized_percentile": {
-        "value": 0.99030466,
+        "value": 0.99112707,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 99
       },
       "biblio": {
@@ -13937,8 +13967,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6200000047683716
         }
       ],
@@ -14501,7 +14531,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-31T08:31:51.225901",
+      "updated_date": "2026-09-06T09:10:53.072986",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -15438,8 +15468,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8600000143051147
         }
       ],
@@ -16609,8 +16639,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -17700,8 +17730,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8999999761581421
         }
       ],
@@ -18353,8 +18383,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.75
         }
       ],
@@ -19386,8 +19416,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8999999761581421
         }
       ],
@@ -20457,8 +20487,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7900000214576721
         }
       ],
@@ -20946,8 +20976,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -22096,8 +22126,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities",
           "score": 0.41999998688697815
         }
       ],
@@ -23434,8 +23464,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -24794,8 +24824,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8100000023841858
         }
       ],
@@ -27399,8 +27429,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8999999761581421
         }
       ],
@@ -28269,8 +28299,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8299999833106995
         }
       ],
@@ -29284,8 +29314,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8299999833106995
         }
       ],
@@ -30602,8 +30632,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7300000190734863
         }
       ],
@@ -31041,8 +31071,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8999999761581421
         }
       ],
@@ -32196,8 +32226,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -32724,8 +32754,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7799999713897705
         }
       ],
@@ -33714,8 +33744,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8600000143051147
         }
       ],
@@ -34227,8 +34257,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -34947,8 +34977,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8700000047683716
         }
       ],
@@ -36280,8 +36310,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7400000095367432
         }
       ],
@@ -36789,8 +36819,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
@@ -37936,8 +37966,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8999999761581421
         }
       ],
@@ -38428,13 +38458,13 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
+          "display_name": "Sustainable cities and communities",
           "score": 0.47999998927116394
         },
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.44999998807907104
         }
       ],
@@ -39015,8 +39045,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -39488,8 +39518,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
@@ -40135,8 +40165,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8500000238418579
         }
       ],
@@ -41044,8 +41074,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8500000238418579
         }
       ],
@@ -41702,8 +41732,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7699999809265137
         }
       ],
@@ -42266,8 +42296,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8600000143051147
         }
       ],
@@ -43186,8 +43216,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
@@ -44398,8 +44428,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
           "score": 0.44999998807907104
         }
       ],
@@ -45766,8 +45796,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8700000047683716
         }
       ],
@@ -46819,8 +46849,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7200000286102295
         }
       ],
@@ -47650,8 +47680,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -48926,8 +48956,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7200000286102295
         }
       ],
@@ -49502,8 +49532,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -50040,8 +50070,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7900000214576721
         }
       ],
@@ -50888,8 +50918,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8999999761581421
         }
       ],
@@ -51487,8 +51517,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
@@ -51977,8 +52007,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8199999928474426
         }
       ],
@@ -52659,8 +52689,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6600000262260437
         }
       ],
@@ -53657,8 +53687,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
@@ -54761,8 +54791,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7200000286102295
         }
       ],
@@ -55239,10 +55269,17 @@
           "is_corresponding": true,
           "raw_author_name": "Dirk Knaust",
           "raw_affiliation_strings": [
+            "Statoil ASA , 4035 Stavanger , Nor way ;",
             "Statoil ASA, 4035 Stavanger, Nor way;"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Statoil ASA , 4035 Stavanger , Nor way ;",
+              "institution_ids": [
+                "https://openalex.org/I49324905"
+              ]
+            },
             {
               "raw_affiliation_string": "Statoil ASA, 4035 Stavanger, Nor way;",
               "institution_ids": [
@@ -55263,16 +55300,16 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.4885,
+      "fwci": 1.5612,
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.81282431,
+        "value": 0.82235996,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 90,
+        "min": 89,
         "max": 97
       },
       "biblio": {
@@ -55609,8 +55646,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7599999904632568
         }
       ],
@@ -56098,7 +56135,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-07-31T08:31:51.225901",
+      "updated_date": "2026-09-06T09:10:53.072986",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -56407,8 +56444,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
           "score": 0.46000000834465027
         }
       ],
@@ -57327,8 +57364,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6499999761581421
         }
       ],
@@ -58897,8 +58934,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Zero hunger",
           "id": "https://metadata.un.org/sdg/2",
+          "display_name": "Zero hunger",
           "score": 0.5699999928474426
         }
       ],
@@ -59690,8 +59727,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
           "score": 0.6399999856948853
         }
       ],
@@ -60104,8 +60141,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -61523,8 +61560,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -62141,8 +62178,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8799999952316284
         }
       ],
@@ -62757,8 +62794,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -63783,8 +63820,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8999999761581421
         }
       ],
@@ -64632,8 +64669,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -65688,8 +65725,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8700000047683716
         }
       ],
@@ -66898,8 +66935,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -67962,8 +67999,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -68859,8 +68896,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7799999713897705
         }
       ],
@@ -69301,8 +69338,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8999999761581421
         }
       ],
@@ -70220,8 +70257,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.6200000047683716
         }
       ],
@@ -70687,8 +70724,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -71505,8 +71542,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7699999809265137
         }
       ],
@@ -72567,8 +72604,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7900000214576721
         }
       ],
@@ -73708,8 +73745,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
           "score": 0.5199999809265137
         }
       ],
@@ -74415,8 +74452,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5199999809265137
         }
       ],
@@ -75366,11 +75403,16 @@
           "is_corresponding": false,
           "raw_author_name": "Yazhou Hu",
           "raw_affiliation_strings": [
+            "Technology,",
             "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China",
             "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Technology,",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China",
               "institution_ids": [
@@ -75405,6 +75447,17 @@
               ]
             },
             {
+              "id": "https://openalex.org/I4210101261",
+              "display_name": "Continental (United Kingdom)",
+              "ror": "https://ror.org/017f0cd82",
+              "country_code": "GB",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I147869694",
+                "https://openalex.org/I4210101261"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4391767698",
               "display_name": "State Key Laboratory of Continental Dynamics",
               "ror": "https://ror.org/01t2m0x06",
@@ -75428,16 +75481,25 @@
           ],
           "countries": [
             "CN",
+            "GB",
             "NO"
           ],
           "is_corresponding": false,
           "raw_author_name": "Luke C. Strotz",
           "raw_affiliation_strings": [
+            "State Key Laboratory of Continental Dynamics , Shaanxi Key Laboratory of Early Life and a Environments , Department of Geology , Northwest University , Xi'an 710069 , China",
             "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China",
             "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-8818-1832",
           "affiliations": [
+            {
+              "raw_affiliation_string": "State Key Laboratory of Continental Dynamics , Shaanxi Key Laboratory of Early Life and a Environments , Department of Geology , Northwest University , Xi'an 710069 , China",
+              "institution_ids": [
+                "https://openalex.org/I37802460",
+                "https://openalex.org/I4210101261"
+              ]
+            },
             {
               "raw_affiliation_string": "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China",
               "institution_ids": [
@@ -75472,6 +75534,17 @@
               ]
             },
             {
+              "id": "https://openalex.org/I4210101261",
+              "display_name": "Continental (United Kingdom)",
+              "ror": "https://ror.org/017f0cd82",
+              "country_code": "GB",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I147869694",
+                "https://openalex.org/I4210101261"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4391767698",
               "display_name": "State Key Laboratory of Continental Dynamics",
               "ror": "https://ror.org/01t2m0x06",
@@ -75495,16 +75568,32 @@
           ],
           "countries": [
             "CN",
+            "GB",
             "NO"
           ],
           "is_corresponding": false,
           "raw_author_name": "Dirk Knaust",
           "raw_affiliation_strings": [
+            "Digital and Innovation , Equinor ASA , PB 8500 , 4035 Stavanger , Norway",
+            "State Key Laboratory of Continental Dynamics , Shaanxi Key Laboratory of Early Life and a Environments , Department of Geology , Northwest University , Xi'an 710069 , China",
             "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China",
             "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway"
           ],
           "raw_orcid": "https://orcid.org/0000-0002-1698-2489",
           "affiliations": [
+            {
+              "raw_affiliation_string": "Digital and Innovation , Equinor ASA , PB 8500 , 4035 Stavanger , Norway",
+              "institution_ids": [
+                "https://openalex.org/I49324905"
+              ]
+            },
+            {
+              "raw_affiliation_string": "State Key Laboratory of Continental Dynamics , Shaanxi Key Laboratory of Early Life and a Environments , Department of Geology , Northwest University , Xi'an 710069 , China",
+              "institution_ids": [
+                "https://openalex.org/I37802460",
+                "https://openalex.org/I4210101261"
+              ]
+            },
             {
               "raw_affiliation_string": "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China",
               "institution_ids": [
@@ -75539,6 +75628,17 @@
               ]
             },
             {
+              "id": "https://openalex.org/I4210101261",
+              "display_name": "Continental (United Kingdom)",
+              "ror": "https://ror.org/017f0cd82",
+              "country_code": "GB",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I147869694",
+                "https://openalex.org/I4210101261"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4391767698",
               "display_name": "State Key Laboratory of Continental Dynamics",
               "ror": "https://ror.org/01t2m0x06",
@@ -75562,16 +75662,25 @@
           ],
           "countries": [
             "CN",
+            "GB",
             "NO"
           ],
           "is_corresponding": false,
           "raw_author_name": "Jiayue Wang",
           "raw_affiliation_strings": [
+            "State Key Laboratory of Continental Dynamics , Shaanxi Key Laboratory of Early Life and a Environments , Department of Geology , Northwest University , Xi'an 710069 , China",
             "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China",
             "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "State Key Laboratory of Continental Dynamics , Shaanxi Key Laboratory of Early Life and a Environments , Department of Geology , Northwest University , Xi'an 710069 , China",
+              "institution_ids": [
+                "https://openalex.org/I37802460",
+                "https://openalex.org/I4210101261"
+              ]
+            },
             {
               "raw_affiliation_string": "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China",
               "institution_ids": [
@@ -75634,11 +75743,16 @@
           "is_corresponding": false,
           "raw_author_name": "Yue Liang",
           "raw_affiliation_strings": [
+            "Technology,",
             "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China",
             "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Technology,",
+              "institution_ids": []
+            },
             {
               "raw_affiliation_string": "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China",
               "institution_ids": [
@@ -75673,6 +75787,17 @@
               ]
             },
             {
+              "id": "https://openalex.org/I4210101261",
+              "display_name": "Continental (United Kingdom)",
+              "ror": "https://ror.org/017f0cd82",
+              "country_code": "GB",
+              "type": "company",
+              "lineage": [
+                "https://openalex.org/I147869694",
+                "https://openalex.org/I4210101261"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4391767698",
               "display_name": "State Key Laboratory of Continental Dynamics",
               "ror": "https://ror.org/01t2m0x06",
@@ -75696,16 +75821,25 @@
           ],
           "countries": [
             "CN",
+            "GB",
             "NO"
           ],
           "is_corresponding": false,
           "raw_author_name": "Zhifei Zhang",
           "raw_affiliation_strings": [
+            "State Key Laboratory of Continental Dynamics , Shaanxi Key Laboratory of Early Life and a Environments , Department of Geology , Northwest University , Xi'an 710069 , China",
             "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China",
             "Technology, Digital and Innovation, Equinor ASA, PB 8500, 4035 Stavanger, Norway"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "State Key Laboratory of Continental Dynamics , Shaanxi Key Laboratory of Early Life and a Environments , Department of Geology , Northwest University , Xi'an 710069 , China",
+              "institution_ids": [
+                "https://openalex.org/I37802460",
+                "https://openalex.org/I4210101261"
+              ]
+            },
             {
               "raw_affiliation_string": "State Key Laboratory of Continental Dynamics, Shaanxi Key Laboratory of Early Life and a Environments, Department of Geology, Northwest University, Xi'an 710069, China",
               "institution_ids": [
@@ -75723,8 +75857,8 @@
         }
       ],
       "institutions": [],
-      "countries_distinct_count": 2,
-      "institutions_distinct_count": 3,
+      "countries_distinct_count": 3,
+      "institutions_distinct_count": 4,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
@@ -75737,11 +75871,11 @@
         "currency": "EUR",
         "value_usd": 539
       },
-      "fwci": 0.6077,
+      "fwci": 0.5956,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.78050863,
+        "value": 0.78207793,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -76806,7 +76940,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-28T07:46:37.118299",
+      "updated_date": "2026-09-06T09:10:53.072986",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -77189,8 +77323,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
           "score": 0.4300000071525574
         }
       ],
@@ -77971,8 +78105,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8899999856948853
         }
       ],
@@ -79757,8 +79891,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.5199999809265137
         }
       ],
@@ -82284,8 +82418,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Reduced inequalities",
           "id": "https://metadata.un.org/sdg/10",
+          "display_name": "Reduced inequalities",
           "score": 0.6600000262260437
         }
       ],
@@ -83057,8 +83191,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
+          "display_name": "Climate action",
           "score": 0.44999998807907104
         }
       ],
@@ -87264,8 +87398,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7799999713897705
         }
       ],
@@ -88351,8 +88485,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.7799999713897705
         }
       ],
@@ -89194,8 +89328,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
+          "display_name": "Life in Land",
           "score": 0.41999998688697815
         }
       ],
@@ -90730,8 +90864,8 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
+          "display_name": "Life below water",
           "score": 0.8813670873641968
         }
       ],
