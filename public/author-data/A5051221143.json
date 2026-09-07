@@ -23,6 +23,21 @@
     "affiliations": [
       {
         "institution": {
+          "id": "https://openalex.org/I108714496",
+          "ror": "https://ror.org/02q1spa57",
+          "display_name": "Tunis University",
+          "country_code": "TN",
+          "type": "education",
+          "lineage": [
+            "https://openalex.org/I108714496"
+          ]
+        },
+        "years": [
+          2008
+        ]
+      },
+      {
+        "institution": {
           "id": "https://openalex.org/I179097149",
           "ror": "https://ror.org/057x6za15",
           "display_name": "University of Carthage",
@@ -163,7 +178,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.0001075,
+        "value": 0.0001074,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -180,7 +195,7 @@
       {
         "id": "https://openalex.org/T12083",
         "display_name": "Karst Systems and Hydrogeology",
-        "value": 0.0000183,
+        "value": 0.000018,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -231,7 +246,7 @@
       {
         "id": "https://openalex.org/T13404",
         "display_name": "Geological and Tectonic Studies in Latin America",
-        "value": 0.0000119,
+        "value": 0.0000118,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -365,7 +380,7 @@
     ],
     "block_key": "r alouani",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5051221143",
-    "updated_date": "2026-09-03T12:17:32",
+    "updated_date": "2026-09-06T12:16:56",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1002,8 +1017,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 47,
@@ -1807,8 +1822,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2400592313.pdf",
@@ -2844,8 +2859,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W176213037.pdf",
@@ -3916,8 +3931,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
@@ -4324,11 +4339,11 @@
         "value_usd": 1490
       },
       "apc_paid": null,
-      "fwci": 0.7756,
+      "fwci": 0.8046,
       "has_fulltext": true,
       "cited_by_count": 12,
       "citation_normalized_percentile": {
-        "value": 0.68925562,
+        "value": 0.70083944,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -4610,8 +4625,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W1966461395.pdf",
@@ -5219,7 +5234,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-07-23T08:03:31.855105",
+      "updated_date": "2026-09-07T09:17:50.787605",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5629,8 +5644,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 11,
@@ -6988,8 +7003,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -8112,8 +8127,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 73,
@@ -8853,8 +8868,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 37,
@@ -9213,8 +9228,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -9805,8 +9820,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -10712,8 +10727,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 44,
@@ -11277,8 +11292,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12017,8 +12032,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12430,8 +12445,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12813,10 +12828,17 @@
           "is_corresponding": true,
           "raw_author_name": "Hania Saadouni",
           "raw_affiliation_strings": [
+            "Department of Geology , University of Carthage , Bizerte , Tunisia",
             "Department of Geology, University of Carthage, Bizerte, Tunisia"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology , University of Carthage , Bizerte , Tunisia",
+              "institution_ids": [
+                "https://openalex.org/I179097149"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Geology, University of Carthage, Bizerte, Tunisia",
               "institution_ids": [
@@ -12850,10 +12872,24 @@
           "is_corresponding": false,
           "raw_author_name": "Rabah Alouani",
           "raw_affiliation_strings": [
+            "Department of Geology , University of Carthage , 7000 Bizerte , Tunisia",
+            "Department of Geology , University of Carthage , Bizerte , Tunisia",
             "Department of Geology, University of Carthage, Bizerte, Tunisia"
           ],
           "raw_orcid": null,
           "affiliations": [
+            {
+              "raw_affiliation_string": "Department of Geology , University of Carthage , 7000 Bizerte , Tunisia",
+              "institution_ids": [
+                "https://openalex.org/I179097149"
+              ]
+            },
+            {
+              "raw_affiliation_string": "Department of Geology , University of Carthage , Bizerte , Tunisia",
+              "institution_ids": [
+                "https://openalex.org/I179097149"
+              ]
+            },
             {
               "raw_affiliation_string": "Department of Geology, University of Carthage, Bizerte, Tunisia",
               "institution_ids": [
@@ -12865,7 +12901,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 1,
-      "institutions_distinct_count": 2,
+      "institutions_distinct_count": 1,
       "corresponding_author_ids": [
         "https://openalex.org/A5083169923"
       ],
@@ -12878,7 +12914,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.02464243,
+        "value": 0.01757249,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13162,8 +13198,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W3140554541.pdf",
@@ -13563,7 +13599,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-05-21T06:26:12.895304",
+      "updated_date": "2026-09-07T09:17:50.787605",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -14107,8 +14143,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 28,
@@ -14750,8 +14786,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": true
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W4386418130.pdf",
@@ -15467,8 +15503,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
