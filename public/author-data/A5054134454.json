@@ -12,7 +12,7 @@
     ],
     "full_name": "Sa’id A. Al-Hajri",
     "works_count": 34,
-    "cited_by_count": 1161,
+    "cited_by_count": 1162,
     "summary_stats": {
       "2yr_mean_citedness": 0,
       "h_index": 15,
@@ -154,7 +154,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.000084,
+        "value": 0.0000839,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -205,7 +205,7 @@
       {
         "id": "https://openalex.org/T10965",
         "display_name": "Geological formations and processes",
-        "value": 0.0000243,
+        "value": 0.0000242,
         "subfield": {
           "id": "https://openalex.org/subfields/1904",
           "display_name": "Earth-Surface Processes"
@@ -222,7 +222,7 @@
       {
         "id": "https://openalex.org/T10955",
         "display_name": "Paleontology and Evolutionary Biology",
-        "value": 0.0000208,
+        "value": 0.0000207,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -274,7 +274,7 @@
         "year": 1995,
         "works_count": 3,
         "oa_works_count": 0,
-        "cited_by_count": 150
+        "cited_by_count": 151
       },
       {
         "year": 1996,
@@ -370,7 +370,7 @@
     ],
     "block_key": "s al-hajri",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5054134454",
-    "updated_date": "2026-09-05T12:17:44",
+    "updated_date": "2026-09-08T12:18:20",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -585,11 +585,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.9473,
+      "fwci": 6.9584,
       "has_fulltext": true,
-      "cited_by_count": 545,
+      "cited_by_count": 546,
       "citation_normalized_percentile": {
-        "value": 0.97175684,
+        "value": 0.97180098,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1831,7 +1831,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 24
+          "cited_by_count": 25
         },
         {
           "year": 2025,
@@ -1890,7 +1890,7 @@
           "cited_by_count": 22
         }
       ],
-      "updated_date": "2026-09-06T09:10:53.072986",
+      "updated_date": "2026-09-09T07:26:56.047234",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6483,16 +6483,16 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 2.2339,
+      "fwci": 2.1798,
       "has_fulltext": false,
       "cited_by_count": 28,
       "citation_normalized_percentile": {
-        "value": 0.8792517,
+        "value": 0.87435456,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 89,
+        "min": 88,
         "max": 98
       },
       "biblio": {
@@ -6615,7 +6615,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 2,
+      "locations_count": 3,
       "locations": [
         {
           "id": "doi:10.2113/9781733475709-03",
@@ -6659,6 +6659,20 @@
           "is_published": true,
           "raw_source_name": "ISBN: 0-444-50490-7",
           "raw_type": "info:eu-repo/semantics/bookPart"
+        },
+        {
+          "id": "mag:2620415727",
+          "is_oa": false,
+          "landing_page_url": "https://biblio.ugent.be/publication/125851",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": null
         }
       ],
       "best_oa_location": null,
@@ -7279,7 +7293,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-07-12T05:44:59.229162",
+      "updated_date": "2026-09-09T07:26:56.047234",
       "created_date": "2017-06-05T00:00:00"
     },
     {
@@ -17887,7 +17901,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
         {
           "id": "pmh:oai:orbi.ulg.ac.be:2268/125865",
@@ -17917,6 +17931,20 @@
           "is_published": false,
           "raw_source_name": "Geoarabia, 562-563 (1998)",
           "raw_type": "http://purl.org/coar/resource_type/c_3248"
+        },
+        {
+          "id": "mag:132386466",
+          "is_oa": false,
+          "landing_page_url": "https://orbi.uliege.be/handle/2268/125865",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": null
         }
       ],
       "best_oa_location": null,
@@ -17967,7 +17995,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-03T10:48:47.769340",
+      "updated_date": "2026-09-09T07:26:56.047234",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -19806,7 +19834,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
         {
           "id": "pmh:oai:orbi.ulg.ac.be:2268/137879",
@@ -19836,6 +19864,20 @@
           "is_published": false,
           "raw_source_name": "CIMP Symposium and Workshops, Pisa, Italy [IT], 11-15 September",
           "raw_type": "info:eu-repo/semantics/conferencePaper"
+        },
+        {
+          "id": "mag:2254075074",
+          "is_oa": false,
+          "landing_page_url": "https://orbi.uliege.be/handle/2268/137879",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": null
         }
       ],
       "best_oa_location": null,
@@ -19860,7 +19902,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-03T10:48:47.769340",
+      "updated_date": "2026-09-09T07:26:56.047234",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -22210,7 +22252,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
         {
           "id": "pmh:oai:orbi.ulg.ac.be:2268/227023",
@@ -22240,6 +22282,20 @@
           "is_published": false,
           "raw_source_name": "EPPC 2018, Dublin, Ireland [IE], from 12-08-2018 to 18-08-2018",
           "raw_type": "info:eu-repo/semantics/conferencePaper"
+        },
+        {
+          "id": "mag:2890573972",
+          "is_oa": false,
+          "landing_page_url": "https://orbi.uliege.be/handle/2268/227023",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": null
         }
       ],
       "best_oa_location": {
@@ -22307,7 +22363,7 @@
       ],
       "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-09-03T10:48:47.769340",
+      "updated_date": "2026-09-09T07:26:56.047234",
       "created_date": "2025-10-10T00:00:00"
     },
     {

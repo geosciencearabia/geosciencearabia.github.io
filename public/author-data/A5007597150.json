@@ -1381,7 +1381,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1002/esp.70064",
-        "is_oa": false,
+        "is_oa": true,
         "landing_page_url": "https://doi.org/10.1002/esp.70064",
         "pdf_url": null,
         "source": {
@@ -1407,8 +1407,8 @@
           ],
           "type": "journal"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -1420,9 +1420,9 @@
         "crossref"
       ],
       "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1002/esp.70064",
         "any_repository_has_fulltext": false
       },
       "authorships": [
@@ -1737,17 +1737,21 @@
         "currency": "USD",
         "value_usd": 5330
       },
-      "apc_paid": null,
-      "fwci": 2.2739,
+      "apc_paid": {
+        "value": 5330,
+        "currency": "USD",
+        "value_usd": 5330
+      },
+      "fwci": 1.9969,
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.89174901,
+        "value": 0.87970003,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": {
-        "min": 97,
+        "min": 96,
         "max": 98
       },
       "biblio": {
@@ -1970,7 +1974,7 @@
       "locations": [
         {
           "id": "doi:10.1002/esp.70064",
-          "is_oa": false,
+          "is_oa": true,
           "landing_page_url": "https://doi.org/10.1002/esp.70064",
           "pdf_url": null,
           "source": {
@@ -1996,8 +2000,8 @@
             ],
             "type": "journal"
           },
-          "license": null,
-          "license_id": null,
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -2005,12 +2009,47 @@
           "raw_type": "journal-article"
         }
       ],
-      "best_oa_location": null,
+      "best_oa_location": {
+        "id": "doi:10.1002/esp.70064",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1002/esp.70064",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S92316360",
+          "display_name": "Earth Surface Processes and Landforms",
+          "issn_l": "0197-9337",
+          "issn": [
+            "0197-9337",
+            "0360-1269",
+            "1096-9837",
+            "1931-8065"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320595",
+          "host_organization_name": "Wiley",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320595"
+          ],
+          "host_organization_lineage_names": [
+            "Wiley"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Earth Surface Processes and Landforms",
+        "raw_type": "journal-article"
+      },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -2845,7 +2884,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-09T07:26:56.047234",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4746,9 +4785,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.6899999976158142
+          "score": 0.6899999976158142,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -5812,9 +5851,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Sustainable cities and communities",
           "id": "https://metadata.un.org/sdg/11",
-          "score": 0.550000011920929
+          "score": 0.550000011920929,
+          "display_name": "Sustainable cities and communities"
         }
       ],
       "awards": [],
@@ -7760,9 +7799,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.8600000143051147
+          "score": 0.8600000143051147,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -8395,9 +8434,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life in Land",
           "id": "https://metadata.un.org/sdg/15",
-          "score": 0.47999998927116394
+          "score": 0.47999998927116394,
+          "display_name": "Life in Land"
         }
       ],
       "awards": [],
@@ -8923,9 +8962,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.46000000834465027
+          "score": 0.46000000834465027,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -9435,9 +9474,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.45413655042648315
+          "score": 0.45413655042648315,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -10276,9 +10315,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Climate action",
           "id": "https://metadata.un.org/sdg/13",
-          "score": 0.45413655042648315
+          "score": 0.45413655042648315,
+          "display_name": "Climate action"
         }
       ],
       "awards": [],
@@ -12017,16 +12056,16 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.48618609,
+        "value": 0.43738899,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": null,
       "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
+        "volume": "49",
+        "issue": "4",
+        "first_page": "1179",
+        "last_page": "1194"
       },
       "is_retracted": false,
       "is_paratext": false,
@@ -12387,9 +12426,9 @@
       },
       "sustainable_development_goals": [
         {
-          "display_name": "Life below water",
           "id": "https://metadata.un.org/sdg/14",
-          "score": 0.5195932388305664
+          "score": 0.5195932388305664,
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -12847,7 +12886,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-09T07:26:56.047234",
       "created_date": "2026-05-29T00:00:00"
     },
     {

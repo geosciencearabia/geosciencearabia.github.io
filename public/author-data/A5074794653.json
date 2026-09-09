@@ -262,7 +262,7 @@
       {
         "id": "https://openalex.org/T11302",
         "display_name": "CO2 Sequestration and Geologic Interactions",
-        "value": 0.0002266,
+        "value": 0.0002265,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -279,7 +279,7 @@
       {
         "id": "https://openalex.org/T11225",
         "display_name": "Geothermal Energy Systems and Applications",
-        "value": 0.0001134,
+        "value": 0.0001133,
         "subfield": {
           "id": "https://openalex.org/subfields/2105",
           "display_name": "Renewable Energy, Sustainability and the Environment"
@@ -741,11 +741,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 6.9473,
+      "fwci": 6.9584,
       "has_fulltext": true,
-      "cited_by_count": 545,
+      "cited_by_count": 546,
       "citation_normalized_percentile": {
-        "value": 0.97175684,
+        "value": 0.97180098,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -1987,7 +1987,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 24
+          "cited_by_count": 25
         },
         {
           "year": 2025,
@@ -2046,7 +2046,7 @@
           "cited_by_count": 22
         }
       ],
-      "updated_date": "2026-09-06T09:10:53.072986",
+      "updated_date": "2026-09-09T07:26:56.047234",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -46725,8 +46725,8 @@
         "landing_page_url": "https://doi.org/10.4324/9781003294290-23",
         "pdf_url": "https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.4324/9781003294290-23&type=chapterpdf",
         "source": null,
-        "license": null,
-        "license_id": null,
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -46782,11 +46782,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.9089,
+      "fwci": 2.3196,
       "has_fulltext": true,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.85577841,
+        "value": 0.85727969,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46965,8 +46965,8 @@
           "landing_page_url": "https://doi.org/10.4324/9781003294290-23",
           "pdf_url": "https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.4324/9781003294290-23&type=chapterpdf",
           "source": null,
-          "license": null,
-          "license_id": null,
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -46980,8 +46980,8 @@
         "landing_page_url": "https://doi.org/10.4324/9781003294290-23",
         "pdf_url": "https://api.taylorfrancis.com/content/chapters/oa-edit/download?identifierName=doi&identifierValue=10.4324/9781003294290-23&type=chapterpdf",
         "source": null,
-        "license": null,
-        "license_id": null,
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -47520,7 +47520,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-06T09:10:53.072986",
+      "updated_date": "2026-09-09T07:26:56.047234",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -54354,7 +54354,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
         {
           "id": "pmh:oai:deepblue.lib.umich.edu:2027.42/128620",
@@ -54384,6 +54384,35 @@
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "Thesis"
+        },
+        {
+          "id": "mag:2729691027",
+          "is_oa": false,
+          "landing_page_url": "https://hdl.handle.net/2027.42/128620",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400393",
+            "display_name": "Deep Blue (University of Michigan)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I27837315",
+            "host_organization_name": "University of Michigan",
+            "host_organization_lineage": [
+              "https://openalex.org/I27837315"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": "Deep Blue (University of Michigan)",
+          "raw_type": null
         }
       ],
       "best_oa_location": null,
@@ -55224,7 +55253,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-08T01:25:22.217667",
+      "updated_date": "2026-09-09T07:26:56.047234",
       "created_date": "2025-10-10T00:00:00"
     },
     {

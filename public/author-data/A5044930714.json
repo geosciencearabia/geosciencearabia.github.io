@@ -1918,11 +1918,11 @@
         "value_usd": 12690
       },
       "apc_paid": null,
-      "fwci": 118.7321,
+      "fwci": 118.9628,
       "has_fulltext": true,
       "cited_by_count": 190,
       "citation_normalized_percentile": {
-        "value": 0.99953306,
+        "value": 0.99953035,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2359,7 +2359,7 @@
           "is_major_topic": true
         }
       ],
-      "locations_count": 12,
+      "locations_count": 14,
       "locations": [
         {
           "id": "doi:10.1038/s41559-018-0518-2",
@@ -2424,6 +2424,35 @@
           "is_published": true,
           "raw_source_name": "Nature ecology & evolution",
           "raw_type": "Journal Article"
+        },
+        {
+          "id": "pmh:oai:openresearch-repository.anu.edu.au:1885/251554",
+          "is_oa": false,
+          "landing_page_url": "https://openresearch-repository.anu.edu.au/bitstream/1885/251554/3/01_Groucutt_Homo_sapiens_in_Arabia_by_2018.pdf.jpg",
+          "pdf_url": "https://openresearch-repository.anu.edu.au/bitstream/1885/251554/3/01_Groucutt_Homo_sapiens_in_Arabia_by_2018.pdf.jpg",
+          "source": {
+            "id": "https://openalex.org/S4306402539",
+            "display_name": "ANU Open Research (Australian National University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I118347636",
+            "host_organization_name": "Australian National University",
+            "host_organization_lineage": [
+              "https://openalex.org/I118347636"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Nature Ecology &amp; Evolution",
+          "raw_type": "Journal article"
         },
         {
           "id": "pmh:oai:kar.kent.ac.uk:66671",
@@ -2600,22 +2629,51 @@
           "raw_type": "info:eu-repo/semantics/article"
         },
         {
-          "id": "pmh:oai:ora.ox.ac.uk:uuid:e7587218-86e7-4c57-8583-5de875a07843",
+          "id": "pmh:oai:pure.mpg.de:item_2574158",
           "is_oa": false,
-          "landing_page_url": "https://ora.ox.ac.uk/objects/uuid:e7587218-86e7-4c57-8583-5de875a07843",
+          "landing_page_url": "http://hdl.handle.net/21.11116/0000-0001-1BEA-A",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306402636",
-            "display_name": "Oxford University Research Archive (ORA) (University of Oxford)",
+            "id": "https://openalex.org/S4306400654",
+            "display_name": "MPG.PuRe (Max Planck Society)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": "https://openalex.org/I40120149",
-            "host_organization_name": "University of Oxford",
+            "host_organization": "https://openalex.org/I149899117",
+            "host_organization_name": "Max Planck Society",
             "host_organization_lineage": [
-              "https://openalex.org/I40120149"
+              "https://openalex.org/I149899117"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": null,
+          "license_id": null,
+          "version": "submittedVersion",
+          "is_accepted": false,
+          "is_published": false,
+          "raw_source_name": "Nature Ecology &amp; Evolution",
+          "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
+          "id": "pmh:oai:pure.mpg.de:item_3052855",
+          "is_oa": false,
+          "landing_page_url": "http://hdl.handle.net/21.11116/0000-0003-FD92-B",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400654",
+            "display_name": "MPG.PuRe (Max Planck Society)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I149899117",
+            "host_organization_name": "Max Planck Society",
+            "host_organization_lineage": [
+              "https://openalex.org/I149899117"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -2626,7 +2684,7 @@
           "is_accepted": false,
           "is_published": false,
           "raw_source_name": "",
-          "raw_type": "Journal article"
+          "raw_type": "info:eu-repo/semantics/article"
         },
         {
           "id": "pmh:oai:research-repository.griffith.edu.au:10072/384894",
@@ -2743,9 +2801,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -2964,7 +3022,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-08T07:41:39.490200",
+      "updated_date": "2026-09-09T07:26:56.047234",
       "created_date": "2018-04-24T00:00:00"
     },
     {
@@ -3774,11 +3832,11 @@
         "value_usd": 3920
       },
       "apc_paid": null,
-      "fwci": 27.7907,
+      "fwci": 28.275,
       "has_fulltext": true,
       "cited_by_count": 47,
       "citation_normalized_percentile": {
-        "value": 0.9926507,
+        "value": 0.99284649,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -4075,6 +4133,35 @@
           "raw_type": "journal-article"
         },
         {
+          "id": "pmh:oai:kclpure.kcl.ac.uk:publications/0221c9ed-7737-4995-9b47-e3c3ccf4c7ff",
+          "is_oa": true,
+          "landing_page_url": "https://kclpure.kcl.ac.uk/portal/en/publications/0221c9ed-7737-4995-9b47-e3c3ccf4c7ff",
+          "pdf_url": "https://kclpure.kcl.ac.uk/ws/files/55370466/SINGLE_DOC_REVIEW_Stimpson_etal_TAG_verts_DRAFT_12_01_16.pdf",
+          "source": {
+            "id": "https://openalex.org/S4306400216",
+            "display_name": "Research Portal (King's College London)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I183935753",
+            "host_organization_name": "King's College London",
+            "host_organization_lineage": [
+              "https://openalex.org/I183935753"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "acceptedVersion",
+          "is_accepted": true,
+          "is_published": false,
+          "raw_source_name": "Stimpson, C M, Lister, A, Parton, A, Clark-Balzan, L, Breeze, P S, Drake, N A, Groucutt, H S, Jennings, R, Scerri, E M L, White, T S, Zahir, M, Duval, M, Grün, R, Al-Omari, A, Al Murayyi, K S M, Zalmout, I S, Mufarreh, Y A, Memesh, A M & Petraglia, M D 2016, 'Middle Pleistocene vertebrate fossils from the Nefud Desert, Saudi Arabia : Implications for biogeography and palaeoecology', QUATERNARY SCIENCE REVIEWS, vol. 143, pp. 13-36. https://doi.org/10.1016/j.quascirev.2016.05.016",
+          "raw_type": "info:eu-repo/semantics/publishedVersion"
+        },
+        {
           "id": "pmh:oai:researchonline.ljmu.ac.uk:9395",
           "is_oa": false,
           "landing_page_url": "https://researchonline.ljmu.ac.uk/id/eprint/9395/1/Middle%20Pleistocene%20vertebrate%20fossils%20from%20the%20Nefud%20Desert%2C%20Saudi%20Arabia%20Implications%20for%20biogeography%20and%20palaeoecology.pdf",
@@ -4157,35 +4244,6 @@
           "is_accepted": false,
           "is_published": false,
           "raw_source_name": null,
-          "raw_type": "Journal article"
-        },
-        {
-          "id": "pmh:oai:ora.ox.ac.uk:uuid:7c580d4e-2b65-44f1-8d75-8ab83616eb83",
-          "is_oa": true,
-          "landing_page_url": "https://ora.ox.ac.uk/objects/uuid:7c580d4e-2b65-44f1-8d75-8ab83616eb83",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306402636",
-            "display_name": "Oxford University Research Archive (ORA) (University of Oxford)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I40120149",
-            "host_organization_name": "University of Oxford",
-            "host_organization_lineage": [
-              "https://openalex.org/I40120149"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "",
           "raw_type": "Journal article"
         },
         {
@@ -4306,7 +4364,7 @@
         }
       ],
       "best_oa_location": {
-        "id": "pmh:oai:kclpure.kcl.ac.uk:openaire/0221c9ed-7737-4995-9b47-e3c3ccf4c7ff",
+        "id": "pmh:oai:kclpure.kcl.ac.uk:publications/0221c9ed-7737-4995-9b47-e3c3ccf4c7ff",
         "is_oa": true,
         "landing_page_url": "https://kclpure.kcl.ac.uk/portal/en/publications/0221c9ed-7737-4995-9b47-e3c3ccf4c7ff",
         "pdf_url": "https://kclpure.kcl.ac.uk/ws/files/55370466/SINGLE_DOC_REVIEW_Stimpson_etal_TAG_verts_DRAFT_12_01_16.pdf",
@@ -4328,17 +4386,17 @@
         },
         "license": "other-oa",
         "license_id": "https://openalex.org/licenses/other-oa",
-        "version": "submittedVersion",
-        "is_accepted": false,
+        "version": "acceptedVersion",
+        "is_accepted": true,
         "is_published": false,
         "raw_source_name": "Stimpson, C M, Lister, A, Parton, A, Clark-Balzan, L, Breeze, P S, Drake, N A, Groucutt, H S, Jennings, R, Scerri, E M L, White, T S, Zahir, M, Duval, M, Grün, R, Al-Omari, A, Al Murayyi, K S M, Zalmout, I S, Mufarreh, Y A, Memesh, A M & Petraglia, M D 2016, 'Middle Pleistocene vertebrate fossils from the Nefud Desert, Saudi Arabia : Implications for biogeography and palaeoecology', QUATERNARY SCIENCE REVIEWS, vol. 143, pp. 13-36. https://doi.org/10.1016/j.quascirev.2016.05.016",
         "raw_type": "info:eu-repo/semantics/publishedVersion"
       },
       "sustainable_development_goals": [
         {
+          "score": 0.6200000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6200000047683716
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -4565,7 +4623,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-02T18:50:13.731487",
+      "updated_date": "2026-09-09T07:26:56.047234",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -5234,9 +5292,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5199999809265137,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5199999809265137
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -6339,9 +6397,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -8627,7 +8685,7 @@
       "open_access": {
         "is_oa": true,
         "oa_status": "green",
-        "oa_url": "https://ora.ox.ac.uk/objects/uuid:81741917-776a-4b69-8953-71c33977dcc4",
+        "oa_url": "https://kclpure.kcl.ac.uk/portal/en/publications/286d340c-4eb0-4752-8581-7d72a32bf6a2",
         "any_repository_has_fulltext": true
       },
       "authorships": [
@@ -9213,11 +9271,11 @@
         "value_usd": 2750
       },
       "apc_paid": null,
-      "fwci": 2.0138,
+      "fwci": 1.9866,
       "has_fulltext": true,
       "cited_by_count": 34,
       "citation_normalized_percentile": {
-        "value": 0.84831734,
+        "value": 0.84561442,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9550,7 +9608,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 8,
+      "locations_count": 7,
       "locations": [
         {
           "id": "doi:10.1016/j.ara.2017.02.002",
@@ -9585,35 +9643,6 @@
           "is_published": true,
           "raw_source_name": "Archaeological Research in Asia",
           "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:kclpure.kcl.ac.uk:publications/286d340c-4eb0-4752-8581-7d72a32bf6a2",
-          "is_oa": false,
-          "landing_page_url": "https://kclpure.kcl.ac.uk/portal/en/publications/286d340c-4eb0-4752-8581-7d72a32bf6a2",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306400216",
-            "display_name": "Research Portal (King's College London)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I183935753",
-            "host_organization_name": "King's College London",
-            "host_organization_lineage": [
-              "https://openalex.org/I183935753"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "Breeze, P, Groucutt , H, Drake, N A, Louys , J, Scerri , E, Armitage , S, Zalmout , I, Memesh , A, Haptari , M, Soubhi , S, Matari , A, Zahir , M, Al-Omari , A, Alsharekh, A & Petraglia , M 2017, 'Prehistory and palaeoenvironments of the western Nefud Desert, Saudi Arabia', Archaeological Research in Asia. https://doi.org/10.1016/j.ara.2017.02.002",
-          "raw_type": "info:eu-repo/semantics/article"
         },
         {
           "id": "pmh:oai:openresearch-repository.anu.edu.au:1885/247347",
@@ -9674,22 +9703,22 @@
           "raw_type": "info:eu-repo/semantics/article"
         },
         {
-          "id": "pmh:oai:ora.ox.ac.uk:uuid:81741917-776a-4b69-8953-71c33977dcc4",
+          "id": "pmh:oai:kclpure.kcl.ac.uk:openaire/286d340c-4eb0-4752-8581-7d72a32bf6a2",
           "is_oa": true,
-          "landing_page_url": "https://ora.ox.ac.uk/objects/uuid:81741917-776a-4b69-8953-71c33977dcc4",
+          "landing_page_url": "https://kclpure.kcl.ac.uk/portal/en/publications/286d340c-4eb0-4752-8581-7d72a32bf6a2",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306402636",
-            "display_name": "Oxford University Research Archive (ORA) (University of Oxford)",
+            "id": "https://openalex.org/S4306400216",
+            "display_name": "Research Portal (King's College London)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": "https://openalex.org/I40120149",
-            "host_organization_name": "University of Oxford",
+            "host_organization": "https://openalex.org/I183935753",
+            "host_organization_name": "King's College London",
             "host_organization_lineage": [
-              "https://openalex.org/I40120149"
+              "https://openalex.org/I183935753"
             ],
             "host_organization_lineage_names": [],
             "type": "repository"
@@ -9699,8 +9728,8 @@
           "version": "submittedVersion",
           "is_accepted": false,
           "is_published": false,
-          "raw_source_name": "",
-          "raw_type": "Journal article"
+          "raw_source_name": "Breeze, P, Groucutt , H, Drake, N A, Louys , J, Scerri , E, Armitage , S, Zalmout , I, Memesh , A, Haptari , M, Soubhi , S, Matari , A, Zahir , M, Al-Omari , A, Alsharekh, A & Petraglia , M 2017, 'Prehistory and palaeoenvironments of the western Nefud Desert, Saudi Arabia', Archaeological Research in Asia. https://doi.org/10.1016/j.ara.2017.02.002",
+          "raw_type": "info:eu-repo/semantics/article"
         },
         {
           "id": "pmh:oai:pure.mpg.de:item_2406997",
@@ -9789,22 +9818,22 @@
         }
       ],
       "best_oa_location": {
-        "id": "pmh:oai:ora.ox.ac.uk:uuid:81741917-776a-4b69-8953-71c33977dcc4",
+        "id": "pmh:oai:kclpure.kcl.ac.uk:openaire/286d340c-4eb0-4752-8581-7d72a32bf6a2",
         "is_oa": true,
-        "landing_page_url": "https://ora.ox.ac.uk/objects/uuid:81741917-776a-4b69-8953-71c33977dcc4",
+        "landing_page_url": "https://kclpure.kcl.ac.uk/portal/en/publications/286d340c-4eb0-4752-8581-7d72a32bf6a2",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4306402636",
-          "display_name": "Oxford University Research Archive (ORA) (University of Oxford)",
+          "id": "https://openalex.org/S4306400216",
+          "display_name": "Research Portal (King's College London)",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
-          "host_organization": "https://openalex.org/I40120149",
-          "host_organization_name": "University of Oxford",
+          "host_organization": "https://openalex.org/I183935753",
+          "host_organization_name": "King's College London",
           "host_organization_lineage": [
-            "https://openalex.org/I40120149"
+            "https://openalex.org/I183935753"
           ],
           "host_organization_lineage_names": [],
           "type": "repository"
@@ -9814,8 +9843,8 @@
         "version": "submittedVersion",
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": "",
-        "raw_type": "Journal article"
+        "raw_source_name": "Breeze, P, Groucutt , H, Drake, N A, Louys , J, Scerri , E, Armitage , S, Zalmout , I, Memesh , A, Haptari , M, Soubhi , S, Matari , A, Zahir , M, Al-Omari , A, Alsharekh, A & Petraglia , M 2017, 'Prehistory and palaeoenvironments of the western Nefud Desert, Saudi Arabia', Archaeological Research in Asia. https://doi.org/10.1016/j.ara.2017.02.002",
+        "raw_type": "info:eu-repo/semantics/article"
       },
       "sustainable_development_goals": [],
       "awards": [
@@ -9942,7 +9971,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-02T18:50:13.731487",
+      "updated_date": "2026-09-09T07:26:56.047234",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -10527,9 +10556,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.5400000214576721,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.5400000214576721
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -12338,9 +12367,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.800000011920929,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.800000011920929
+          "display_name": "Life below water"
         }
       ],
       "awards": [
@@ -14916,9 +14945,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8500000238418579,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8500000238418579
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -16494,9 +16523,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -17170,9 +17199,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8899999856948853,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -19398,9 +19427,9 @@
       },
       "sustainable_development_goals": [
         {
+          "score": 0.8799999952316284,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -20535,9 +20564,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.6899999976158142,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.6899999976158142
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -23986,11 +24015,11 @@
         "currency": "USD",
         "value_usd": 2382
       },
-      "fwci": 5.9272,
+      "fwci": 5.7383,
       "has_fulltext": true,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.9620448,
+        "value": 0.96053112,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24484,7 +24513,7 @@
           "is_major_topic": true
         }
       ],
-      "locations_count": 9,
+      "locations_count": 10,
       "locations": [
         {
           "id": "doi:10.1371/journal.pone.0337005",
@@ -24546,6 +24575,35 @@
           "is_accepted": true,
           "is_published": true,
           "raw_source_name": "PloS one",
+          "raw_type": "Journal Article"
+        },
+        {
+          "id": "pmh:oai:durham-repository.worktribe.com:4836667",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.1371/journal.pone.0337005",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400188",
+            "display_name": "Durham Research Online (Durham University)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I190082696",
+            "host_organization_name": "Durham University",
+            "host_organization_lineage": [
+              "https://openalex.org/I190082696"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": null,
           "raw_type": "Journal Article"
         },
         {
@@ -25290,7 +25348,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-02T18:50:13.731487",
+      "updated_date": "2026-09-09T07:26:56.047234",
       "created_date": "2025-11-20T00:00:00"
     },
     {
@@ -26811,9 +26869,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "score": 0.8700000047683716,
           "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "display_name": "Life below water"
         }
       ],
       "awards": [],

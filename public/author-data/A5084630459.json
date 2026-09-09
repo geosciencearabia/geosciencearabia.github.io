@@ -385,7 +385,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0002199,
+        "value": 0.0002198,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -402,7 +402,7 @@
       {
         "id": "https://openalex.org/T13205",
         "display_name": "Geological and Geophysical Studies Worldwide",
-        "value": 0.000138,
+        "value": 0.0001379,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -9353,11 +9353,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.4169,
+      "fwci": 0.418,
       "has_fulltext": false,
       "cited_by_count": 24,
       "citation_normalized_percentile": {
-        "value": 0.70778209,
+        "value": 0.70848722,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9366,10 +9366,10 @@
         "max": 98
       },
       "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
+        "volume": "166",
+        "issue": "1",
+        "first_page": "3",
+        "last_page": "351"
       },
       "is_retracted": false,
       "is_paratext": false,
@@ -9497,7 +9497,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
         {
           "id": "pmh:oai:persee:article/geoly_0750-6635_2009_mon_166_1_3303",
@@ -9525,6 +9525,33 @@
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "article"
+        },
+        {
+          "id": "mag:3173931679",
+          "is_oa": false,
+          "landing_page_url": "https://www.persee.fr/doc/geoly_0750-6635_2009_mon_166_1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306533279",
+            "display_name": "Travaux et Documents des Laboratoires de Géologie de Lyon",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": "Travaux et Documents des Laboratoires de Géologie de Lyon",
+          "raw_type": null
         }
       ],
       "best_oa_location": null,
@@ -12076,7 +12103,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-03T10:48:47.769340",
+      "updated_date": "2026-09-09T07:26:56.047234",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -16855,7 +16882,7 @@
         "is_oa": true,
         "oa_status": "diamond",
         "oa_url": "https://doi.org/10.17161/to.v0i0.11672",
-        "any_repository_has_fulltext": true
+        "any_repository_has_fulltext": false
       },
       "authorships": [
         {
@@ -16954,11 +16981,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.2099,
+      "fwci": 0.2125,
       "has_fulltext": true,
       "cited_by_count": 8,
       "citation_normalized_percentile": {
-        "value": 0.55670199,
+        "value": 0.55916896,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -17098,7 +17125,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 2,
+      "locations_count": 1,
       "locations": [
         {
           "id": "doi:10.17161/to.v0i0.11672",
@@ -17133,35 +17160,6 @@
           "is_published": true,
           "raw_source_name": "Treatise Online",
           "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:ojs.pkp.sfu.ca:article/11672",
-          "is_oa": true,
-          "landing_page_url": "https://journals.ku.edu/treatiseonline/article/view/11672",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306402641",
-            "display_name": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I4383465926",
-            "host_organization_name": "LA Referencia",
-            "host_organization_lineage": [
-              "https://openalex.org/I4383465926"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Treatise Online; 2019: no. 115–127",
-          "raw_type": "info:eu-repo/semantics/article"
         }
       ],
       "best_oa_location": {
@@ -17239,7 +17237,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-26T07:47:46.906454",
+      "updated_date": "2026-09-09T07:26:56.047234",
       "created_date": "2019-08-13T00:00:00"
     },
     {
@@ -23341,11 +23339,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.936,
+      "fwci": 0.9452,
       "has_fulltext": false,
       "cited_by_count": 18,
       "citation_normalized_percentile": {
-        "value": 0.75016772,
+        "value": 0.75236572,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -23354,10 +23352,10 @@
         "max": 97
       },
       "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
+        "volume": "107",
+        "issue": "1",
+        "first_page": "3",
+        "last_page": "115"
       },
       "is_retracted": false,
       "is_paratext": false,
@@ -23461,7 +23459,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
         {
           "id": "pmh:oai:persee:article/geoly_0750-6635_1989_mon_107_1_1800",
@@ -23489,6 +23487,33 @@
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "article"
+        },
+        {
+          "id": "mag:3109317043",
+          "is_oa": false,
+          "landing_page_url": "https://www.persee.fr/doc/geoly_0750-6635_1989_mon_107_1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306533279",
+            "display_name": "Travaux et Documents des Laboratoires de Géologie de Lyon",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": "Travaux et Documents des Laboratoires de Géologie de Lyon",
+          "raw_type": null
         }
       ],
       "best_oa_location": null,
@@ -25103,7 +25128,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-03T10:48:47.769340",
+      "updated_date": "2026-09-09T07:26:56.047234",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -40797,33 +40822,31 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "pmh:oai:rephip.unr.edu.ar:2133/1279",
+        "id": "pmh:oai:americanae.aecid.es:3015614",
         "is_oa": true,
         "landing_page_url": "http://hdl.handle.net/2133/1279",
-        "pdf_url": "http://hdl.handle.net/2133/1279",
+        "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4306402641",
-          "display_name": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+          "id": "https://openalex.org/S4306400786",
+          "display_name": "Americanae (AECID Library)",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
-          "host_organization": "https://openalex.org/I4383465926",
-          "host_organization_name": "LA Referencia",
-          "host_organization_lineage": [
-            "https://openalex.org/I4383465926"
-          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
           "host_organization_lineage_names": [],
           "type": "repository"
         },
         "license": "other-oa",
         "license_id": "https://openalex.org/licenses/other-oa",
-        "version": "submittedVersion",
-        "is_accepted": false,
-        "is_published": false,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
         "raw_source_name": "reponame:RepHipUNR (UNR)",
-        "raw_type": "info:eu-repo/semantics/article"
+        "raw_type": "http://purl.org/coar/resource_type/c_6501"
       },
       "type": "article",
       "indexed_in": [],
@@ -40902,11 +40925,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.3558,
+      "fwci": 0.3588,
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.67074443,
+        "value": 0.66138138,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -41221,8 +41244,35 @@
         }
       ],
       "mesh": [],
-      "locations_count": 2,
+      "locations_count": 3,
       "locations": [
+        {
+          "id": "pmh:oai:americanae.aecid.es:3015614",
+          "is_oa": true,
+          "landing_page_url": "http://hdl.handle.net/2133/1279",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306400786",
+            "display_name": "Americanae (AECID Library)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "reponame:RepHipUNR (UNR)",
+          "raw_type": "http://purl.org/coar/resource_type/c_6501"
+        },
         {
           "id": "pmh:oai:rephip.unr.edu.ar:2133/1279",
           "is_oa": true,
@@ -41268,33 +41318,31 @@
         }
       ],
       "best_oa_location": {
-        "id": "pmh:oai:rephip.unr.edu.ar:2133/1279",
+        "id": "pmh:oai:americanae.aecid.es:3015614",
         "is_oa": true,
         "landing_page_url": "http://hdl.handle.net/2133/1279",
-        "pdf_url": "http://hdl.handle.net/2133/1279",
+        "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4306402641",
-          "display_name": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
+          "id": "https://openalex.org/S4306400786",
+          "display_name": "Americanae (AECID Library)",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
-          "host_organization": "https://openalex.org/I4383465926",
-          "host_organization_name": "LA Referencia",
-          "host_organization_lineage": [
-            "https://openalex.org/I4383465926"
-          ],
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
           "host_organization_lineage_names": [],
           "type": "repository"
         },
         "license": "other-oa",
         "license_id": "https://openalex.org/licenses/other-oa",
-        "version": "submittedVersion",
-        "is_accepted": false,
-        "is_published": false,
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
         "raw_source_name": "reponame:RepHipUNR (UNR)",
-        "raw_type": "info:eu-repo/semantics/article"
+        "raw_type": "http://purl.org/coar/resource_type/c_6501"
       },
       "sustainable_development_goals": [
         {
@@ -41306,13 +41354,10 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "grobid_xml": false,
+        "pdf": false
       },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2110195977.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W2110195977.grobid-xml"
-      },
+      "content_urls": null,
       "referenced_works_count": 10,
       "referenced_works": [
         "https://openalex.org/W2000921130",
@@ -41423,7 +41468,7 @@
         "Tardío,": [
           12
         ],
-        "\\nAmmonoidea:": [
+        "Ammonoidea:": [
           13
         ],
         "Haploceratoidea).": [
@@ -41441,7 +41486,7 @@
         "Cuenca": [
           25
         ],
-        "\\nNeuquén-Mendoza": [
+        "Neuquén-Mendoza": [
           26
         ],
         "realizados": [
@@ -41478,7 +41523,7 @@
         "ocurrencia": [
           37
         ],
-        "\\ndescripto": [
+        "descripto": [
           42
         ],
         "como": [
@@ -41530,8 +41575,10 @@
         "proviene": [
           58
         ],
-        "\\nZona": [
-          61
+        "Zona": [
+          61,
+          101,
+          182
         ],
         "Zitteli": [
           62
@@ -41575,7 +41622,7 @@
         "ha": [
           80
         ],
-        "\\nsido": [
+        "sido": [
           81
         ],
         "registrada": [
@@ -41601,7 +41648,8 @@
           91
         ],
         "horizonte": [
-          94
+          94,
+          173
         ],
         "parte": [
           97
@@ -41609,11 +41657,7 @@
         "media": [
           98
         ],
-        "Zona": [
-          101,
-          182
-        ],
-        "\\nZitteli.": [
+        "Zitteli.": [
           102
         ],
         "gen.": [
@@ -41649,7 +41693,7 @@
         "característica": [
           118
         ],
-        "\\nmicroconcha": [
+        "microconcha": [
           119
         ],
         "que": [
@@ -41683,7 +41727,7 @@
         "flanco": [
           135
         ],
-        "\\núltima": [
+        "última": [
           138
         ],
         "vuelta": [
@@ -41716,7 +41760,7 @@
         "sexuales": [
           154
         ],
-        "\\nposeen": [
+        "poseen": [
           155
         ],
         "vientre": [
@@ -41745,9 +41789,6 @@
         ],
         "el": [
           172
-        ],
-        "\\nhorizonte": [
-          173
         ],
         "se": [
           175
@@ -41788,7 +41829,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-30T07:30:35.949966",
+      "updated_date": "2026-09-09T07:26:56.047234",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -46685,11 +46726,11 @@
       "corresponding_institution_ids": [],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 0.9603,
+      "fwci": 0.8433,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.8305365,
+        "value": 0.80424562,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -46698,10 +46739,10 @@
         "max": 94
       },
       "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
+        "volume": "168",
+        "issue": "1",
+        "first_page": "3",
+        "last_page": "247"
       },
       "is_retracted": false,
       "is_paratext": false,
@@ -46855,7 +46896,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
         {
           "id": "pmh:oai:persee:article/geoly_0750-6635_2010_mon_168_1_3305",
@@ -46883,6 +46924,33 @@
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "article"
+        },
+        {
+          "id": "mag:3121092184",
+          "is_oa": false,
+          "landing_page_url": "https://www.persee.fr/doc/geoly_0750-6635_2010_mon_168_1",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306533279",
+            "display_name": "Travaux et Documents des Laboratoires de Géologie de Lyon",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": "Travaux et Documents des Laboratoires de Géologie de Lyon",
+          "raw_type": null
         }
       ],
       "best_oa_location": null,
@@ -47725,7 +47793,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-03T10:48:47.769340",
+      "updated_date": "2026-09-09T07:26:56.047234",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -49934,7 +50002,7 @@
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.59186992,
+        "value": 0.57747456,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -49943,10 +50011,10 @@
         "max": 94
       },
       "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
+        "volume": "8",
+        "issue": "1",
+        "first_page": "5",
+        "last_page": "142"
       },
       "is_retracted": false,
       "is_paratext": false,
@@ -50038,7 +50106,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
         {
           "id": "pmh:oai:persee:article/geoly_0371-912x_1962_num_8_1_1624",
@@ -50066,6 +50134,33 @@
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "article"
+        },
+        {
+          "id": "mag:3006046598",
+          "is_oa": false,
+          "landing_page_url": "https://www.persee.fr/doc/geoly_0371-912x_1962_num_8_1_1624",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306533279",
+            "display_name": "Travaux et Documents des Laboratoires de Géologie de Lyon",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": "Travaux et Documents des Laboratoires de Géologie de Lyon",
+          "raw_type": null
         }
       ],
       "best_oa_location": null,
@@ -50249,7 +50344,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-03T10:48:47.769340",
+      "updated_date": "2026-09-09T07:26:56.047234",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -56677,16 +56772,16 @@
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.56743995,
+        "value": 0.55399634,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": null,
       "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
+        "volume": "13",
+        "issue": "1",
+        "first_page": "229",
+        "last_page": "241"
       },
       "is_retracted": false,
       "is_paratext": false,
@@ -56802,7 +56897,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
         {
           "id": "pmh:oai:persee:article/geoly_0371-912x_1966_num_13_1_1178",
@@ -56830,6 +56925,33 @@
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "article"
+        },
+        {
+          "id": "mag:3016411124",
+          "is_oa": false,
+          "landing_page_url": "https://www.persee.fr/doc/geoly_0371-912x_1966_num_13_1_1178",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306533279",
+            "display_name": "Travaux et Documents des Laboratoires de Géologie de Lyon",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": "Travaux et Documents des Laboratoires de Géologie de Lyon",
+          "raw_type": null
         }
       ],
       "best_oa_location": null,
@@ -56977,7 +57099,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-03T10:48:47.769340",
+      "updated_date": "2026-09-09T07:26:56.047234",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -58002,16 +58124,16 @@
       "has_fulltext": false,
       "cited_by_count": 2,
       "citation_normalized_percentile": {
-        "value": 0.33225359,
+        "value": 0.31748129,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": null,
       "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
+        "volume": "13",
+        "issue": "1",
+        "first_page": "205",
+        "last_page": "228"
       },
       "is_retracted": false,
       "is_paratext": false,
@@ -58103,7 +58225,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
         {
           "id": "pmh:oai:persee:article/geoly_0371-912x_1966_num_13_1_1177",
@@ -58131,6 +58253,33 @@
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "article"
+        },
+        {
+          "id": "mag:3013599759",
+          "is_oa": false,
+          "landing_page_url": "https://www.persee.fr/doc/geoly_0371-912x_1966_num_13_1_1177",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306533279",
+            "display_name": "Travaux et Documents des Laboratoires de Géologie de Lyon",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": "Travaux et Documents des Laboratoires de Géologie de Lyon",
+          "raw_type": null
         }
       ],
       "best_oa_location": null,
@@ -58259,7 +58408,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-03T10:48:47.769340",
+      "updated_date": "2026-09-09T07:26:56.047234",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -60865,16 +61014,16 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.25215961,
+        "value": 0.24536042,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": null,
       "biblio": {
-        "volume": null,
+        "volume": "289",
         "issue": null,
-        "first_page": null,
-        "last_page": null
+        "first_page": "575",
+        "last_page": "578"
       },
       "is_retracted": false,
       "is_paratext": false,
@@ -60956,7 +61105,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 3,
       "locations": [
         {
           "id": "pmh:oai:unige.ch:aou:unige:89888",
@@ -60986,6 +61135,49 @@
           "is_published": true,
           "raw_source_name": "ISSN: 0567-655X",
           "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
+          "id": "pmh:oai:unige.ch:unige:89888",
+          "is_oa": true,
+          "landing_page_url": "https://archive-ouverte.unige.ch/unige:89888",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306402259",
+            "display_name": "Archive ouverte UNIGE (University of Geneva)",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": "https://openalex.org/I114457229",
+            "host_organization_name": "University of Geneva",
+            "host_organization_lineage": [
+              "https://openalex.org/I114457229"
+            ],
+            "host_organization_lineage_names": [],
+            "type": "repository"
+          },
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "ISSN: 0567-655X",
+          "raw_type": "info:eu-repo/semantics/article"
+        },
+        {
+          "id": "mag:2598843043",
+          "is_oa": false,
+          "landing_page_url": "https://archive-ouverte.unige.ch/unige:89888",
+          "pdf_url": null,
+          "source": null,
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": null,
+          "raw_type": null
         }
       ],
       "best_oa_location": {
@@ -61214,7 +61406,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-26T07:47:46.906454",
+      "updated_date": "2026-09-09T07:26:56.047234",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -62938,7 +63130,7 @@
       "has_fulltext": true,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.03589162,
+        "value": 0.03753436,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -63118,7 +63310,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 3,
+      "locations_count": 2,
       "locations": [
         {
           "id": "doi:10.17161/1808.26312",
@@ -63152,35 +63344,6 @@
           "is_published": true,
           "raw_source_name": "Paleontological Contributions",
           "raw_type": "journal-article"
-        },
-        {
-          "id": "pmh:oai:ojs.pkp.sfu.ca:article/20298",
-          "is_oa": true,
-          "landing_page_url": "https://journals.ku.edu/paleocontributions/article/view/20298",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S4306402641",
-            "display_name": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I4383465926",
-            "host_organization_name": "LA Referencia",
-            "host_organization_lineage": [
-              "https://openalex.org/I4383465926"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "Paleontological Contributions; No. 19 (2018); 1-2",
-          "raw_type": "info:eu-repo/semantics/article"
         },
         {
           "id": "pmh:oai:kuscholarworks.ku.edu:1808/26312",
@@ -63360,7 +63523,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-07T09:17:50.787605",
+      "updated_date": "2026-09-09T07:26:56.047234",
       "created_date": "2018-06-01T00:00:00"
     },
     {
@@ -64382,16 +64545,16 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.56759657,
+        "value": 0.56565001,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": null,
       "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
+        "volume": "8",
+        "issue": "1",
+        "first_page": "143",
+        "last_page": "158"
       },
       "is_retracted": false,
       "is_paratext": false,
@@ -64483,7 +64646,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
         {
           "id": "pmh:oai:persee:article/geoly_0371-912x_1962_num_8_1_1626",
@@ -64511,6 +64674,33 @@
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "article"
+        },
+        {
+          "id": "mag:3006637165",
+          "is_oa": false,
+          "landing_page_url": "https://www.persee.fr/doc/geoly_0371-912x_1962_num_8_1_1626",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306533279",
+            "display_name": "Travaux et Documents des Laboratoires de Géologie de Lyon",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": "Travaux et Documents des Laboratoires de Géologie de Lyon",
+          "raw_type": null
         }
       ],
       "best_oa_location": null,
@@ -64680,7 +64870,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-03T10:48:47.769340",
+      "updated_date": "2026-09-09T07:26:56.047234",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -64773,16 +64963,16 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.38673342,
+        "value": 0.38733706,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": null,
       "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
+        "volume": "1",
+        "issue": "1",
+        "first_page": "90",
+        "last_page": "98"
       },
       "is_retracted": false,
       "is_paratext": false,
@@ -64874,7 +65064,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
         {
           "id": "pmh:oai:persee:article/geoly_0076-1672_1962_num_1_1_1200",
@@ -64902,6 +65092,33 @@
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "article"
+        },
+        {
+          "id": "mag:3017479956",
+          "is_oa": false,
+          "landing_page_url": "https://www.persee.fr/doc/geoly_0076-1672_1962_num_1_1_1200",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306533279",
+            "display_name": "Travaux et Documents des Laboratoires de Géologie de Lyon",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": "Travaux et Documents des Laboratoires de Géologie de Lyon",
+          "raw_type": null
         }
       ],
       "best_oa_location": null,
@@ -65007,7 +65224,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-03T10:48:47.769340",
+      "updated_date": "2026-09-09T07:26:56.047234",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -65948,16 +66165,16 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.57940877,
+        "value": 0.57860484,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
       "cited_by_percentile_year": null,
       "biblio": {
-        "volume": null,
-        "issue": null,
-        "first_page": null,
-        "last_page": null
+        "volume": "16",
+        "issue": "1",
+        "first_page": "51",
+        "last_page": "120"
       },
       "is_retracted": false,
       "is_paratext": false,
@@ -66015,7 +66232,7 @@
         }
       ],
       "mesh": [],
-      "locations_count": 1,
+      "locations_count": 2,
       "locations": [
         {
           "id": "pmh:oai:persee:article/geoly_0076-1672_1966_num_16_1_1234",
@@ -66043,6 +66260,33 @@
           "is_published": false,
           "raw_source_name": null,
           "raw_type": "article"
+        },
+        {
+          "id": "mag:3185457005",
+          "is_oa": false,
+          "landing_page_url": "https://www.persee.fr/doc/geoly_0076-1672_1966_num_16_1_1234",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S4306533279",
+            "display_name": "Travaux et Documents des Laboratoires de Géologie de Lyon",
+            "issn_l": null,
+            "issn": null,
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": false,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": null,
+          "license_id": null,
+          "version": null,
+          "is_accepted": false,
+          "is_published": null,
+          "raw_source_name": "Travaux et Documents des Laboratoires de Géologie de Lyon",
+          "raw_type": null
         }
       ],
       "best_oa_location": null,
@@ -66148,7 +66392,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-06T09:10:53.072986",
+      "updated_date": "2026-09-09T07:26:56.047234",
       "created_date": "2025-10-10T00:00:00"
     },
     {

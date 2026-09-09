@@ -666,8 +666,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 5,
@@ -1255,9 +1255,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6800000071525574,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -1269,8 +1269,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -1746,16 +1746,16 @@
       },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5099999904632568,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": true
+        "pdf": true,
+        "grobid_xml": false
       },
       "content_urls": {
         "pdf": "https://content.openalex.org/works/W2980323464.pdf"
@@ -3440,8 +3440,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 1,
@@ -3496,7 +3496,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1016/j.apgeochem.2025.106355",
-        "is_oa": false,
+        "is_oa": true,
         "landing_page_url": "https://doi.org/10.1016/j.apgeochem.2025.106355",
         "pdf_url": null,
         "source": {
@@ -3520,8 +3520,8 @@
           ],
           "type": "journal"
         },
-        "license": null,
-        "license_id": null,
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -3533,9 +3533,9 @@
         "crossref"
       ],
       "open_access": {
-        "is_oa": false,
-        "oa_status": "closed",
-        "oa_url": null,
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.1016/j.apgeochem.2025.106355",
         "any_repository_has_fulltext": false
       },
       "authorships": [
@@ -3702,12 +3702,16 @@
         "currency": "USD",
         "value_usd": 3490
       },
-      "apc_paid": null,
-      "fwci": 7.9588,
+      "apc_paid": {
+        "value": 3490,
+        "currency": "USD",
+        "value_usd": 3490
+      },
+      "fwci": 6.9892,
       "has_fulltext": false,
       "cited_by_count": 7,
       "citation_normalized_percentile": {
-        "value": 0.96869804,
+        "value": 0.96386793,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3877,7 +3881,7 @@
       "locations": [
         {
           "id": "doi:10.1016/j.apgeochem.2025.106355",
-          "is_oa": false,
+          "is_oa": true,
           "landing_page_url": "https://doi.org/10.1016/j.apgeochem.2025.106355",
           "pdf_url": null,
           "source": {
@@ -3901,8 +3905,8 @@
             ],
             "type": "journal"
           },
-          "license": null,
-          "license_id": null,
+          "license": "cc-by-nc-nd",
+          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -3910,12 +3914,45 @@
           "raw_type": "journal-article"
         }
       ],
-      "best_oa_location": null,
+      "best_oa_location": {
+        "id": "doi:10.1016/j.apgeochem.2025.106355",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.1016/j.apgeochem.2025.106355",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S105929320",
+          "display_name": "Applied Geochemistry",
+          "issn_l": "0883-2927",
+          "issn": [
+            "0883-2927",
+            "1872-9134"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": "https://openalex.org/P4310320990",
+          "host_organization_name": "Elsevier BV",
+          "host_organization_lineage": [
+            "https://openalex.org/P4310320990"
+          ],
+          "host_organization_lineage_names": [
+            "Elsevier BV"
+          ],
+          "type": "journal"
+        },
+        "license": "cc-by-nc-nd",
+        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "Applied Geochemistry",
+        "raw_type": "journal-article"
+      },
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/2",
           "score": 0.6800000071525574,
-          "display_name": "Zero hunger",
-          "id": "https://metadata.un.org/sdg/2"
+          "display_name": "Zero hunger"
         }
       ],
       "awards": [],
@@ -3927,8 +3964,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 46,
@@ -3992,7 +4029,654 @@
         "https://openalex.org/W2086120259",
         "https://openalex.org/W2126145365"
       ],
-      "abstract_inverted_index": null,
+      "abstract_inverted_index": {
+        "100": [
+          185
+        ],
+        "Principal": [
+          0
+        ],
+        "Component": [
+          1
+        ],
+        "Analysis": [
+          2
+        ],
+        "(PCA)": [
+          3
+        ],
+        "is": [
+          4,
+          44,
+          140,
+          207
+        ],
+        "a": [
+          5,
+          163,
+          200,
+          235,
+          272
+        ],
+        "powerful": [
+          6
+        ],
+        "tool": [
+          7,
+          274
+        ],
+        "and": [
+          8,
+          32,
+          53,
+          57,
+          96,
+          113,
+          120,
+          142,
+          169,
+          175,
+          256,
+          285
+        ],
+        "can": [
+          9,
+          232
+        ],
+        "be": [
+          10,
+          218
+        ],
+        "used": [
+          11
+        ],
+        "to": [
+          12,
+          38,
+          49,
+          69,
+          124,
+          210,
+          217,
+          226,
+          241,
+          253
+        ],
+        "interpret": [
+          13
+        ],
+        "the": [
+          14,
+          24,
+          39,
+          45,
+          71,
+          74,
+          80,
+          88,
+          92,
+          126,
+          130,
+          136,
+          155,
+          158,
+          173,
+          212,
+          219,
+          242,
+          245,
+          248,
+          254,
+          259,
+          264
+        ],
+        "chemical": [
+          15
+        ],
+        "composition": [
+          16
+        ],
+        "of": [
+          17,
+          41,
+          73,
+          87,
+          94,
+          106,
+          115,
+          129,
+          138,
+          180,
+          190,
+          194,
+          214,
+          229,
+          269,
+          294
+        ],
+        "geological": [
+          18,
+          58,
+          236,
+          276
+        ],
+        "rock": [
+          19
+        ],
+        "samples.": [
+          20,
+          186
+        ],
+        "However,": [
+          21
+        ],
+        "what": [
+          22
+        ],
+        "are": [
+          23,
+          196,
+          251,
+          261
+        ],
+        "best": [
+          25,
+          148
+        ],
+        "practices": [
+          26,
+          149,
+          298
+        ],
+        "when": [
+          27,
+          135,
+          299
+        ],
+        "dealing": [
+          28
+        ],
+        "with": [
+          29,
+          100,
+          224,
+          291
+        ],
+        "these": [
+          30
+        ],
+        "data": [
+          31,
+          116,
+          139,
+          260
+        ],
+        "workflows?": [
+          33
+        ],
+        "A": [
+          34
+        ],
+        "very": [
+          35
+        ],
+        "important": [
+          36,
+          178
+        ],
+        "step": [
+          37
+        ],
+        "analysis": [
+          40,
+          48,
+          153,
+          216
+        ],
+        "PCA": [
+          42,
+          215,
+          270,
+          301
+        ],
+        "variables": [
+          43,
+          171
+        ],
+        "related": [
+          46
+        ],
+        "eigenvector": [
+          47,
+          133
+        ],
+        "determine": [
+          50
+        ],
+        "element-mineral": [
+          51
+        ],
+        "links": [
+          52
+        ],
+        "relationships": [
+          54
+        ],
+        "between": [
+          55
+        ],
+        "elements": [
+          56,
+          131
+        ],
+        "conditions": [
+          59
+        ],
+        "(e.g.": [
+          60
+        ],
+        "depositional": [
+          61
+        ],
+        "environment,": [
+          62
+        ],
+        "diagenesis,": [
+          63
+        ],
+        "weathering).": [
+          64
+        ],
+        "We": [
+          65
+        ],
+        "present": [
+          66
+        ],
+        "two": [
+          67
+        ],
+        "examples": [
+          68
+        ],
+        "demonstrate": [
+          70,
+          161
+        ],
+        "usefulness": [
+          72
+        ],
+        "technique:": [
+          75
+        ],
+        "one": [
+          76,
+          239
+        ],
+        "from": [
+          77,
+          82,
+          238,
+          247,
+          283
+        ],
+        "carbonate": [
+          78
+        ],
+        "sediments,": [
+          79
+        ],
+        "other": [
+          81,
+          243
+        ],
+        "siliciclastics.": [
+          83
+        ],
+        "The": [
+          84
+        ],
+        "second": [
+          85,
+          176
+        ],
+        "part": [
+          86
+        ],
+        "paper": [
+          89
+        ],
+        "focuses": [
+          90
+        ],
+        "on": [
+          91,
+          117
+        ],
+        "behavior": [
+          93,
+          290
+        ],
+        "eigenvectors": [
+          95,
+          246
+        ],
+        "principal": [
+          97
+        ],
+        "components": [
+          98
+        ],
+        "(PCs)": [
+          99
+        ],
+        "changing": [
+          101,
+          292
+        ],
+        "datasets.": [
+          102
+        ],
+        "For": [
+          103,
+          187
+        ],
+        "this,": [
+          104
+        ],
+        "1000s": [
+          105,
+          193
+        ],
+        "experiments": [
+          107
+        ],
+        "were": [
+          108
+        ],
+        "performed": [
+          109
+        ],
+        "in": [
+          110,
+          132,
+          154,
+          221,
+          263,
+          278
+        ],
+        "different": [
+          111
+        ],
+        "lithologies": [
+          112
+        ],
+        "subsets": [
+          114
+        ],
+        "carbonate,": [
+          118
+        ],
+        "siliciclastic": [
+          119
+        ],
+        "mixed": [
+          121
+        ],
+        "carbonate-siliciclastic": [
+          122
+        ],
+        "sediments": [
+          123
+        ],
+        "understand": [
+          125
+        ],
+        "relative": [
+          127
+        ],
+        "position": [
+          128
+        ],
+        "space": [
+          134
+        ],
+        "quantity": [
+          137
+        ],
+        "increased": [
+          141
+        ],
+        "decreased.": [
+          143
+        ],
+        "This": [
+          144,
+          203
+        ],
+        "helped": [
+          145
+        ],
+        "us": [
+          146
+        ],
+        "deduce": [
+          147
+        ],
+        "for": [
+          150,
+          167,
+          183,
+          199,
+          275,
+          302
+        ],
+        "undertaking": [
+          151
+        ],
+        "such": [
+          152
+        ],
+        "future.": [
+          156
+        ],
+        "From": [
+          157
+        ],
+        "experiments,": [
+          159
+        ],
+        "we": [
+          160
+        ],
+        "that": [
+          162,
+          205
+        ],
+        "stable": [
+          164,
+          201
+        ],
+        "model": [
+          165
+        ],
+        "exists": [
+          166
+        ],
+        "PC1": [
+          168
+        ],
+        "PC2": [
+          170
+        ],
+        "(i.e.": [
+          172
+        ],
+        "first": [
+          174
+        ],
+        "most": [
+          177
+        ],
+        "sources": [
+          179
+        ],
+        "statistical": [
+          181
+        ],
+        "variation)": [
+          182
+        ],
+        "only": [
+          184,
+          233,
+          257
+        ],
+        "higher": [
+          188,
+          227
+        ],
+        "orders": [
+          189,
+          228
+        ],
+        "PCs": [
+          191
+        ],
+        "(PC3-PC6)": [
+          192
+        ],
+        "samples": [
+          195,
+          295
+        ],
+        "sometimes": [
+          197
+        ],
+        "required": [
+          198
+        ],
+        "model.": [
+          202
+        ],
+        "implies": [
+          204
+        ],
+        "it": [
+          206
+        ],
+        "not": [
+          208
+        ],
+        "possible": [
+          209
+        ],
+        "expect": [
+          211
+        ],
+        "results": [
+          213
+        ],
+        "same": [
+          220
+        ],
+        "each": [
+          222
+        ],
+        "study": [
+          223,
+          240
+        ],
+        "respect": [
+          225
+        ],
+        "PCs.": [
+          230
+        ],
+        "You": [
+          231
+        ],
+        "transfer": [
+          234
+        ],
+        "interpretation": [
+          237
+        ],
+        "if": [
+          244,
+          258
+        ],
+        "reference": [
+          249
+        ],
+        "dataset": [
+          250
+        ],
+        "applied": [
+          252
+        ],
+        "next": [
+          255
+        ],
+        "represented": [
+          262
+        ],
+        "original": [
+          265
+        ],
+        "study.": [
+          266
+        ],
+        "•": [
+          267,
+          280,
+          288,
+          296
+        ],
+        "Use": [
+          268
+        ],
+        "as": [
+          271
+        ],
+        "correlation": [
+          273
+        ],
+        "applications": [
+          277
+        ],
+        "chemostratigraphy": [
+          279,
+          303
+        ],
+        "Example": [
+          281
+        ],
+        "templates": [
+          282
+        ],
+        "Carbonates": [
+          284
+        ],
+        "Clastic": [
+          286
+        ],
+        "Units": [
+          287
+        ],
+        "Eigenvector": [
+          289
+        ],
+        "number": [
+          293
+        ],
+        "Best": [
+          297
+        ],
+        "applying": [
+          300
+        ]
+      },
       "counts_by_year": [
         {
           "year": 2026,
@@ -4003,7 +4687,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-09T07:26:56.047234",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -4365,16 +5049,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 17,
@@ -5005,16 +5689,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 38,
@@ -5543,9 +6227,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -5557,8 +6241,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 19,
@@ -6054,16 +6738,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5299999713897705,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -7088,8 +7772,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 26,
@@ -7626,21 +8310,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/16",
           "score": 0.49000000953674316,
-          "display_name": "Peace, Justice and strong institutions",
-          "id": "https://metadata.un.org/sdg/16"
+          "display_name": "Peace, Justice and strong institutions"
         },
         {
+          "id": "https://metadata.un.org/sdg/10",
           "score": 0.4699999988079071,
-          "display_name": "Reduced inequalities",
-          "id": "https://metadata.un.org/sdg/10"
+          "display_name": "Reduced inequalities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 6,
@@ -8843,8 +9527,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 155,
@@ -9523,16 +10207,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 82,
@@ -10169,8 +10853,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -10660,8 +11344,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 63,
@@ -11233,16 +11917,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/10",
           "score": 0.6499999761581421,
-          "display_name": "Reduced inequalities",
-          "id": "https://metadata.un.org/sdg/10"
+          "display_name": "Reduced inequalities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -12211,16 +12895,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 27,
@@ -12744,8 +13428,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 31,
@@ -13179,9 +13863,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.46000000834465027,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
@@ -13193,8 +13877,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 41,
@@ -14075,21 +14759,21 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/16",
           "score": 0.5,
-          "display_name": "Peace, Justice and strong institutions",
-          "id": "https://metadata.un.org/sdg/16"
+          "display_name": "Peace, Justice and strong institutions"
         },
         {
+          "id": "https://metadata.un.org/sdg/10",
           "score": 0.4099999964237213,
-          "display_name": "Reduced inequalities",
-          "id": "https://metadata.un.org/sdg/10"
+          "display_name": "Reduced inequalities"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 70,
@@ -14818,8 +15502,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 22,
@@ -15364,8 +16048,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 36,
@@ -16449,16 +17133,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 16,
@@ -17940,16 +18624,16 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.800000011920929,
-          "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "display_name": "Life below water"
         }
       ],
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18308,8 +18992,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -18735,8 +19419,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -19556,8 +20240,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 24,
@@ -20560,8 +21244,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21083,8 +21767,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -21858,8 +22542,8 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 0,
@@ -22884,8 +23568,8 @@
         }
       ],
       "has_content": {
-        "grobid_xml": false,
-        "pdf": false
+        "pdf": false,
+        "grobid_xml": false
       },
       "content_urls": null,
       "referenced_works_count": 39,
