@@ -16,7 +16,7 @@
     ],
     "full_name": "Hamad A. Al Saad Al-Kuwari",
     "works_count": 43,
-    "cited_by_count": 521,
+    "cited_by_count": 522,
     "summary_stats": {
       "2yr_mean_citedness": 1.3529411764705883,
       "h_index": 12,
@@ -307,7 +307,7 @@
         "year": 2021,
         "works_count": 10,
         "oa_works_count": 7,
-        "cited_by_count": 241
+        "cited_by_count": 242
       },
       {
         "year": 2022,
@@ -347,7 +347,7 @@
     ],
     "block_key": "h al-kuwari",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5079669280",
-    "updated_date": "2026-09-07T12:18:41",
+    "updated_date": "2026-09-09T12:19:19",
     "created_date": "2020-10-01T00:00:00"
   },
   "works": [
@@ -392,8 +392,8 @@
           ],
           "type": "journal"
         },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -702,11 +702,11 @@
         "currency": "EUR",
         "value_usd": 1693
       },
-      "fwci": 2.9854,
+      "fwci": 2.9864,
       "has_fulltext": true,
       "cited_by_count": 86,
       "citation_normalized_percentile": {
-        "value": 0.92263425,
+        "value": 0.92265596,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -947,8 +947,8 @@
             ],
             "type": "journal"
           },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -1155,8 +1155,8 @@
           ],
           "type": "journal"
         },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -1165,9 +1165,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.44999998807907104,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.44999998807907104
         }
       ],
       "awards": [
@@ -1778,7 +1778,7 @@
           "cited_by_count": 13
         }
       ],
-      "updated_date": "2026-09-09T07:26:56.047234",
+      "updated_date": "2026-09-10T07:47:47.112893",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -2618,9 +2618,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7099999785423279,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.7099999785423279
         }
       ],
       "awards": [
@@ -3434,8 +3434,8 @@
           ],
           "type": "journal"
         },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -3701,11 +3701,11 @@
         "currency": "USD",
         "value_usd": 3790
       },
-      "fwci": 4.0779,
+      "fwci": 4.0255,
       "has_fulltext": true,
       "cited_by_count": 35,
       "citation_normalized_percentile": {
-        "value": 0.95029015,
+        "value": 0.94982301,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -3923,8 +3923,8 @@
             ],
             "type": "journal"
           },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -4045,8 +4045,8 @@
           ],
           "type": "journal"
         },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -4055,9 +4055,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.800000011920929,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.800000011920929
         }
       ],
       "awards": [
@@ -4862,7 +4862,7 @@
           "cited_by_count": 10
         }
       ],
-      "updated_date": "2026-09-08T07:41:39.490200",
+      "updated_date": "2026-09-10T07:47:47.112893",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -7284,9 +7284,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8500000238418579,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8500000238418579
         }
       ],
       "awards": [
@@ -7499,8 +7499,8 @@
           ],
           "type": "journal"
         },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -7799,11 +7799,11 @@
         "currency": "EUR",
         "value_usd": 559
       },
-      "fwci": 1.1956,
+      "fwci": 1.2042,
       "has_fulltext": true,
       "cited_by_count": 35,
       "citation_normalized_percentile": {
-        "value": 0.75319698,
+        "value": 0.75386112,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8092,8 +8092,8 @@
             ],
             "type": "journal"
           },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -8269,8 +8269,8 @@
           ],
           "type": "journal"
         },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -8888,7 +8888,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-07T09:17:50.787605",
+      "updated_date": "2026-09-10T07:47:47.112893",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -8930,8 +8930,8 @@
           ],
           "type": "journal"
         },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -9154,11 +9154,11 @@
         "currency": "EUR",
         "value_usd": 3176
       },
-      "fwci": 1.9658,
+      "fwci": 1.9871,
       "has_fulltext": true,
-      "cited_by_count": 22,
+      "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.88000793,
+        "value": 0.88108811,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -9484,8 +9484,8 @@
             ],
             "type": "journal"
           },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
+          "license": "other-oa",
+          "license_id": "https://openalex.org/licenses/other-oa",
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -9577,8 +9577,8 @@
           ],
           "type": "journal"
         },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
+        "license": "other-oa",
+        "license_id": "https://openalex.org/licenses/other-oa",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -10358,7 +10358,7 @@
       "counts_by_year": [
         {
           "year": 2026,
-          "cited_by_count": 4
+          "cited_by_count": 5
         },
         {
           "year": 2025,
@@ -10381,7 +10381,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-02T18:50:13.731487",
+      "updated_date": "2026-09-10T07:47:47.112893",
       "created_date": "2021-04-13T00:00:00"
     },
     {
@@ -11760,9 +11760,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8299999833106995
         }
       ],
       "awards": [
@@ -13028,9 +13028,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5799999833106995,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.5799999833106995
         }
       ],
       "awards": [
@@ -13192,8 +13192,8 @@
           ],
           "type": "journal"
         },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -13410,11 +13410,11 @@
         "currency": "USD",
         "value_usd": 2310
       },
-      "fwci": 4.9251,
+      "fwci": 4.7516,
       "has_fulltext": false,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.95068089,
+        "value": 0.94877421,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -13696,8 +13696,8 @@
             ],
             "type": "journal"
           },
-          "license": "cc-by-nc-nd",
-          "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+          "license": "cc-by",
+          "license_id": "https://openalex.org/licenses/cc-by",
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -13757,8 +13757,8 @@
           ],
           "type": "journal"
         },
-        "license": "cc-by-nc-nd",
-        "license_id": "https://openalex.org/licenses/cc-by-nc-nd",
+        "license": "cc-by",
+        "license_id": "https://openalex.org/licenses/cc-by",
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -13767,9 +13767,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.7900000214576721,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.7900000214576721
         }
       ],
       "awards": [
@@ -14519,7 +14519,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-09-06T09:10:53.072986",
+      "updated_date": "2026-09-10T07:47:47.112893",
       "created_date": "2025-08-19T00:00:00"
     },
     {
@@ -16302,9 +16302,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.8299999833106995,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.8299999833106995
         }
       ],
       "awards": [
@@ -19647,9 +19647,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.5,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.5
         }
       ],
       "awards": [
@@ -20280,9 +20280,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.7300000190734863,
+          "id": "https://metadata.un.org/sdg/15",
           "display_name": "Life in Land",
-          "id": "https://metadata.un.org/sdg/15"
+          "score": 0.7300000190734863
         }
       ],
       "awards": [],
@@ -23946,9 +23946,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [
@@ -25166,9 +25166,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6499999761581421,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.6499999761581421
         }
       ],
       "awards": [],
@@ -26627,9 +26627,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8399999737739563
         }
       ],
       "awards": [
@@ -27742,9 +27742,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "score": 0.6800000071525574,
+          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "id": "https://metadata.un.org/sdg/11"
+          "score": 0.6800000071525574
         }
       ],
       "awards": [],
@@ -29930,9 +29930,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8799999952316284
         }
       ],
       "awards": [],
@@ -32677,9 +32677,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.41999998688697815,
+          "id": "https://metadata.un.org/sdg/12",
           "display_name": "Responsible consumption and production",
-          "id": "https://metadata.un.org/sdg/12"
+          "score": 0.41999998688697815
         }
       ],
       "awards": [],
@@ -33871,9 +33871,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "id": "https://metadata.un.org/sdg/14"
+          "score": 0.8899999856948853
         }
       ],
       "awards": [],
@@ -34917,9 +34917,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.4399999976158142,
+          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "id": "https://metadata.un.org/sdg/13"
+          "score": 0.4399999976158142
         }
       ],
       "awards": [],
@@ -35467,9 +35467,9 @@
       },
       "sustainable_development_goals": [
         {
-          "score": 0.699999988079071,
+          "id": "https://metadata.un.org/sdg/2",
           "display_name": "Zero hunger",
-          "id": "https://metadata.un.org/sdg/2"
+          "score": 0.699999988079071
         }
       ],
       "awards": [],
