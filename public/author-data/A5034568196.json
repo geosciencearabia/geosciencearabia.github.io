@@ -188,7 +188,7 @@
       {
         "id": "https://openalex.org/T11490",
         "display_name": "Hydrological Forecasting Using AI",
-        "value": 0.0001437,
+        "value": 0.0001438,
         "subfield": {
           "id": "https://openalex.org/subfields/2305",
           "display_name": "Environmental Engineering"
@@ -222,7 +222,7 @@
       {
         "id": "https://openalex.org/T10572",
         "display_name": "Geophysical and Geoelectrical Methods",
-        "value": 0.0000454,
+        "value": 0.0000455,
         "subfield": {
           "id": "https://openalex.org/subfields/1908",
           "display_name": "Geophysics"
@@ -14519,11 +14519,11 @@
         "currency": "USD",
         "value_usd": 2100
       },
-      "fwci": 6.2246,
+      "fwci": 6.1676,
       "has_fulltext": true,
       "cited_by_count": 32,
       "citation_normalized_percentile": {
-        "value": 0.9722065,
+        "value": 0.97192483,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -15073,661 +15073,257 @@
         "https://openalex.org/W3160053748"
       ],
       "abstract_inverted_index": {
-        "Water": [
-          0,
-          102
-        ],
-        "scarcity": [
-          1
-        ],
-        "threatens": [
-          2
-        ],
-        "agriculture": [
-          3
-        ],
-        "and": [
-          4,
-          39,
-          64,
-          80,
-          114,
-          131,
-          156,
-          177,
-          255,
-          272
-        ],
-        "food": [
-          5
-        ],
-        "security": [
-          6
-        ],
-        "in": [
-          7,
-          54,
-          60,
-          74,
-          142,
-          218
-        ],
-        "arid": [
-          8
-        ],
-        "regions": [
-          9
-        ],
-        "like": [
-          10
-        ],
-        "Saudi": [
-          11,
-          62,
-          98,
-          149
-        ],
-        "Arabia.": [
-          12
-        ],
-        "The": [
-          13,
-          134,
-          208
-        ],
-        "nation": [
-          14
-        ],
-        "produces": [
-          15
-        ],
-        "significant": [
-          16
-        ],
-        "quantities": [
-          17
-        ],
-        "of": [
-          18,
-          47,
-          123,
-          140,
-          205,
-          210
-        ],
-        "municipal": [
-          19
-        ],
-        "wastewater,": [
-          20
-        ],
-        "which,": [
-          21
-        ],
-        "with": [
-          22,
-          97,
-          147,
-          189
-        ],
-        "adequate": [
-          23
-        ],
-        "treatment,": [
-          24
-        ],
-        "could": [
-          25,
-          242
-        ],
-        "serve": [
-          26
-        ],
-        "as": [
-          27,
-          165,
-          222
-        ],
-        "an": [
-          28
-        ],
-        "alternative": [
-          29
-        ],
-        "water": [
-          30,
-          78,
-          110,
-          160
-        ],
-        "source": [
-          31
-        ],
-        "for": [
-          32,
-          52,
-          93,
-          153,
-          172
-        ],
-        "irrigation,": [
-          33,
-          94
-        ],
-        "thereby": [
-          34
-        ],
-        "reducing": [
-          35
-        ],
-        "reliance": [
-          36
-        ],
-        "on": [
-          37,
-          67,
-          125,
-          175
-        ],
-        "fossil": [
-          38
-        ],
-        "non-renewable": [
-          40
-        ],
-        "groundwater.": [
-          41,
-          258
-        ],
-        "This": [
-          42
-        ],
-        "study": [
-          43,
-          144,
-          220
-        ],
-        "assessed": [
-          44,
-          128
-        ],
-        "the": [
-          45,
-          90,
-          100,
-          106,
-          115,
-          121,
-          138,
-          143,
-          148,
-          170,
-          192,
-          203,
-          219
-        ],
-        "appropriateness": [
-          46
-        ],
-        "using": [
-          48
-        ],
-        "treated": [
-          49
-        ],
-        "wastewater": [
-          50,
-          265
-        ],
-        "(TWW)": [
-          51
-        ],
-        "irrigation": [
-          53,
-          117,
-          159,
-          188,
-          212,
-          250
-        ],
-        "a": [
-          55
-        ],
-        "dry": [
-          56
-        ],
-        "coastal": [
-          57
-        ],
-        "agricultural": [
-          58,
-          240
-        ],
-        "region": [
-          59
-        ],
-        "Eastern": [
-          61
-        ],
-        "Arabia": [
-          63
-        ],
-        "its": [
-          65
-        ],
-        "impact": [
-          66,
-          122
-        ],
-        "groundwater": [
-          68,
-          126,
-          216,
-          226
-        ],
-        "resources.": [
-          69
-        ],
-        "Field": [
-          70
-        ],
-        "investigations": [
-          71
-        ],
-        "were": [
-          72,
-          198
-        ],
-        "conducted": [
-          73
-        ],
-        "Qatif": [
-          75
-        ],
-        "to": [
-          76,
-          88,
-          202,
-          229,
-          235,
-          277
-        ],
-        "collect": [
-          77
-        ],
-        "samples": [
-          79
-        ],
-        "field": [
-          81
-        ],
-        "measurements.": [
-          82
-        ],
-        "A": [
-          83
-        ],
-        "multi-criteria": [
-          84
-        ],
-        "approach": [
-          85,
-          261
-        ],
-        "was": [
-          86,
-          127
-        ],
-        "applied": [
-          87
-        ],
-        "evaluate": [
-          89
-        ],
-        "TWW's": [
-          91
-        ],
-        "suitability": [
-          92
-        ],
-        "including": [
-          95
-        ],
-        "complying": [
-          96
-        ],
-        "Standards,": [
-          99
-        ],
-        "Irrigation": [
-          101
-        ],
-        "Quality": [
-          103
-        ],
-        "Index": [
-          104
-        ],
-        "(IWQI),": [
-          105
-        ],
-        "National": [
-          107
-        ],
-        "Sanitation": [
-          108
-        ],
-        "Foundation": [
-          109
-        ],
-        "quality": [
-          111,
-          161
-        ],
-        "index": [
-          112
-        ],
-        "(NSFWQI),": [
-          113
-        ],
-        "individual": [
-          116
-        ],
-        "indices.": [
-          118
-        ],
-        "In": [
-          119
-        ],
-        "addition,": [
-          120
-        ],
-        "TWW": [
-          124,
-          141,
-          164,
-          190,
-          211,
-          233
-        ],
-        "through": [
-          129
-        ],
-        "hydrogeological": [
-          130
-        ],
-        "isotope": [
-          132
-        ],
-        "approaches.": [
-          133
-        ],
-        "results": [
-          135
-        ],
-        "indicate": [
-          136
-        ],
-        "that": [
-          137,
-          168,
-          186,
-          262
-        ],
-        "use": [
-          139,
-          171
-        ],
-        "area": [
-          145
-        ],
-        "complied": [
-          146
-        ],
-        "reuse": [
-          150
-        ],
-        "guidelines": [
-          151
-        ],
-        "except": [
-          152
-        ],
-        "nitrate,": [
-          154
-        ],
-        "aluminum,": [
-          155
-        ],
-        "molybdenum.": [
-          157
-        ],
-        "However,": [
-          158
-        ],
-        "indices": [
-          162
-        ],
-        "classify": [
-          163
-        ],
-        "having": [
-          166
-        ],
-        "limitations": [
-          167
-        ],
-        "necessitate": [
-          169
-        ],
-        "salt-tolerant": [
-          173
-        ],
-        "crops": [
-          174
-        ],
-        "permeable": [
-          176
-        ],
-        "well-drained": [
-          178
-        ],
-        "soils.": [
-          179
-        ],
-        "Stable": [
-          180
-        ],
-        "isotopic": [
-          181
-        ],
-        "analysis": [
-          182
-        ],
-        "(δ2H,": [
-          183
-        ],
-        "δ18O)": [
-          184
+        "O)": [
+          0
         ],
         "revealed": [
-          185
+          1
+        ],
+        "that": [
+          2,
+          78
         ],
         "long-term": [
-          187
+          3
+        ],
+        "irrigation": [
+          4,
+          28,
+          66
+        ],
+        "with": [
+          5
+        ],
+        "TWW": [
+          6,
+          27,
+          49
         ],
         "affected": [
-          191
+          7
+        ],
+        "the": [
+          8,
+          19,
+          35
         ],
         "shallow": [
-          193,
-          257
+          9,
+          73
         ],
         "aquifer,": [
-          194
+          10
         ],
         "while": [
-          195
+          11
         ],
         "deep": [
-          196
+          12
         ],
         "aquifers": [
-          197
+          13
+        ],
+        "were": [
+          14
         ],
         "minimally": [
-          199
+          15
         ],
         "impacted": [
-          200
+          16
         ],
         "due": [
-          201
+          17
+        ],
+        "to": [
+          18,
+          45,
+          51,
+          93
         ],
         "presence": [
-          204
+          20
+        ],
+        "of": [
+          21,
+          26
         ],
         "aquitard": [
-          206
+          22
         ],
         "layer.": [
-          207
+          23
+        ],
+        "The": [
+          24
         ],
         "application": [
-          209
+          25
         ],
         "has": [
-          213
+          29
         ],
         "successfully": [
-          214
+          30
         ],
         "maintained": [
-          215
+          31
+        ],
+        "groundwater": [
+          32,
+          42
         ],
         "sustainability": [
-          217,
-          241
+          33,
+          57
+        ],
+        "in": [
+          34
+        ],
+        "study": [
+          36
         ],
         "area,": [
-          221
+          37
+        ],
+        "as": [
+          38
         ],
         "evidenced": [
-          223
+          39
         ],
         "by": [
-          224,
-          245
+          40,
+          61
         ],
         "increased": [
-          225
+          41
         ],
         "levels": [
-          227
+          43
         ],
         "up": [
-          228
+          44
         ],
         "2.3": [
-          230
+          46
         ],
         "m.": [
-          231
+          47
         ],
         "Although": [
-          232
+          48
         ],
         "contributes": [
-          234
+          50
         ],
         "crop": [
-          236
+          52
         ],
         "productivity,": [
-          237
+          53
         ],
         "long": [
-          238
+          54
         ],
         "term": [
-          239
+          55
+        ],
+        "agricultural": [
+          56
+        ],
+        "could": [
+          58
         ],
         "be": [
-          243,
-          278
+          59,
+          94
         ],
         "enhanced": [
-          244
+          60
         ],
         "improving": [
-          246
+          62
         ],
         "effluent": [
-          247
+          63
         ],
         "quality,": [
-          248
+          64
         ],
         "regulating": [
-          249
+          65
         ],
         "practices,": [
-          251
+          67
         ],
         "implementing": [
-          252
+          68
         ],
         "buffer": [
-          253
+          69
         ],
         "zones,": [
-          254
+          70
+        ],
+        "and": [
+          71,
+          88
         ],
         "monitoring": [
-          256,
-          274
+          72,
+          90
+        ],
+        "groundwater.": [
+          74
         ],
         "An": [
-          259
+          75
         ],
         "integrated": [
-          260
+          76
+        ],
+        "approach": [
+          77
         ],
         "combines": [
-          263
+          79
         ],
         "advanced": [
-          264
+          80
+        ],
+        "wastewater": [
+          81
         ],
         "treatment": [
-          266
+          82
         ],
         "methods,": [
-          267
+          83
         ],
         "community": [
-          268
+          84
         ],
         "involvement,": [
-          269
+          85
         ],
         "regulatory": [
-          270
+          86
         ],
         "oversight,": [
-          271
+          87
         ],
         "targeted": [
-          273
+          89
         ],
         "is": [
-          275
+          91
         ],
         "recommended": [
-          276
+          92
         ],
         "implemented.": [
-          279
+          95
         ]
       },
       "counts_by_year": [
@@ -15744,7 +15340,7 @@
           "cited_by_count": 6
         }
       ],
-      "updated_date": "2026-09-09T07:26:56.047234",
+      "updated_date": "2026-09-11T09:22:31.653822",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -46011,7 +45607,7 @@
             "BD",
             "SA"
           ],
-          "is_corresponding": false,
+          "is_corresponding": true,
           "raw_author_name": "Md Masudur Rahman",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
@@ -46062,7 +45658,7 @@
           "countries": [
             "SA"
           ],
-          "is_corresponding": true,
+          "is_corresponding": false,
           "raw_author_name": "Md Masudur Rahman",
           "raw_affiliation_strings": [
             "Interdisciplinary Research Center for Aviation and Space Exploration (IRC-ASE), King Fahd University of Petroleum & Minerals",
@@ -46231,7 +45827,8 @@
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I120158604",
-        "https://openalex.org/I134085113"
+        "https://openalex.org/I134085113",
+        "https://openalex.org/I4210132231"
       ],
       "apc_list": {
         "value": 3265,
@@ -46243,11 +45840,11 @@
         "currency": "AUD",
         "value_usd": 2390
       },
-      "fwci": 1.006,
+      "fwci": 0.9943,
       "has_fulltext": false,
       "cited_by_count": 3,
       "citation_normalized_percentile": {
-        "value": 0.74472545,
+        "value": 0.74158461,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -47178,7 +46775,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-10T07:47:47.112893",
+      "updated_date": "2026-09-11T09:22:31.653822",
       "created_date": "2025-11-23T00:00:00"
     },
     {
@@ -77976,7 +77573,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-09-03T10:48:47.769340",
+      "updated_date": "2026-09-11T09:22:31.653822",
       "created_date": "2026-07-03T00:00:00"
     },
     {

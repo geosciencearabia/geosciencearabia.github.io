@@ -2072,11 +2072,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 14.3843,
+      "fwci": 14.2414,
       "has_fulltext": true,
       "cited_by_count": 274,
       "citation_normalized_percentile": {
-        "value": 0.99333068,
+        "value": 0.99329056,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -2600,8 +2600,8 @@
           "landing_page_url": "https://orbi.uliege.be/handle/2268/15579",
           "pdf_url": "https://orbi.uliege.be/bitstream/2268/15579/2/Steemans%20et%20al%202009b.pdf",
           "source": {
-            "id": "https://openalex.org/S4306401300",
-            "display_name": "ORBi (University of Liège)",
+            "id": "https://openalex.org/S4306400651",
+            "display_name": "Open Repository and Bibliography (University of Liège)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
@@ -3130,7 +3130,7 @@
           "cited_by_count": 25
         }
       ],
-      "updated_date": "2026-09-03T10:48:47.769340",
+      "updated_date": "2026-09-11T09:22:31.653822",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -28400,7 +28400,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1306/ad46269b-16f7-11d7-8645000102c1865d",
-        "is_oa": true,
+        "is_oa": false,
         "landing_page_url": "https://doi.org/10.1306/ad46269b-16f7-11d7-8645000102c1865d",
         "pdf_url": null,
         "source": {
@@ -28425,8 +28425,8 @@
           ],
           "type": "journal"
         },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
+        "license": null,
+        "license_id": null,
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -28438,9 +28438,9 @@
         "crossref"
       ],
       "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://doi.org/10.1306/ad46269b-16f7-11d7-8645000102c1865d",
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
         "any_repository_has_fulltext": false
       },
       "authorships": [
@@ -28493,11 +28493,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 1.089,
+      "fwci": 1.1141,
       "has_fulltext": false,
       "cited_by_count": 4,
       "citation_normalized_percentile": {
-        "value": 0.77970149,
+        "value": 0.78337237,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -28652,7 +28652,7 @@
       "locations": [
         {
           "id": "doi:10.1306/ad46269b-16f7-11d7-8645000102c1865d",
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://doi.org/10.1306/ad46269b-16f7-11d7-8645000102c1865d",
           "pdf_url": null,
           "source": {
@@ -28677,8 +28677,8 @@
             ],
             "type": "journal"
           },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
+          "license": null,
+          "license_id": null,
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -28686,41 +28686,7 @@
           "raw_type": "journal-article"
         }
       ],
-      "best_oa_location": {
-        "id": "doi:10.1306/ad46269b-16f7-11d7-8645000102c1865d",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1306/ad46269b-16f7-11d7-8645000102c1865d",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S144020083",
-          "display_name": "AAPG Bulletin",
-          "issn_l": "0149-1423",
-          "issn": [
-            "0149-1423",
-            "1522-1423",
-            "1558-9153"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310316082",
-          "host_organization_name": "American Association of Petroleum Geologists",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310316082"
-          ],
-          "host_organization_lineage_names": [
-            "American Association of Petroleum Geologists"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "AAPG Bulletin",
-        "raw_type": "journal-article"
-      },
+      "best_oa_location": null,
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/14",
@@ -28750,215 +28716,596 @@
         "https://openalex.org/W2014296041"
       ],
       "abstract_inverted_index": {
-        "This": [
-          0
+        "1": [
+          98
         ],
-        "DOI": [
-          1,
-          43,
-          55
+        "3": [
+          169
         ],
-        "is": [
-          2
+        "The": [
+          0,
+          24,
+          60,
+          121,
+          164,
+          219,
+          231
         ],
-        "not": [
-          3
+        "reservoir": [
+          1
         ],
-        "currently": [
-          4
-        ],
-        "attached": [
-          5
-        ],
-        "to": [
-          6,
-          31,
-          69
-        ],
-        "any": [
-          7
-        ],
-        "metadata": [
-          8
-        ],
-        "records.": [
-          9
-        ],
-        "DOIs": [
-          10,
-          23
-        ],
-        "can’t": [
-          11
-        ],
-        "actually": [
-          12
-        ],
-        "ever": [
-          13
-        ],
-        "be": [
-          14
-        ],
-        "deleted": [
-          15
-        ],
-        "(they’re": [
-          16
-        ],
-        "persistent),": [
-          17
-        ],
-        "but": [
-          18
-        ],
-        "sometimes": [
-          19
-        ],
-        "our": [
-          20
-        ],
-        "members": [
-          21
-        ],
-        "create": [
-          22
+        "interval": [
+          2,
+          62
         ],
         "in": [
-          24,
-          38,
-          48,
-          63
-        ],
-        "error.": [
-          25
-        ],
-        "We": [
-          26
-        ],
-        "do": [
-          27
-        ],
-        "have": [
-          28
-        ],
-        "a": [
-          29
-        ],
-        "process": [
-          30
-        ],
-        "approximate": [
-          32
-        ],
-        "deletion": [
-          33
-        ],
-        "which": [
-          34
-        ],
-        "we": [
-          35
-        ],
-        "follow": [
-          36
-        ],
-        "only": [
-          37
-        ],
-        "rare": [
-          39
-        ],
-        "cases": [
-          40
-        ],
-        "where": [
-          41
+          3,
+          40,
+          83,
+          198,
+          211,
+          237
         ],
         "the": [
-          42,
-          54
+          4,
+          9,
+          12,
+          20,
+          38,
+          138,
+          228,
+          235,
+          244,
+          248
         ],
-        "has": [
-          44,
-          56
+        "Endicott": [
+          5
         ],
-        "been": [
-          45,
-          58
+        "field,": [
+          6
         ],
-        "genuinely": [
-          46
+        "located": [
+          7
         ],
-        "created": [
-          47
+        "under": [
+          8
         ],
-        "error,": [
-          49
+        "delta": [
+          10
+        ],
+        "of": [
+          11,
+          16,
+          33,
+          52,
+          151,
+          167,
+          202,
+          227,
+          243,
+          247
+        ],
+        "Sagavanirktok": [
+          13
+        ],
+        "River": [
+          14
+        ],
+        "east": [
+          15
+        ],
+        "Prudhoe": [
+          17
+        ],
+        "Bay,": [
+          18
+        ],
+        "is": [
+          19,
+          99,
+          149,
+          170
+        ],
+        "Mississippian": [
+          21
+        ],
+        "Kekiktuk": [
+          22,
+          39,
+          236,
+          251
+        ],
+        "formation.": [
+          23
+        ],
+        "rocks": [
+          25,
+          80,
+          208,
+          220
+        ],
+        "are": [
+          26
+        ],
+        "quartzose,": [
+          27
         ],
         "and": [
-          50,
-          65
+          28,
+          30,
+          70,
+          76,
+          92,
+          127,
+          130,
+          154,
+          162,
+          205
         ],
-        "most": [
+        "lithofacies": [
+          29
+        ],
+        "sequence": [
+          31,
+          141,
+          233
+        ],
+        "analysis": [
+          32
+        ],
+        "core": [
+          34
+        ],
+        "material": [
+          35
+        ],
+        "shows": [
+          36
+        ],
+        "that": [
+          37,
+          41,
+          112
+        ],
+        "area": [
+          42,
+          239
+        ],
+        "can": [
+          43
+        ],
+        "be": [
+          44
+        ],
+        "subdivided": [
+          45
+        ],
+        "into": [
+          46,
+          137,
+          145,
+          191
+        ],
+        "three": [
+          47
+        ],
+        "sedimentologically": [
+          48
+        ],
+        "distinct": [
+          49,
+          193
+        ],
+        "intervals,": [
+          50
+        ],
+        "each": [
           51
         ],
-        "crucially,": [
-          52
+        "which": [
+          53,
+          105,
+          148,
+          196
         ],
-        "if": [
-          53
+        "reflects": [
+          54
         ],
-        "never": [
-          57,
-          66
+        "a": [
+          55,
+          84,
+          182,
+          212
         ],
-        "published": [
-          59
+        "different": [
+          56
         ],
-        "anywhere": [
-          60
+        "fluviatile": [
+          57
         ],
-        "online": [
+        "depositional": [
+          58
+        ],
+        "environment.": [
+          59,
+          218
+        ],
+        "lowermost": [
           61
         ],
-        "or": [
-          62,
-          70
+        "(zone": [
+          63
         ],
-        "print": [
+        "1)": [
           64
         ],
-        "otherwise": [
+        "rests": [
+          65
+        ],
+        "directly": [
+          66
+        ],
+        "on": [
           67
         ],
-        "distributed": [
+        "metamorphic": [
           68
         ],
-        "communicated": [
-          71
+        "basement": [
+          69
         ],
-        "with": [
+        "comprises": [
+          71,
+          106
+        ],
+        "interbedded": [
           72
         ],
-        "anyone": [
+        "coal,": [
           73
         ],
-        "(authors,": [
-          74
+        "mudstones,": [
+          74,
+          161
         ],
-        "readers,": [
-          75
+        "siltstones,": [
+          75,
+          160
         ],
-        "reviewers,": [
-          76
+        "fine-grained": [
+          77,
+          155
         ],
-        "etc.": [
-          77
+        "sandstones.": [
+          78
+        ],
+        "These": [
+          79
+        ],
+        "were": [
+          81,
+          209
+        ],
+        "deposited": [
+          82,
+          114,
+          134,
+          180,
+          210
+        ],
+        "very": [
+          85
+        ],
+        "low-lying": [
+          86
+        ],
+        "swamp": [
+          87
+        ],
+        "plain": [
+          88,
+          123
+        ],
+        "containing": [
+          89
+        ],
+        "local": [
+          90
+        ],
+        "lakes": [
+          91
+        ],
+        "sluggish,": [
+          93
+        ],
+        "highly": [
+          94,
+          214
+        ],
+        "sinuous": [
+          95,
+          184,
+          215
+        ],
+        "streams.": [
+          96
+        ],
+        "Zone": [
+          97
+        ],
+        "overlain": [
+          100
+        ],
+        "sharply": [
+          101
+        ],
+        "by": [
+          102,
+          172
+        ],
+        "zone": [
+          103,
+          146,
+          168
+        ],
+        "2,": [
+          104
+        ],
+        "medium": [
+          107
+        ],
+        "to": [
+          108
+        ],
+        "coarse-grained,": [
+          109
+        ],
+        "multistory": [
+          110
+        ],
+        "andstone": [
+          111
+        ],
+        "was": [
+          113
+        ],
+        "within": [
+          115,
+          181,
+          234
+        ],
+        "an": [
+          116,
+          241
+        ],
+        "unconstrained": [
+          117
+        ],
+        "braided": [
+          118
+        ],
+        "river": [
+          119
+        ],
+        "system.": [
+          120,
+          186
+        ],
+        "braid": [
+          122
+        ],
+        "contained": [
+          124
+        ],
+        "both": [
+          125
+        ],
+        "ephemeral": [
+          126
+        ],
+        "permanent": [
+          128
+        ],
+        "lakes,": [
+          129
+        ],
+        "periodic": [
+          131
+        ],
+        "gravity": [
+          132
+        ],
+        "flows": [
+          133
+        ],
+        "coarser": [
+          135
+        ],
+        "sediment": [
+          136
+        ],
+        "latter.": [
+          139
+        ],
+        "That": [
+          140
+        ],
+        "passes": [
+          142
+        ],
+        "gradationally": [
+          143,
+          189
+        ],
+        "upward": [
+          144,
+          190,
+          222
+        ],
+        "3,": [
+          147
+        ],
+        "composed": [
+          150
+        ],
+        "coarse-,": [
+          152
+        ],
+        "medium-,": [
+          153
+        ],
+        "sandstones,": [
+          156
+        ],
+        "as": [
+          157,
+          159,
+          177
+        ],
+        "well": [
+          158
+        ],
+        "coals.": [
+          163
+        ],
+        "lower": [
+          165
+        ],
+        "part": [
+          166
+        ],
+        "dominated": [
+          171
+        ],
+        "upward-fining": [
+          173,
+          194
+        ],
+        "sandstone": [
+          174
+        ],
+        "sequences,": [
+          175,
+          195
+        ],
+        "interpreted": [
+          176
+        ],
+        "channel": [
+          178
+        ],
+        "bars": [
+          179
+        ],
+        "moderately": [
+          183
+        ],
+        "fluvial": [
+          185,
+          217
+        ],
+        "They": [
+          187
+        ],
+        "pass": [
+          188
+        ],
+        "other,": [
+          192
+        ],
+        "differ": [
+          197
+        ],
+        "having": [
+          199
+        ],
+        "higher": [
+          200
+        ],
+        "proportions": [
+          201
+        ],
+        "siltstone,": [
+          203
+        ],
+        "mudstone,": [
+          204
+        ],
+        "coal.": [
+          206
+        ],
+        "Those": [
+          207
+        ],
+        "more": [
+          213
+        ],
+        "(meandering)": [
+          216
+        ],
+        "grade": [
+          221
+        ],
+        "int": [
+          223
+        ],
+        "shallow": [
+          224
+        ],
+        "marine": [
+          225
+        ],
+        "sediments": [
+          226
+        ],
+        "Kayak/Itkilyariak": [
+          229
+        ],
+        "formations.": [
+          230
+        ],
+        "vertical": [
+          232
+        ],
+        "this": [
+          238
+        ],
+        "permits": [
+          240
+        ],
+        "interpretation": [
+          242
+        ],
+        "structural": [
+          245
+        ],
+        "history": [
+          246
+        ],
+        "basin": [
+          249
+        ],
+        "during": [
+          250
+        ],
+        "time.": [
+          252
+        ],
+        "End_of_Article": [
+          253
+        ],
+        "-": [
+          254
+        ],
+        "Last_Page": [
+          255
+        ],
+        "669------------": [
+          256
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-07-31T08:31:51.225901",
+      "updated_date": "2026-09-11T09:22:31.653822",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -30216,7 +30563,7 @@
       "language": "en",
       "primary_location": {
         "id": "doi:10.1306/94885f11-1704-11d7-8645000102c1865d",
-        "is_oa": true,
+        "is_oa": false,
         "landing_page_url": "https://doi.org/10.1306/94885f11-1704-11d7-8645000102c1865d",
         "pdf_url": null,
         "source": {
@@ -30241,8 +30588,8 @@
           ],
           "type": "journal"
         },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
+        "license": null,
+        "license_id": null,
         "version": "publishedVersion",
         "is_accepted": true,
         "is_published": true,
@@ -30254,9 +30601,9 @@
         "crossref"
       ],
       "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://doi.org/10.1306/94885f11-1704-11d7-8645000102c1865d",
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
         "any_repository_has_fulltext": false
       },
       "authorships": [
@@ -30289,7 +30636,7 @@
       "has_fulltext": false,
       "cited_by_count": 1,
       "citation_normalized_percentile": {
-        "value": 0.14590747,
+        "value": 0.14186851,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -30430,7 +30777,7 @@
       "locations": [
         {
           "id": "doi:10.1306/94885f11-1704-11d7-8645000102c1865d",
-          "is_oa": true,
+          "is_oa": false,
           "landing_page_url": "https://doi.org/10.1306/94885f11-1704-11d7-8645000102c1865d",
           "pdf_url": null,
           "source": {
@@ -30455,8 +30802,8 @@
             ],
             "type": "journal"
           },
-          "license": "cc-by",
-          "license_id": "https://openalex.org/licenses/cc-by",
+          "license": null,
+          "license_id": null,
           "version": "publishedVersion",
           "is_accepted": true,
           "is_published": true,
@@ -30464,41 +30811,7 @@
           "raw_type": "journal-article"
         }
       ],
-      "best_oa_location": {
-        "id": "doi:10.1306/94885f11-1704-11d7-8645000102c1865d",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.1306/94885f11-1704-11d7-8645000102c1865d",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S144020083",
-          "display_name": "AAPG Bulletin",
-          "issn_l": "0149-1423",
-          "issn": [
-            "0149-1423",
-            "1522-1423",
-            "1558-9153"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": "https://openalex.org/P4310316082",
-          "host_organization_name": "American Association of Petroleum Geologists",
-          "host_organization_lineage": [
-            "https://openalex.org/P4310316082"
-          ],
-          "host_organization_lineage_names": [
-            "American Association of Petroleum Geologists"
-          ],
-          "type": "journal"
-        },
-        "license": "cc-by",
-        "license_id": "https://openalex.org/licenses/cc-by",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "AAPG Bulletin",
-        "raw_type": "journal-article"
-      },
+      "best_oa_location": null,
       "sustainable_development_goals": [
         {
           "id": "https://metadata.un.org/sdg/13",
@@ -30527,216 +30840,9 @@
         "https://openalex.org/W2128141425",
         "https://openalex.org/W2014296041"
       ],
-      "abstract_inverted_index": {
-        "This": [
-          0
-        ],
-        "DOI": [
-          1,
-          43,
-          55
-        ],
-        "is": [
-          2
-        ],
-        "not": [
-          3
-        ],
-        "currently": [
-          4
-        ],
-        "attached": [
-          5
-        ],
-        "to": [
-          6,
-          31,
-          69
-        ],
-        "any": [
-          7
-        ],
-        "metadata": [
-          8
-        ],
-        "records.": [
-          9
-        ],
-        "DOIs": [
-          10,
-          23
-        ],
-        "can’t": [
-          11
-        ],
-        "actually": [
-          12
-        ],
-        "ever": [
-          13
-        ],
-        "be": [
-          14
-        ],
-        "deleted": [
-          15
-        ],
-        "(they’re": [
-          16
-        ],
-        "persistent),": [
-          17
-        ],
-        "but": [
-          18
-        ],
-        "sometimes": [
-          19
-        ],
-        "our": [
-          20
-        ],
-        "members": [
-          21
-        ],
-        "create": [
-          22
-        ],
-        "in": [
-          24,
-          38,
-          48,
-          63
-        ],
-        "error.": [
-          25
-        ],
-        "We": [
-          26
-        ],
-        "do": [
-          27
-        ],
-        "have": [
-          28
-        ],
-        "a": [
-          29
-        ],
-        "process": [
-          30
-        ],
-        "approximate": [
-          32
-        ],
-        "deletion": [
-          33
-        ],
-        "which": [
-          34
-        ],
-        "we": [
-          35
-        ],
-        "follow": [
-          36
-        ],
-        "only": [
-          37
-        ],
-        "rare": [
-          39
-        ],
-        "cases": [
-          40
-        ],
-        "where": [
-          41
-        ],
-        "the": [
-          42,
-          54
-        ],
-        "has": [
-          44,
-          56
-        ],
-        "been": [
-          45,
-          58
-        ],
-        "genuinely": [
-          46
-        ],
-        "created": [
-          47
-        ],
-        "error,": [
-          49
-        ],
-        "and": [
-          50,
-          65
-        ],
-        "most": [
-          51
-        ],
-        "crucially,": [
-          52
-        ],
-        "if": [
-          53
-        ],
-        "never": [
-          57,
-          66
-        ],
-        "published": [
-          59
-        ],
-        "anywhere": [
-          60
-        ],
-        "online": [
-          61
-        ],
-        "or": [
-          62,
-          70
-        ],
-        "print": [
-          64
-        ],
-        "otherwise": [
-          67
-        ],
-        "distributed": [
-          68
-        ],
-        "communicated": [
-          71
-        ],
-        "with": [
-          72
-        ],
-        "anyone": [
-          73
-        ],
-        "(authors,": [
-          74
-        ],
-        "readers,": [
-          75
-        ],
-        "reviewers,": [
-          76
-        ],
-        "etc.": [
-          77
-        ]
-      },
+      "abstract_inverted_index": null,
       "counts_by_year": [],
-      "updated_date": "2026-08-01T09:00:35.917206",
+      "updated_date": "2026-09-11T09:22:31.653822",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -33350,7 +33456,7 @@
       "primary_location": {
         "id": "doi:10.3997/2214-4609.202310284",
         "is_oa": false,
-        "landing_page_url": "https://doi.org/10.3997/2214-4609.202310284",
+        "landing_page_url": "http://dx.doi.org/10.3997/2214-4609.202310284",
         "pdf_url": null,
         "source": null,
         "license": null,
@@ -33573,7 +33679,7 @@
       "has_fulltext": false,
       "cited_by_count": 0,
       "citation_normalized_percentile": {
-        "value": 0.12534784,
+        "value": 0.12382622,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -33787,7 +33893,7 @@
         {
           "id": "doi:10.3997/2214-4609.202310284",
           "is_oa": false,
-          "landing_page_url": "https://doi.org/10.3997/2214-4609.202310284",
+          "landing_page_url": "http://dx.doi.org/10.3997/2214-4609.202310284",
           "pdf_url": null,
           "source": null,
           "license": null,
@@ -34027,7 +34133,7 @@
         ]
       },
       "counts_by_year": [],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-11T09:22:31.653822",
       "created_date": "2025-10-10T00:00:00"
     }
   ]

@@ -7951,11 +7951,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 3.1164,
+      "fwci": 3.1045,
       "has_fulltext": false,
       "cited_by_count": 41,
       "citation_normalized_percentile": {
-        "value": 0.89683721,
+        "value": 0.89633368,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -8362,16 +8362,18 @@
           "landing_page_url": "http://urn.kb.se/resolve?urn=urn:nbn:se:nrm:diva-1915",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306400653",
-            "display_name": "Diva portal (Dalarna University Library)",
+            "id": "https://openalex.org/S4306401559",
+            "display_name": "KTH Publication Database DiVA (KTH Royal Institute of Technology)",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
+            "host_organization": "https://openalex.org/I86987016",
+            "host_organization_name": "KTH Royal Institute of Technology",
+            "host_organization_lineage": [
+              "https://openalex.org/I86987016"
+            ],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -8390,16 +8392,18 @@
         "landing_page_url": "http://urn.kb.se/resolve?urn=urn:nbn:se:nrm:diva-1915",
         "pdf_url": null,
         "source": {
-          "id": "https://openalex.org/S4306400653",
-          "display_name": "Diva portal (Dalarna University Library)",
+          "id": "https://openalex.org/S4306401559",
+          "display_name": "KTH Publication Database DiVA (KTH Royal Institute of Technology)",
           "issn_l": null,
           "issn": null,
           "is_oa": false,
           "is_in_doaj": false,
           "is_core": false,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
+          "host_organization": "https://openalex.org/I86987016",
+          "host_organization_name": "KTH Royal Institute of Technology",
+          "host_organization_lineage": [
+            "https://openalex.org/I86987016"
+          ],
           "host_organization_lineage_names": [],
           "type": "repository"
         },
@@ -9002,7 +9006,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-03T10:48:47.769340",
+      "updated_date": "2026-09-11T09:22:31.653822",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -13279,11 +13283,11 @@
         "value_usd": 3890
       },
       "apc_paid": null,
-      "fwci": 1.7406,
+      "fwci": 1.7426,
       "has_fulltext": false,
       "cited_by_count": 30,
       "citation_normalized_percentile": {
-        "value": 0.8600513,
+        "value": 0.86025641,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -13579,18 +13583,16 @@
           "landing_page_url": "https://insu.hal.science/insu-00579420",
           "pdf_url": null,
           "source": {
-            "id": "https://openalex.org/S4306402512",
-            "display_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+            "id": "https://openalex.org/S4406922276",
+            "display_name": "INRIA a CCSD electronic archive server",
             "issn_l": null,
             "issn": null,
             "is_oa": false,
             "is_in_doaj": false,
             "is_core": false,
-            "host_organization": "https://openalex.org/I1294671590",
-            "host_organization_name": "Centre National de la Recherche Scientifique",
-            "host_organization_lineage": [
-              "https://openalex.org/I1294671590"
-            ],
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
             "host_organization_lineage_names": [],
             "type": "repository"
           },
@@ -13737,7 +13739,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-10T07:47:47.112893",
+      "updated_date": "2026-09-11T09:22:31.653822",
       "created_date": "2025-10-10T00:00:00"
     },
     {
