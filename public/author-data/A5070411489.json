@@ -337,7 +337,7 @@
       {
         "id": "https://openalex.org/T10109",
         "display_name": "Paleontology and Stratigraphy of Fossils",
-        "value": 0.0001159,
+        "value": 0.0001165,
         "subfield": {
           "id": "https://openalex.org/subfields/1911",
           "display_name": "Paleontology"
@@ -354,7 +354,7 @@
       {
         "id": "https://openalex.org/T10399",
         "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "value": 0.0001126,
+        "value": 0.0001138,
         "subfield": {
           "id": "https://openalex.org/subfields/2211",
           "display_name": "Mechanics of Materials"
@@ -371,7 +371,7 @@
       {
         "id": "https://openalex.org/T13177",
         "display_name": "Geological and Geophysical Studies",
-        "value": 0.0000741,
+        "value": 0.0000753,
         "subfield": {
           "id": "https://openalex.org/subfields/1907",
           "display_name": "Geology"
@@ -388,7 +388,7 @@
       {
         "id": "https://openalex.org/T12316",
         "display_name": "Oil Spill Detection and Mitigation",
-        "value": 0.0000684,
+        "value": 0.0000687,
         "subfield": {
           "id": "https://openalex.org/subfields/2310",
           "display_name": "Pollution"
@@ -405,7 +405,7 @@
       {
         "id": "https://openalex.org/T10635",
         "display_name": "Hydraulic Fracturing and Reservoir Analysis",
-        "value": 0.0000527,
+        "value": 0.000053,
         "subfield": {
           "id": "https://openalex.org/subfields/2210",
           "display_name": "Mechanical Engineering"
@@ -492,7 +492,7 @@
       {
         "year": 1999,
         "works_count": 1,
-        "oa_works_count": 1,
+        "oa_works_count": 0,
         "cited_by_count": 6
       },
       {
@@ -652,7 +652,7 @@
     ],
     "block_key": "f sadooni",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5070411489",
-    "updated_date": "2026-09-11T12:18:40",
+    "updated_date": "2026-09-12T12:18:01",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -84022,41 +84022,26 @@
       },
       "language": "en",
       "primary_location": {
-        "id": "pmh:oai:qspace.qu.edu.qa:10576/9869",
-        "is_oa": true,
-        "landing_page_url": "http://hdl.handle.net/10576/9869",
-        "pdf_url": "http://hdl.handle.net/10576/9869",
-        "source": {
-          "id": "https://openalex.org/S4306400014",
-          "display_name": "Qatar University QSpace (Qatar University)",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": "https://openalex.org/I60342839",
-          "host_organization_name": "Qatar University",
-          "host_organization_lineage": [
-            "https://openalex.org/I60342839"
-          ],
-          "host_organization_lineage_names": [],
-          "type": "repository"
-        },
+        "id": "mag:2126440970",
+        "is_oa": false,
+        "landing_page_url": "http://qspace.qu.edu.qa/bitstream/handle/10576/9869/079919-0011-fulltext.pdf?sequence=4",
+        "pdf_url": null,
+        "source": null,
         "license": null,
         "license_id": null,
-        "version": "submittedVersion",
+        "version": null,
         "is_accepted": false,
         "is_published": false,
-        "raw_source_name": "",
-        "raw_type": "Article"
+        "raw_source_name": null,
+        "raw_type": null
       },
       "type": "article",
       "indexed_in": [],
       "open_access": {
-        "is_oa": true,
-        "oa_status": "green",
-        "oa_url": "http://hdl.handle.net/10576/9869",
-        "any_repository_has_fulltext": true
+        "is_oa": false,
+        "oa_status": "closed",
+        "oa_url": null,
+        "any_repository_has_fulltext": false
       },
       "authorships": [
         {
@@ -84101,7 +84086,7 @@
       "has_fulltext": true,
       "cited_by_count": 6,
       "citation_normalized_percentile": {
-        "value": 0.12927054,
+        "value": 0.13299022,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -84320,37 +84305,8 @@
         }
       ],
       "mesh": [],
-      "locations_count": 2,
+      "locations_count": 1,
       "locations": [
-        {
-          "id": "pmh:oai:qspace.qu.edu.qa:10576/9869",
-          "is_oa": true,
-          "landing_page_url": "http://hdl.handle.net/10576/9869",
-          "pdf_url": "http://hdl.handle.net/10576/9869",
-          "source": {
-            "id": "https://openalex.org/S4306400014",
-            "display_name": "Qatar University QSpace (Qatar University)",
-            "issn_l": null,
-            "issn": null,
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": false,
-            "host_organization": "https://openalex.org/I60342839",
-            "host_organization_name": "Qatar University",
-            "host_organization_lineage": [
-              "https://openalex.org/I60342839"
-            ],
-            "host_organization_lineage_names": [],
-            "type": "repository"
-          },
-          "license": null,
-          "license_id": null,
-          "version": "submittedVersion",
-          "is_accepted": false,
-          "is_published": false,
-          "raw_source_name": "",
-          "raw_type": "Article"
-        },
         {
           "id": "mag:2126440970",
           "is_oa": false,
@@ -84366,35 +84322,7 @@
           "raw_type": null
         }
       ],
-      "best_oa_location": {
-        "id": "pmh:oai:qspace.qu.edu.qa:10576/9869",
-        "is_oa": true,
-        "landing_page_url": "http://hdl.handle.net/10576/9869",
-        "pdf_url": "http://hdl.handle.net/10576/9869",
-        "source": {
-          "id": "https://openalex.org/S4306400014",
-          "display_name": "Qatar University QSpace (Qatar University)",
-          "issn_l": null,
-          "issn": null,
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": false,
-          "host_organization": "https://openalex.org/I60342839",
-          "host_organization_name": "Qatar University",
-          "host_organization_lineage": [
-            "https://openalex.org/I60342839"
-          ],
-          "host_organization_lineage_names": [],
-          "type": "repository"
-        },
-        "license": null,
-        "license_id": null,
-        "version": "submittedVersion",
-        "is_accepted": false,
-        "is_published": false,
-        "raw_source_name": "",
-        "raw_type": "Article"
-      },
+      "best_oa_location": null,
       "sustainable_development_goals": [
         {
           "score": 0.8799999952316284,
@@ -84405,13 +84333,10 @@
       "awards": [],
       "funders": [],
       "has_content": {
-        "grobid_xml": true,
-        "pdf": true
+        "grobid_xml": false,
+        "pdf": false
       },
-      "content_urls": {
-        "pdf": "https://content.openalex.org/works/W2126440970.pdf",
-        "grobid_xml": "https://content.openalex.org/works/W2126440970.grobid-xml"
-      },
+      "content_urls": null,
       "referenced_works_count": 30,
       "referenced_works": [
         "https://openalex.org/W646103639",
@@ -84468,668 +84393,416 @@
         "https://openalex.org/W2407929116"
       ],
       "abstract_inverted_index": {
-        "Mangrove": [
+        "استعمل": [
           0,
-          85
-        ],
-        "stand": [
-          1
-        ],
-        "components": [
-          2
-        ],
-        "have": [
-          3,
-          145,
-          161
-        ],
-        "been": [
-          4,
-          146,
-          197
-        ],
-        "used": [
-          5,
-          147,
-          284
-        ],
-        "widely": [
-          6
-        ],
-        "as": [
-          7,
-          22,
-          23,
-          25,
-          39,
-          181,
-          200,
-          285
-        ],
-        "bioindicators": [
-          8
-        ],
-        "for": [
-          9,
-          150,
-          189,
-          289
-        ],
-        "different": [
-          10
-        ],
-        "types": [
-          11
-        ],
-        "of": [
-          12,
-          29,
-          49,
-          75,
-          97,
-          109,
-          116,
-          169,
-          183,
-          219,
-          222,
-          247,
-          253,
-          256,
-          278,
-          293
-        ],
-        "environmental": [
-          13
-        ],
-        "pollution": [
-          14,
-          213
-        ],
-        "including": [
-          15
-        ],
-        "heavy": [
-          16,
-          101,
-          120
-        ],
-        "metals,": [
-          17
-        ],
-        "organic": [
-          18,
-          36,
-          127
-        ],
-        "pollutants": [
-          19,
-          37,
-          294
-        ],
-        "and": [
-          20,
-          35,
-          47,
-          52,
-          78,
-          88,
-          135,
-          138,
-          155,
-          171,
-          227,
-          299
-        ],
-        "hydrocarbons": [
-          21
-        ],
-        "well": [
-          24
-        ],
-        "in": [
-          26,
-          42,
-          59,
-          104,
-          152,
-          174,
-          177,
-          191,
-          204,
-          207,
-          229
-        ],
-        "the": [
-          27,
-          50,
-          73,
-          76,
-          81,
-          95,
-          105,
-          110,
-          117,
-          162,
-          167,
-          175,
-          178,
-          192,
-          240,
-          245,
-          251,
-          254,
-          257,
-          279
-        ],
-        "detection": [
-          28,
-          168
-        ],
-        "ozone": [
-          30
-        ],
-        "depletion": [
-          31
-        ],
-        "conditions.": [
-          32
-        ],
-        "\\nHeavy": [
-          33
-        ],
-        "metals": [
-          34,
-          68,
-          102,
-          121
-        ],
-        "such": [
-          38
-        ],
-        "herbicides": [
-          40
-        ],
-        "concentrate": [
-          41
-        ],
-        "leaves,": [
-          43,
-          60
-        ],
-        "pneumatophores": [
-          44,
-          237
-        ],
-        "(aerial": [
-          45
-        ],
-        "roots)": [
-          46
-        ],
-        "bark": [
-          48
-        ],
-        "stems": [
-          51
-        ],
-        "branches.": [
-          53
-        ],
-        "This": [
-          54
-        ],
-        "is": [
-          55
-        ],
-        "associated": [
-          56,
-          215
-        ],
-        "with": [
-          57,
-          210,
-          216,
-          268,
-          273,
-          295
-        ],
-        "succulence": [
-          58
-        ],
-        "which": [
-          61,
-          92
-        ],
-        "lead": [
-          62
-        ],
-        "eventually": [
-          63,
-          93
-        ],
-        "to": [
-          64,
-          80,
-          119,
-          148,
-          270
-        ],
-        "their": [
-          65,
-          125,
-          263
-        ],
-        "fall.": [
-          66
-        ],
-        "Heavy": [
-          67
-        ],
-        "would": [
-          69
-        ],
-        "be": [
-          70,
-          283
-        ],
-        "released": [
-          71
-        ],
-        "after": [
-          72
-        ],
-        "diagenesis": [
-          74
-        ],
-        "litter": [
-          77,
-          230
-        ],
-        "added": [
-          79
-        ],
-        "pollutant": [
-          82
-        ],
-        "budget": [
-          83
-        ],
-        "again.": [
-          84
-        ],
-        "stands": [
-          86
-        ],
-        "trap": [
-          87
-        ],
-        "accumulate": [
+          114
+        ],
+        "المنغروف": [
+          1,
+          38,
           89,
-          103
-        ],
-        "fine": [
-          90
-        ],
-        "sediments,": [
-          91
-        ],
-        "cause": [
-          94
-        ],
-        "development": [
-          96,
-          252
-        ],
-        "high-density": [
-          98
-        ],
-        "pneumatophores.": [
-          99
-        ],
-        "Furthermore,": [
-          100,
-          232
-        ],
-        "few": [
-          106
-        ],
-        "upper": [
-          107
-        ],
-        "centimetres": [
-          108
-        ],
-        "mangrove": [
-          111,
-          233,
-          258,
-          280
-        ],
-        "soil": [
-          112,
-          118
-        ],
-        "layer.": [
-          113
-        ],
-        "The": [
-          114,
-          194
-        ],
-        "ability": [
-          115
-        ],
-        "retention": [
-          122
-        ],
-        "depends": [
-          123
-        ],
-        "on": [
-          124,
-          244,
-          250
-        ],
-        "texture,": [
-          126
-        ],
-        "matter": [
-          128
-        ],
-        "content,": [
-          129
-        ],
-        "composition,": [
-          130
-        ],
-        "redox": [
-          131
-        ],
-        "potential,": [
-          132
-        ],
-        "pH,": [
-          133
-        ],
-        "salinity": [
-          134
-        ],
-        "Al,": [
-          136
-        ],
-        "Fe": [
-          137
-        ],
-        "Mn": [
-          139
-        ],
-        "contents.": [
-          140
-        ],
-        "\\n": [
-          141,
-          142
-        ],
-        "\\nMangrove": [
-          143
-        ],
-        "trees": [
-          144
-        ],
-        "screen": [
-          149
-        ],
-        "mutagens": [
           151
         ],
-        "tropical": [
+        "على": [
+          2,
+          66,
+          69,
+          119
+        ],
+        "نطاق": [
+          3
+        ],
+        "واسع": [
+          4
+        ],
+        "كدليل": [
+          5
+        ],
+        "أحيائي": [
+          6
+        ],
+        "لأنواع": [
+          7
+        ],
+        "التلوث": [
+          8,
+          11,
+          111,
+          120
+        ],
+        "المختلفة": [
+          9,
+          26
+        ],
+        "مثل": [
+          10
+        ],
+        "بالفلزات": [
+          12
+        ],
+        "الثقيلة": [
+          13
+        ],
+        "والمركبات": [
+          14
+        ],
+        "العضوية": [
+          15,
+          80
+        ],
+        "والهيدروكربونات": [
+          16
+        ],
+        "فضلا": [
+          17
+        ],
+        "عن": [
+          18,
+          92,
+          106
+        ],
+        "ظروف": [
+          19
+        ],
+        "نضوب": [
+          20
+        ],
+        "الأوزون": [
+          21
+        ],
+        ".": [
+          22,
+          34,
+          54,
+          86,
+          145
+        ],
+        "وتتركز": [
+          23
+        ],
+        "الملوثات": [
+          24,
+          59,
+          68
+        ],
+        "بأنواعها": [
+          25
+        ],
+        "في": [
+          27,
+          40,
+          60,
+          128
+        ],
+        "الأوراق": [
+          28
+        ],
+        "والجذور": [
+          29
+        ],
+        "الهوائية": [
+          30,
+          52,
+          131
+        ],
+        "ولحاء": [
+          31
+        ],
+        "السيقان": [
+          32
+        ],
+        "والأغصان": [
+          33
+        ],
+        "كما": [
+          35,
+          113,
+          146
+        ],
+        "أن": [
+          36,
+          57,
+          98,
+          148
+        ],
+        "أشجار": [
+          37,
+          88
+        ],
+        "تسهم": [
+          39
+        ],
+        "حجز": [
+          41
+        ],
+        "الترسبات": [
+          42
+        ],
+        "دقيقة": [
+          43
+        ],
+        "الحبيبات": [
+          44
+        ],
+        "كالأطيان": [
+          45
+        ],
+        "ويؤدي": [
+          46
+        ],
+        "ذلك": [
+          47
+        ],
+        "إلى": [
+          48
+        ],
+        "زيادة": [
+          49,
+          126
+        ],
+        "كثافة": [
+          50
+        ],
+        "الجذور": [
+          51,
+          130
+        ],
+        "واستطالتها": [
+          53
+        ],
+        "ومن": [
+          55
+        ],
+        "المعتاد": [
+          56
+        ],
+        "تتركز": [
+          58
+        ],
+        "السنتمترات": [
+          61
+        ],
+        "العليا": [
+          62
+        ],
+        "القليلة.\r\nوتعتمد": [
+          63
+        ],
+        "قدرة": [
+          64
+        ],
+        "التربة": [
+          65,
+          76
+        ],
+        "احتجاز": [
+          67
+        ],
+        "علي": [
+          70
+        ],
+        "عدة": [
+          71
+        ],
+        "عوامل": [
+          72
+        ],
+        "من": [
+          73,
+          78,
+          110,
+          136,
+          161
+        ],
+        "بينها": [
+          74
+        ],
+        "نسيج": [
+          75
+        ],
+        "ومحتواها": [
+          77
+        ],
+        "المادة": [
+          79
+        ],
+        "ودرجة": [
+          81
+        ],
+        "تأكسدها": [
+          82
+        ],
+        "وملوحتها": [
+          83
+        ],
+        "وعوامل": [
+          84
+        ],
+        "أخرى": [
+          85
+        ],
+        "استعملت": [
+          87
+        ],
+        "أيضا": [
+          90,
+          124
+        ],
+        "للكشف": [
+          91,
+          105
+        ],
+        "الطفرات": [
+          93,
+          107
+        ],
+        "الوراثية": [
+          94,
+          108
+        ],
+        "إذ": [
+          95
+        ],
+        "وجد": [
+          96
+        ],
+        "مثلا": [
+          97
+        ],
+        "للمنغروف": [
+          99
+        ],
+        "الأحمر": [
+          100
+        ],
+        "مواصفات": [
+          101
+        ],
+        "تكاثرية": [
+          102
+        ],
+        "تسمح": [
+          103
+        ],
+        "باستعماله": [
+          104
+        ],
+        "الناتجة": [
+          109
+        ],
+        "النووي": [
+          112
+        ],
+        "نقص": [
+          115
+        ],
+        "اليخضور": [
+          116
+        ],
+        "(الكلوروفيل)": [
+          117
+        ],
+        "دليلا": [
+          118
+        ],
+        "النفطي": [
+          121
+        ],
+        "الذي": [
+          122
+        ],
+        "يرتبط": [
+          123
+        ],
+        "مع": [
+          125
+        ],
+        "مطردة": [
+          127
+        ],
+        "عدد": [
+          129
+        ],
+        "واتخاذها": [
+          132
+        ],
+        "أشكالا": [
+          133
+        ],
+        "متفرعة": [
+          134
+        ],
+        "بدلا": [
+          135
+        ],
+        "الشكل": [
+          137
+        ],
+        "المستقيم": [
+          138
+        ],
+        "التقليدي": [
+          139
+        ],
+        "وكذلك": [
+          140
+        ],
+        "نشوء": [
+          141
+        ],
+        "أوراق": [
+          142
+        ],
+        "وأثمار": [
+          143
+        ],
+        "مشوهة": [
+          144
+        ],
+        "لوحظ": [
+          147
+        ],
+        "معدلات": [
+          149
+        ],
+        "نمو": [
+          150
+        ],
+        "قد": [
+          152
+        ],
+        "تدنت": [
           153
         ],
-        "environments": [
+        "بشكل": [
           154
         ],
-        "\\nwas": [
+        "ملموس": [
+          155
+        ],
+        "بعد": [
           156
         ],
-        "found": [
+        "تعريضها": [
           157
         ],
-        "that": [
-          158,
-          165,
-          239,
-          262
+        "الى": [
+          158
         ],
-        "red": [
+        "تراكيز": [
           159
         ],
-        "mangroves": [
+        "عالية": [
           160
         ],
-        "reproductive": [
+        "الأشعة": [
+          162
+        ],
+        "فوق": [
           163
         ],
-        "traits": [
+        "البنفسجية.": [
           164
-        ],
-        "allow": [
-          166
-        ],
-        "\\nnuclear": [
-          170
-        ],
-        "cytoplasmic": [
-          172
-        ],
-        "mutation": [
-          173,
-          190,
-          206
-        ],
-        "field": [
-          176
-        ],
-        "same": [
-          179
-        ],
-        "way": [
-          180
-        ],
-        "colonies": [
-          182
-        ],
-        "bacteria": [
-          184
-        ],
-        "or": [
-          185
-        ],
-        "\\nyeast": [
-          186
-        ],
-        "are": [
-          187
-        ],
-        "screened": [
-          188
-        ],
-        "laboratory.": [
-          193
-        ],
-        "chlorophyll-deficiency": [
-          195
-        ],
-        "has": [
-          196,
-          260
-        ],
-        "\\nused": [
-          198
-        ],
-        "also": [
-          199
-        ],
-        "a": [
-          201,
-          286,
-          290,
-          296,
-          300
-        ],
-        "genetic": [
-          202
-        ],
-        "end-point": [
-          203
-        ],
-        "plant": [
-          205
-        ],
-        "areas": [
-          208
-        ],
-        "polluted": [
-          209
-        ],
-        "oil.": [
-          211
-        ],
-        "Oil": [
-          212
-        ],
-        "\\nis": [
-          214
-        ],
-        "increased": [
-          217
-        ],
-        "number": [
-          218
-        ],
-        "pneumatophores,": [
-          220
-        ],
-        "generation": [
-          221
-        ],
-        "malformed": [
-          223
-        ],
-        "leaves": [
-          224
-        ],
-        "\\nand": [
-          225
-        ],
-        "fruits": [
-          226
-        ],
-        "decrease": [
-          228
-        ],
-        "production.": [
-          231
-        ],
-        "developed": [
-          234
-        ],
-        "highly": [
-          235
-        ],
-        "\\nbranched": [
-          236
-        ],
-        "rather": [
-          238
-        ],
-        "normal": [
-          241
-        ],
-        "pencil-shaped.": [
-          242
-        ],
-        "\\nExperimentation": [
-          243
-        ],
-        "effect": [
-          246
-        ],
-        "ultraviolet": [
-          248
-        ],
-        "radiation": [
-          249
-        ],
-        "\\nseedlings": [
-          255
-        ],
-        "Rhizophora": [
-          259
-        ],
-        "indicated": [
-          261
-        ],
-        "growth": [
-          264
-        ],
-        "was": [
-          265
-        ],
-        "generally": [
-          266
-        ],
-        "\\nreduced": [
-          267
-        ],
-        "exposure": [
-          269
-        ],
-        "high": [
-          271,
-          297
-        ],
-        "UV": [
-          272
-        ],
-        "shoot": [
-          274
-        ],
-        "elongation.": [
-          275
-        ],
-        "\\nThe": [
-          276
-        ],
-        "integrity": [
-          277
-        ],
-        "ecosystem": [
-          281
-        ],
-        "can": [
-          282
-        ],
-        "simple": [
-          287
-        ],
-        "bioindicator": [
-          288
-        ],
-        "wide": [
-          291
-        ],
-        "\\nrange": [
-          292
-        ],
-        "efficiency": [
-          298
-        ],
-        "minimum": [
-          301
-        ],
-        "cost.": [
-          302
         ]
       },
       "counts_by_year": [
@@ -85154,7 +84827,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-31T07:19:18.363097",
+      "updated_date": "2026-09-12T09:15:50.089291",
       "created_date": "2025-10-10T00:00:00"
     },
     {
