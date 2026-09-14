@@ -15,7 +15,7 @@
     ],
     "full_name": "DROSTE, HENK, Shell Research B.V.,",
     "works_count": 42,
-    "cited_by_count": 2237,
+    "cited_by_count": 2238,
     "summary_stats": {
       "2yr_mean_citedness": 9,
       "h_index": 19,
@@ -388,7 +388,7 @@
         "year": 2001,
         "works_count": 2,
         "oa_works_count": 1,
-        "cited_by_count": 557
+        "cited_by_count": 558
       },
       {
         "year": 2002,
@@ -493,7 +493,7 @@
     ],
     "block_key": "h droste",
     "works_api_url": "https://api.openalex.org/works?filter=author.id:A5058646530",
-    "updated_date": "2026-09-11T12:18:40",
+    "updated_date": "2026-09-13T12:18:23",
     "created_date": "2016-06-24T00:00:00"
   },
   "works": [
@@ -1047,9 +1047,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -2710,9 +2710,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -4224,9 +4224,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.4000000059604645
+          "score": 0.4000000059604645,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -5980,9 +5980,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8399999737739563
+          "score": 0.8399999737739563,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -7044,9 +7044,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -8046,1013 +8046,6 @@
         }
       ],
       "updated_date": "2026-09-11T09:22:31.653822",
-      "created_date": "2025-10-10T00:00:00"
-    },
-    {
-      "id": "https://openalex.org/W2938243655",
-      "doi": "https://doi.org/10.2113/geoarabia0204419",
-      "title": "Stratigraphy of the Lower Paleozoic Haima Supergroup of Oman",
-      "display_name": "Stratigraphy of the Lower Paleozoic Haima Supergroup of Oman",
-      "publication_year": 1997,
-      "publication_date": "1997-10-01",
-      "ids": {
-        "openalex": "https://openalex.org/W2938243655",
-        "doi": "https://doi.org/10.2113/geoarabia0204419",
-        "mag": "2938243655"
-      },
-      "language": "en",
-      "primary_location": {
-        "id": "doi:10.2113/geoarabia0204419",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.2113/geoarabia0204419",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S189311251",
-          "display_name": "GeoArabia",
-          "issn_l": "1025-6059",
-          "issn": [
-            "1025-6059"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": "cc-by-nc",
-        "license_id": "https://openalex.org/licenses/cc-by-nc",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "GeoArabia",
-        "raw_type": "journal-article"
-      },
-      "type": "article",
-      "indexed_in": [
-        "crossref"
-      ],
-      "open_access": {
-        "is_oa": true,
-        "oa_status": "hybrid",
-        "oa_url": "https://doi.org/10.2113/geoarabia0204419",
-        "any_repository_has_fulltext": false
-      },
-      "authorships": [
-        {
-          "author_position": "first",
-          "author": {
-            "id": "https://openalex.org/A5058646530",
-            "display_name": "Henk Droste",
-            "orcid": "https://orcid.org/0009-0008-1422-1783"
-          },
-          "institutions": [],
-          "countries": [],
-          "is_corresponding": true,
-          "raw_author_name": "Henk H.J. Droste",
-          "raw_affiliation_strings": [
-            "Petroleum Development Oman"
-          ],
-          "raw_orcid": null,
-          "affiliations": [
-            {
-              "raw_affiliation_string": "Petroleum Development Oman",
-              "institution_ids": []
-            }
-          ]
-        }
-      ],
-      "institutions": [],
-      "countries_distinct_count": 0,
-      "institutions_distinct_count": 0,
-      "corresponding_author_ids": [
-        "https://openalex.org/A5058646530"
-      ],
-      "corresponding_institution_ids": [],
-      "apc_list": null,
-      "apc_paid": null,
-      "fwci": 3.1218,
-      "has_fulltext": false,
-      "cited_by_count": 118,
-      "citation_normalized_percentile": {
-        "value": 0.91729963,
-        "is_in_top_1_percent": false,
-        "is_in_top_10_percent": true
-      },
-      "cited_by_percentile_year": {
-        "min": 89,
-        "max": 100
-      },
-      "biblio": {
-        "volume": "2",
-        "issue": "4",
-        "first_page": "419",
-        "last_page": "472"
-      },
-      "is_retracted": false,
-      "is_paratext": false,
-      "is_xpac": false,
-      "primary_topic": {
-        "id": "https://openalex.org/T10399",
-        "display_name": "Hydrocarbon exploration and reservoir analysis",
-        "score": 0.9998999834060669,
-        "subfield": {
-          "id": "https://openalex.org/subfields/2211",
-          "display_name": "Mechanics of Materials"
-        },
-        "field": {
-          "id": "https://openalex.org/fields/22",
-          "display_name": "Engineering"
-        },
-        "domain": {
-          "id": "https://openalex.org/domains/3",
-          "display_name": "Physical Sciences"
-        }
-      },
-      "topics": [
-        {
-          "id": "https://openalex.org/T10399",
-          "display_name": "Hydrocarbon exploration and reservoir analysis",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/2211",
-            "display_name": "Mechanics of Materials"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/22",
-            "display_name": "Engineering"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10965",
-          "display_name": "Geological formations and processes",
-          "score": 0.9998999834060669,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1904",
-            "display_name": "Earth-Surface Processes"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        },
-        {
-          "id": "https://openalex.org/T10109",
-          "display_name": "Paleontology and Stratigraphy of Fossils",
-          "score": 0.9997000098228455,
-          "subfield": {
-            "id": "https://openalex.org/subfields/1911",
-            "display_name": "Paleontology"
-          },
-          "field": {
-            "id": "https://openalex.org/fields/19",
-            "display_name": "Earth and Planetary Sciences"
-          },
-          "domain": {
-            "id": "https://openalex.org/domains/3",
-            "display_name": "Physical Sciences"
-          }
-        }
-      ],
-      "keywords": [
-        {
-          "id": "https://openalex.org/keywords/geology",
-          "display_name": "Geology",
-          "score": 0.9024457931518555
-        },
-        {
-          "id": "https://openalex.org/keywords/paleontology",
-          "display_name": "Paleontology",
-          "score": 0.751806378364563
-        },
-        {
-          "id": "https://openalex.org/keywords/clastic-rock",
-          "display_name": "Clastic rock",
-          "score": 0.7330906987190247
-        },
-        {
-          "id": "https://openalex.org/keywords/graben",
-          "display_name": "Graben",
-          "score": 0.7320932149887085
-        },
-        {
-          "id": "https://openalex.org/keywords/paleozoic",
-          "display_name": "Paleozoic",
-          "score": 0.7168095707893372
-        },
-        {
-          "id": "https://openalex.org/keywords/siliciclastic",
-          "display_name": "Siliciclastic",
-          "score": 0.6897616982460022
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
-          "display_name": "Sedimentary depositional environment",
-          "score": 0.6400931477546692
-        },
-        {
-          "id": "https://openalex.org/keywords/transgressive",
-          "display_name": "Transgressive",
-          "score": 0.5697551965713501
-        },
-        {
-          "id": "https://openalex.org/keywords/sedimentary-rock",
-          "display_name": "Sedimentary rock",
-          "score": 0.5288152694702148
-        },
-        {
-          "id": "https://openalex.org/keywords/outcrop",
-          "display_name": "Outcrop",
-          "score": 0.5261028409004211
-        },
-        {
-          "id": "https://openalex.org/keywords/sequence",
-          "display_name": "Sequence (biology)",
-          "score": 0.477750688791275
-        },
-        {
-          "id": "https://openalex.org/keywords/sequence-stratigraphy",
-          "display_name": "Sequence stratigraphy",
-          "score": 0.4665239751338959
-        },
-        {
-          "id": "https://openalex.org/keywords/stratigraphy",
-          "display_name": "Stratigraphy",
-          "score": 0.4628002345561981
-        },
-        {
-          "id": "https://openalex.org/keywords/structural-basin",
-          "display_name": "Structural basin",
-          "score": 0.45510920882225037
-        },
-        {
-          "id": "https://openalex.org/keywords/tectonics",
-          "display_name": "Tectonics",
-          "score": 0.08507436513900757
-        }
-      ],
-      "concepts": [
-        {
-          "id": "https://openalex.org/C127313418",
-          "wikidata": "https://www.wikidata.org/wiki/Q1069",
-          "display_name": "Geology",
-          "level": 0,
-          "score": 0.9024457931518555
-        },
-        {
-          "id": "https://openalex.org/C151730666",
-          "wikidata": "https://www.wikidata.org/wiki/Q7205",
-          "display_name": "Paleontology",
-          "level": 1,
-          "score": 0.751806378364563
-        },
-        {
-          "id": "https://openalex.org/C138170599",
-          "wikidata": "https://www.wikidata.org/wiki/Q612133",
-          "display_name": "Clastic rock",
-          "level": 3,
-          "score": 0.7330906987190247
-        },
-        {
-          "id": "https://openalex.org/C166839181",
-          "wikidata": "https://www.wikidata.org/wiki/Q192810",
-          "display_name": "Graben",
-          "level": 3,
-          "score": 0.7320932149887085
-        },
-        {
-          "id": "https://openalex.org/C13106087",
-          "wikidata": "https://www.wikidata.org/wiki/Q75507",
-          "display_name": "Paleozoic",
-          "level": 2,
-          "score": 0.7168095707893372
-        },
-        {
-          "id": "https://openalex.org/C93257316",
-          "wikidata": "https://www.wikidata.org/wiki/Q7514925",
-          "display_name": "Siliciclastic",
-          "level": 4,
-          "score": 0.6897616982460022
-        },
-        {
-          "id": "https://openalex.org/C126753816",
-          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
-          "display_name": "Sedimentary depositional environment",
-          "level": 3,
-          "score": 0.6400931477546692
-        },
-        {
-          "id": "https://openalex.org/C2777620812",
-          "wikidata": "https://www.wikidata.org/wiki/Q904896",
-          "display_name": "Transgressive",
-          "level": 4,
-          "score": 0.5697551965713501
-        },
-        {
-          "id": "https://openalex.org/C6494504",
-          "wikidata": "https://www.wikidata.org/wiki/Q82480",
-          "display_name": "Sedimentary rock",
-          "level": 2,
-          "score": 0.5288152694702148
-        },
-        {
-          "id": "https://openalex.org/C169212394",
-          "wikidata": "https://www.wikidata.org/wiki/Q531953",
-          "display_name": "Outcrop",
-          "level": 2,
-          "score": 0.5261028409004211
-        },
-        {
-          "id": "https://openalex.org/C2778112365",
-          "wikidata": "https://www.wikidata.org/wiki/Q3511065",
-          "display_name": "Sequence (biology)",
-          "level": 2,
-          "score": 0.477750688791275
-        },
-        {
-          "id": "https://openalex.org/C42907665",
-          "wikidata": "https://www.wikidata.org/wiki/Q1732190",
-          "display_name": "Sequence stratigraphy",
-          "level": 4,
-          "score": 0.4665239751338959
-        },
-        {
-          "id": "https://openalex.org/C109281948",
-          "wikidata": "https://www.wikidata.org/wiki/Q134783",
-          "display_name": "Stratigraphy",
-          "level": 3,
-          "score": 0.4628002345561981
-        },
-        {
-          "id": "https://openalex.org/C109007969",
-          "wikidata": "https://www.wikidata.org/wiki/Q749565",
-          "display_name": "Structural basin",
-          "level": 2,
-          "score": 0.45510920882225037
-        },
-        {
-          "id": "https://openalex.org/C77928131",
-          "wikidata": "https://www.wikidata.org/wiki/Q193343",
-          "display_name": "Tectonics",
-          "level": 2,
-          "score": 0.08507436513900757
-        },
-        {
-          "id": "https://openalex.org/C54355233",
-          "wikidata": "https://www.wikidata.org/wiki/Q7162",
-          "display_name": "Genetics",
-          "level": 1,
-          "score": 0
-        },
-        {
-          "id": "https://openalex.org/C86803240",
-          "wikidata": "https://www.wikidata.org/wiki/Q420",
-          "display_name": "Biology",
-          "level": 0,
-          "score": 0
-        }
-      ],
-      "mesh": [],
-      "locations_count": 1,
-      "locations": [
-        {
-          "id": "doi:10.2113/geoarabia0204419",
-          "is_oa": true,
-          "landing_page_url": "https://doi.org/10.2113/geoarabia0204419",
-          "pdf_url": null,
-          "source": {
-            "id": "https://openalex.org/S189311251",
-            "display_name": "GeoArabia",
-            "issn_l": "1025-6059",
-            "issn": [
-              "1025-6059"
-            ],
-            "is_oa": false,
-            "is_in_doaj": false,
-            "is_core": true,
-            "host_organization": null,
-            "host_organization_name": null,
-            "host_organization_lineage": [],
-            "host_organization_lineage_names": [],
-            "type": "journal"
-          },
-          "license": "cc-by-nc",
-          "license_id": "https://openalex.org/licenses/cc-by-nc",
-          "version": "publishedVersion",
-          "is_accepted": true,
-          "is_published": true,
-          "raw_source_name": "GeoArabia",
-          "raw_type": "journal-article"
-        }
-      ],
-      "best_oa_location": {
-        "id": "doi:10.2113/geoarabia0204419",
-        "is_oa": true,
-        "landing_page_url": "https://doi.org/10.2113/geoarabia0204419",
-        "pdf_url": null,
-        "source": {
-          "id": "https://openalex.org/S189311251",
-          "display_name": "GeoArabia",
-          "issn_l": "1025-6059",
-          "issn": [
-            "1025-6059"
-          ],
-          "is_oa": false,
-          "is_in_doaj": false,
-          "is_core": true,
-          "host_organization": null,
-          "host_organization_name": null,
-          "host_organization_lineage": [],
-          "host_organization_lineage_names": [],
-          "type": "journal"
-        },
-        "license": "cc-by-nc",
-        "license_id": "https://openalex.org/licenses/cc-by-nc",
-        "version": "publishedVersion",
-        "is_accepted": true,
-        "is_published": true,
-        "raw_source_name": "GeoArabia",
-        "raw_type": "journal-article"
-      },
-      "sustainable_development_goals": [
-        {
-          "id": "https://metadata.un.org/sdg/14",
-          "display_name": "Life below water",
-          "score": 0.8899999856948853
-        }
-      ],
-      "awards": [],
-      "funders": [],
-      "has_content": {
-        "pdf": false,
-        "grobid_xml": false
-      },
-      "content_urls": null,
-      "referenced_works_count": 20,
-      "referenced_works": [
-        "https://openalex.org/W1635748889",
-        "https://openalex.org/W1963803326",
-        "https://openalex.org/W1971762715",
-        "https://openalex.org/W1972449614",
-        "https://openalex.org/W2068101248",
-        "https://openalex.org/W2085188216",
-        "https://openalex.org/W2094101698",
-        "https://openalex.org/W2110531149",
-        "https://openalex.org/W2164091805",
-        "https://openalex.org/W2169031982",
-        "https://openalex.org/W2486246430",
-        "https://openalex.org/W2510193846",
-        "https://openalex.org/W2917454227",
-        "https://openalex.org/W2960608112",
-        "https://openalex.org/W2974207299",
-        "https://openalex.org/W4205129767",
-        "https://openalex.org/W4301968067",
-        "https://openalex.org/W6643479962",
-        "https://openalex.org/W6684229339",
-        "https://openalex.org/W6760113802"
-      ],
-      "related_works": [
-        "https://openalex.org/W2046656234",
-        "https://openalex.org/W2348717233",
-        "https://openalex.org/W2253758817",
-        "https://openalex.org/W1990061839",
-        "https://openalex.org/W2020783798",
-        "https://openalex.org/W2158159657",
-        "https://openalex.org/W2483540224",
-        "https://openalex.org/W2393912905",
-        "https://openalex.org/W2021708273",
-        "https://openalex.org/W4309839057"
-      ],
-      "abstract_inverted_index": {
-        "ABSTRACT": [
-          0
-        ],
-        "Following": [
-          1
-        ],
-        "the": [
-          2,
-          61,
-          64,
-          68,
-          72,
-          76,
-          84,
-          113,
-          125,
-          169,
-          178,
-          182
-        ],
-        "discovery": [
-          3
-        ],
-        "of": [
-          4,
-          27,
-          40,
-          54,
-          63,
-          75,
-          82,
-          99,
-          115,
-          127,
-          133,
-          173
-        ],
-        "significant": [
-          5
-        ],
-        "gas/condensate": [
-          6
-        ],
-        "reserves": [
-          7
-        ],
-        "in": [
-          8,
-          12,
-          112
-        ],
-        "Lower": [
-          9,
-          87
-        ],
-        "Paleozoic": [
-          10
-        ],
-        "clastics": [
-          11
-        ],
-        "Central": [
-          13,
-          161
-        ],
-        "Oman": [
-          14
-        ],
-        "a": [
-          15,
-          25,
-          92,
-          188
-        ],
-        "regional": [
-          16,
-          28,
-          55,
-          73
-        ],
-        "geological": [
-          17
-        ],
-        "review": [
-          18
-        ],
-        "using": [
-          19
-        ],
-        "all": [
-          20
-        ],
-        "available": [
-          21
-        ],
-        "well": [
-          22
-        ],
-        "data": [
-          23
-        ],
-        "and": [
-          24,
-          48,
-          71,
-          162
-        ],
-        "set": [
-          26
-        ],
-        "seismic": [
-          29
-        ],
-        "lines": [
-          30
-        ],
-        "was": [
-          31,
-          43,
-          107,
-          171
-        ],
-        "carried": [
-          32
-        ],
-        "out": [
-          33
-        ],
-        "by": [
-          34,
-          124
-        ],
-        "Petroleum": [
-          35
-        ],
-        "Development": [
-          36
-        ],
-        "Oman.": [
-          37,
-          164
-        ],
-        "The": [
-          38,
-          80,
-          104,
-          120,
-          165
-        ],
-        "objective": [
-          39
-        ],
-        "this": [
-          41
-        ],
-        "study": [
-          42
-        ],
-        "to": [
-          44,
-          86,
-          95,
-          138,
-          160
-        ],
-        "support": [
-          45
-        ],
-        "further": [
-          46
-        ],
-        "appraisal": [
-          47
-        ],
-        "exploration": [
-          49
-        ],
-        "activities.": [
-          50
-        ],
-        "A": [
-          51
-        ],
-        "chronostratigraphic": [
-          52
-        ],
-        "framework": [
-          53
-        ],
-        "correlatable": [
-          56
-        ],
-        "major": [
-          57,
-          144
-        ],
-        "flooding": [
-          58
-        ],
-        "surfaces": [
-          59
-        ],
-        "improved": [
-          60
-        ],
-        "understanding": [
-          62
-        ],
-        "stratigraphic": [
-          65
-        ],
-        "relationship": [
-          66
-        ],
-        "between": [
-          67
-        ],
-        "different": [
-          69
-        ],
-        "units": [
-          70
-        ],
-        "distribution": [
-          74
-        ],
-        "reservoir": [
-          77
-        ],
-        "seal": [
-          78
-        ],
-        "pairs.": [
-          79
-        ],
-        "interval": [
-          81
-        ],
-        "interest,": [
-          83
-        ],
-        "Cambrian": [
-          85
-        ],
-        "Silurian": [
-          88
-        ],
-        "Haima": [
-          89
-        ],
-        "Supergroup,": [
-          90
-        ],
-        "is": [
-          91,
-          122
-        ],
-        "late": [
-          93
-        ],
-        "syn-": [
-          94
-        ],
-        "post-rift": [
-          96
-        ],
-        "siliciclastic": [
-          97
-        ],
-        "infill": [
-          98
-        ],
-        "an": [
-          100
-        ],
-        "extensive": [
-          101,
-          129
-        ],
-        "graben": [
-          102
-        ],
-        "system.": [
-          103
-        ],
-        "depositional": [
-          105
-        ],
-        "setting": [
-          106,
-          118
-        ],
-        "initially": [
-          108,
-          172
-        ],
-        "continental": [
-          109
-        ],
-        "but": [
-          110,
-          136,
-          176
-        ],
-        "higher": [
-          111
-        ],
-        "sequence": [
-          114,
-          121
-        ],
-        "marine": [
-          116
-        ],
-        "deltaic": [
-          117
-        ],
-        "prevailed.": [
-          119
-        ],
-        "characterised": [
-          123
-        ],
-        "occurrence": [
-          126
-        ],
-        "laterally": [
-          128
-        ],
-        "sand": [
-          130
-        ],
-        "sheets": [
-          131
-        ],
-        "typical": [
-          132
-        ],
-        "pre-vegetational": [
-          134
-        ],
-        "times": [
-          135
-        ],
-        "difficult": [
-          137
-        ],
-        "interpret": [
-          139
-        ],
-        "sedimentologically.": [
-          140
-        ],
-        "At": [
-          141
-        ],
-        "least": [
-          142
-        ],
-        "six": [
-          143
-        ],
-        "transgressive": [
-          145
-        ],
-        "regressive": [
-          146
-        ],
-        "cycles": [
-          147
-        ],
-        "can": [
-          148,
-          152
-        ],
-        "be": [
-          149,
-          153
-        ],
-        "recognised": [
-          150
-        ],
-        "which": [
-          151
-        ],
-        "regionally": [
-          154
-        ],
-        "correlated.": [
-          155
-        ],
-        "Marine": [
-          156
-        ],
-        "intercalations": [
-          157
-        ],
-        "are": [
-          158
-        ],
-        "limited": [
-          159
-        ],
-        "North": [
-          163
-        ],
-        "clastic": [
-          166
-        ],
-        "influx": [
-          167
-        ],
-        "into": [
-          168
-        ],
-        "grabens": [
-          170,
-          179
-        ],
-        "local": [
-          174
-        ],
-        "origin": [
-          175
-        ],
-        "as": [
-          177
-        ],
-        "filled": [
-          180
-        ],
-        "up": [
-          181
-        ],
-        "sediments": [
-          183
-        ],
-        "were": [
-          184
-        ],
-        "predominantly": [
-          185
-        ],
-        "derived": [
-          186
-        ],
-        "from": [
-          187
-        ],
-        "southern": [
-          189
-        ],
-        "source.": [
-          190
-        ]
-      },
-      "counts_by_year": [
-        {
-          "year": 2026,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2025,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2024,
-          "cited_by_count": 15
-        },
-        {
-          "year": 2023,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2022,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2021,
-          "cited_by_count": 6
-        },
-        {
-          "year": 2020,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2019,
-          "cited_by_count": 5
-        },
-        {
-          "year": 2018,
-          "cited_by_count": 9
-        },
-        {
-          "year": 2017,
-          "cited_by_count": 4
-        },
-        {
-          "year": 2016,
-          "cited_by_count": 2
-        },
-        {
-          "year": 2015,
-          "cited_by_count": 3
-        },
-        {
-          "year": 2014,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2013,
-          "cited_by_count": 1
-        },
-        {
-          "year": 2012,
-          "cited_by_count": 3
-        }
-      ],
-      "updated_date": "2026-08-18T07:49:30.821534",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -11098,9 +10091,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.7599999904632568
+          "score": 0.7599999904632568,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -12091,6 +11084,1013 @@
       "created_date": "2025-10-10T00:00:00"
     },
     {
+      "id": "https://openalex.org/W2938243655",
+      "doi": "https://doi.org/10.2113/geoarabia0204419",
+      "title": "Stratigraphy of the Lower Paleozoic Haima Supergroup of Oman",
+      "display_name": "Stratigraphy of the Lower Paleozoic Haima Supergroup of Oman",
+      "publication_year": 1997,
+      "publication_date": "1997-10-01",
+      "ids": {
+        "openalex": "https://openalex.org/W2938243655",
+        "doi": "https://doi.org/10.2113/geoarabia0204419",
+        "mag": "2938243655"
+      },
+      "language": "en",
+      "primary_location": {
+        "id": "doi:10.2113/geoarabia0204419",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2113/geoarabia0204419",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S189311251",
+          "display_name": "GeoArabia",
+          "issn_l": "1025-6059",
+          "issn": [
+            "1025-6059"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "GeoArabia",
+        "raw_type": "journal-article"
+      },
+      "type": "article",
+      "indexed_in": [
+        "crossref"
+      ],
+      "open_access": {
+        "is_oa": true,
+        "oa_status": "hybrid",
+        "oa_url": "https://doi.org/10.2113/geoarabia0204419",
+        "any_repository_has_fulltext": false
+      },
+      "authorships": [
+        {
+          "author_position": "first",
+          "author": {
+            "id": "https://openalex.org/A5058646530",
+            "display_name": "Henk Droste",
+            "orcid": "https://orcid.org/0009-0008-1422-1783"
+          },
+          "institutions": [],
+          "countries": [],
+          "is_corresponding": true,
+          "raw_author_name": "Henk H.J. Droste",
+          "raw_affiliation_strings": [
+            "Petroleum Development Oman"
+          ],
+          "raw_orcid": null,
+          "affiliations": [
+            {
+              "raw_affiliation_string": "Petroleum Development Oman",
+              "institution_ids": []
+            }
+          ]
+        }
+      ],
+      "institutions": [],
+      "countries_distinct_count": 0,
+      "institutions_distinct_count": 0,
+      "corresponding_author_ids": [
+        "https://openalex.org/A5058646530"
+      ],
+      "corresponding_institution_ids": [],
+      "apc_list": null,
+      "apc_paid": null,
+      "fwci": 3.1723,
+      "has_fulltext": false,
+      "cited_by_count": 119,
+      "citation_normalized_percentile": {
+        "value": 0.91869724,
+        "is_in_top_1_percent": false,
+        "is_in_top_10_percent": true
+      },
+      "cited_by_percentile_year": {
+        "min": 89,
+        "max": 99
+      },
+      "biblio": {
+        "volume": "2",
+        "issue": "4",
+        "first_page": "419",
+        "last_page": "472"
+      },
+      "is_retracted": false,
+      "is_paratext": false,
+      "is_xpac": false,
+      "primary_topic": {
+        "id": "https://openalex.org/T10399",
+        "display_name": "Hydrocarbon exploration and reservoir analysis",
+        "score": 0.9998999834060669,
+        "subfield": {
+          "id": "https://openalex.org/subfields/2211",
+          "display_name": "Mechanics of Materials"
+        },
+        "field": {
+          "id": "https://openalex.org/fields/22",
+          "display_name": "Engineering"
+        },
+        "domain": {
+          "id": "https://openalex.org/domains/3",
+          "display_name": "Physical Sciences"
+        }
+      },
+      "topics": [
+        {
+          "id": "https://openalex.org/T10399",
+          "display_name": "Hydrocarbon exploration and reservoir analysis",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/2211",
+            "display_name": "Mechanics of Materials"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/22",
+            "display_name": "Engineering"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10965",
+          "display_name": "Geological formations and processes",
+          "score": 0.9998999834060669,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1904",
+            "display_name": "Earth-Surface Processes"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        },
+        {
+          "id": "https://openalex.org/T10109",
+          "display_name": "Paleontology and Stratigraphy of Fossils",
+          "score": 0.9997000098228455,
+          "subfield": {
+            "id": "https://openalex.org/subfields/1911",
+            "display_name": "Paleontology"
+          },
+          "field": {
+            "id": "https://openalex.org/fields/19",
+            "display_name": "Earth and Planetary Sciences"
+          },
+          "domain": {
+            "id": "https://openalex.org/domains/3",
+            "display_name": "Physical Sciences"
+          }
+        }
+      ],
+      "keywords": [
+        {
+          "id": "https://openalex.org/keywords/geology",
+          "display_name": "Geology",
+          "score": 0.9024457931518555
+        },
+        {
+          "id": "https://openalex.org/keywords/paleontology",
+          "display_name": "Paleontology",
+          "score": 0.751806378364563
+        },
+        {
+          "id": "https://openalex.org/keywords/clastic-rock",
+          "display_name": "Clastic rock",
+          "score": 0.7330906987190247
+        },
+        {
+          "id": "https://openalex.org/keywords/graben",
+          "display_name": "Graben",
+          "score": 0.7320932149887085
+        },
+        {
+          "id": "https://openalex.org/keywords/paleozoic",
+          "display_name": "Paleozoic",
+          "score": 0.7168095707893372
+        },
+        {
+          "id": "https://openalex.org/keywords/siliciclastic",
+          "display_name": "Siliciclastic",
+          "score": 0.6897616982460022
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-depositional-environment",
+          "display_name": "Sedimentary depositional environment",
+          "score": 0.6400931477546692
+        },
+        {
+          "id": "https://openalex.org/keywords/transgressive",
+          "display_name": "Transgressive",
+          "score": 0.5697551965713501
+        },
+        {
+          "id": "https://openalex.org/keywords/sedimentary-rock",
+          "display_name": "Sedimentary rock",
+          "score": 0.5288152694702148
+        },
+        {
+          "id": "https://openalex.org/keywords/outcrop",
+          "display_name": "Outcrop",
+          "score": 0.5261028409004211
+        },
+        {
+          "id": "https://openalex.org/keywords/sequence",
+          "display_name": "Sequence (biology)",
+          "score": 0.477750688791275
+        },
+        {
+          "id": "https://openalex.org/keywords/sequence-stratigraphy",
+          "display_name": "Sequence stratigraphy",
+          "score": 0.4665239751338959
+        },
+        {
+          "id": "https://openalex.org/keywords/stratigraphy",
+          "display_name": "Stratigraphy",
+          "score": 0.4628002345561981
+        },
+        {
+          "id": "https://openalex.org/keywords/structural-basin",
+          "display_name": "Structural basin",
+          "score": 0.45510920882225037
+        },
+        {
+          "id": "https://openalex.org/keywords/tectonics",
+          "display_name": "Tectonics",
+          "score": 0.08507436513900757
+        }
+      ],
+      "concepts": [
+        {
+          "id": "https://openalex.org/C127313418",
+          "wikidata": "https://www.wikidata.org/wiki/Q1069",
+          "display_name": "Geology",
+          "level": 0,
+          "score": 0.9024457931518555
+        },
+        {
+          "id": "https://openalex.org/C151730666",
+          "wikidata": "https://www.wikidata.org/wiki/Q7205",
+          "display_name": "Paleontology",
+          "level": 1,
+          "score": 0.751806378364563
+        },
+        {
+          "id": "https://openalex.org/C138170599",
+          "wikidata": "https://www.wikidata.org/wiki/Q612133",
+          "display_name": "Clastic rock",
+          "level": 3,
+          "score": 0.7330906987190247
+        },
+        {
+          "id": "https://openalex.org/C166839181",
+          "wikidata": "https://www.wikidata.org/wiki/Q192810",
+          "display_name": "Graben",
+          "level": 3,
+          "score": 0.7320932149887085
+        },
+        {
+          "id": "https://openalex.org/C13106087",
+          "wikidata": "https://www.wikidata.org/wiki/Q75507",
+          "display_name": "Paleozoic",
+          "level": 2,
+          "score": 0.7168095707893372
+        },
+        {
+          "id": "https://openalex.org/C93257316",
+          "wikidata": "https://www.wikidata.org/wiki/Q7514925",
+          "display_name": "Siliciclastic",
+          "level": 4,
+          "score": 0.6897616982460022
+        },
+        {
+          "id": "https://openalex.org/C126753816",
+          "wikidata": "https://www.wikidata.org/wiki/Q1994702",
+          "display_name": "Sedimentary depositional environment",
+          "level": 3,
+          "score": 0.6400931477546692
+        },
+        {
+          "id": "https://openalex.org/C2777620812",
+          "wikidata": "https://www.wikidata.org/wiki/Q904896",
+          "display_name": "Transgressive",
+          "level": 4,
+          "score": 0.5697551965713501
+        },
+        {
+          "id": "https://openalex.org/C6494504",
+          "wikidata": "https://www.wikidata.org/wiki/Q82480",
+          "display_name": "Sedimentary rock",
+          "level": 2,
+          "score": 0.5288152694702148
+        },
+        {
+          "id": "https://openalex.org/C169212394",
+          "wikidata": "https://www.wikidata.org/wiki/Q531953",
+          "display_name": "Outcrop",
+          "level": 2,
+          "score": 0.5261028409004211
+        },
+        {
+          "id": "https://openalex.org/C2778112365",
+          "wikidata": "https://www.wikidata.org/wiki/Q3511065",
+          "display_name": "Sequence (biology)",
+          "level": 2,
+          "score": 0.477750688791275
+        },
+        {
+          "id": "https://openalex.org/C42907665",
+          "wikidata": "https://www.wikidata.org/wiki/Q1732190",
+          "display_name": "Sequence stratigraphy",
+          "level": 4,
+          "score": 0.4665239751338959
+        },
+        {
+          "id": "https://openalex.org/C109281948",
+          "wikidata": "https://www.wikidata.org/wiki/Q134783",
+          "display_name": "Stratigraphy",
+          "level": 3,
+          "score": 0.4628002345561981
+        },
+        {
+          "id": "https://openalex.org/C109007969",
+          "wikidata": "https://www.wikidata.org/wiki/Q749565",
+          "display_name": "Structural basin",
+          "level": 2,
+          "score": 0.45510920882225037
+        },
+        {
+          "id": "https://openalex.org/C77928131",
+          "wikidata": "https://www.wikidata.org/wiki/Q193343",
+          "display_name": "Tectonics",
+          "level": 2,
+          "score": 0.08507436513900757
+        },
+        {
+          "id": "https://openalex.org/C54355233",
+          "wikidata": "https://www.wikidata.org/wiki/Q7162",
+          "display_name": "Genetics",
+          "level": 1,
+          "score": 0
+        },
+        {
+          "id": "https://openalex.org/C86803240",
+          "wikidata": "https://www.wikidata.org/wiki/Q420",
+          "display_name": "Biology",
+          "level": 0,
+          "score": 0
+        }
+      ],
+      "mesh": [],
+      "locations_count": 1,
+      "locations": [
+        {
+          "id": "doi:10.2113/geoarabia0204419",
+          "is_oa": true,
+          "landing_page_url": "https://doi.org/10.2113/geoarabia0204419",
+          "pdf_url": null,
+          "source": {
+            "id": "https://openalex.org/S189311251",
+            "display_name": "GeoArabia",
+            "issn_l": "1025-6059",
+            "issn": [
+              "1025-6059"
+            ],
+            "is_oa": false,
+            "is_in_doaj": false,
+            "is_core": true,
+            "host_organization": null,
+            "host_organization_name": null,
+            "host_organization_lineage": [],
+            "host_organization_lineage_names": [],
+            "type": "journal"
+          },
+          "license": "cc-by-nc",
+          "license_id": "https://openalex.org/licenses/cc-by-nc",
+          "version": "publishedVersion",
+          "is_accepted": true,
+          "is_published": true,
+          "raw_source_name": "GeoArabia",
+          "raw_type": "journal-article"
+        }
+      ],
+      "best_oa_location": {
+        "id": "doi:10.2113/geoarabia0204419",
+        "is_oa": true,
+        "landing_page_url": "https://doi.org/10.2113/geoarabia0204419",
+        "pdf_url": null,
+        "source": {
+          "id": "https://openalex.org/S189311251",
+          "display_name": "GeoArabia",
+          "issn_l": "1025-6059",
+          "issn": [
+            "1025-6059"
+          ],
+          "is_oa": false,
+          "is_in_doaj": false,
+          "is_core": true,
+          "host_organization": null,
+          "host_organization_name": null,
+          "host_organization_lineage": [],
+          "host_organization_lineage_names": [],
+          "type": "journal"
+        },
+        "license": "cc-by-nc",
+        "license_id": "https://openalex.org/licenses/cc-by-nc",
+        "version": "publishedVersion",
+        "is_accepted": true,
+        "is_published": true,
+        "raw_source_name": "GeoArabia",
+        "raw_type": "journal-article"
+      },
+      "sustainable_development_goals": [
+        {
+          "display_name": "Life below water",
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
+        }
+      ],
+      "awards": [],
+      "funders": [],
+      "has_content": {
+        "pdf": false,
+        "grobid_xml": false
+      },
+      "content_urls": null,
+      "referenced_works_count": 20,
+      "referenced_works": [
+        "https://openalex.org/W1635748889",
+        "https://openalex.org/W1963803326",
+        "https://openalex.org/W1971762715",
+        "https://openalex.org/W1972449614",
+        "https://openalex.org/W2068101248",
+        "https://openalex.org/W2085188216",
+        "https://openalex.org/W2094101698",
+        "https://openalex.org/W2110531149",
+        "https://openalex.org/W2164091805",
+        "https://openalex.org/W2169031982",
+        "https://openalex.org/W2486246430",
+        "https://openalex.org/W2510193846",
+        "https://openalex.org/W2917454227",
+        "https://openalex.org/W2960608112",
+        "https://openalex.org/W2974207299",
+        "https://openalex.org/W4205129767",
+        "https://openalex.org/W4301968067",
+        "https://openalex.org/W6643479962",
+        "https://openalex.org/W6684229339",
+        "https://openalex.org/W6760113802"
+      ],
+      "related_works": [
+        "https://openalex.org/W2046656234",
+        "https://openalex.org/W2348717233",
+        "https://openalex.org/W2253758817",
+        "https://openalex.org/W1990061839",
+        "https://openalex.org/W2020783798",
+        "https://openalex.org/W2158159657",
+        "https://openalex.org/W2483540224",
+        "https://openalex.org/W2393912905",
+        "https://openalex.org/W2021708273",
+        "https://openalex.org/W4309839057"
+      ],
+      "abstract_inverted_index": {
+        "ABSTRACT": [
+          0
+        ],
+        "Following": [
+          1
+        ],
+        "the": [
+          2,
+          61,
+          64,
+          68,
+          72,
+          76,
+          84,
+          113,
+          125,
+          169,
+          178,
+          182
+        ],
+        "discovery": [
+          3
+        ],
+        "of": [
+          4,
+          27,
+          40,
+          54,
+          63,
+          75,
+          82,
+          99,
+          115,
+          127,
+          133,
+          173
+        ],
+        "significant": [
+          5
+        ],
+        "gas/condensate": [
+          6
+        ],
+        "reserves": [
+          7
+        ],
+        "in": [
+          8,
+          12,
+          112
+        ],
+        "Lower": [
+          9,
+          87
+        ],
+        "Paleozoic": [
+          10
+        ],
+        "clastics": [
+          11
+        ],
+        "Central": [
+          13,
+          161
+        ],
+        "Oman": [
+          14
+        ],
+        "a": [
+          15,
+          25,
+          92,
+          188
+        ],
+        "regional": [
+          16,
+          28,
+          55,
+          73
+        ],
+        "geological": [
+          17
+        ],
+        "review": [
+          18
+        ],
+        "using": [
+          19
+        ],
+        "all": [
+          20
+        ],
+        "available": [
+          21
+        ],
+        "well": [
+          22
+        ],
+        "data": [
+          23
+        ],
+        "and": [
+          24,
+          48,
+          71,
+          162
+        ],
+        "set": [
+          26
+        ],
+        "seismic": [
+          29
+        ],
+        "lines": [
+          30
+        ],
+        "was": [
+          31,
+          43,
+          107,
+          171
+        ],
+        "carried": [
+          32
+        ],
+        "out": [
+          33
+        ],
+        "by": [
+          34,
+          124
+        ],
+        "Petroleum": [
+          35
+        ],
+        "Development": [
+          36
+        ],
+        "Oman.": [
+          37,
+          164
+        ],
+        "The": [
+          38,
+          80,
+          104,
+          120,
+          165
+        ],
+        "objective": [
+          39
+        ],
+        "this": [
+          41
+        ],
+        "study": [
+          42
+        ],
+        "to": [
+          44,
+          86,
+          95,
+          138,
+          160
+        ],
+        "support": [
+          45
+        ],
+        "further": [
+          46
+        ],
+        "appraisal": [
+          47
+        ],
+        "exploration": [
+          49
+        ],
+        "activities.": [
+          50
+        ],
+        "A": [
+          51
+        ],
+        "chronostratigraphic": [
+          52
+        ],
+        "framework": [
+          53
+        ],
+        "correlatable": [
+          56
+        ],
+        "major": [
+          57,
+          144
+        ],
+        "flooding": [
+          58
+        ],
+        "surfaces": [
+          59
+        ],
+        "improved": [
+          60
+        ],
+        "understanding": [
+          62
+        ],
+        "stratigraphic": [
+          65
+        ],
+        "relationship": [
+          66
+        ],
+        "between": [
+          67
+        ],
+        "different": [
+          69
+        ],
+        "units": [
+          70
+        ],
+        "distribution": [
+          74
+        ],
+        "reservoir": [
+          77
+        ],
+        "seal": [
+          78
+        ],
+        "pairs.": [
+          79
+        ],
+        "interval": [
+          81
+        ],
+        "interest,": [
+          83
+        ],
+        "Cambrian": [
+          85
+        ],
+        "Silurian": [
+          88
+        ],
+        "Haima": [
+          89
+        ],
+        "Supergroup,": [
+          90
+        ],
+        "is": [
+          91,
+          122
+        ],
+        "late": [
+          93
+        ],
+        "syn-": [
+          94
+        ],
+        "post-rift": [
+          96
+        ],
+        "siliciclastic": [
+          97
+        ],
+        "infill": [
+          98
+        ],
+        "an": [
+          100
+        ],
+        "extensive": [
+          101,
+          129
+        ],
+        "graben": [
+          102
+        ],
+        "system.": [
+          103
+        ],
+        "depositional": [
+          105
+        ],
+        "setting": [
+          106,
+          118
+        ],
+        "initially": [
+          108,
+          172
+        ],
+        "continental": [
+          109
+        ],
+        "but": [
+          110,
+          136,
+          176
+        ],
+        "higher": [
+          111
+        ],
+        "sequence": [
+          114,
+          121
+        ],
+        "marine": [
+          116
+        ],
+        "deltaic": [
+          117
+        ],
+        "prevailed.": [
+          119
+        ],
+        "characterised": [
+          123
+        ],
+        "occurrence": [
+          126
+        ],
+        "laterally": [
+          128
+        ],
+        "sand": [
+          130
+        ],
+        "sheets": [
+          131
+        ],
+        "typical": [
+          132
+        ],
+        "pre-vegetational": [
+          134
+        ],
+        "times": [
+          135
+        ],
+        "difficult": [
+          137
+        ],
+        "interpret": [
+          139
+        ],
+        "sedimentologically.": [
+          140
+        ],
+        "At": [
+          141
+        ],
+        "least": [
+          142
+        ],
+        "six": [
+          143
+        ],
+        "transgressive": [
+          145
+        ],
+        "regressive": [
+          146
+        ],
+        "cycles": [
+          147
+        ],
+        "can": [
+          148,
+          152
+        ],
+        "be": [
+          149,
+          153
+        ],
+        "recognised": [
+          150
+        ],
+        "which": [
+          151
+        ],
+        "regionally": [
+          154
+        ],
+        "correlated.": [
+          155
+        ],
+        "Marine": [
+          156
+        ],
+        "intercalations": [
+          157
+        ],
+        "are": [
+          158
+        ],
+        "limited": [
+          159
+        ],
+        "North": [
+          163
+        ],
+        "clastic": [
+          166
+        ],
+        "influx": [
+          167
+        ],
+        "into": [
+          168
+        ],
+        "grabens": [
+          170,
+          179
+        ],
+        "local": [
+          174
+        ],
+        "origin": [
+          175
+        ],
+        "as": [
+          177
+        ],
+        "filled": [
+          180
+        ],
+        "up": [
+          181
+        ],
+        "sediments": [
+          183
+        ],
+        "were": [
+          184
+        ],
+        "predominantly": [
+          185
+        ],
+        "derived": [
+          186
+        ],
+        "from": [
+          187
+        ],
+        "southern": [
+          189
+        ],
+        "source.": [
+          190
+        ]
+      },
+      "counts_by_year": [
+        {
+          "year": 2026,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2025,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2024,
+          "cited_by_count": 15
+        },
+        {
+          "year": 2023,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2022,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2021,
+          "cited_by_count": 6
+        },
+        {
+          "year": 2020,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2019,
+          "cited_by_count": 5
+        },
+        {
+          "year": 2018,
+          "cited_by_count": 9
+        },
+        {
+          "year": 2017,
+          "cited_by_count": 4
+        },
+        {
+          "year": 2016,
+          "cited_by_count": 2
+        },
+        {
+          "year": 2015,
+          "cited_by_count": 3
+        },
+        {
+          "year": 2014,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2013,
+          "cited_by_count": 1
+        },
+        {
+          "year": 2012,
+          "cited_by_count": 3
+        }
+      ],
+      "updated_date": "2026-09-14T07:18:48.979198",
+      "created_date": "2025-10-10T00:00:00"
+    },
+    {
       "id": "https://openalex.org/W2048410163",
       "doi": "https://doi.org/10.1016/0037-0738(90)90054-w",
       "title": "Depositional cycles and source rock development in an epeiric intra-platform basin: the Hanifa Formation of the Arabian peninsula",
@@ -12471,9 +12471,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -14975,9 +14975,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -16374,9 +16374,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -18432,9 +18432,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -22068,9 +22068,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -23273,9 +23273,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -24978,9 +24978,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.699999988079071
+          "score": 0.699999988079071,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -26105,9 +26105,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5099999904632568
+          "score": 0.5099999904632568,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -27785,9 +27785,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
-          "score": 0.7400000095367432
+          "score": 0.7400000095367432,
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -29153,9 +29153,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -29780,9 +29780,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5899999737739563
+          "score": 0.5899999737739563,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -30272,9 +30272,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -31019,9 +31019,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.5899999737739563
+          "score": 0.5899999737739563,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -31421,9 +31421,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -32365,9 +32365,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -33246,9 +33246,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.6499999761581421
+          "score": 0.6499999761581421,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -33640,9 +33640,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/1",
           "display_name": "No poverty",
-          "score": 0.7200000286102295
+          "score": 0.7200000286102295,
+          "id": "https://metadata.un.org/sdg/1"
         }
       ],
       "awards": [],
@@ -34982,9 +34982,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -36194,9 +36194,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8799999952316284
+          "score": 0.8799999952316284,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -37724,9 +37724,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -38263,9 +38263,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8899999856948853
+          "score": 0.8899999856948853,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -39704,9 +39704,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8199999928474426
+          "score": 0.8199999928474426,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -40785,9 +40785,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.4000000059604645
+          "score": 0.4000000059604645,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -42929,9 +42929,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "display_name": "Climate action",
-          "score": 0.6499999761581421
+          "score": 0.6499999761581421,
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -43870,9 +43870,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.4300000071525574
+          "score": 0.4300000071525574,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -44897,9 +44897,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
-          "score": 0.8700000047683716
+          "score": 0.8700000047683716,
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],

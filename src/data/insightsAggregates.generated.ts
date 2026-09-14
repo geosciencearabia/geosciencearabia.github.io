@@ -2769,7 +2769,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Drilling and Well Engineering",
     "year": 2025,
     "pubs": 13,
-    "cites": 15
+    "cites": 16
   },
   {
     "topic": "Drilling and Well Engineering",
@@ -4275,7 +4275,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2003,
     "pubs": 15,
-    "cites": 861
+    "cites": 862
   },
   {
     "topic": "Geochemistry and Geologic Mapping",
@@ -4569,7 +4569,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2003,
     "pubs": 23,
-    "cites": 1629
+    "cites": 1630
   },
   {
     "topic": "Geological and Geochemical Analysis",
@@ -5403,7 +5403,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 1997,
     "pubs": 3,
-    "cites": 204
+    "cites": 205
   },
   {
     "topic": "Geological formations and processes",
@@ -6309,7 +6309,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geology and Paleoclimatology Research",
     "year": 2001,
     "pubs": 9,
-    "cites": 378
+    "cites": 379
   },
   {
     "topic": "Geology and Paleoclimatology Research",
@@ -6405,7 +6405,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Geology and Paleoclimatology Research",
     "year": 2017,
     "pubs": 32,
-    "cites": 495
+    "cites": 496
   },
   {
     "topic": "Geology and Paleoclimatology Research",
@@ -8373,7 +8373,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 1997,
     "pubs": 8,
-    "cites": 347
+    "cites": 348
   },
   {
     "topic": "Hydrocarbon exploration and reservoir analysis",
@@ -9969,7 +9969,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Marine Biology and Ecology Research",
     "year": 2001,
     "pubs": 3,
-    "cites": 175
+    "cites": 176
   },
   {
     "topic": "Marine Biology and Ecology Research",
@@ -10059,7 +10059,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Marine Biology and Ecology Research",
     "year": 2017,
     "pubs": 7,
-    "cites": 60
+    "cites": 61
   },
   {
     "topic": "Marine Biology and Ecology Research",
@@ -10167,7 +10167,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Marine Ecology and Invasive Species",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "topic": "Marine Ecology and Invasive Species",
@@ -11121,7 +11121,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Nematode management and characterization studies",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "topic": "Neural Networks and Applications",
@@ -11793,7 +11793,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 1997,
     "pubs": 8,
-    "cites": 773
+    "cites": 774
   },
   {
     "topic": "Paleontology and Stratigraphy of Fossils",
@@ -11817,7 +11817,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2001,
     "pubs": 12,
-    "cites": 330
+    "cites": 331
   },
   {
     "topic": "Paleontology and Stratigraphy of Fossils",
@@ -11913,7 +11913,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2017,
     "pubs": 39,
-    "cites": 539
+    "cites": 540
   },
   {
     "topic": "Paleontology and Stratigraphy of Fossils",
@@ -11979,7 +11979,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Parasite Biology and Host Interactions",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "topic": "Parasite Biology and Host Interactions",
@@ -13077,7 +13077,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Remote-Sensing Image Classification",
     "year": 2003,
     "pubs": 1,
-    "cites": 135
+    "cites": 136
   },
   {
     "topic": "Remote-Sensing Image Classification",
@@ -13683,7 +13683,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Seismic Imaging and Inversion Techniques",
     "year": 2025,
     "pubs": 25,
-    "cites": 29
+    "cites": 30
   },
   {
     "topic": "Seismic Imaging and Inversion Techniques",
@@ -13935,7 +13935,7 @@ export const topicYearStats: TopicYearStats[] = [
     "topic": "Seismology and Earthquake Studies",
     "year": 2025,
     "pubs": 6,
-    "cites": 12
+    "cites": 13
   },
   {
     "topic": "Seismology and Earthquake Studies",
@@ -51332,21 +51332,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Marine Ecology and Invasive Species",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5014420400",
     "topic": "Nematode management and characterization studies",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5014420400",
     "topic": "Parasite Biology and Host Interactions",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5014421329",
@@ -53397,21 +53397,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Marine Ecology and Invasive Species",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5015433529",
     "topic": "Nematode management and characterization studies",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5015433529",
     "topic": "Parasite Biology and Host Interactions",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5015444683",
@@ -55287,21 +55287,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geology and Paleoclimatology Research",
     "year": 2001,
     "pubs": 1,
-    "cites": 19
+    "cites": 20
   },
   {
     "authorOpenAlexId": "A5016412532",
     "topic": "Marine Biology and Ecology Research",
     "year": 2001,
     "pubs": 1,
-    "cites": 19
+    "cites": 20
   },
   {
     "authorOpenAlexId": "A5016412532",
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2001,
     "pubs": 1,
-    "cites": 19
+    "cites": 20
   },
   {
     "authorOpenAlexId": "A5016450194",
@@ -64709,7 +64709,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geology and Paleoclimatology Research",
     "year": 2017,
     "pubs": 2,
-    "cites": 20
+    "cites": 21
   },
   {
     "authorOpenAlexId": "A5021079925",
@@ -64751,7 +64751,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Marine Biology and Ecology Research",
     "year": 2017,
     "pubs": 2,
-    "cites": 20
+    "cites": 21
   },
   {
     "authorOpenAlexId": "A5021079925",
@@ -64786,7 +64786,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2017,
     "pubs": 2,
-    "cites": 20
+    "cites": 21
   },
   {
     "authorOpenAlexId": "A5021079925",
@@ -65556,21 +65556,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Marine Ecology and Invasive Species",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5021540799",
     "topic": "Nematode management and characterization studies",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5021540799",
     "topic": "Parasite Biology and Host Interactions",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5021545190",
@@ -83014,14 +83014,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Marine Ecology and Invasive Species",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5028730943",
     "topic": "Nematode management and characterization studies",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5028730943",
@@ -83035,7 +83035,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Parasite Biology and Host Interactions",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5028798822",
@@ -83616,14 +83616,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Marine Ecology and Invasive Species",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5029025019",
     "topic": "Nematode management and characterization studies",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5029025019",
@@ -83700,7 +83700,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Parasite Biology and Host Interactions",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5029025019",
@@ -101109,7 +101109,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2003,
     "pubs": 2,
-    "cites": 212
+    "cites": 213
   },
   {
     "authorOpenAlexId": "A5035240990",
@@ -101151,7 +101151,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2003,
     "pubs": 2,
-    "cites": 212
+    "cites": 213
   },
   {
     "authorOpenAlexId": "A5035240990",
@@ -101452,7 +101452,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Remote-Sensing Image Classification",
     "year": 2003,
     "pubs": 1,
-    "cites": 135
+    "cites": 136
   },
   {
     "authorOpenAlexId": "A5035240990",
@@ -117489,7 +117489,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geology and Paleoclimatology Research",
     "year": 2001,
     "pubs": 3,
-    "cites": 69
+    "cites": 70
   },
   {
     "authorOpenAlexId": "A5039685767",
@@ -117587,7 +117587,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geology and Paleoclimatology Research",
     "year": 2017,
     "pubs": 7,
-    "cites": 134
+    "cites": 135
   },
   {
     "authorOpenAlexId": "A5039685767",
@@ -117776,7 +117776,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Marine Biology and Ecology Research",
     "year": 2001,
     "pubs": 1,
-    "cites": 19
+    "cites": 20
   },
   {
     "authorOpenAlexId": "A5039685767",
@@ -117832,7 +117832,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Marine Biology and Ecology Research",
     "year": 2017,
     "pubs": 2,
-    "cites": 20
+    "cites": 21
   },
   {
     "authorOpenAlexId": "A5039685767",
@@ -117846,7 +117846,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Marine Ecology and Invasive Species",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5039685767",
@@ -117895,7 +117895,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Nematode management and characterization studies",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5039685767",
@@ -117958,7 +117958,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2001,
     "pubs": 7,
-    "cites": 95
+    "cites": 96
   },
   {
     "authorOpenAlexId": "A5039685767",
@@ -118070,7 +118070,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2017,
     "pubs": 6,
-    "cites": 131
+    "cites": 132
   },
   {
     "authorOpenAlexId": "A5039685767",
@@ -118119,7 +118119,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Parasite Biology and Host Interactions",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5039685767",
@@ -130068,7 +130068,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geology and Paleoclimatology Research",
     "year": 2001,
     "pubs": 3,
-    "cites": 69
+    "cites": 70
   },
   {
     "authorOpenAlexId": "A5043278996",
@@ -130089,21 +130089,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Marine Biology and Ecology Research",
     "year": 2001,
     "pubs": 1,
-    "cites": 19
+    "cites": 20
   },
   {
     "authorOpenAlexId": "A5043278996",
     "topic": "Marine Ecology and Invasive Species",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5043278996",
     "topic": "Nematode management and characterization studies",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5043278996",
@@ -130117,7 +130117,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2001,
     "pubs": 6,
-    "cites": 95
+    "cites": 96
   },
   {
     "authorOpenAlexId": "A5043278996",
@@ -130131,7 +130131,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Parasite Biology and Host Interactions",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5043291377",
@@ -150865,21 +150865,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Marine Ecology and Invasive Species",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5050371348",
     "topic": "Nematode management and characterization studies",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5050371348",
     "topic": "Parasite Biology and Host Interactions",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5050392120",
@@ -158390,7 +158390,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2003,
     "pubs": 1,
-    "cites": 135
+    "cites": 136
   },
   {
     "authorOpenAlexId": "A5053755896",
@@ -158404,7 +158404,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2003,
     "pubs": 1,
-    "cites": 135
+    "cites": 136
   },
   {
     "authorOpenAlexId": "A5053755896",
@@ -158425,7 +158425,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Remote-Sensing Image Classification",
     "year": 2003,
     "pubs": 1,
-    "cites": 135
+    "cites": 136
   },
   {
     "authorOpenAlexId": "A5053758161",
@@ -166818,14 +166818,14 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Marine Ecology and Invasive Species",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5055720994",
     "topic": "Nematode management and characterization studies",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5055720994",
@@ -166839,7 +166839,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Parasite Biology and Host Interactions",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5055756953",
@@ -174245,7 +174245,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological formations and processes",
     "year": 1997,
     "pubs": 1,
-    "cites": 118
+    "cites": 119
   },
   {
     "authorOpenAlexId": "A5058646530",
@@ -174378,7 +174378,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Hydrocarbon exploration and reservoir analysis",
     "year": 1997,
     "pubs": 1,
-    "cites": 118
+    "cites": 119
   },
   {
     "authorOpenAlexId": "A5058646530",
@@ -174539,7 +174539,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 1997,
     "pubs": 1,
-    "cites": 118
+    "cites": 119
   },
   {
     "authorOpenAlexId": "A5058646530",
@@ -178837,7 +178837,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Drilling and Well Engineering",
     "year": 2025,
     "pubs": 2,
-    "cites": 5
+    "cites": 6
   },
   {
     "authorOpenAlexId": "A5059881838",
@@ -179677,7 +179677,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Seismic Imaging and Inversion Techniques",
     "year": 2025,
     "pubs": 4,
-    "cites": 6
+    "cites": 7
   },
   {
     "authorOpenAlexId": "A5059881838",
@@ -179705,7 +179705,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Seismology and Earthquake Studies",
     "year": 2025,
     "pubs": 2,
-    "cites": 6
+    "cites": 7
   },
   {
     "authorOpenAlexId": "A5059881838",
@@ -192347,7 +192347,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geology and Paleoclimatology Research",
     "year": 2017,
     "pubs": 1,
-    "cites": 13
+    "cites": 14
   },
   {
     "authorOpenAlexId": "A5065401407",
@@ -192361,7 +192361,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Marine Biology and Ecology Research",
     "year": 2017,
     "pubs": 1,
-    "cites": 13
+    "cites": 14
   },
   {
     "authorOpenAlexId": "A5065401407",
@@ -192375,7 +192375,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Paleontology and Stratigraphy of Fossils",
     "year": 2017,
     "pubs": 1,
-    "cites": 13
+    "cites": 14
   },
   {
     "authorOpenAlexId": "A5065401407",
@@ -269697,7 +269697,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geochemistry and Geologic Mapping",
     "year": 2003,
     "pubs": 3,
-    "cites": 706
+    "cites": 707
   },
   {
     "authorOpenAlexId": "A5103098706",
@@ -269816,7 +269816,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Geological and Geochemical Analysis",
     "year": 2003,
     "pubs": 4,
-    "cites": 830
+    "cites": 831
   },
   {
     "authorOpenAlexId": "A5103098706",
@@ -270544,7 +270544,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Remote-Sensing Image Classification",
     "year": 2003,
     "pubs": 1,
-    "cites": 135
+    "cites": 136
   },
   {
     "authorOpenAlexId": "A5103098706",
@@ -285013,7 +285013,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Marine Ecology and Invasive Species",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5111534349",
@@ -285027,7 +285027,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Nematode management and characterization studies",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5111534349",
@@ -285076,7 +285076,7 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Parasite Biology and Host Interactions",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5111534349",
@@ -286231,21 +286231,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Marine Ecology and Invasive Species",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5111803895",
     "topic": "Nematode management and characterization studies",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5111803895",
     "topic": "Parasite Biology and Host Interactions",
     "year": 2004,
     "pubs": 1,
-    "cites": 25
+    "cites": 26
   },
   {
     "authorOpenAlexId": "A5111804290",
@@ -293994,21 +293994,21 @@ export const authorTopicYearStats: AuthorTopicYearStats[] = [
     "topic": "Drilling and Well Engineering",
     "year": 2025,
     "pubs": 1,
-    "cites": 5
+    "cites": 6
   },
   {
     "authorOpenAlexId": "A5116498726",
     "topic": "Seismic Imaging and Inversion Techniques",
     "year": 2025,
     "pubs": 1,
-    "cites": 5
+    "cites": 6
   },
   {
     "authorOpenAlexId": "A5116498726",
     "topic": "Seismology and Earthquake Studies",
     "year": 2025,
     "pubs": 1,
-    "cites": 5
+    "cites": 6
   },
   {
     "authorOpenAlexId": "A5116618993",

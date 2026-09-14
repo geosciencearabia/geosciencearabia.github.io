@@ -9724,7 +9724,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Contributions to Mineralogy and Petrology",
     "citations": 15,
-    "fwci": 1.5387,
+    "fwci": 1.5301,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -33467,7 +33467,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "International Journal of Hydrogen Energy",
     "citations": 5,
-    "fwci": 0.3518,
+    "fwci": 0.3517,
     "topics": [
       "Electrocatalysts for Energy Conversion",
       "Fuel Cells and Related Materials",
@@ -72332,8 +72332,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2004-12-31",
     "year": 2004,
     "venue": "Columbia University Press eBooks",
-    "citations": 25,
-    "fwci": 1.1326,
+    "citations": 26,
+    "fwci": 1.1476,
     "topics": [
       "Parasite Biology and Host Interactions",
       "Nematode management and characterization studies",
@@ -72553,7 +72553,7 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2001-01-01",
     "year": 2001,
     "venue": "Geobios",
-    "citations": 19,
+    "citations": 20,
     "fwci": 0,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
@@ -72936,8 +72936,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2017-07-01",
     "year": 2017,
     "venue": "Revue de Micropaléontologie",
-    "citations": 13,
-    "fwci": 1.9025,
+    "citations": 14,
+    "fwci": 1.6103,
     "topics": [
       "Paleontology and Stratigraphy of Fossils",
       "Marine Biology and Ecology Research",
@@ -93266,7 +93266,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Journal of the Geological Society",
     "citations": 43,
-    "fwci": 5.0573,
+    "fwci": 5.0577,
     "topics": [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -93612,7 +93612,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2019,
     "venue": "Tectonics",
     "citations": 40,
-    "fwci": 3.8506,
+    "fwci": 3.8514,
     "topics": [
       "Geological and Geochemical Analysis",
       "High-pressure geophysics and materials",
@@ -94680,7 +94680,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2022,
     "venue": "Geosciences",
     "citations": 19,
-    "fwci": 2.7549,
+    "fwci": 2.7542,
     "topics": [
       "Geological and Geochemical Analysis",
       "Geological and Geophysical Studies",
@@ -97290,7 +97290,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2023,
     "venue": "Geological Magazine",
     "citations": 9,
-    "fwci": 1.2268,
+    "fwci": 1.2266,
     "topics": [
       "Geology and Paleoclimatology Research",
       "Geological and Geochemical Analysis",
@@ -97720,7 +97720,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2021,
     "venue": "Journal of African Earth Sciences",
     "citations": 5,
-    "fwci": 0.4462,
+    "fwci": 0.4463,
     "topics": [
       "Geological and Geochemical Analysis",
       "Paleontology and Stratigraphy of Fossils",
@@ -98354,7 +98354,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2024,
     "venue": "Tektonika",
     "citations": 1,
-    "fwci": 0.3989,
+    "fwci": 0.3988,
     "topics": [
       "Geological and Geophysical Studies",
       "Paleontology and Stratigraphy of Fossils",
@@ -111249,7 +111249,7 @@ export const worksTable: WorkTableRecord[] = [
     "year": 2019,
     "venue": "Arabian Journal of Geosciences",
     "citations": 11,
-    "fwci": 1.5403,
+    "fwci": 1.5406,
     "topics": [
       "Seismic Imaging and Inversion Techniques",
       "Hydraulic Fracturing and Reservoir Analysis",
@@ -115876,31 +115876,6 @@ export const worksTable: WorkTableRecord[] = [
     ]
   },
   {
-    "workId": "https://openalex.org/W2938243655",
-    "doi": "https://doi.org/10.2113/geoarabia0204419",
-    "program": "",
-    "primaryAuthorOpenAlexId": "A5058646530",
-    "allAuthorOpenAlexIds": [
-      "A5058646530"
-    ],
-    "firstAuthorLastName": "Droste",
-    "allAuthors": [
-      "Henk Droste"
-    ],
-    "title": "Stratigraphy of the Lower Paleozoic Haima Supergroup of Oman",
-    "publicationDate": "1997-10-01",
-    "year": 1997,
-    "venue": "GeoArabia",
-    "citations": 118,
-    "fwci": 3.1218,
-    "topics": [
-      "Hydrocarbon exploration and reservoir analysis",
-      "Geological formations and processes",
-      "Paleontology and Stratigraphy of Fossils"
-    ],
-    "institutions": []
-  },
-  {
     "workId": "https://openalex.org/W1555646088",
     "doi": "https://doi.org/10.2113/9789990110593-01",
     "program": "",
@@ -115976,6 +115951,31 @@ export const worksTable: WorkTableRecord[] = [
       "Abu Dhabi National Oil (United Arab Emirates)",
       "Muscat College"
     ]
+  },
+  {
+    "workId": "https://openalex.org/W2938243655",
+    "doi": "https://doi.org/10.2113/geoarabia0204419",
+    "program": "",
+    "primaryAuthorOpenAlexId": "A5058646530",
+    "allAuthorOpenAlexIds": [
+      "A5058646530"
+    ],
+    "firstAuthorLastName": "Droste",
+    "allAuthors": [
+      "Henk Droste"
+    ],
+    "title": "Stratigraphy of the Lower Paleozoic Haima Supergroup of Oman",
+    "publicationDate": "1997-10-01",
+    "year": 1997,
+    "venue": "GeoArabia",
+    "citations": 119,
+    "fwci": 3.1723,
+    "topics": [
+      "Hydrocarbon exploration and reservoir analysis",
+      "Geological formations and processes",
+      "Paleontology and Stratigraphy of Fossils"
+    ],
+    "institutions": []
   },
   {
     "workId": "https://openalex.org/W2048410163",
@@ -118012,8 +118012,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2025-01-01",
     "year": 2025,
     "venue": "IEEE Access",
-    "citations": 5,
-    "fwci": 5.6848,
+    "citations": 6,
+    "fwci": 5.8699,
     "topics": [
       "Seismology and Earthquake Studies",
       "Seismic Imaging and Inversion Techniques",
@@ -143371,8 +143371,8 @@ export const worksTable: WorkTableRecord[] = [
     "publicationDate": "2003-05-13",
     "year": 2003,
     "venue": "Precambrian Research",
-    "citations": 135,
-    "fwci": 0.522,
+    "citations": 136,
+    "fwci": 0.5536,
     "topics": [
       "Geochemistry and Geologic Mapping",
       "Remote-Sensing Image Classification",
