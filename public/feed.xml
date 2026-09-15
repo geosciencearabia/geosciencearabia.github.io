@@ -4,8 +4,22 @@
     <title>Integrative Dashboard</title>
     <link>https://digitalgeosciences.github.io/dashboard3.2/</link>
     <description>Recent publications with OpenAlex abstracts and topics.</description>
-    <lastBuildDate>Mon, 14 Sep 2026 23:43:07 GMT</lastBuildDate>
+    <lastBuildDate>Tue, 15 Sep 2026 23:26:01 GMT</lastBuildDate>
     <ttl>60</ttl>
+    <item>
+      <title>Quantitative assessment of surface elemental and mineralogical effects on rock wettability: evidence from several rock types</title>
+      <link>https://doi.org/10.1007/s13202-026-02218-5</link>
+      <pubDate>Tue, 15 Sep 2026 00:00:00 GMT</pubDate>
+      <guid isPermaLink="false">https://openalex.org/W7212630067</guid>
+      <dc:creator>Emil von Rosen Vange, Abduljamiu O. Amao, Theis Solling</dc:creator>
+      <dc:publisher>Journal of Petroleum Exploration and Production Technology</dc:publisher>
+      <category>Quantitative assessment</category>
+      <category>Geology</category>
+      <category>Offshore geotechnical engineering</category>
+      <category>Geochemistry</category>
+      <category>Geomechanics</category>
+      <description>Topics: Quantitative assessment, Geology, Offshore geotechnical engineering, Geochemistry, Geomechanics&#10;Venue: Journal of Petroleum Exploration and Production Technology&#10;Year: 2026&#10;Citations: 0</description>
+    </item>
     <item>
       <title>Enhancing cold sintering of calcium carbonate for sustainable construction applications</title>
       <link>https://doi.org/10.1007/s41062-026-02957-8</link>
@@ -1378,20 +1392,6 @@
       <category>Geology</category>
       <category>Data set</category>
       <description>Abstract: Abstract This study explores the use of machine learning to predict mechanical properties of subsurface rocks, such as indentation-based Elastic modulus, using input features from X-ray diffraction (XRD), X-ray fluorescence (XRF), and gamma ray measurements. Traditional mechanical testing is costly, time-intensive, and often unfeasible for large datasets. Our goal is to develop a predictive tool that leverages accessible field and laboratory data to estimate geomechanical behavior, enabling real-time formation evaluation during drilling. By integrating in-situ measurements such as gamma ray logs while drilling and surface XRD/XRF analysis from cuttings, this approach supports live monitoring of the drilling process and improves on-site decision making without the need for routine lab-based mechanical testing. The dataset for this study was developed from direct experimental measurements on rock samples obtained during coring operations. All measurements were carried out in the laboratory: gamma ray signals were acquired through core scanning, mineralogical composition was determined using XRD, and elemental content was measured with XRF. Mechanical properties were then quantified through depth-resolved micro-indentation testing, ensuring that both geophysical and geochemical data were consistently tied to the same set of core samples. To evaluate predictive performance, we trained and validated multiple machine learning models, including Random Forest, XGBoost, Gradient Boost…&#10;Topics: Coring, Support vector machine, Drilling, Geology, Data set&#10;Year: 2026&#10;Citations: 1</description>
-    </item>
-    <item>
-      <title>Supergene Evolution and Metal Mobilization in a Metamorphosed VMS System, Hawiah Deposit, Arabian Shield</title>
-      <link>https://doi.org/10.2139/ssrn.6888896</link>
-      <pubDate>Thu, 01 Jan 2026 00:00:00 GMT</pubDate>
-      <guid isPermaLink="false">https://openalex.org/W7164032705</guid>
-      <dc:creator>David Granja-Guato, Simone Pilia, Scott Whattam, Paolo Costantini, Panagiotis Kirmizakis</dc:creator>
-      <dc:publisher>SSRN Electronic Journal</dc:publisher>
-      <category>Supergene (geology)</category>
-      <category>Geology</category>
-      <category>Bornite</category>
-      <category>Geochemistry</category>
-      <category>Covellite</category>
-      <description>Topics: Supergene (geology), Geology, Bornite, Geochemistry, Covellite&#10;Venue: SSRN Electronic Journal&#10;Year: 2026&#10;Citations: 0</description>
     </item>
   </channel>
 </rss>

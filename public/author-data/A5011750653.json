@@ -1291,9 +1291,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -2035,9 +2035,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -3339,9 +3339,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -4067,6 +4067,18 @@
                 "https://openalex.org/I19820366",
                 "https://openalex.org/I3018690959"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4391767902",
+              "display_name": "State Key Laboratory of Isotope Geochemistry",
+              "ror": "https://ror.org/00nycge49",
+              "country_code": null,
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I3018690959",
+                "https://openalex.org/I4391767902"
+              ]
             }
           ],
           "countries": [
@@ -4084,14 +4096,16 @@
               "raw_affiliation_string": "State Key Laboratory of Isotope Geochemistry, Guangzhou Institute of Geochemistry Chinese Academy of Sciences  Guangzhou China",
               "institution_ids": [
                 "https://openalex.org/I19820366",
-                "https://openalex.org/I3018690959"
+                "https://openalex.org/I3018690959",
+                "https://openalex.org/I4391767902"
               ]
             },
             {
               "raw_affiliation_string": "State Key Laboratory of Isotope Geochemistry, Guangzhou Institute of Geochemistry, Chinese Academy of Sciences, Guangzhou, China",
               "institution_ids": [
                 "https://openalex.org/I19820366",
-                "https://openalex.org/I3018690959"
+                "https://openalex.org/I3018690959",
+                "https://openalex.org/I4391767902"
               ]
             }
           ]
@@ -4483,7 +4497,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 9,
-      "institutions_distinct_count": 24,
+      "institutions_distinct_count": 25,
       "corresponding_author_ids": [
         "https://openalex.org/A5064788534"
       ],
@@ -4500,11 +4514,11 @@
         "currency": "USD",
         "value_usd": 3000
       },
-      "fwci": 13.0977,
+      "fwci": 12.9297,
       "has_fulltext": true,
       "cited_by_count": 202,
       "citation_normalized_percentile": {
-        "value": 0.99690062,
+        "value": 0.9968561,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -5230,9 +5244,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -6178,7 +6192,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-09-15T07:32:03.291174",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -6897,6 +6911,18 @@
                 "https://openalex.org/I19820366",
                 "https://openalex.org/I3018690959"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4391767902",
+              "display_name": "State Key Laboratory of Isotope Geochemistry",
+              "ror": "https://ror.org/00nycge49",
+              "country_code": null,
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I3018690959",
+                "https://openalex.org/I4391767902"
+              ]
             }
           ],
           "countries": [
@@ -6914,7 +6940,8 @@
               "raw_affiliation_string": "State Key Laboratory of Isotope Geochemistry, Guangzhou Institute of Geochemistry, Chinese Academy of Sciences, Guangzhou, P.R. China",
               "institution_ids": [
                 "https://openalex.org/I19820366",
-                "https://openalex.org/I3018690959"
+                "https://openalex.org/I3018690959",
+                "https://openalex.org/I4391767902"
               ]
             },
             {
@@ -7470,7 +7497,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 9,
-      "institutions_distinct_count": 34,
+      "institutions_distinct_count": 35,
       "corresponding_author_ids": [
         "https://openalex.org/A5018815834"
       ],
@@ -7479,11 +7506,11 @@
       ],
       "apc_list": null,
       "apc_paid": null,
-      "fwci": 15.9967,
+      "fwci": 15.9979,
       "has_fulltext": false,
       "cited_by_count": 196,
       "citation_normalized_percentile": {
-        "value": 0.99760429,
+        "value": 0.99760411,
         "is_in_top_1_percent": true,
         "is_in_top_10_percent": true
       },
@@ -8134,9 +8161,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -8795,7 +8822,7 @@
           "cited_by_count": 9
         }
       ],
-      "updated_date": "2026-09-12T09:15:50.089291",
+      "updated_date": "2026-09-15T07:32:03.291174",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -9256,9 +9283,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -9901,6 +9928,18 @@
                 "https://openalex.org/I19820366",
                 "https://openalex.org/I3018690959"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4391767902",
+              "display_name": "State Key Laboratory of Isotope Geochemistry",
+              "ror": "https://ror.org/00nycge49",
+              "country_code": null,
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I3018690959",
+                "https://openalex.org/I4391767902"
+              ]
             }
           ],
           "countries": [
@@ -9918,14 +9957,16 @@
               "raw_affiliation_string": "State Key Laboratory of Isotope Geochemistry Guangzhou Institute of Geochemistry Chinese Academy of Sciences  Guangzhou P.R. China",
               "institution_ids": [
                 "https://openalex.org/I19820366",
-                "https://openalex.org/I3018690959"
+                "https://openalex.org/I3018690959",
+                "https://openalex.org/I4391767902"
               ]
             },
             {
               "raw_affiliation_string": "State Key Laboratory of Isotope Geochemistry Guangzhou Institute of Geochemistry Chinese Academy of Sciences Guangzhou P.R. China",
               "institution_ids": [
                 "https://openalex.org/I19820366",
-                "https://openalex.org/I3018690959"
+                "https://openalex.org/I3018690959",
+                "https://openalex.org/I4391767902"
               ]
             }
           ]
@@ -10479,7 +10520,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 9,
-      "institutions_distinct_count": 25,
+      "institutions_distinct_count": 26,
       "corresponding_author_ids": [],
       "corresponding_institution_ids": [],
       "apc_list": {
@@ -10488,11 +10529,11 @@
         "value_usd": 3500
       },
       "apc_paid": null,
-      "fwci": 7.7152,
+      "fwci": 7.68,
       "has_fulltext": false,
       "cited_by_count": 103,
       "citation_normalized_percentile": {
-        "value": 0.98866387,
+        "value": 0.98888284,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -10928,9 +10969,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -11682,7 +11723,7 @@
           "cited_by_count": 1
         }
       ],
-      "updated_date": "2026-08-28T12:50:07.497085",
+      "updated_date": "2026-09-15T07:32:03.291174",
       "created_date": "2020-11-23T00:00:00"
     },
     {
@@ -13809,9 +13850,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -14506,9 +14547,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.550000011920929,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -16104,9 +16145,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -22031,9 +22072,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -23377,9 +23418,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -23851,6 +23892,18 @@
                 "https://openalex.org/I19820366",
                 "https://openalex.org/I3018690959"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4391767902",
+              "display_name": "State Key Laboratory of Isotope Geochemistry",
+              "ror": "https://ror.org/00nycge49",
+              "country_code": null,
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I3018690959",
+                "https://openalex.org/I4391767902"
+              ]
             }
           ],
           "countries": [
@@ -23867,7 +23920,8 @@
             {
               "raw_affiliation_string": "State Key Laboratory of Isotope Geochemistry, Guangzhou Institute of Geochemistry, Chinese Academy Science, Guangzhou 510640, China",
               "institution_ids": [
-                "https://openalex.org/I3018690959"
+                "https://openalex.org/I3018690959",
+                "https://openalex.org/I4391767902"
               ]
             },
             {
@@ -24322,7 +24376,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 8,
-      "institutions_distinct_count": 15,
+      "institutions_distinct_count": 16,
       "corresponding_author_ids": [
         "https://openalex.org/A5059778018"
       ],
@@ -24335,11 +24389,11 @@
         "value_usd": 3550
       },
       "apc_paid": null,
-      "fwci": 6.5701,
+      "fwci": 6.5682,
       "has_fulltext": false,
       "cited_by_count": 59,
       "citation_normalized_percentile": {
-        "value": 0.9693923,
+        "value": 0.96941024,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -24892,9 +24946,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8600000143051147,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -25052,7 +25106,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-09-11T09:22:31.653822",
+      "updated_date": "2026-09-15T07:32:03.291174",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -25551,6 +25605,18 @@
                 "https://openalex.org/I19820366",
                 "https://openalex.org/I3018690959"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4391767902",
+              "display_name": "State Key Laboratory of Isotope Geochemistry",
+              "ror": "https://ror.org/00nycge49",
+              "country_code": null,
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I3018690959",
+                "https://openalex.org/I4391767902"
+              ]
             }
           ],
           "countries": [
@@ -25567,7 +25633,8 @@
               "raw_affiliation_string": "State Key Laboratory of Isotope Geochemistry, Guangzhou Institute of Geochemistry, Chinese Academy of Sciences, Guangzhou 510640, PR China",
               "institution_ids": [
                 "https://openalex.org/I19820366",
-                "https://openalex.org/I3018690959"
+                "https://openalex.org/I3018690959",
+                "https://openalex.org/I4391767902"
               ]
             }
           ]
@@ -25686,7 +25753,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 9,
-      "institutions_distinct_count": 16,
+      "institutions_distinct_count": 17,
       "corresponding_author_ids": [
         "https://openalex.org/A5011750653"
       ],
@@ -25703,11 +25770,11 @@
         "currency": "USD",
         "value_usd": 100
       },
-      "fwci": 3.9912,
+      "fwci": 4.1354,
       "has_fulltext": false,
       "cited_by_count": 57,
       "citation_normalized_percentile": {
-        "value": 0.9525581,
+        "value": 0.95420975,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
@@ -26098,9 +26165,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -26942,7 +27009,7 @@
           "cited_by_count": 3
         }
       ],
-      "updated_date": "2026-08-25T07:29:55.448023",
+      "updated_date": "2026-09-15T07:32:03.291174",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -27475,9 +27542,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6000000238418579,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -30502,9 +30569,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -32053,9 +32120,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -32972,6 +33039,18 @@
                 "https://openalex.org/I19820366",
                 "https://openalex.org/I3018690959"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4391767902",
+              "display_name": "State Key Laboratory of Isotope Geochemistry",
+              "ror": "https://ror.org/00nycge49",
+              "country_code": null,
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I3018690959",
+                "https://openalex.org/I4391767902"
+              ]
             }
           ],
           "countries": [
@@ -32989,14 +33068,16 @@
               "raw_affiliation_string": "State Key Laboratory of Isotope Geochemistry, Guangzhou Institute of Geochemistry Chinese Academy of Sciences  Guangzhou China",
               "institution_ids": [
                 "https://openalex.org/I19820366",
-                "https://openalex.org/I3018690959"
+                "https://openalex.org/I3018690959",
+                "https://openalex.org/I4391767902"
               ]
             },
             {
               "raw_affiliation_string": "State Key Laboratory of Isotope Geochemistry, Guangzhou Institute of Geochemistry, Chinese Academy of Sciences, Guangzhou, China",
               "institution_ids": [
                 "https://openalex.org/I19820366",
-                "https://openalex.org/I3018690959"
+                "https://openalex.org/I3018690959",
+                "https://openalex.org/I4391767902"
               ]
             }
           ]
@@ -33029,6 +33110,18 @@
                 "https://openalex.org/I19820366",
                 "https://openalex.org/I3018690959"
               ]
+            },
+            {
+              "id": "https://openalex.org/I4391767902",
+              "display_name": "State Key Laboratory of Isotope Geochemistry",
+              "ror": "https://ror.org/00nycge49",
+              "country_code": null,
+              "type": "facility",
+              "lineage": [
+                "https://openalex.org/I19820366",
+                "https://openalex.org/I3018690959",
+                "https://openalex.org/I4391767902"
+              ]
             }
           ],
           "countries": [
@@ -33046,14 +33139,16 @@
               "raw_affiliation_string": "State Key Laboratory of Isotope Geochemistry, Guangzhou Institute of Geochemistry Chinese Academy of Sciences  Guangzhou China",
               "institution_ids": [
                 "https://openalex.org/I19820366",
-                "https://openalex.org/I3018690959"
+                "https://openalex.org/I3018690959",
+                "https://openalex.org/I4391767902"
               ]
             },
             {
               "raw_affiliation_string": "State Key Laboratory of Isotope Geochemistry, Guangzhou Institute of Geochemistry, Chinese Academy of Sciences, Guangzhou, China",
               "institution_ids": [
                 "https://openalex.org/I19820366",
-                "https://openalex.org/I3018690959"
+                "https://openalex.org/I3018690959",
+                "https://openalex.org/I4391767902"
               ]
             }
           ]
@@ -33149,13 +33244,14 @@
       ],
       "institutions": [],
       "countries_distinct_count": 3,
-      "institutions_distinct_count": 4,
+      "institutions_distinct_count": 5,
       "corresponding_author_ids": [
         "https://openalex.org/A5043114681"
       ],
       "corresponding_institution_ids": [
         "https://openalex.org/I19820366",
-        "https://openalex.org/I3018690959"
+        "https://openalex.org/I3018690959",
+        "https://openalex.org/I4391767902"
       ],
       "apc_list": {
         "value": 4070,
@@ -33167,16 +33263,16 @@
         "currency": "USD",
         "value_usd": 4070
       },
-      "fwci": 3.3503,
+      "fwci": 3.332,
       "has_fulltext": false,
       "cited_by_count": 33,
       "citation_normalized_percentile": {
-        "value": 0.91038135,
+        "value": 0.90955486,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": true
       },
       "cited_by_percentile_year": {
-        "min": 94,
+        "min": 93,
         "max": 99
       },
       "biblio": {
@@ -33562,9 +33658,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -34352,7 +34448,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-08-21T09:56:20.448147",
+      "updated_date": "2026-09-15T07:32:03.291174",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -34877,9 +34973,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -35646,9 +35742,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -37179,9 +37275,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -38568,9 +38664,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -40500,9 +40596,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -41954,6 +42050,17 @@
               ]
             },
             {
+              "id": "https://openalex.org/I4387154919",
+              "display_name": "Pacific Centre for Isotopic and Geochemical Research",
+              "ror": "https://ror.org/01nzphv03",
+              "country_code": "CA",
+              "type": "other",
+              "lineage": [
+                "https://openalex.org/I141945490",
+                "https://openalex.org/I4387154919"
+              ]
+            },
+            {
               "id": "https://openalex.org/I4405260628",
               "display_name": "University of British Columbia, Okanagan Campus",
               "ror": "https://ror.org/04241wz75",
@@ -41989,7 +42096,8 @@
             {
               "raw_affiliation_string": "Pacific Centre for Isotopic and Geochemical Research, Earth, Ocean and Atmospheric Sciences, University of British Columbia, 2020-2207 Main Mall, Vancouver, BC V6T-1Z4, Canada",
               "institution_ids": [
-                "https://openalex.org/I2802850869"
+                "https://openalex.org/I2802850869",
+                "https://openalex.org/I4387154919"
               ]
             },
             {
@@ -42049,7 +42157,7 @@
       ],
       "institutions": [],
       "countries_distinct_count": 10,
-      "institutions_distinct_count": 26,
+      "institutions_distinct_count": 27,
       "corresponding_author_ids": [
         "https://openalex.org/A5011750653"
       ],
@@ -42062,11 +42170,11 @@
         "value_usd": 2690
       },
       "apc_paid": null,
-      "fwci": 2.3799,
+      "fwci": 2.3803,
       "has_fulltext": false,
       "cited_by_count": 23,
       "citation_normalized_percentile": {
-        "value": 0.88604651,
+        "value": 0.8860941,
         "is_in_top_1_percent": false,
         "is_in_top_10_percent": false
       },
@@ -42505,9 +42613,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8100000023841858,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -42659,7 +42767,7 @@
           "cited_by_count": 2
         }
       ],
-      "updated_date": "2026-09-12T09:15:50.089291",
+      "updated_date": "2026-09-15T07:32:03.291174",
       "created_date": "2025-10-10T00:00:00"
     },
     {
@@ -44314,9 +44422,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.800000011920929,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -45050,9 +45158,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -46820,9 +46928,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.44999998807907104,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -47669,9 +47777,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6499999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -50687,9 +50795,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6399999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -57387,9 +57495,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.699999988079071,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -58639,9 +58747,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -59322,9 +59430,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8299999833106995,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -60588,9 +60696,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8100000023841858,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -61485,9 +61593,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8399999737739563,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -65763,9 +65871,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.46000000834465027,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -68106,9 +68214,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5199999809265137,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -69978,9 +70086,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -70920,9 +71028,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -72021,9 +72129,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.6600000262260437,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -76030,9 +76138,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.5600000023841858,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -81694,9 +81802,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7300000190734863,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -82541,9 +82649,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6600000262260437,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -84860,9 +84968,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.44999998807907104,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -85513,9 +85621,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.6499999761581421,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -85982,9 +86090,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -97765,9 +97873,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -99002,9 +99110,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [
@@ -99989,9 +100097,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.6800000071525574,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -100547,9 +100655,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5199999809265137,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -103104,9 +103212,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7900000214576721,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -105463,9 +105571,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.46000000834465027,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -106124,9 +106232,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8299999833106995,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -107801,9 +107909,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8299999833106995,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -108783,9 +108891,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.49000000953674316,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -109162,9 +109270,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.6700000166893005,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -109750,9 +109858,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.75,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -111802,9 +111910,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7400000095367432,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -112193,9 +112301,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.6499999761581421,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -112484,9 +112592,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.800000011920929,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -112795,9 +112903,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "score": 0.44999998807907104,
-          "display_name": "Sustainable cities and communities"
+          "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11"
         }
       ],
       "awards": [],
@@ -113357,9 +113465,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.5199999809265137,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -113701,9 +113809,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.6100000143051147,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -114063,9 +114171,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.550000011920929,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -114384,9 +114492,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.4399999976158142,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -114888,9 +114996,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8399999737739563,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -116222,9 +116330,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.75,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -116945,9 +117053,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -119626,9 +119734,9 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/13",
           "score": 0.7400000095367432,
-          "display_name": "Climate action"
+          "display_name": "Climate action",
+          "id": "https://metadata.un.org/sdg/13"
         }
       ],
       "awards": [],
@@ -120094,9 +120202,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.44999998807907104,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -121062,9 +121170,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8700000047683716,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -122158,9 +122266,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8899999856948853,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -125506,9 +125614,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/9",
           "score": 0.4699999988079071,
-          "display_name": "Industry, innovation and infrastructure"
+          "display_name": "Industry, innovation and infrastructure",
+          "id": "https://metadata.un.org/sdg/9"
         }
       ],
       "awards": [],
@@ -126450,9 +126558,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8999999761581421,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -128082,9 +128190,9 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "score": 0.8799999952316284,
-          "display_name": "Life below water"
+          "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14"
         }
       ],
       "awards": [],
@@ -225462,8 +225570,8 @@
       "best_oa_location": null,
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/14",
           "display_name": "Life below water",
+          "id": "https://metadata.un.org/sdg/14",
           "score": 0.7599999904632568
         }
       ],
@@ -241427,8 +241535,8 @@
       },
       "sustainable_development_goals": [
         {
-          "id": "https://metadata.un.org/sdg/11",
           "display_name": "Sustainable cities and communities",
+          "id": "https://metadata.un.org/sdg/11",
           "score": 0.7345947027206421
         }
       ],
