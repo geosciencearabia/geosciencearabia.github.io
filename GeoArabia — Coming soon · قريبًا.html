@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>علوم الأرض العربية · قريبًا — GeoArabia coming soon</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Readex+Pro:wght@500;600;700&family=IBM+Plex+Sans+Arabic:wght@400;500;600&family=IBM+Plex+Mono:wght@500&display=swap" rel="stylesheet">
+<style>
+:root{--sand:#EFE6D6;--night:#1B1F3B;--ground:#141833;--saffron:#F2A93B;--terra:#E5876B;--muted:#B3A994;--body:#D9D0BF}
+*{box-sizing:border-box}
+html,body{margin:0;min-height:100%}
+body{min-height:100vh;background:var(--ground);color:var(--sand);font:400 17px/1.8 'IBM Plex Sans Arabic',system-ui,sans-serif;display:flex;flex-direction:column;overflow-x:hidden;-webkit-font-smoothing:antialiased}
+.bg{position:fixed;inset-inline:0;bottom:0;width:100%;height:46vh;pointer-events:none}
+.bg path{fill:none;stroke:var(--sand);stroke-width:2;stroke-linecap:round;opacity:.12}
+header,footer{position:relative;padding:24px clamp(16px,4vw,56px);display:flex;justify-content:space-between;align-items:center;gap:16px;flex-wrap:wrap}
+.brand{display:flex;align-items:center;gap:10px;font:700 18px/1 'Readex Pro',sans-serif}
+.en{direction:ltr;unicode-bidi:isolate}
+.short{font:600 15px/1 'Readex Pro',sans-serif;letter-spacing:-.01em;color:var(--muted)}
+main{position:relative;flex:1;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center;padding:32px clamp(16px,4vw,56px) 64px;gap:24px}
+.mark{width:clamp(140px,22vw,220px);height:auto}
+.mark .r{fill:none;stroke:var(--sand);stroke-width:9;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:240;stroke-dashoffset:240;animation:draw 1.4s ease-out forwards}
+.mark .r:nth-child(2){animation-delay:.25s}.mark .r:nth-child(3){animation-delay:.5s}
+.mark .m{transform-origin:120px 62px;transform:scale(0);animation:pop .5s cubic-bezier(.3,1.6,.6,1) 1.3s forwards}
+@keyframes draw{to{stroke-dashoffset:0}}
+@keyframes pop{to{transform:scale(1)}}
+.soon{display:inline-flex;align-items:center;gap:12px;padding:8px 18px;border-radius:999px;border:1.5px solid rgba(239,230,214,.3);font-weight:600;font-size:16px}
+.soon .dot{width:10px;height:10px;border-radius:10px;background:var(--saffron);box-shadow:0 0 0 0 rgba(242,169,59,.6);animation:pulse 2s ease-out infinite}
+@keyframes pulse{70%{box-shadow:0 0 0 10px rgba(242,169,59,0)}100%{box-shadow:0 0 0 0 rgba(242,169,59,0)}}
+h1{margin:0;font:700 clamp(40px,7vw,88px)/1.25 'Readex Pro',sans-serif}
+.h1en{margin:-8px 0 0;font:700 clamp(22px,3vw,34px)/1.15 'Readex Pro',sans-serif;letter-spacing:-.02em;color:var(--muted)}
+.lead{max-width:34em;margin:0;color:var(--body);font-size:18px}
+.lead-en{max-width:40em;margin:-12px 0 0;color:var(--muted);font-size:16px;line-height:1.6}
+.contact{display:flex;gap:16px;flex-wrap:wrap;justify-content:center;align-items:center;margin-top:8px}
+.pill{display:inline-flex;align-items:center;gap:10px;min-height:48px;padding:0 20px;border-radius:12px;border:1.5px solid rgba(239,230,214,.5);color:var(--sand);text-decoration:none;font:500 16px/1 'IBM Plex Mono',monospace;letter-spacing:.02em}
+.pill:hover{border-color:var(--sand)}
+button.copy{min-height:48px;padding:0 20px;border-radius:12px;border:1.5px solid var(--sand);background:var(--saffron);color:var(--night);font:600 16px/1 'IBM Plex Sans Arabic',sans-serif;cursor:pointer}
+button.copy:hover{background:var(--sand)}
+a:focus-visible,button:focus-visible{outline:2px solid var(--sand);outline-offset:3px}
+#status{min-height:1.5em;font-size:14px;color:#6CC3A4;font-weight:600}
+footer{font-size:14px;color:var(--muted)}
+footer a{color:var(--muted)}
+@media (prefers-reduced-motion:reduce){.mark .r{animation:none;stroke-dashoffset:0}.mark .m{animation:none;transform:none}.soon .dot{animation:none}}
+</style>
+</head>
+<body>
+<svg class="bg" viewBox="0 0 1440 400" preserveAspectRatio="none" aria-hidden="true">
+  <path d="M0 160 C220 150 380 70 560 60 C660 56 760 120 900 150 C1060 180 1220 100 1440 92"/>
+  <path d="M0 250 C260 240 420 170 640 160 C780 156 900 210 1100 230 C1240 240 1340 210 1440 200"/>
+  <path d="M0 330 C200 326 400 290 620 284 C820 280 1000 316 1440 310"/>
+</svg>
+
+<header>
+  <div class="brand"><span>علوم الأرض العربية</span></div>
+  <span class="short en" lang="en">GeoArabia</span>
+</header>
+
+<main>
+  <svg class="mark" viewBox="0 0 200 200" role="img" aria-label="شعار علوم الأرض العربية">
+    <defs><mask id="gm"><rect x="-20" y="-20" width="240" height="240" fill="#fff"/><circle cx="120" cy="62" r="30" fill="#000"/></mask></defs>
+    <g mask="url(#gm)"><path class="r" d="M26 98 C58 94 90 72 120 64 C136 62 152 80 174 98"/><path class="r" d="M18 132 C54 128 80 112 104 108 C124 106 152 122 182 132"/><path class="r" d="M30 164 C66 160 98 148 126 146 C148 146 162 156 176 164"/></g>
+    <circle class="m" cx="120" cy="62" r="20" fill="#F2A93B" stroke="#1B1F3B" stroke-width="7"/>
+  </svg>
+
+  <span class="soon"><span class="dot" aria-hidden="true"></span><span>قريبًا</span><span aria-hidden="true">·</span><span class="en" lang="en">Coming soon</span></span>
+
+  <h1>نقرأ الأرض طبقةً بعد طبقة</h1>
+  <p class="h1en en" lang="en">Geoscience Arabia · Reading the land, layer by layer</p>
+
+  <p class="lead">نعمل على منصة تجمع المواقع الميدانية الموثّقة بإحداثياتها، والبيانات المفتوحة، وأبحاث علوم الأرض في الجزيرة العربية.</p>
+  <p class="lead-en en" lang="en">We're building one place for documented field sites, open data and geoscience research across the Arabian Peninsula.</p>
+
+  <div class="contact">
+    <a class="pill en" lang="en" href="mailto:info@geoarabia.com"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><rect x="3" y="5" width="18" height="14" rx="2"/><path d="M3 7l9 6 9-6"/></svg>info@geoarabia.com</a>
+    <a class="pill en" lang="en" href="https://GeoArabia.com"><svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" aria-hidden="true"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c3 3 3 15 0 18M12 3c-3 3-3 15 0 18"/></svg>GeoArabia.com</a>
+    <button class="copy" type="button" id="copy">انسخ البريد · <span lang="en">Copy email</span></button>
+  </div>
+  <div id="status" role="status"></div>
+</main>
+
+<footer>
+  <span>© 2026 علوم الأرض العربية · <span class="en" lang="en">Geoscience Arabia</span></span>
+  <span class="en" lang="en"><a href="mailto:info@geoarabia.com">info@geoarabia.com</a> · <a href="https://GeoArabia.com">GeoArabia.com</a></span>
+</footer>
+
+<script>
+document.getElementById('copy').addEventListener('click',function(){
+  var st=document.getElementById('status');
+  try{navigator.clipboard.writeText('info@geoarabia.com').then(function(){st.textContent='تم النسخ · Copied';},function(){st.textContent='انسخ العنوان يدويًا · Select the address to copy it';});}
+  catch(_){st.textContent='انسخ العنوان يدويًا · Select the address to copy it';}
+});
+</script>
+</body>
+</html>
